@@ -1,0 +1,62 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 27
+Active Line: 39
+Video Zoom Percent: 0.5
+Audio URI: New folder\cuoc song em on khong.avi
+Last Style Storage: Default
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,UTM Androgyne,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:18.88,0:00:24.96,Default,,0,0,0,,Ngày hôm nay, mình xa nhau được mấy ngày
+Dialogue: 0,0:00:25.36,0:00:32.11,Default,,0,0,0,,Tại sao anh lại thế này, lệ anh sao cứ tuôn chảy
+Dialogue: 0,0:00:33.56,0:00:38.80,Default,,0,0,0,,Em vẫn yêu ai đúng không vậy
+Dialogue: 0,0:00:39.46,0:00:46.00,Default,,0,0,0,,Đừng nói anh đã chia tay, sẽ chẳng phải với anh đấy.
+Dialogue: 0,0:00:46.46,0:00:54.03,Default,,0,0,0,,Anh phải vứt bỏ tình cảm vốn có, đong đầy bao nỗi lo
+Dialogue: 0,0:00:54.03,0:01:01.00,Default,,0,0,0,,Phải từ bỏ thật nhiều thói quen ta ngày đó
+Dialogue: 0,0:01:01.16,0:01:08.30,Default,,0,0,0,,Để em bên cạnh người khác đó làm tất cả chẳng đắn đo
+Dialogue: 0,0:01:08.30,0:01:13.70,Default,,0,0,0,,Tại sao khi gặp lại nước mắt em vẫn rơi
+Dialogue: 0,0:01:14.80,0:01:21.76,Default,,0,0,0,,Cuộc sống em ổn không, có giống em hi vọng
+Dialogue: 0,0:01:21.93,0:01:29.26,Default,,0,0,0,,Thấy em khóc, lòng phải chăng khổ tâm điều gì phải không.
+Dialogue: 0,0:01:29.26,0:01:36.60,Default,,0,0,0,,Anh vẫn luôn ở đây, đừng đớn đau như vậy,
+Dialogue: 0,0:01:36.60,0:01:43.76,Default,,0,0,0,,đừng ghì chặt anh như đang muốn trách anh nhiều thế
+Dialogue: 0,0:01:43.76,0:01:50.53,Default,,0,0,0,,Từng nói đã chọn đi, đừng cất bước quay về
+Dialogue: 0,0:01:50.53,0:01:57.76,Default,,0,0,0,,Thế nhưng thấy người anh thương tổn thương anh lại thấy thương
+Dialogue: 0,0:01:57.76,0:02:05.16,Default,,0,0,0,,Tự trách cứ bản thân, chẳng giữ em ân cần,
+Dialogue: 0,0:02:05.16,0:02:12.80,Default,,0,0,0,,giờ để người ta mặc em bước đi anh ân hận.
+Dialogue: 0,0:02:40.86,0:02:48.70,Default,,0,0,0,,Anh phải vứt bỏ tình cảm vốn có, đong đầy bao nỗi lo
+Dialogue: 0,0:02:48.70,0:02:55.60,Default,,0,0,0,,Phải từ bỏ thật nhiều thói quen ta ngày đó
+Dialogue: 0,0:02:55.60,0:03:03.03,Default,,0,0,0,,Để em bên cạnh người khác đó làm tất cả chẳng đắn đo
+Dialogue: 0,0:03:03.03,0:03:09.66,Default,,0,0,0,,Tại sao khi gặp lại nước mắt em vẫn rơi
+Dialogue: 0,0:03:09.66,0:03:16.56,Default,,0,0,0,,Cuộc sống em ổn không, có giống em hi vọng
+Dialogue: 0,0:03:16.56,0:03:23.93,Default,,0,0,0,,Thấy em khóc, lòng phải chăng khổ tâm điều gì phải không.
+Dialogue: 0,0:03:23.93,0:03:31.33,Default,,0,0,0,,Anh vẫn luôn ở đây, đừng đớn đau như vậy,
+Dialogue: 0,0:03:31.33,0:03:37.90,Default,,0,0,0,,đừng ghì chặt anh như đang muốn trách anh nhiều thế
+Dialogue: 0,0:03:38.33,0:03:45.53,Default,,0,0,0,,Từng nói đã chọn đi, đừng cất bước quay về
+Dialogue: 0,0:03:45.53,0:03:52.56,Default,,0,0,0,,Thế nhưng thấy người anh thương tổn thương anh lại thấy thương
+Dialogue: 0,0:03:52.56,0:03:59.46,Default,,0,0,0,,Tự trách cứ bản thân, chẳng giữ em ân cần,
+Dialogue: 0,0:03:59.46,0:04:06.90,Default,,0,0,0,,giờ để người ta mặc em bước đi anh ân hận.
+Dialogue: 0,0:04:06.90,0:04:13.66,Default,,0,0,0,,Cuộc sống em ổn không, có giống em hi vọng
+Dialogue: 0,0:04:13.66,0:04:21.16,Default,,0,0,0,,Thấy em khóc, lòng phải chăng khổ tâm điều gì phải không.
+Dialogue: 0,0:04:21.16,0:04:28.13,Default,,0,0,0,,Anh vẫn luôn ở đây, đừng đớn đau như vậy,
+Dialogue: 0,0:04:28.36,0:04:35.43,Default,,0,0,0,,đừng ghì chặt anh như đang muốn trách anh nhiều thế
+Dialogue: 0,0:04:35.43,0:04:42.23,Default,,0,0,0,,Từng nói đã chọn đi, đừng cất bước quay về
+Dialogue: 0,0:04:42.43,0:04:49.73,Default,,0,0,0,,Thế nhưng thấy người anh thương tổn thương anh lại thấy thương
+Dialogue: 0,0:04:49.73,0:04:56.80,Default,,0,0,0,,Tự trách cứ bản thân, chẳng giữ em ân cần,
+Dialogue: 0,0:04:56.80,0:05:05.63,Default,,0,0,0,,giờ để người ta mặc em bước đi anh ân hận.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

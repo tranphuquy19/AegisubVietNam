@@ -1,0 +1,73 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\buon khong em dat g.avi
+Scroll Position: 37
+Active Line: 52
+Video Zoom Percent: 0.25
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:52.92,0:00:56.65,Default,,0,0,0,,Còn buồn không em,
+Dialogue: 0,0:00:56.65,0:01:01.15,Default,,0,0,0,,sao đêm về lặng im một mình
+Dialogue: 0,0:01:01.57,0:01:05.22,Default,,0,0,0,,Chuyện buồn qua chưa ?,
+Dialogue: 0,0:01:05.37,0:01:10.42,Default,,0,0,0,,đừng khóc nữa nước mắt không thừa
+Dialogue: 0,0:01:10.42,0:01:18.82,Default,,0,0,0,,Vài giọt tuôn rơi cũng đủ làm tan nát bầu trời
+Dialogue: 0,0:01:19.02,0:01:26.65,Default,,0,0,0,,Không nói nên lời cứ im lặng âm thầm ôm đau
+Dialogue: 0,0:01:27.82,0:01:30.97,Default,,0,0,0,,Giờ ngủ chưa em,
+Dialogue: 0,0:01:31.62,0:01:35.82,Default,,0,0,0,,mắt đã thâm bờ môi khô rồi
+Dialogue: 0,0:01:36.60,0:01:39.82,Default,,0,0,0,,Chuyện cũ chưa qua,
+Dialogue: 0,0:01:40.25,0:01:44.85,Default,,0,0,0,,lòng em đau như cắt ai ngờ
+Dialogue: 0,0:01:45.37,0:01:53.85,Default,,0,0,0,,Đừng gọi tên nhau những đêm mưa bão tố như vậy
+Dialogue: 0,0:01:54.10,0:02:00.20,Default,,0,0,0,,Đâu biết xa là nhớ nhau nhiều
+Dialogue: 0,0:02:01.20,0:02:11.02,Default,,0,0,0,,Em ơi bình yên là ở cạnh bên anh hay là ở nơi đâu
+Dialogue: 0,0:02:12.32,0:02:17.95,Default,,0,0,0,,Niềm vui em trao hết ai còn phần anh nước mắt
+Dialogue: 0,0:02:18.65,0:02:20.95,Default,,0,0,0,,Đêm nay môi mắt
+Dialogue: 0,0:02:20.95,0:02:28.45,Default,,0,0,0,,không có còn cho nhau như những phút ban đầu
+Dialogue: 0,0:02:28.90,0:02:35.87,Default,,0,0,0,,Lạnh câm còn hơn gió đông kia đang thay mùa
+Dialogue: 0,0:02:36.22,0:02:40.45,Default,,0,0,0,,Ngoài trời mưa đổ bao nhiêu hạt mưa
+Dialogue: 0,0:02:40.45,0:02:44.75,Default,,0,0,0,,lòng anh khóc thay để bớt đau lòng
+Dialogue: 0,0:02:44.75,0:02:53.25,Default,,0,0,0,,Em ơi,nước mắt không nhiều không giống như mưa ngoài kia
+Dialogue: 0,0:02:53.52,0:03:01.65,Default,,0,0,0,,Em hãy ở lại,anh xin em hãy ở lại
+Dialogue: 0,0:03:02.30,0:03:11.30,Default,,0,0,0,,Cho anh bình yên một chút để thấy mặt trời
+Dialogue: 0,0:03:12.80,0:03:16.85,Default,,0,0,0,,oh oh oh oh oh
+Dialogue: 0,0:03:17.07,0:03:20.22,Default,,0,0,0,,oh oh oh oh oh
+Dialogue: 0,0:03:21.55,0:03:24.42,Default,,0,0,0,,oh oh oh oh
+Dialogue: 0,0:03:25.22,0:03:29.95,Default,,0,0,0,,oh oh oh oh
+Dialogue: 0,0:03:30.45,0:03:37.70,Default,,0,0,0,,Ở phía xa chân trời,hãy nhớ anh bên đời
+Dialogue: 0,0:03:38.35,0:03:46.37,Default,,0,0,0,,Đừng khóc,nếu cô đơn ôm lấy mình !!!
+Dialogue: 0,0:03:47.20,0:03:50.85,Default,,0,0,0,,Giờ ngủ chưa em,
+Dialogue: 0,0:03:51.17,0:03:55.60,Default,,0,0,0,,mắt đã thâm bờ môi khô rồi
+Dialogue: 0,0:03:56.12,0:03:59.52,Default,,0,0,0,,Chuyện cũ chưa qua,
+Dialogue: 0,0:03:59.87,0:04:04.32,Default,,0,0,0,,lòng em đau như cắt ai ngờ
+Dialogue: 0,0:04:05.00,0:04:13.20,Default,,0,0,0,,Đừng gọi tên nhau những đêm mưa bão tố như vậy
+Dialogue: 0,0:04:13.75,0:04:19.67,Default,,0,0,0,,Đâu biết xa là nhớ nhau nhiều
+Dialogue: 0,0:04:20.87,0:04:30.42,Default,,0,0,0,,Em ơi bình yên là ở cạnh bên anh hay là ở nơi đâu
+Dialogue: 0,0:04:31.10,0:04:37.72,Default,,0,0,0,,Niềm vui em trao hết ai còn phần anh nước mắt
+Dialogue: 0,0:04:38.25,0:04:40.52,Default,,0,0,0,,Đêm nay môi mắt
+Dialogue: 0,0:04:40.52,0:04:47.55,Default,,0,0,0,,không có còn cho nhau như những phút ban đầu
+Dialogue: 0,0:04:48.25,0:04:55.15,Default,,0,0,0,,Lạnh câm còn hơn gió đông kia đang thay mùa
+Dialogue: 0,0:04:55.67,0:04:59.60,Default,,0,0,0,,Ngoài trời mưa đổ bao nhiêu hạt mưa
+Dialogue: 0,0:04:59.60,0:05:04.40,Default,,0,0,0,,lòng anh khóc thay để bớt đau lòng
+Dialogue: 0,0:05:04.40,0:05:12.60,Default,,0,0,0,,Em ơi,nước mắt không nhiều không giống như mưa ngoài kia
+Dialogue: 0,0:05:13.10,0:05:21.77,Default,,0,0,0,,Em hãy ở lại,anh xin em hãy ở lại
+Dialogue: 0,0:05:21.77,0:05:29.77,Default,,0,0,0,,Cho anh bình yên một chút để thấy mặt trời
+Dialogue: 0,0:05:30.50,0:05:34.65,Default,,0,0,0,,oh oh oh oh oh
+Dialogue: 0,0:05:34.80,0:05:39.42,Default,,0,0,0,,Ngoài trời mưa đổ bao nhiêu hạt mưa
+Dialogue: 0,0:05:39.42,0:05:43.77,Default,,0,0,0,,lòng anh khóc thay để bớt đau lòng
+Dialogue: 0,0:05:43.77,0:05:51.90,Default,,0,0,0,,Em ơi,nước mắt không nhiều không giống như mưa ngoài kia
+Dialogue: 0,0:05:52.57,0:06:00.90,Default,,0,0,0,,Em hãy ở lại,anh xin em hãy ở lại
+Dialogue: 0,0:06:00.90,0:06:09.70,Default,,0,0,0,,Cho anh bình yên một chút để thấy mặt trời
+Dialogue: 0,0:06:09.97,0:06:18.62,Default,,0,0,0,,Em hãy ở lại,anh xin em hãy ở lại
+Dialogue: 0,0:06:19.10,0:06:30.52,Default,,0,0,0,,Cho anh bình yên một chút để thấy mặt trời
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

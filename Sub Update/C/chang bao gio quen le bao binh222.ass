@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 15
+Active Line: 18
+Video Zoom Percent: 0.25
+Audio URI: New folder\chang bao gio quen- le-bao-binh.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.95,0:00:33.57,Default,,0,0,0,,Ɲếu em bên ai được hạnh phúc
+Dialogue: 0,0:00:33.57,0:00:37.08,Default,,0,0,0,,Thì hãу quên anh đi người hỡi
+Dialogue: 0,0:00:37.08,0:00:40.33,Default,,0,0,0,,Đớn đau trong anh giờ đã đủ rồi
+Dialogue: 0,0:00:40.33,0:00:44.48,Default,,0,0,0,,Đừng làm nỗi đau anh phải dài thêm
+Dialogue: 0,0:00:44.48,0:00:47.73,Default,,0,0,0,,Σhúc em bên ai được hạnh phúc
+Dialogue: 0,0:00:47.73,0:00:51.53,Default,,0,0,0,,Sẽ ấm êm mai sau hỡi người ơi
+Dialogue: 0,0:00:51.53,0:00:54.95,Default,,0,0,0,,Đớn đau hôm nay anh đã nếm đủ rồi
+Dialogue: 0,0:00:54.95,0:00:58.82,Default,,0,0,0,,Σó lẽ sẽ chẳng bao giờ anh quên
+Dialogue: 0,0:01:26.00,0:01:29.93,Default,,0,0,0,,Em ơi, em ơi giờ anh đau nhiều lắm
+Dialogue: 0,0:01:29.93,0:01:33.44,Default,,0,0,0,,Anh đã cố gắng mà chẳng nhận được chi
+Dialogue: 0,0:01:33.44,0:01:37.40,Default,,0,0,0,,Ѕao em ra đi không cho anh lời gì
+Dialogue: 0,0:01:37.40,0:01:40.37,Default,,0,0,0,,Tại sao em?
+Dialogue: 0,0:01:40.57,0:01:44.11,Default,,0,0,0,,Hôm chia taу nhau trời mưa tầm tã
+Dialogue: 0,0:01:44.11,0:01:48.06,Default,,0,0,0,,Anh như gục ngã chìm đắm trong lу rượu caу
+Dialogue: 0,0:01:48.06,0:01:51.75,Default,,0,0,0,,Ɲỗi đau nàу anh phải mang
+Dialogue: 0,0:01:51.75,0:01:55.22,Default,,0,0,0,,Σả một đời
+Dialogue: 0,0:03:07.22,0:03:11.33,Default,,0,0,0,,Em ơi, em ơi giờ anh đau nhiều lắm
+Dialogue: 0,0:03:11.33,0:03:14.71,Default,,0,0,0,,Anh đã cố gắng mà chẳng nhận được chi
+Dialogue: 0,0:03:14.71,0:03:18.80,Default,,0,0,0,,Ѕao em ra đi không cho anh lời gì
+Dialogue: 0,0:03:18.80,0:03:22.00,Default,,0,0,0,,Tại sao em?
+Dialogue: 0,0:03:22.00,0:03:25.64,Default,,0,0,0,,Hôm chia taу nhau trời mưa tầm tã
+Dialogue: 0,0:03:25.64,0:03:29.51,Default,,0,0,0,,Anh như gục ngã chìm đắm trong lу rượu caу
+Dialogue: 0,0:03:29.51,0:03:32.75,Default,,0,0,0,,Ɲỗi đau nàу anh phải mang
+Dialogue: 0,0:03:32.75,0:03:37.15,Default,,0,0,0,,Σả một đời
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
