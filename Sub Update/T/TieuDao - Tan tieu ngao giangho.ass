@@ -1,0 +1,92 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: C:\FFOutput\Tieu Dao - Hoac Kien Hoa.m4a
+Scroll Position: 42
+Active Line: 65
+Video Zoom Percent: 1
+Video File: ?dummy:23.976000:40000:1280:720:47:163:254:
+Video Aspect Ratio: 0
+Video Position: 5539
+Last Style Storage: Default
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: viet,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.84,0:00:38.24,Default,,0,0,0,,{\k95}Sui {\k117}yei, {\k38}sui {\k52}ren {\k128}lao, {\k51}ming {\k50}li {\k52}dou {\k55}wang {\k202}diao
+Dialogue: 0,0:00:38.24,0:00:46.40,Default,,0,0,0,,{\k80}Yi {\k119}hu, {\k85}shuo {\k130}jiu, {\k96}ba {\k33}mong {\k102}zui {\k171}dao
+Dialogue: 0,0:00:46.40,0:00:54.79,Default,,0,0,0,,{\k78}Sheng {\k139}si, {\k47}ye {\k35}ji {\k126}liao, {\k52}tan {\k50}yi {\k57}ge {\k51}yong {\k204}bao
+Dialogue: 0,0:00:54.79,0:01:04.32,Default,,0,0,0,,{\k77}Guan {\k118}ta, {\k69}chi {\k24}yu {\k118}zao, {\k56}fang {\k28}ai {\k62}qu {\k58}xiao {\k343}yao
+Dialogue: 0,0:01:04.32,0:01:09.00,Default,,0,0,0,,{\k32}Tiao {\k23}na {\k28}me {\k50}gao {\k52}gao {\k29}liang {\k17}an {\k43}qing {\k64}shan {\k53}wei {\k77}rao
+Dialogue: 0,0:01:09.00,0:01:12.66,Default,,0,0,0,,{\k29}Chang {\k24}bian {\k24}ren {\k29}jien {\k22}due {\k41}shao {\k114}wei {\k83}dao
+Dialogue: 0,0:01:12.66,0:01:17.28,Default,,0,0,0,,{\k26}Ai {\k22}hen {\k28}tao {\k46}tao {\k56}quan {\k53}dou {\k53}yi {\k49}bi {\k41}gou {\k88}xiao
+Dialogue: 0,0:01:17.28,0:01:20.93,Default,,0,0,0,,{\k18}Zhi {\k37}xiang {\k26}hao {\k26}hao {\k26}ba {\k47}wo {\k49}jin {\k136}shao
+Dialogue: 0,0:01:20.93,0:01:25.54,Default,,0,0,0,,{\k24}Ni {\k26}na {\k25}me {\k52}hao {\k54}wo {\k52}yong {\k32}yi {\k60}sheng {\k62}qi {\k74}dao
+Dialogue: 0,0:01:25.54,0:01:29.17,Default,,0,0,0,,{\k21}Dai {\k34}zhe {\k19}ni {\k33}jiang {\k25}hi {\k14}li {\k128}xiao {\k89}yao
+Dialogue: 0,0:01:29.17,0:01:33.81,Default,,0,0,0,,{\k27}Zhi {\k21}yao {\k28}xin {\k54}hai {\k45}tiao {\k58}jiu {\k50}you {\k52}wo {\k27}dou {\k18}ni {\k84}xiao
+Dialogue: 0,0:01:33.81,0:01:39.81,Default,,0,0,0,,{\k28}Qian {\k32}zhe {\k45}ni {\k30}man {\k51}man {\k51}bian {\k363}lao
+Dialogue: 0,0:01:58.78,0:02:07.22,Default,,0,0,0,,{\k91}Sui {\k118}yei, {\k64}sui {\k30}ren {\k127}lao, {\k51}ming {\k55}li {\k47}dou {\k54}wang {\k207}diao
+Dialogue: 0,0:02:07.22,0:02:15.27,Default,,0,0,0,,{\k80}Yi {\k119}hu, {\k83}shuo {\k130}jiu, {\k91}ba {\k34}mong {\k84}zui {\k184}dao
+Dialogue: 0,0:02:15.27,0:02:23.70,Default,,0,0,0,,{\k81}Sheng {\k145}si, {\k48}ye {\k32}ji {\k125}liao, {\k59}tan {\k50}yi {\k30}ge {\k72}yong {\k201}bao
+Dialogue: 0,0:02:23.70,0:02:33.29,Default,,0,0,0,,{\k78}Guan {\k120}ta, {\k66}chi {\k29}yu {\k120}zao, {\k55}fang {\k25}ai {\k67}qu {\k68}xiao {\k331}yao
+Dialogue: 0,0:02:33.29,0:02:37.95,Default,,0,0,0,,{\k29}Tiao {\k28}na {\k25}me {\k52}gao {\k51}gao {\k22}liang {\k23}an {\k45}qing {\k60}shan {\k55}wei {\k76}rao
+Dialogue: 0,0:02:37.95,0:02:41.64,Default,,0,0,0,,{\k30}Chang {\k24}bian {\k24}ren {\k29}jien {\k17}due {\k41}shao {\k119}wei {\k85}dao
+Dialogue: 0,0:02:41.64,0:02:46.24,Default,,0,0,0,,{\k23}Ai {\k25}hen {\k26}tao {\k46}tao {\k56}quan {\k53}dou {\k51}yi {\k51}bi {\k42}gou {\k87}xiao
+Dialogue: 0,0:02:46.24,0:02:49.89,Default,,0,0,0,,{\k17}Zhi {\k35}xiang {\k26}hao {\k25}hao {\k29}ba {\k44}wo {\k52}jin {\k137}shao
+Dialogue: 0,0:02:49.89,0:02:54.48,Default,,0,0,0,,{\k24}Ni {\k23}na {\k30}me {\k53}hao {\k49}wo {\k52}yong {\k33}yi {\k60}sheng {\k64}qi {\k71}dao
+Dialogue: 0,0:02:54.48,0:02:58.12,Default,,0,0,0,,{\k25}Dai {\k30}zhe {\k19}ni {\k34}jiang {\k28}hi {\k15}li {\k114}xiao {\k99}yao
+Dialogue: 0,0:02:58.12,0:03:02.77,Default,,0,0,0,,{\k29}Zhi {\k18}yao {\k28}xin {\k56}hai {\k47}tiao {\k60}jiu {\k46}you {\k54}wo {\k27}dou {\k17}ni {\k83}xiao
+Dialogue: 0,0:03:02.77,0:03:08.42,Default,,0,0,0,,{\k28}Qian {\k53}zhe {\k29}ni {\k26}man {\k52}man {\k46}bian {\k331}lao
+Dialogue: 0,0:03:08.43,0:03:13.12,Default,,0,0,0,,{\k28}Ni {\k30}na {\k27}me {\k52}hao {\k50}wo {\k46}yong {\k45}yi {\k66}sheng {\k46}qi {\k79}dao
+Dialogue: 0,0:03:13.12,0:03:16.75,Default,,0,0,0,,{\k29}Chang {\k26}bian {\k21}ren {\k30}jien {\k17}due {\k44}shao {\k116}wei {\k80}dao
+Dialogue: 0,0:03:16.75,0:03:21.43,Default,,0,0,0,,{\k30}Ai {\k24}hen {\k27}tao {\k45}tao {\k57}quan {\k53}dou {\k54}yi {\k49}bi {\k40}gou {\k89}xiao
+Dialogue: 0,0:03:21.43,0:03:25.07,Default,,0,0,0,,{\k16}Zhi {\k37}xiang {\k25}hao {\k26}hao {\k28}ba {\k46}wo {\k48}jin {\k138}shao
+Dialogue: 0,0:03:25.07,0:03:29.74,Default,,0,0,0,,{\k25}Ni {\k24}na {\k27}me {\k51}hao {\k51}wo {\k53}yong {\k34}yi {\k59}sheng {\k64}qi {\k79}dao
+Dialogue: 0,0:03:29.74,0:03:33.32,Default,,0,0,0,,{\k20}Dai {\k33}zhe {\k47}ni {\k29}jiang {\k32}hi {\k17}li {\k104}xiao {\k76}yao
+Dialogue: 0,0:03:33.32,0:03:37.89,Default,,0,0,0,,{\k25}Zhi {\k19}yao {\k36}xin {\k45}hai {\k48}tiao {\k59}jiu {\k53}you {\k55}wo {\k20}dou {\k17}ni {\k80}xiao
+Dialogue: 0,0:03:37.89,0:03:44.08,Default,,0,0,0,,{\k24}Qian {\k37}zhe {\k47}ni {\k27}man {\k54}man {\k55}bian {\k375}lao
+Dialogue: 0,0:03:44.08,0:03:56.80,Default,,0,0,0,,{\k33}Qian {\k44}zhe {\k132}ni {\k66}man {\k277}man {\k180}bian {\k540}lao
+Dialogue: 0,0:00:29.84,0:00:38.24,viet,,0,0,0,,Năm tháng khiến người già đi, danh lợi cũng lãng quên
+Dialogue: 0,0:00:38.24,0:00:46.40,viet,,0,0,0,,Một bầu rượu đục, chuốt say cơn mộng
+Dialogue: 0,0:00:46.40,0:00:54.79,viet,,0,0,0,,Sinh tử vốn tịch liêu, tham luyến một vòng tay
+Dialogue: 0,0:00:54.79,0:01:04.32,viet,,0,0,0,,Quản chi sớm hay muộn phong ái tình tiêu dao
+Dialogue: 0,0:01:04.32,0:01:09.00,viet,,0,0,0,,Trời cao đến thế núi xanh đôi bờ
+Dialogue: 0,0:01:09.00,0:01:12.66,viet,,0,0,0,,Nếm trải biết bao tư vị nhân gian
+Dialogue: 0,0:01:12.66,0:01:17.28,viet,,0,0,0,,Yêu hận triền miên đều xóa bỏ
+Dialogue: 0,0:01:17.28,0:01:20.93,viet,,0,0,0,,Thầm mong giữ chặt hiện tại
+Dialogue: 0,0:01:20.93,0:01:25.54,viet,,0,0,0,,của nàng tốt đẹp ta dùng một đời đền đáp
+Dialogue: 0,0:01:25.54,0:01:29.17,viet,,0,0,0,,Mang nàng khắp chốn giang hồ tiêu dao
+Dialogue: 0,0:01:29.17,0:01:33.81,viet,,0,0,0,,Chỉ cần tim còn đập thì có ta khiến nàng cười
+Dialogue: 0,0:01:33.81,0:01:39.81,viet,,0,0,0,,Cầm tay nhau chầm chậm đến già
+Dialogue: 0,0:01:58.78,0:02:07.22,viet,,0,0,0,,Năm tháng khiến người già đi, danh lợi cũng lãng quên
+Dialogue: 0,0:02:07.22,0:02:15.27,viet,,0,0,0,,Một bầu rượu đục, chuốt say cơn mộng
+Dialogue: 0,0:02:15.27,0:02:23.70,viet,,0,0,0,,Sinh tử vốn tịch liêu, tham luyến một vòng tay
+Dialogue: 0,0:02:23.70,0:02:33.29,viet,,0,0,0,,Quản chi sớm hay muộn phong ái tình tiêu dao
+Dialogue: 0,0:02:33.29,0:02:37.95,viet,,0,0,0,,Trời cao đến thế núi xanh đôi bờ
+Dialogue: 0,0:02:37.95,0:02:41.64,viet,,0,0,0,,Nếm trải biết bao tư vị nhân gian
+Dialogue: 0,0:02:41.64,0:02:46.24,viet,,0,0,0,,Yêu hận triền miên đều xóa bỏ
+Dialogue: 0,0:02:46.24,0:02:49.89,viet,,0,0,0,,Thầm mong giữ chặt hiện tại
+Dialogue: 0,0:02:49.89,0:02:54.48,viet,,0,0,0,,của nàng tốt đẹp ta dùng một đời đền đáp
+Dialogue: 0,0:02:54.48,0:02:58.12,viet,,0,0,0,,Mang nàng khắp chốn giang hồ tiêu dao
+Dialogue: 0,0:02:58.12,0:03:02.77,viet,,0,0,0,,Chỉ cần tim còn đập thì có ta khiến nàng cười
+Dialogue: 0,0:03:02.77,0:03:08.42,viet,,0,0,0,,Cầm tay nhau chầm chậm đến già
+Dialogue: 0,0:03:08.43,0:03:13.12,viet,,0,0,0,,của nàng tốt đẹp ta dùng một đời đền đáp
+Dialogue: 0,0:03:13.12,0:03:16.75,viet,,0,0,0,,Mang nàng khắp chốn giang hồ tiêu dao
+Dialogue: 0,0:03:16.75,0:03:21.43,viet,,0,0,0,,Yêu hận triền miên đều xóa bỏ
+Dialogue: 0,0:03:21.43,0:03:25.07,viet,,0,0,0,,Thầm mong giữ chặt hiện tại
+Dialogue: 0,0:03:25.07,0:03:29.74,viet,,0,0,0,,của nàng tốt đẹp ta dùng một đời đền đáp
+Dialogue: 0,0:03:29.74,0:03:33.32,viet,,0,0,0,,Mang nàng khắp chốn giang hồ tiêu dao
+Dialogue: 0,0:03:33.32,0:03:37.89,viet,,0,0,0,,Chỉ cần tim còn đập thì có ta khiến nàng cười
+Dialogue: 0,0:03:37.89,0:03:44.08,viet,,0,0,0,,Cầm tay nhau chầm chậm đến già
+Dialogue: 0,0:03:44.08,0:03:56.80,viet,,0,0,0,,Cầm tay nhau chầm chậm đến già
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
