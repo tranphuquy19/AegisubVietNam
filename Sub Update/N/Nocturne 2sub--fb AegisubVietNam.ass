@@ -1,0 +1,77 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: ?video
+Video File: ..\Video\Nocturne.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 2846
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Engsub,VNI-Dom,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,20,1
+Style: Vietsub,VNI-Script,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.27,0:00:34.14,Engsub,,0000,0000,0000,,{\k80}Now {\k164}let {\k80}the {\k163}day
+Dialogue: 0,0:00:34.14,0:00:38.93,Engsub,,0000,0000,0000,,{\k82}just {\k166}slip {\k76}a{\k144}way
+Dialogue: 0,0:00:38.93,0:00:46.83,Engsub,,0000,0000,0000,,{\k66}so {\k31}the {\k74}dark {\k126}night {\k40}may {\k75}watch {\k172}over {\k206}you
+Dialogue: 0,0:00:49.57,0:00:58.47,Engsub,,0000,0000,0000,,{\k132}Vel{\k102}vet {\k228}blue. {\k183}Si{\k90}lent {\k155}true.
+Dialogue: 0,0:00:58.47,0:01:07.73,Engsub,,0000,0000,0000,,{\k55}It {\k37}em{\k201}braces {\k38}your {\k176}heart {\k64}and {\k50}your {\k305}soul.
+Dialogue: 0,0:01:07.73,0:01:11.94,Engsub,,0000,0000,0000,,{\k124}Noc{\k297}turne
+Dialogue: 0,0:01:12.89,0:01:17.70,Engsub,,0000,0000,0000,,{\k62}Ne{\k34}ver {\k151}cry, {\k44}ne{\k46}ver {\k157}sigh,
+Dialogue: 0,0:01:17.83,0:01:22.65,Engsub,,0000,0000,0000,,{\k45}You {\k52}don’t {\k35}have {\k41}to {\k75}won{\k81}der {\k153}why
+Dialogue: 0,0:01:22.65,0:01:27.56,Engsub,,0000,0000,0000,,{\k61}Al{\k45}ways {\k139}be. {\k61}Al{\k66}ways {\k119}see.
+Dialogue: 0,0:01:27.56,0:01:33.22,Engsub,,0000,0000,0000,,{\k59}come {\k36}and {\k64}dream {\k18}the {\k76}night {\k65}with {\k248}me.
+Dialogue: 0,0:01:34.86,0:01:40.11,Engsub,,0000,0000,0000,,{\k143}Noc{\k382}turne
+Dialogue: 0,0:01:45.34,0:01:49.62,Engsub,,0000,0000,0000,,{\k168}Ha{\k30}ve {\k69}no {\k161}fear
+Dialogue: 0,0:01:49.81,0:01:54.53,Engsub,,0000,0000,0000,,{\k47}when {\k18}the {\k161}night {\k62}draws {\k184}near
+Dialogue: 0,0:01:54.53,0:02:04.07,Engsub,,0000,0000,0000,,{\k79}and {\k80}fills {\k127}you {\k27}with {\k93}dreams {\k148}and {\k380}desires
+Dialogue: 0,0:02:04.07,0:02:13.89,Engsub,,0000,0000,0000,,{\k92}Like a {\k164}child {\k196}asleep {\k123}so {\k159}warm {\k78}so {\k170}deep
+Dialogue: 0,0:02:13.89,0:02:23.36,Engsub,,0000,0000,0000,,{\k37}You {\k49}will {\k82}find {\k91}me {\k65}there {\k85}wai{\k157}ting {\k39}for {\k342}you
+Dialogue: 0,0:02:23.36,0:02:28.05,Engsub,,0000,0000,0000,,{\k151}Noc{\k318}turne
+Dialogue: 0,0:02:28.05,0:02:33.05,Engsub,,0000,0000,0000,,{\k120}We'll {\k166}fly, {\k54}claim {\k35}the {\k125}sky,
+Dialogue: 0,0:02:33.05,0:02:37.81,Engsub,,0000,0000,0000,,{\k66}You {\k47}don’t {\k46}have {\k37}to {\k66}won{\k84}der {\k130}why
+Dialogue: 0,0:02:38.09,0:02:43.00,Engsub,,0000,0000,0000,,{\k61}Al{\k39}ways {\k145}be. {\k85}Al{\k57}ways {\k104}see.
+Dialogue: 0,0:02:43.00,0:02:49.04,Engsub,,0000,0000,0000,,{\k53}come {\k43}and {\k38}dream {\k37}the {\k65}night {\k92}with {\k276}me!
+Dialogue: 0,0:02:50.49,0:02:55.84,Engsub,,0000,0000,0000,,{\k106}Noc{\k429}turne
+Dialogue: 0,0:02:55.84,0:03:09.78,Engsub,,0000,0000,0000,,
+Dialogue: 0,0:03:09.78,0:03:14.69,Engsub,,0000,0000,0000,,{\k50}Though {\k40}the {\k152}dark{\k83}ness {\k166}lay,
+Dialogue: 0,0:03:14.69,0:03:19.35,Engsub,,0000,0000,0000,,{\k87}it {\k146}will {\k86}give {\k147}way
+Dialogue: 0,0:03:19.35,0:03:28.01,Engsub,,0000,0000,0000,,{\k72}When {\k25}the {\k87}dark {\k95}night {\k150}deli{\k156}vers {\k54}the {\k204}day,
+Dialogue: 0,0:03:30.21,0:03:35.75,Engsub,,0000,0000,0000,,{\k81}Noc{\k473}turne.
+Dialogue: 0,0:00:29.27,0:00:34.14,Vietsub,,0000,0000,0000,,khi aùnh saùng ngaøy daàn taét 
+Dialogue: 0,0:00:34.14,0:00:38.93,Vietsub,,0000,0000,0000,,daàn taét
+Dialogue: 0,0:00:38.93,0:00:46.83,Vietsub,,0000,0000,0000,,laø luùc maøn ñeâm buoâng xuoáng, beân baïn, vaø doõi theo baïn
+Dialogue: 0,0:00:49.57,0:00:58.47,Vietsub,,0000,0000,0000,,Thaêm thaúm vaø möôït nhö nhung. Tónh laëng vaø chaân thaät 
+Dialogue: 0,0:00:58.47,0:01:07.73,Vietsub,,0000,0000,0000,,bao truøm caû traùi tim vaø taâm hoàn baïn, laø khuùc nhaïc ñeâm
+Dialogue: 0,0:01:07.73,0:01:11.94,Vietsub,,0000,0000,0000,,laø khuùc nhaïc ñeâm
+Dialogue: 0,0:01:12.89,0:01:17.70,Vietsub,,0000,0000,0000,,\Nchaúng bao giôø phaûi buoàn hay rôi nöôùc maét\N
+Dialogue: 0,0:01:17.83,0:01:22.65,Vietsub,,0000,0000,0000,,chaúng phaûi baên khoaên lo laéng
+Dialogue: 0,0:01:22.65,0:01:27.56,Vietsub,,0000,0000,0000,,seõ luoân ñöôïc thaáy,luoân caûm nhaän
+Dialogue: 0,0:01:27.56,0:01:33.22,Vietsub,,0000,0000,0000,,haõy ñeán ñaây vaø ñaém mình trong mô
+Dialogue: 0,0:01:34.86,0:01:40.11,Vietsub,,0000,0000,0000,,cuøng vôùi khuùc nhaïc ñeâm
+Dialogue: 0,0:01:45.34,0:01:49.62,Vietsub,,0000,0000,0000,,ñöøng sôï haõi
+Dialogue: 0,0:01:49.81,0:01:54.53,Vietsub,,0000,0000,0000,,Khi boùng ñeâm ôû beân baïn
+Dialogue: 0,0:01:54.53,0:02:04.07,Vietsub,,0000,0000,0000,,vaø laáp ñaày traùi tim baïn nhöõng khao khaùt vaø öôùc mô
+Dialogue: 0,0:02:04.07,0:02:13.89,Vietsub,,0000,0000,0000,,Haõy chìm vaøo giaác nguû eâm ñeàm. nhö ngaøy coøn thô beù
+Dialogue: 0,0:02:13.89,0:02:23.36,Vietsub,,0000,0000,0000,,Baïn seõ tìm thaáy khuùc nhaïc ñeâm, ñang chôø ñôïi baïn
+Dialogue: 0,0:02:23.36,0:02:28.05,Vietsub,,0000,0000,0000,,Khuùc nhaïc ñeâm, 
+Dialogue: 0,0:02:28.05,0:02:33.05,Vietsub,,0000,0000,0000,,Chuùng ta seõ bay cao ñeán taän baàu trôøi
+Dialogue: 0,0:02:33.05,0:02:37.81,Vietsub,,0000,0000,0000,,Chaúng caàn baên khoaên vì sao 
+Dialogue: 0,0:02:38.09,0:02:43.00,Vietsub,,0000,0000,0000,,Seõ luoân ñöôïc thaáy,luoân caûm nhaän
+Dialogue: 0,0:02:43.00,0:02:49.04,Vietsub,,0000,0000,0000,,haõy ñeán ñaây vaø ñaém mình trong mô
+Dialogue: 0,0:02:50.49,0:02:55.84,Vietsub,,0000,0000,0000,,Cuøng vôùi khuùc nhaïc ñeâm
+Dialogue: 0,0:02:55.84,0:03:09.78,Vietsub,,0000,0000,0000,,
+Dialogue: 0,0:03:09.78,0:03:14.69,Vietsub,,0000,0000,0000,,Duø boùng ñeâm coù qua ñi
+Dialogue: 0,0:03:14.69,0:03:19.35,Vietsub,,0000,0000,0000,,nhöng seõ trôû laïi
+Dialogue: 0,0:03:19.35,0:03:28.01,Vietsub,,0000,0000,0000,,Khi trong boùng ñeâm daàn lan toaû
+Dialogue: 0,0:03:30.21,0:03:35.75,Vietsub,,0000,0000,0000,,Vaø ngaân leân khuùc nhaïc ñeâm...
+Dialogue: 0,0:00:00.00,0:00:05.00,Vietsub,,0000,0000,0000,,

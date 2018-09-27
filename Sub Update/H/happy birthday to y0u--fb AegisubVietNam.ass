@@ -1,0 +1,75 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:01.30,0:00:02.70,Default,,0000,0000,0000,karaoke,{\k29}Hap{\k28}py {\k54}Birth{\k29}day
+Comment: 0,0:00:02.93,0:00:05.37,Default,,0000,0000,0000,karaoke,{\k30}Hap{\k53}py {\k54}Birth{\k26}day {\k29}to {\k52}you
+Comment: 0,0:00:05.66,0:00:09.18,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k27}py {\k56}Birth{\k25}day {\k56}just {\k54}for {\k106}you
+Comment: 0,0:00:10.00,0:00:11.48,Default,,0000,0000,0000,karaoke,{\k31}Hap{\k26}py {\k55}Birth{\k36}day
+Comment: 0,0:00:11.65,0:00:13.97,Default,,0000,0000,0000,karaoke,{\k30}Hap{\k53}py {\k53}Birth{\k25}day {\k33}to {\k38}you
+Comment: 0,0:00:14.38,0:00:18.78,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k27}py {\k55}Birth{\k81}day {\k41}Hap{\k41}py {\k80}Birth{\k87}day
+Comment: 0,0:00:28.55,0:00:31.33,Default,,0000,0000,0000,karaoke,{\k30}Just {\k28}a {\k52}day {\k30}Just {\k106}another {\k32}year
+Comment: 0,0:00:31.55,0:00:35.62,Default,,0000,0000,0000,karaoke,{\k27}But {\k27}in {\k28}our {\k54}eyes {\k28}you {\k54}are {\k55}the {\k134}best
+Comment: 0,0:00:35.89,0:00:37.87,Default,,0000,0000,0000,karaoke,{\k31}We´re {\k51}gonna {\k83}love {\k33}you
+Comment: 0,0:00:38.08,0:00:41.89,Default,,0000,0000,0000,karaoke,{\k51}Gonna {\k31}love {\k53}you {\k111}above {\k21}the {\k86}rest
+Comment: 0,0:00:42.37,0:00:44.62,Default,,0000,0000,0000,karaoke,{\k65}ho {\k160}oh
+Comment: 0,0:00:46.00,0:00:48.77,Default,,0000,0000,0000,karaoke,{\k26}May {\k26}good {\k53}times {\k56}always {\k54}smile {\k27}on {\k35}you
+Comment: 0,0:00:48.95,0:00:52.79,Default,,0000,0000,0000,karaoke,{\k29}May {\k55}happi{\k54}ness {\k55}always {\k40}come {\k40}your {\k111}way
+Comment: 0,0:00:53.33,0:00:55.36,Default,,0000,0000,0000,karaoke,{\k29}We´re {\k19}here {\k34}to {\k55}love {\k66}you
+Comment: 0,0:00:55.48,0:00:59.32,Default,,0000,0000,0000,karaoke,{\k31}We´re {\k27}here {\k27}to {\k55}cele{\k81}brate {\k57}your {\k106}day
+Comment: 0,0:01:03.07,0:01:06.19,Default,,0000,0000,0000,karaoke,{\k34}We {\k24}wish {\k17}the {\k40}best {\k28}of {\k27}what {\k27}the {\k28}best {\k55}can {\k32}be
+Comment: 0,0:01:06.41,0:01:07.33,Default,,0000,0000,0000,karaoke,{\k27}All {\k28}the {\k37}best
+Comment: 0,0:01:07.47,0:01:10.82,Default,,0000,0000,0000,karaoke,{\k31}We {\k22}wish {\k19}for {\k40}you {\k26}that {\k29}all {\k27}your {\k29}dreams {\k47}come {\k65}true
+Comment: 0,0:01:11.03,0:01:14.98,Default,,0000,0000,0000,karaoke,{\k29}Hap{\k28}py {\k53}Birth{\k53}day {\k29}Hap{\k54}py {\k51}Birth{\k30}day {\k28}to {\k40}you
+Comment: 0,0:01:15.38,0:01:19.10,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k27}py {\k56}Birth{\k26}day {\k55}just {\k55}for {\k125}you
+Comment: 0,0:01:19.75,0:01:23.78,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k28}py {\k53}Birth{\k55}day {\k27}Hap{\k54}py {\k53}Birth{\k27}day {\k31}to {\k47}you
+Comment: 0,0:01:24.10,0:01:29.00,Default,,0000,0000,0000,karaoke,{\k27}Hap{\k29}py {\k55}Birth{\k82}day {\k41}Hap{\k41}py {\k77}Birth{\k138}day
+Comment: 0,0:01:29.30,0:01:32.31,Default,,0000,0000,0000,karaoke,{\k27}The {\k29}years {\k24}may {\k61}come {\k22}and {\k28}the {\k43}years {\k38}may {\k29}go
+Comment: 0,0:01:32.57,0:01:36.37,Default,,0000,0000,0000,karaoke,{\k26}But {\k26}that {\k23}won´t {\k55}change {\k26}what {\k20}we {\k94}already {\k110}know
+Comment: 0,0:01:36.91,0:01:38.93,Default,,0000,0000,0000,karaoke,{\k28}You´re {\k26}such {\k28}a {\k83}great {\k37}friend
+Comment: 0,0:01:39.09,0:01:44.25,Default,,0000,0000,0000,karaoke,{\k27}And {\k27}in {\k26}our {\k49}hearts {\k31}your {\k58}love {\k53}will {\k161}grow, {\k82}grow
+Comment: 0,0:01:46.99,0:01:49.84,Default,,0000,0000,0000,karaoke,{\k27}Count {\k28}on {\k55}us {\k25}when {\k28}you're {\k35}fee{\k48}ling {\k39}dow
+Comment: 0,0:01:49.98,0:01:53.65,Default,,0000,0000,0000,karaoke,{\k26}In {\k27}times {\k30}of {\k27}trou{\k27}ble {\k28}we {\k26}will {\k54}hold {\k56}your {\k66}hand
+Comment: 0,0:01:54.34,0:01:56.35,Default,,0000,0000,0000,karaoke,{\k28}You're {\k28}such {\k27}a {\k81}great {\k37}friend
+Comment: 0,0:01:56.52,0:02:00.17,Default,,0000,0000,0000,karaoke,{\k28}And {\k27}we {\k26}will {\k56}love {\k39}you {\k42}'till {\k79}the {\k65}end
+Comment: 0,0:02:00.47,0:02:03.31,Default,,0000,0000,0000,karaoke,{\k94}end {\k190}end
+Comment: 0,0:02:04.13,0:02:07.19,Default,,0000,0000,0000,karaoke,{\k28}We {\k28}wish {\k15}the {\k41}best {\k25}of {\k28}what {\k28}the {\k28}best {\k54}can {\k31}be
+Comment: 0,0:02:07.41,0:02:08.27,Default,,0000,0000,0000,karaoke,{\k29}All {\k27}the {\k30}best
+Comment: 0,0:02:08.49,0:02:11.51,Default,,0000,0000,0000,karaoke,{\k27}We {\k28}wish {\k24}for {\k28}you {\k30}that {\k24}all {\k27}your {\k32}dreams {\k46}come {\k36}true
+Comment: 0,0:02:12.03,0:02:16.02,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k27}py {\k56}Birth{\k54}day {\k28}Hap{\k54}py {\k51}Birth{\k29}day {\k29}to {\k43}you
+Comment: 0,0:02:16.40,0:02:19.91,Default,,0000,0000,0000,karaoke,{\k27}Hap{\k27}py {\k54}Birth{\k29}day {\k55}just {\k55}for {\k104}you
+Comment: 0,0:02:20.74,0:02:24.71,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k28}py {\k54}Birth{\k55}day {\k27}Hap{\k55}py {\k45}Birth{\k36}day {\k27}to {\k42}you
+Comment: 0,0:02:25.11,0:02:29.48,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k27}py {\k55}Birth{\k79}day {\k42}Hap{\k41}py {\k82}Birth{\k83}day
+Comment: 0,0:02:30.01,0:02:38.23,Default,,0000,0000,0000,karaoke,{\k109}Hap{\k109}py {\k81}Birth{\k132}day {\k113}Hap{\k112}py {\k80}Birth{\k86}day
+Comment: 0,0:02:37.88,0:02:39.71,Default,,0000,0000,0000,karaoke,{\k31}Hap{\k31}py {\k47}Birth{\k74}day
+Comment: 0,0:02:38.98,0:02:47.37,Default,,0000,0000,0000,karaoke,{\k86}Hap{\k106}py {\k81}Birth{\k132}day {\k112}Hap{\k112}py {\k82}Birth{\k128}day
+Comment: 0,0:02:47.74,0:02:49.62,Default,,0000,0000,0000,karaoke,{\k53}It's {\k54}time {\k28}to {\k53}wish
+Comment: 0,0:02:49.89,0:02:51.76,Default,,0000,0000,0000,karaoke,{\k55}It's {\k55}time {\k29}to {\k48}give
+Comment: 0,0:02:52.08,0:02:55.05,Default,,0000,0000,0000,karaoke,{\k53}It's {\k55}time {\k56}to {\k133}live
+Comment: 0,0:02:56.44,0:02:58.33,Default,,0000,0000,0000,karaoke,{\k52}It's {\k57}time {\k27}to {\k53}wish
+Comment: 0,0:02:58.63,0:03:00.48,Default,,0000,0000,0000,karaoke,{\k54}It's {\k54}time {\k28}to {\k49}give
+Comment: 0,0:03:00.74,0:03:03.86,Default,,0000,0000,0000,karaoke,{\k55}It's {\k59}time {\k82}to {\k162}laugh
+Comment: 0,0:03:04.32,0:03:08.32,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k27}py {\k54}Birth{\k56}day {\k23}Hap{\k54}py {\k57}Birth{\k29}day {\k26}to {\k43}you
+Comment: 0,0:03:08.68,0:03:11.71,Default,,0000,0000,0000,karaoke,{\k27}Hap{\k27}py {\k57}Birth{\k27}day {\k55}just {\k54}for {\k56}you
+Comment: 0,0:03:11.63,0:03:12.66,Default,,0000,0000,0000,karaoke,{\k31}just {\k30}for {\k42}you
+Comment: 0,0:03:13.04,0:03:16.97,Default,,0000,0000,0000,karaoke,{\k27}Hap{\k27}py {\k55}Birth{\k54}day {\k31}Hap{\k52}py {\k52}Birth{\k29}day {\k28}to {\k38}you
+Comment: 0,0:03:16.02,0:03:17.82,Default,,0000,0000,0000,karaoke,{\k27}Hap{\k27}py {\k58}Birth{\k68}day
+Comment: 0,0:03:17.40,0:03:21.49,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k27}py {\k55}Birth{\k81}day {\k43}Hap{\k39}py {\k80}Birth{\k56}day
+Comment: 0,0:03:21.75,0:03:25.74,Default,,0000,0000,0000,karaoke,{\k27}Hap{\k28}py {\k56}Birth{\k53}day {\k30}Hap{\k52}py {\k46}Birth{\k36}day {\k29}to {\k42}you
+Comment: 0,0:03:26.08,0:03:29.52,Default,,0000,0000,0000,karaoke,{\k30}Hap{\k29}py {\k52}Birth{\k28}day {\k54}just {\k57}for {\k94}you
+Comment: 0,0:03:30.47,0:03:34.43,Default,,0000,0000,0000,karaoke,{\k28}Hap{\k28}py {\k52}Birth{\k57}day {\k28}Hap{\k51}py {\k55}Birth{\k26}day {\k29}to {\k42}you
+Comment: 0,0:03:34.85,0:03:40.67,Default,,0000,0000,0000,karaoke,{\k27}Hap{\k27}py {\k53}Birth{\k81}day {\k42}Hap{\k42}py {\k83}Birth{\k90}day{\k50}.{\k47}.{\k40}.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

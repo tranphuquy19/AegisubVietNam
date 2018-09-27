@@ -1,0 +1,65 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: ?video
+Video File: proud of you.avi
+Video Aspect Ratio: 0
+Video Zoom: 2
+Video Position: 5193
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.49,0:00:14.68,Default,,0000,0000,0000,,Tình yêu trong mắt anh 
+Dialogue: 0,0:00:14.68,0:00:17.61,Default,,0000,0000,0000,,Anh lặng yên ngồi cạnh bên em
+Dialogue: 0,0:00:17.61,0:00:20.51,Default,,0000,0000,0000,,Và cứ thế anh nắm lấy bàn tay
+Dialogue: 0,0:00:20.51,0:00:23.42,Default,,0000,0000,0000,,Cả hai cùng nhau đi dạo qua màn đêm lặng lẽ
+Dialogue: 0,0:00:23.42,0:00:26.35,Default,,0000,0000,0000,,Anh nâng em lên nhưng vẫn giữ thật chặt
+Dialogue: 0,0:00:26.35,0:00:29.33,Default,,0000,0000,0000,,Anh đưa em lên chạm đến tận trời cao
+Dialogue: 0,0:00:29.33,0:00:32.25,Default,,0000,0000,0000,,Anh dạy em yêu bằng cả trái tim
+Dialogue: 0,0:00:32.25,0:00:35.18,Default,,0000,0000,0000,,Giúp em mở mang cả một bầu trời tri thức
+Dialogue: 0,0:00:35.18,0:00:36.99,Default,,0000,0000,0000,,Em có thể bay
+Dialogue: 0,0:00:36.99,0:00:39.88,Default,,0000,0000,0000,,Em tự hào nói rằng mình có thể bay
+Dialogue: 0,0:00:39.88,0:00:42.88,Default,,0000,0000,0000,,Trao đi những gì đẹp nhất
+Dialogue: 0,0:00:42.88,0:00:45.77,Default,,0000,0000,0000,,Đến tận chân trời góc biển
+Dialogue: 0,0:00:45.77,0:00:48.74,Default,,0000,0000,0000,,Hãy tin rằng em có thể bay
+Dialogue: 0,0:00:48.74,0:00:51.63,Default,,0000,0000,0000,,Em tự hào rằng em có thể bay
+Dialogue: 0,0:00:51.63,0:00:54.56,Default,,0000,0000,0000,,Để làm được điều tốt nhất em có thể
+Dialogue: 0,0:00:54.56,0:00:58.63,Default,,0000,0000,0000,,Thiên đường trên bầu trời
+Dialogue: 0,0:01:11.01,0:01:13.21,Default,,0000,0000,0000,,Những ngôi sao trên trời
+Dialogue: 0,0:01:13.21,0:01:16.14,Default,,0000,0000,0000,,Hãy cho em ước một điều nho nhỏ
+Dialogue: 0,0:01:16.14,0:01:19.08,Default,,0000,0000,0000,,Rằng nụ cười mãi trên môi em đó
+Dialogue: 0,0:01:19.08,0:01:22.01,Default,,0000,0000,0000,,Rằng suốt cuộc đời này em mãi có tình yêu
+Dialogue: 0,0:01:22.01,0:01:24.89,Default,,0000,0000,0000,,Ôm em nhé anh
+Dialogue: 0,0:01:24.89,0:01:27.84,Default,,0000,0000,0000,,Và hãy nhấc bổng em lên
+Dialogue: 0,0:01:27.84,0:01:30.78,Default,,0000,0000,0000,,Để em biết được tình yêu say đắm
+Dialogue: 0,0:01:30.78,0:01:33.72,Default,,0000,0000,0000,,Để tâm hồn em rộng mở 
+Dialogue: 0,0:01:33.72,0:01:35.51,Default,,0000,0000,0000,,Em có thể bay
+Dialogue: 0,0:01:35.51,0:01:38.43,Default,,0000,0000,0000,,Tự hào sao em có thể bay
+Dialogue: 0,0:01:38.43,0:01:41.39,Default,,0000,0000,0000,,Để cống hiến những gì đẹp nhất
+Dialogue: 0,0:01:41.39,0:01:44.33,Default,,0000,0000,0000,,Để về với chốn thiên đường đã mất
+Dialogue: 0,0:01:44.33,0:01:47.26,Default,,0000,0000,0000,,Tin Em đi em có thể bay 
+Dialogue: 0,0:01:47.26,0:01:50.15,Default,,0000,0000,0000,,Em tự hào vì điều đó
+Dialogue: 0,0:01:50.15,0:01:53.10,Default,,0000,0000,0000,,Để cống hiến những gì đẹp nhất
+Dialogue: 0,0:01:53.10,0:01:57.48,Default,,0000,0000,0000,,Thiên đường ở trên bầu trời
+Dialogue: 0,0:02:07.00,0:02:11.35,Default,,0000,0000,0000,,Anh có tin rằng anh đã soi sáng cho em trên đường đời
+Dialogue: 0,0:02:11.35,0:02:15.02,Default,,0000,0000,0000,,Cho dù sau này dẫu không được như ý muốn
+Dialogue: 0,0:02:15.02,0:02:17.60,Default,,0000,0000,0000,,Emi cũng không bao giờ đánh mất niềm tin
+Dialogue: 0,0:02:17.60,0:02:19.43,Default,,0000,0000,0000,,hãy xem em bay lên nhé
+Dialogue: 0,0:02:19.43,0:02:22.06,Default,,0000,0000,0000,,Em tự hào có thể bay cao như thế
+Dialogue: 0,0:02:22.06,0:02:25.20,Default,,0000,0000,0000,,Để anh được thấy những gì tốt đẹp nhất
+Dialogue: 0,0:02:25.20,0:02:28.20,Default,,0000,0000,0000,,Cho tới thời khắc cuối cùng của thời gian
+Dialogue: 0,0:02:28.20,0:02:31.14,Default,,0000,0000,0000,,Hãy tin tôi em có thể bay
+Dialogue: 0,0:02:31.14,0:02:33.99,Default,,0000,0000,0000,,Em đang hát trên bầu trời
+Dialogue: 0,0:02:33.99,0:02:36.99,Default,,0000,0000,0000,,Để anh được thấy những gì tốt đẹp nhất
+Dialogue: 0,0:02:36.99,0:02:41.36,Default,,0000,0000,0000,,Thiên đường trên bầu trời
+Dialogue: 0,0:02:41.69,0:02:44.67,Default,,0000,0000,0000,,Không có điều gì ngăn cản được em
+Dialogue: 0,0:02:44.67,0:02:53.10,Default,,0000,0000,0000,,Dang rộng đôi cánh bay cao mãi
+Dialogue: 0,0:02:53.10,0:02:55.10,Default,,0000,0000,0000,,

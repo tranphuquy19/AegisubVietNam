@@ -1,0 +1,128 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: ..\nhac Tong hop\nhac Quoc Te\remix\One Direction - What Makes You Beautiful.mp3
+Video File: noidiem.mp4
+Video Aspect Ratio: 0
+Video Zoom: 2
+Video Position: 5516
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.07,0:00:11.06,Default,,0000,0000,0000,,{\k49}You're {\k171}insecure {\k23}Don't {\k30}know {\k17}what {\k109}for
+Dialogue: 0,0:00:07.07,0:00:11.06,Default,,0000,0000,0000,,Em đầy bất an, Chẳng biết vì sao nữa
+Dialogue: 0,0:00:11.06,0:00:14.98,Default,,0000,0000,0000,,{\k35}You're {\k52}turning {\k50}heads {\k24}when {\k24}you {\k46}walk {\k28}through {\k19}the {\k23}door {\k29}oh {\k62}oh
+Dialogue: 0,0:00:11.06,0:00:14.98,Default,,0000,0000,0000,,Em quay đầu khi em bước qua cửa..
+Dialogue: 0,0:00:14.98,0:00:18.79,Default,,0000,0000,0000,,{\k31}Don't {\k24}need {\k21}make {\k124}up {\k30}To {\k30}cover {\k115}up
+Dialogue: 0,0:00:14.98,0:00:18.77,Default,,0000,0000,0000,,Chẳng cần phải trang điểm để che giấu điều gì
+Dialogue: 0,0:00:18.98,0:00:22.97,Default,,0000,0000,0000,,{\k33}Being {\k29}the {\k48}way {\k19}that {\k26}you {\k50}are {\k22}is {\k49}enough {\k23}oh {\k100}oh
+Dialogue: 0,0:00:18.98,0:00:22.97,Default,,0000,0000,0000,,Bởi vì em mộc mạc và đơn sơ như thế là đủ rồi
+Dialogue: 0,0:00:23.41,0:00:27.20,Default,,0000,0000,0000,,{\k46}E{\k49}veryone {\k53}else {\k18}in {\k25}the {\k49}room {\k22}can {\k52}see {\k65}it
+Dialogue: 0,0:00:23.41,0:00:27.20,Default,,0000,0000,0000,,Tất cả mọi người đều thấy được điều đó.
+Dialogue: 0,0:00:27.20,0:00:30.30,Default,,0000,0000,0000,,{\k51}E{\k30}veryone {\k67}else {\k51}but {\k111}you
+Dialogue: 0,0:00:27.20,0:00:30.30,Default,,0000,0000,0000,,Chỉ có em là không nhận ra
+Dialogue: 0,0:00:30.30,0:00:34.22,Default,,0000,0000,0000,,{\k19}Ba{\k27}by {\k21}you {\k39}light {\k44}up {\k23}my {\k40}world {\k31}like {\k32}no{\k32}bo{\k28}dy {\k56}else
+Dialogue: 0,0:00:30.30,0:00:34.22,Default,,0000,0000,0000,,Em yêu à, em là người thắp sáng thế giới của anh mà chẳng ai khác làm được
+Dialogue: 0,0:00:34.22,0:00:38.02,Default,,0000,0000,0000,,{\k20}The {\k34}way {\k18}that {\k31}you {\k41}flip {\k25}your {\k36}hair {\k42}gets {\k22}me {\k41}o{\k24}ver{\k46}whelmed
+Dialogue: 0,0:00:34.22,0:00:38.02,Default,,0000,0000,0000,,Cái cách em để mái tóc tung bay trong gió khiến anh ngất ngây
+Dialogue: 0,0:00:38.02,0:00:41.87,Default,,0000,0000,0000,,{\k20}But {\k11}you {\k29}when {\k50}smile {\k18}at {\k47}the {\k35}ground {\k31}it {\k24}aint {\k51}hard {\k24}to {\k45}tell
+Dialogue: 0,0:00:38.02,0:00:41.87,Default,,0000,0000,0000,,Khoảnh khắc em cười thật khó có thể để diễn tả được
+Dialogue: 0,0:00:41.87,0:00:44.51,Default,,0000,0000,0000,,{\k28}You {\k50}don't {\k64}know {\k28}oh {\k94}oh
+Dialogue: 0,0:00:41.87,0:00:44.51,Default,,0000,0000,0000,,Nhưng Em lại không hề hay biết ..
+Dialogue: 0,0:00:44.51,0:00:46.82,Default,,0000,0000,0000,,{\k29}You {\k25}don't {\k41}know {\k36}you're {\k100}beautiful 
+Dialogue: 0,0:00:44.51,0:00:46.82,Default,,0000,0000,0000,,Em đâu có hay là em xinh đẹp biết bao...
+Dialogue: 0,0:00:46.82,0:00:49.51,Default,,0000,0000,0000,,{\k11}If {\k44}only {\k29}you {\k47}saw {\k25}what {\k48}I {\k28}can {\k37}see 
+Dialogue: 0,0:00:46.82,0:00:49.51,Default,,0000,0000,0000,,Giá mà em hiểu được những gì anh nghĩ.
+Dialogue: 0,0:00:49.51,0:00:53.40,Default,,0000,0000,0000,,{\k35}You'll {\k21}un{\k30}der{\k30}stand {\k32}why {\k24}I {\k50}want {\k26}you {\k25}so {\k27}de{\k43}sperate{\k46}ly 
+Dialogue: 0,0:00:49.51,0:00:53.40,Default,,0000,0000,0000,,Là Em sẽ hiểu tại sao anh lại muốn có em đến vậy 
+Dialogue: 0,0:00:53.40,0:00:57.27,Default,,0000,0000,0000,,{\k31}Right {\k19}now {\k25}I'm {\k38}loo{\k34}king {\k21}at {\k38}you {\k31}and {\k27}I {\k46}can't {\k30}be{\k47}lieve 
+Dialogue: 0,0:00:53.40,0:00:57.27,Default,,0000,0000,0000,,Ngay lúc này đây anh đang nhìn vào đôi mắt em và anh chẳng thể nào tin nổi 
+Dialogue: 0,0:00:57.27,0:00:59.27,Default,,0000,0000,0000,,{\k24}You {\k48}don't {\k70}know {\k23}oh {\k89}oh
+Dialogue: 0,0:00:57.27,0:00:59.27,Default,,0000,0000,0000,,Nhưng Em lại không hề hay biết ...
+Dialogue: 0,0:00:59.87,0:01:03.69,Default,,0000,0000,0000,,{\k28}You {\k27}don't {\k46}know {\k37}you're {\k26}be{\k103}autiful {\k22}oh {\k93}oh
+Dialogue: 0,0:00:59.87,0:01:03.69,Default,,0000,0000,0000,,Em đâu có hay là Em xinh đẹp biết bao
+Dialogue: 0,0:01:03.69,0:01:07.20,Default,,0000,0000,0000,,{\k15}But {\k15}that's {\k20}what {\k23}makes {\k33}you {\k28}be{\k217}autiful 
+Dialogue: 0,0:01:03.69,0:01:07.20,Default,,0000,0000,0000,,Nhưng chính những điều đó lại khiến Em càng xinh đẹp hơn..
+Dialogue: 0,0:01:08.59,0:01:10.25,Default,,0000,0000,0000,,{\k37}So {\k54}c-come {\k77}on 
+Dialogue: 0,0:01:08.62,0:01:10.28,Default,,0000,0000,0000,,Hãy đến đây nào 
+Dialogue: 0,0:01:10.61,0:01:12.61,Default,,0000,0000,0000,,{\k38}You {\k14}got {\k26}it {\k122}wrong 
+Dialogue: 0,0:01:10.61,0:01:12.61,Default,,0000,0000,0000,,Em hiểu nhầm rồi 
+Dialogue: 0,0:01:12.61,0:01:16.38,Default,,0000,0000,0000,,{\k26}To {\k27}prove {\k19}I'm {\k45}right {\k28}I {\k27}put {\k49}it {\k23}in {\k22}a {\k23}song {\k20}oh {\k68}oh
+Dialogue: 0,0:01:12.61,0:01:16.38,Default,,0000,0000,0000,,Để bày tỏ lòng mình, Anh đã đặt nó vào bài hát này.
+Dialogue: 0,0:01:16.38,0:01:18.38,Default,,0000,0000,0000,,{\k33}I {\k44}don't {\k123}why 
+Dialogue: 0,0:01:16.38,0:01:18.38,Default,,0000,0000,0000,,Anh không biết tại sao 
+Dialogue: 0,0:01:18.38,0:01:20.38,Default,,0000,0000,0000,,{\k24}You're {\k21}be{\k26}ing {\k129}shy 
+Dialogue: 0,0:01:18.38,0:01:20.38,Default,,0000,0000,0000,,Em lại đầy vẻ ngượng ngùng 
+Dialogue: 0,0:01:20.38,0:01:24.82,Default,,0000,0000,0000,,{\k20}And {\k19}turn {\k22}a{\k44}way {\k30}when {\k22}I {\k29}look {\k22}into {\k21}your {\k28}eyes {\k20}oh {\k31}oh {\k135}oh
+Dialogue: 0,0:01:20.38,0:01:24.82,Default,,0000,0000,0000,,Và em quay đi khi anh nhìn vào đôi mắt em 
+Dialogue: 0,0:01:24.82,0:01:28.47,Default,,0000,0000,0000,,{\k52}E{\k30}very{\k16}one {\k40}else {\k30}in {\k27}the {\k49}room {\k25}can {\k49}see {\k47}it 
+Dialogue: 0,0:01:24.82,0:01:28.47,Default,,0000,0000,0000,,Tất cả mọi người đều thấy được điều đó
+Dialogue: 0,0:01:28.47,0:01:31.74,Default,,0000,0000,0000,,{\k72}E{\k27}very{\k24}one {\k46}else {\k45}but {\k73}you {\k40}ou
+Dialogue: 0,0:01:28.47,0:01:31.74,Default,,0000,0000,0000,,Chỉ có Em là không nhận ra
+Dialogue: 0,0:01:31.74,0:01:35.71,Default,,0000,0000,0000,,{\k32}Ba{\k26}by {\k23}you {\k36}light {\k38}up {\k20}my {\k42}world {\k29}like {\k30}no{\k30}bo{\k41}dy {\k50}else 
+Dialogue: 0,0:01:31.74,0:01:35.71,Default,,0000,0000,0000,,Em yêu à, em là người thắp sáng thế giới của anh mà chẳng ai khác làm được
+Dialogue: 0,0:01:35.71,0:01:39.51,Default,,0000,0000,0000,,{\k18}The {\k26}way {\k21}that {\k41}you {\k29}flip {\k29}your {\k36}hair {\k38}gets {\k26}me {\k40}o{\k27}ver{\k49}whelmed 
+Dialogue: 0,0:01:35.71,0:01:39.51,Default,,0000,0000,0000,,Cái cách em để mái tóc tung bay trong gió khiến anh ngất ngây
+Dialogue: 0,0:01:39.51,0:01:43.35,Default,,0000,0000,0000,,{\k21}But {\k26}you {\k21}when {\k42}smile {\k35}at {\k23}the {\k43}ground {\k28}it {\k21}aint {\k49}hard {\k25}to {\k50}tell 
+Dialogue: 0,0:01:39.51,0:01:43.35,Default,,0000,0000,0000,,Khoảnh khắc em cười Thật khó có thể diễn tả được
+Dialogue: 0,0:01:43.35,0:01:45.92,Default,,0000,0000,0000,,{\k23}You {\k46}don't {\k77}know {\k22}oh {\k89}oh
+Dialogue: 0,0:01:43.35,0:01:45.92,Default,,0000,0000,0000,,Nhưng Em lại không hề hay biết
+Dialogue: 0,0:01:45.92,0:01:48.06,Default,,0000,0000,0000,,{\k34}You {\k28}don't {\k38}know {\k38}you're {\k26}be{\k50}autiful 
+Dialogue: 0,0:01:45.92,0:01:48.06,Default,,0000,0000,0000,,Em đâu có hay là Em xinh đẹp Biết bao
+Dialogue: 0,0:01:48.06,0:01:50.97,Default,,0000,0000,0000,,{\k28}If {\k28}on{\k28}ly {\k29}you {\k38}saw {\k29}what {\k37}I {\k31}can {\k43}see 
+Dialogue: 0,0:01:48.06,0:01:50.97,Default,,0000,0000,0000,,Giá mà Em hiểu được những gì Anh nghĩ
+Dialogue: 0,0:01:50.97,0:01:54.84,Default,,0000,0000,0000,,{\k34}You'll {\k16}un{\k22}der{\k45}stand {\k33}why {\k27}I {\k34}want {\k31}you {\k27}so {\k47}de{\k26}sperate{\k45}ly 
+Dialogue: 0,0:01:50.97,0:01:54.84,Default,,0000,0000,0000,,Em sẽ hiểu tại sao anh lại muốn có em đến vậy 
+Dialogue: 0,0:01:54.84,0:01:58.69,Default,,0000,0000,0000,,{\k28}Right {\k29}now {\k18}I'm {\k29}loo{\k47}king {\k17}at {\k30}you {\k37}and {\k32}I {\k43}can't {\k31}be{\k44}lieve 
+Dialogue: 0,0:01:54.84,0:01:58.69,Default,,0000,0000,0000,,Ngay lúc này đây anh đang nhìn vào đôi mắt em và anh chẳng thể nào tin nổi
+Dialogue: 0,0:01:58.69,0:02:01.33,Default,,0000,0000,0000,,{\k25}You {\k53}don't {\k65}know {\k24}oh {\k97}oh
+Dialogue: 0,0:01:58.69,0:02:01.33,Default,,0000,0000,0000,,Nhưng Em không hề hay biết
+Dialogue: 0,0:02:01.33,0:02:05.06,Default,,0000,0000,0000,,{\k26}You {\k23}don't {\k42}know {\k49}you're {\k33}be{\k93}autiful {\k24}oh {\k83}oh
+Dialogue: 0,0:02:01.33,0:02:05.06,Default,,0000,0000,0000,,Em đâu có hay là Em rất xinh đẹp Biết bao..
+Dialogue: 0,0:02:05.06,0:02:07.32,Default,,0000,0000,0000,,{\k25}But {\k15}that's {\k21}what {\k16}makes {\k66}you {\k33}be{\k50}autiful 
+Dialogue: 0,0:02:05.06,0:02:07.32,Default,,0000,0000,0000,,Nhưng chính điều đó lại khiến Em cảng xinh đẹp hơn.
+Dialogue: 0,0:02:07.32,0:02:10.92,Default,,0000,0000,0000,,{\k28}na {\k23}na {\k21}na {\k50}na {\k29}na {\k21}na {\k43}na {\k30}na {\k40}na {\k75}na
+Dialogue: 0,0:02:10.92,0:02:13.35,Default,,0000,0000,0000,,{\k48}na {\k24}na {\k19}na {\k53}na {\k27}na {\k21}na {\k51}na
+Dialogue: 0,0:02:14.62,0:02:18.54,Default,,0000,0000,0000,,{\k67}na {\k21}na {\k35}na {\k41}na {\k21}na {\k23}na {\k52}na {\k24}na {\k38}na {\k70}na
+Dialogue: 0,0:02:18.54,0:02:21.02,Default,,0000,0000,0000,,{\k52}na {\k28}na {\k26}na {\k40}na {\k30}na {\k72}na
+Dialogue: 0,0:02:21.86,0:02:25.56,Default,,0000,0000,0000,,{\k17}Ba{\k25}by {\k18}you {\k30}light {\k30}up {\k34}my {\k42}world {\k31}like {\k29}no{\k54}bo{\k26}dy {\k34}else 
+Dialogue: 0,0:02:21.86,0:02:25.56,Default,,0000,0000,0000,,Em yêu à, em là người thắp sáng thế giới của anh mà chẳng ai khác làm được
+Dialogue: 0,0:02:25.56,0:02:29.40,Default,,0000,0000,0000,,{\k30}The {\k22}way {\k24}that {\k35}you {\k29}flip {\k32}your {\k36}hair {\k34}gets {\k32}me {\k44}o{\k31}ver{\k35}whelmed 
+Dialogue: 0,0:02:25.56,0:02:29.40,Default,,0000,0000,0000,,Cái cách em để mái tóc tung bay trong gió khiến anh ngất ngây 
+Dialogue: 0,0:02:29.40,0:02:33.95,Default,,0000,0000,0000,,{\k24}But {\k14}you {\k23}when {\k48}smile {\k37}at {\k32}the {\k37}ground {\k33}it {\k17}aint {\k46}hard {\k27}to {\k117}tell 
+Dialogue: 0,0:02:29.40,0:02:33.95,Default,,0000,0000,0000,,Khoảnh khắc Em cười Thật có thể mà diễn ta được
+Dialogue: 0,0:02:33.68,0:02:35.95,Default,,0000,0000,0000,,{\k32}You {\k33}don't {\k35}know {\k30}oh {\k97}oh
+Dialogue: 0,0:02:33.68,0:02:35.95,Default,,0000,0000,0000,,Nhưng Em lại không hề hay biết
+Dialogue: 0,0:02:35.95,0:02:38.56,Default,,0000,0000,0000,,You don't know you're beautiful 
+Dialogue: 0,0:02:35.95,0:02:38.56,Default,,0000,0000,0000,,Em đâu có hay là Em rất xinh đẹp Biết Bao...
+Dialogue: 0,0:02:36.90,0:02:40.80,Default,,0000,0000,0000,,{\k46}Ba{\k28}by {\k19}you {\k39}light {\k27}up {\k27}my {\k25}world {\k46}like {\k26}no{\k25}bo{\k46}dy {\k36}else 
+Dialogue: 0,0:02:36.90,0:02:40.80,Default,,0000,0000,0000,,Em yêu à, em là người thắp sáng thế giới của anh mà chẳng ai khác làm được
+Dialogue: 0,0:02:40.80,0:02:44.74,Default,,0000,0000,0000,,{\k30}The {\k30}way {\k28}that {\k26}you {\k52}flip {\k18}your {\k39}hair {\k35}gets {\k23}me {\k43}o{\k29}ver{\k41}whelmed 
+Dialogue: 0,0:02:40.80,0:02:44.74,Default,,0000,0000,0000,,Cái cách em để mái tóc tung bay trong gió khiến anh ngất ngây 
+Dialogue: 0,0:02:44.74,0:02:48.54,Default,,0000,0000,0000,,{\k24}But {\k12}you {\k34}when {\k45}smile {\k39}at {\k16}the {\k39}ground {\k37}it {\k21}aint {\k46}hard {\k30}to {\k37}tell 
+Dialogue: 0,0:02:44.74,0:02:48.54,Default,,0000,0000,0000,,Khoảnh khắc Em cười Thật có thể mà diễn ta được
+Dialogue: 0,0:02:48.54,0:02:51.18,Default,,0000,0000,0000,,{\k33}You {\k51}don't {\k70}know {\k26}oh {\k84}oh
+Dialogue: 0,0:02:48.54,0:02:51.18,Default,,0000,0000,0000,,Nhưng Em lại không hề hay biết
+Dialogue: 0,0:02:51.18,0:02:53.18,Default,,0000,0000,0000,,{\k25}You {\k38}don't {\k31}know {\k44}you're {\k25}beau{\k13}ti{\k24}ful 
+Dialogue: 0,0:02:51.18,0:02:53.18,Default,,0000,0000,0000,,Em đâu có hay là Em Xinh đẹp biết bao....
+Dialogue: 0,0:02:53.18,0:02:56.25,Default,,0000,0000,0000,,{\k30}If {\k20}on{\k30}ly {\k40}you {\k40}saw {\k29}what {\k41}I {\k31}can {\k46}see 
+Dialogue: 0,0:02:53.18,0:02:56.25,Default,,0000,0000,0000,,Giá mà Em hiểu được những gì anh nghĩ
+Dialogue: 0,0:02:56.25,0:03:00.07,Default,,0000,0000,0000,,{\k31}You'll {\k26}un{\k21}der{\k40}stand {\k35}why {\k25}I {\k19}want {\k27}you {\k44}so {\k44}de{\k28}sperate{\k42}ly 
+Dialogue: 0,0:02:56.25,0:03:00.07,Default,,0000,0000,0000,,Em sẽ hiểu tại sao anh lại muốn có em đến vậy
+Dialogue: 0,0:03:00.07,0:03:04.02,Default,,0000,0000,0000,,{\k30}Right {\k23}now {\k24}I'm {\k39}loo{\k32}king {\k26}at {\k38}you {\k27}and {\k27}I {\k49}can't {\k32}be{\k48}lieve 
+Dialogue: 0,0:03:00.07,0:03:04.02,Default,,0000,0000,0000,,Ngay lúc này đây anh đang nhìn vào đôi mắt em và anh chẳng thể nào tin nổi
+Dialogue: 0,0:03:04.02,0:03:06.53,Default,,0000,0000,0000,,{\k28}You {\k45}don't {\k62}know {\k31}oh {\k85}oh 
+Dialogue: 0,0:03:04.02,0:03:06.53,Default,,0000,0000,0000,,Em lại không hề hay biết
+Dialogue: 0,0:03:06.53,0:03:10.35,Default,,0000,0000,0000,,{\k32}You {\k28}don't {\k36}know {\k51}you're {\k31}beau{\k18}ti{\k73}ful {\k28}oh {\k85}oh
+Dialogue: 0,0:03:10.35,0:03:14.27,Default,,0000,0000,0000,,Em không hề biết là Em xinh đẹp biết bao..
+Dialogue: 0,0:03:14.27,0:03:17.08,Default,,0000,0000,0000,,{\k29}that's {\k21}what {\k29}makes {\k23}you {\k31}beau{\k44}ti{\k104}ful 
+Dialogue: 0,0:03:14.27,0:03:17.08,Default,,0000,0000,0000,,Nhưng chính điều đó lại khiến Em cảng xinh đẹp hơn.
+Dialogue: 0,0:03:17.08,0:03:19.08,Default,,0000,0000,0000,,

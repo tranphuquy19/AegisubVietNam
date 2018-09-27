@@ -1,0 +1,69 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Audio URI: E:\my music\Nu hong mong manh Remix - Luong bich huu.mp3
+Video File: ?dummy:23.976000:40000:640:480:0:0:0:
+Video Aspect Ratio: 0
+Video Position: 4260
+Scroll Position: 37
+Active Line: 38
+Video Zoom Percent: 0.875
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:30.00,0:00:32.66,Default,,0,0,0,,{\k45}Anh {\k12}đem {\k29}trao {\k23}cho {\k38}em {\k41}nụ {\k63}hồng
+Dialogue: 0,0:00:32.82,0:00:35.74,Default,,0,0,0,,{\k45}Nụ {\k23}hồng {\k37}mong {\k24}manh {\k13}như {\k25}sương {\k40}mai {\k30}trong {\k37}gió
+Dialogue: 0,0:00:36.60,0:00:38.96,Default,,0,0,0,,{\k26}Em {\k21}nâng {\k19}niu {\k22}đem {\k30}hoa {\k40}về {\k65}giữ
+Dialogue: 0,0:00:39.20,0:00:42.27,Default,,0,0,0,,{\k43}Trong {\k28}hồn {\k37}mong {\k26}cho {\k17}hoa {\k20}không {\k21}phai {\k46}sắc {\k32}hương
+Dialogue: 0,0:00:43.48,0:00:46.03,Default,,0,0,0,,{\k23}Nhưng {\k17}bông {\k23}hoa {\k22}kia {\k39}mau {\k31}phai {\k72}tàn
+Dialogue: 0,0:00:46.24,0:00:49.33,Default,,0,0,0,,{\k20}Rụng {\k41}tả {\k20}tơi {\k23}trên {\k21}đôi {\k23}tay {\k37}em {\k35}băng {\k68}giá
+Dialogue: 0,0:00:50.35,0:00:52.66,Default,,0,0,0,,{\k25}Em {\k18}nghe {\k18}như {\k24}trong {\k36}tim {\k43}rạn {\k67}vỡ
+Dialogue: 0,0:00:52.92,0:00:56.54,Default,,0,0,0,,{\k52}Nỗi {\k26}đau {\k35}làm {\k15}nhạt {\k24}nhoà {\k20}một {\k34}trời {\k30}sương {\k142}khói
+Dialogue: 0,0:00:56.96,0:00:59.36,Default,,0,0,0,,{\k19}Anh {\k18}như {\k26}chim {\k21}bay {\k41}quên {\k43}đường {\k60}về
+Dialogue: 0,0:00:59.46,0:01:02.82,Default,,0,0,0,,{\k22}Âm {\k36}thầm {\k36}mình {\k33}em {\k18}nơi {\k26}đây {\k16}với {\k36}những {\k48}bâng {\k56}khuâng
+Dialogue: 0,0:01:02.90,0:01:05.70,Default,,0,0,0,,{\k27}Cánh {\k39}chim {\k32}ơi {\k28}còn {\k26}mịt {\k21}mù {\k15}tận {\k43}trời {\k29}nao
+Dialogue: 0,0:01:05.80,0:01:07.36,Default,,0,0,0,,{\k19}Vui {\k22}chi {\k18}nơi {\k20}xa {\k42}xôi {\k30}ấy
+Dialogue: 0,0:01:07.54,0:01:09.70,Default,,0,0,0,,{\k24}Anh {\k21}quên {\k23}em {\k18}như {\k23}quên {\k49}cánh {\k52}hoa
+Dialogue: 0,0:01:10.70,0:01:13.06,Default,,0,0,0,,{\k72}Nhưng {\k34}sao {\k16}nay {\k28}anh {\k40}quay {\k40}trở {\k42}về
+Dialogue: 0,0:01:13.34,0:01:16.52,Default,,0,0,0,,{\k23}Ta {\k30}còn {\k53}gì {\k20}đâu {\k17}hoa {\k24}xưa {\k19}đã {\k41}héo {\k37}trong {\k22}tim
+Dialogue: 0,0:01:16.74,0:01:19.28,Default,,0,0,0,,{\k26}Mối {\k39}duyên {\k26}xưa {\k33}tình {\k26}này {\k26}chỉ {\k20}là {\k33}mộng {\k25}thôi
+Dialogue: 0,0:01:19.40,0:01:21.08,Default,,0,0,0,,{\k22}Em {\k23}nay {\k17}như {\k24}trăng {\k41}đã {\k36}úa
+Dialogue: 0,0:01:21.22,0:01:23.20,Default,,0,0,0,,{\k16}Thôi {\k22}anh {\k23}ơi {\k31}duyên {\k16}ta {\k34}đành {\k56}lỡ
+Dialogue: 0,0:01:53.46,0:01:56.12,Default,,0,0,0,,{\k45}Anh {\k12}đem {\k29}trao {\k23}cho {\k38}em {\k41}nụ {\k63}hồng
+Dialogue: 0,0:01:56.28,0:01:59.20,Default,,0,0,0,,{\k45}Nụ {\k23}hồng {\k37}mong {\k24}manh {\k13}như {\k25}sương {\k40}mai {\k30}trong {\k37}gió
+Dialogue: 0,0:02:00.06,0:02:02.42,Default,,0,0,0,,{\k26}Em {\k21}nâng {\k19}niu {\k22}đem {\k30}hoa {\k40}về {\k65}giữ
+Dialogue: 0,0:02:02.66,0:02:05.73,Default,,0,0,0,,{\k43}Trong {\k28}hồn {\k37}mong {\k26}cho {\k17}hoa {\k20}không {\k21}phai {\k46}sắc {\k32}hương
+Dialogue: 0,0:02:06.94,0:02:09.49,Default,,0,0,0,,{\k23}Nhưng {\k17}bông {\k23}hoa {\k22}kia {\k39}mau {\k31}phai {\k72}tàn
+Dialogue: 0,0:02:09.70,0:02:12.79,Default,,0,0,0,,{\k20}Rụng {\k41}tả {\k20}tơi {\k23}trên {\k21}đôi {\k23}tay {\k37}em {\k35}băng {\k68}giá
+Dialogue: 0,0:02:13.81,0:02:16.12,Default,,0,0,0,,{\k25}Em {\k18}nghe {\k18}như {\k24}trong {\k36}tim {\k43}rạn {\k67}vỡ
+Dialogue: 0,0:02:16.38,0:02:20.00,Default,,0,0,0,,{\k52}Nỗi {\k26}đau {\k35}làm {\k15}nhạt {\k24}nhoà {\k20}một {\k34}trời {\k30}sương {\k142}khói
+Dialogue: 0,0:02:20.42,0:02:22.82,Default,,0,0,0,,{\k19}Anh {\k18}như {\k26}chim {\k21}bay {\k41}quên {\k43}đường {\k60}về
+Dialogue: 0,0:02:22.92,0:02:26.28,Default,,0,0,0,,{\k22}Âm {\k36}thầm {\k36}mình {\k33}em {\k18}nơi {\k26}đây {\k16}với {\k36}những {\k48}bâng {\k56}khuâng
+Dialogue: 0,0:02:26.36,0:02:29.16,Default,,0,0,0,,{\k27}Cánh {\k39}chim {\k32}ơi {\k28}còn {\k26}mịt {\k21}mù {\k15}tận {\k43}trời {\k29}nao
+Dialogue: 0,0:02:29.26,0:02:30.82,Default,,0,0,0,,{\k19}Vui {\k22}chi {\k18}nơi {\k20}xa {\k42}xôi {\k30}ấy
+Dialogue: 0,0:02:31.00,0:02:33.16,Default,,0,0,0,,{\k24}Anh {\k21}quên {\k23}em {\k18}như {\k23}quên {\k49}cánh {\k52}hoa
+Dialogue: 0,0:02:34.16,0:02:36.52,Default,,0,0,0,,{\k72}Nhưng {\k34}sao {\k16}nay {\k28}anh {\k40}quay {\k40}trở {\k42}về
+Dialogue: 0,0:02:36.80,0:02:39.98,Default,,0,0,0,,{\k23}Ta {\k30}còn {\k53}gì {\k20}đâu {\k17}hoa {\k24}xưa {\k19}đã {\k41}héo {\k37}trong {\k22}tim
+Dialogue: 0,0:02:40.20,0:02:42.74,Default,,0,0,0,,{\k26}Mối {\k39}duyên {\k26}xưa {\k33}tình {\k26}này {\k26}chỉ {\k20}là {\k33}mộng {\k25}thôi
+Dialogue: 0,0:02:42.86,0:02:44.54,Default,,0,0,0,,{\k22}Em {\k23}nay {\k17}như {\k24}trăng {\k41}đã {\k36}úa
+Dialogue: 0,0:02:44.68,0:02:46.66,Default,,0,0,0,,{\k16}Thôi {\k22}anh {\k23}ơi {\k31}duyên {\k16}ta {\k34}đành {\k56}lỡ
+Dialogue: 0,0:02:48.34,0:02:50.74,Default,,0,0,0,,{\k19}Anh {\k18}như {\k26}chim {\k21}bay {\k41}quên {\k43}đường {\k60}về
+Dialogue: 0,0:02:50.84,0:02:54.20,Default,,0,0,0,,{\k22}Âm {\k36}thầm {\k36}mình {\k33}em {\k18}nơi {\k26}đây {\k16}với {\k36}những {\k48}bâng {\k56}khuâng
+Dialogue: 0,0:02:54.28,0:02:57.08,Default,,0,0,0,,{\k27}Cánh {\k39}chim {\k32}ơi {\k28}còn {\k26}mịt {\k21}mù {\k15}tận {\k43}trời {\k29}nao
+Dialogue: 0,0:02:57.18,0:02:58.74,Default,,0,0,0,,{\k19}Vui {\k22}chi {\k18}nơi {\k20}xa {\k42}xôi {\k30}ấy
+Dialogue: 0,0:02:58.92,0:03:01.08,Default,,0,0,0,,{\k24}Anh {\k21}quên {\k23}em {\k18}như {\k23}quên {\k49}cánh {\k52}hoa
+Dialogue: 0,0:03:02.08,0:03:04.44,Default,,0,0,0,,{\k72}Nhưng {\k34}sao {\k16}nay {\k28}anh {\k40}quay {\k40}trở {\k42}về
+Dialogue: 0,0:03:04.72,0:03:07.90,Default,,0,0,0,,{\k23}Ta {\k30}còn {\k53}gì {\k20}đâu {\k17}hoa {\k24}xưa {\k19}đã {\k41}héo {\k37}trong {\k22}tim
+Dialogue: 0,0:03:08.12,0:03:10.66,Default,,0,0,0,,{\k26}Mối {\k39}duyên {\k26}xưa {\k33}tình {\k26}này {\k26}chỉ {\k20}là {\k33}mộng {\k25}thôi
+Dialogue: 0,0:03:10.78,0:03:12.46,Default,,0,0,0,,{\k22}Em {\k23}nay {\k17}như {\k24}trăng {\k41}đã {\k36}úa
+Dialogue: 0,0:03:12.60,0:03:14.58,Default,,0,0,0,,{\k16}Thôi {\k22}anh {\k23}ơi {\k31}duyên {\k16}ta {\k34}đành {\k56}lỡ

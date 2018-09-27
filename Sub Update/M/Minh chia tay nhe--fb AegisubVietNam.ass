@@ -1,0 +1,49 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:31.90,0:00:39.90,mẫu đẹp,,0000,0000,0000,karaoke,{\k91}Mình {\k95}chia {\k76}tay {\k85}nheù, {\k83}seõ {\k37}thoâi {\k34}mô {\k46}theâm {\k51}giaác {\k79}mô {\k123}ñaàu
+Comment: 0,0:00:39.90,0:00:47.55,mẫu đẹp,,0000,0000,0000,karaoke,{\k40}Mình {\k47}chia {\k39}tay {\k114}nheù! {\k43}Gioáng {\k37}nhö {\k40}trôû {\k48}veà {\k45}ngaøy {\k77}ñoù {\k85}chöa {\k79}gaàn {\k71}nhau
+Comment: 0,0:00:47.55,0:00:54.10,mẫu đẹp,,0000,0000,0000,karaoke,{\k57}Chöa {\k41}heà {\k44}quen {\k79}bieát, {\k81}chöa {\k45}heà {\k40}vaán {\k43}vöông {\k38}veà {\k187}nhau
+Comment: 0,0:00:54.10,0:01:01.62,mẫu đẹp,,0000,0000,0000,karaoke,{\k58}Khoâng {\k104}thöông {\k25}cuõng {\k28}khoâng {\k35}nhôù {\k52}nhung {\k30}gì {\k420}theâm
+Comment: 0,0:01:01.62,0:01:09.10,mẫu đẹp,,0000,0000,0000,karaoke,{\k69}Mình {\k94}xa {\k78}nhau {\k150}nheù! {\k29}Thoùi {\k33}quen {\k32}hoâm {\k41}nay {\k47}seõ {\k130}khoâng {\k45}coøn
+Comment: 0,0:01:09.10,0:01:17.02,mẫu đẹp,,0000,0000,0000,karaoke,{\k65}Mình {\k39}xa {\k59}nhau {\k131}nheù, {\k36}Yeâu {\k37}daáu {\k35}bao {\k28}nhieâu {\k59}roài {\k131}cuõng {\k40}phoâi {\k132}phai
+Comment: 0,0:01:17.02,0:01:23.62,mẫu đẹp,,0000,0000,0000,karaoke,{\k45}Em {\k60}veà {\k49}nôi {\k71}khaùc {\k46}bình {\k45}yeân {\k36}seõ {\k119}theo {\k39}chaân {\k150}em
+Comment: 0,0:01:23.62,0:01:31.20,mẫu đẹp,,0000,0000,0000,karaoke,{\k26}Buoàn {\k45}vui {\k24}nôi {\k119}ñaây, {\k44}xin {\k44}em {\k34}ñöøng {\k49}nhôù {\k47}ôù {\k86}hô.{\k75}.{\k86}.{\k79}.
+Comment: 0,0:01:31.20,0:01:39.67,mẫu đẹp,,0000,0000,0000,karaoke,{\k86}Töø {\k79}ñaây {\k79}seõ {\k110}thoâi {\k40}beân {\k65}nhau {\k41}vaø {\k35}seõ {\k38}thoâi {\k113}khoâng {\k42}yeâu {\k119}theâm
+Comment: 0,0:01:39.67,0:01:45.57,mẫu đẹp,,0000,0000,0000,karaoke,{\k46}Vì {\k19}beân {\k42}anh {\k39}giôø {\k13}ñaây {\k50}chæ {\k56}laø {\k44}ngaøy {\k34}thaùng {\k50}laïnh {\k117}giaù {\k29}trong {\k51}em
+Comment: 0,0:01:45.57,0:01:48.87,mẫu đẹp,,0000,0000,0000,karaoke,{\k50}Nhaém {\k37}maét {\k41}buoâng {\k127}tay {\k24}nhau {\k51}ñi
+Comment: 0,0:01:48.87,0:01:52.65,mẫu đẹp,,0000,0000,0000,karaoke,{\k34}Nhaém {\k51}maét {\k40}xa {\k35}nhau {\k31}yeâu {\k60}thöông {\k23}ñaõ {\k104}lôõ
+Comment: 0,0:01:52.65,0:01:59.10,mẫu đẹp,,0000,0000,0000,karaoke,{\k37}Böôùc {\k22}qua {\k23}nhau {\k115}roài, {\k28}thì {\k26}xin {\k73}haõy {\k83}..queân {\k238}nhau
+Comment: 0,0:02:12.35,0:02:18.37,mẫu đẹp,,0000,0000,0000,karaoke,{\k52}Queân {\k32}ñöôïc {\k115}nhau, {\k44}seõ {\k39}thoâi {\k38}cho {\k40}nhau {\k50}nhöõng {\k107}ñau {\k85}buoàn
+Comment: 0,0:02:18.37,0:02:25.85,mẫu đẹp,,0000,0000,0000,karaoke,{\k55}Veà {\k43}beân {\k41}kia {\k133}nheù! {\k36}Nôi {\k41}ñoù {\k30}bao {\k48}nhieâu {\k36}haïnh {\k129}phuùc {\k41}beân {\k115}Em
+Comment: 0,0:02:26.17,0:02:32.55,mẫu đẹp,,0000,0000,0000,karaoke,{\k50}Xa {\k47}laï {\k36}roài {\k86}seõ, {\k36}gaàn {\k45}hôn {\k41}ñeå {\k126}theâm {\k29}thaân {\k142}quen
+Comment: 0,0:02:32.55,0:02:40.27,mẫu đẹp,,0000,0000,0000,karaoke,{\k37}Chaúng {\k39}thuoäc {\k29}veà {\k128}nhau {\k60}thoâi {\k38}ñöøng {\k133}nhôù {\k55}ô {\k169}hô .{\k42}.{\k42}.{\k0}
+Comment: 0,0:02:40.27,0:02:48.90,mẫu đẹp,,0000,0000,0000,karaoke,{\k86}Töø {\k79}ñaây {\k79}seõ {\k110}thoâi {\k40}beân {\k65}nhau {\k41}vaø {\k35}seõ {\k38}thoâi {\k113}khoâng {\k42}yeâu {\k119}theâm
+Comment: 0,0:02:48.90,0:02:54.62,mẫu đẹp,,0000,0000,0000,karaoke,{\k37}Vì {\k28}beân {\k22}anh {\k26}giôø {\k27}ñaây {\k51}chæ {\k60}laø {\k39}ngaøy {\k43}thaùng {\k40}laïnh {\k117}giaù {\k33}trong {\k49}em
+Comment: 0,0:02:54.62,0:02:57.95,mẫu đẹp,,0000,0000,0000,karaoke,{\k50}Nhaém {\k37}maét {\k41}buoâng {\k127}tay {\k24}nhau {\k51}ñi
+Comment: 0,0:02:57.95,0:03:01.62,mẫu đẹp,,0000,0000,0000,karaoke,{\k34}Nhaém {\k51}maét {\k40}xa {\k35}nhau {\k31}yeâu {\k60}thöông {\k23}ñaõ {\k104}lôõ
+Comment: 0,0:03:01.77,0:03:08.00,mẫu đẹp,,0000,0000,0000,karaoke,{\k37}Böôùc {\k22}qua {\k23}nhau {\k115}roài, {\k28}thì {\k26}xin {\k73}haõy {\k83}..queân {\k238}nhau
+Comment: 0,0:03:08.00,0:03:11.97,mẫu đẹp,,0000,0000,0000,karaoke,{\k57}Haõy {\k45}ñi {\k45}ñi {\k33}xa {\k29}anh {\k35}vaø {\k69}rôøi {\k21}nôi {\k63}ñaây
+Comment: 0,0:03:11.82,0:03:16.72,mẫu đẹp,,0000,0000,0000,karaoke,{\k34}Veà {\k34}nôi {\k22}em {\k24}yeâu {\k36}thöông {\k45}cho {\k43}em {\k62}thaùng {\k43}naêm {\k31}yeân {\k116}bình
+Comment: 0,0:03:16.72,0:03:23.92,mẫu đẹp,,0000,0000,0000,karaoke,{\k32}Mình {\k30}chia {\k36}tay {\k26}queân {\k35}nhau {\k43}ngöôøi {\k518}nheù .....
+Comment: 0,0:03:23.92,0:03:32.60,mẫu đẹp,,0000,0000,0000,karaoke,{\k86}Töø {\k79}ñaây {\k79}seõ {\k110}thoâi {\k40}beân {\k65}nhau {\k41}vaø {\k35}seõ {\k38}thoâi {\k113}khoâng {\k42}yeâu {\k119}theâm
+Comment: 0,0:03:32.60,0:03:38.25,mẫu đẹp,,0000,0000,0000,karaoke,{\k37}Vì {\k28}beân {\k22}anh {\k26}giôø {\k27}ñaây {\k51}chæ {\k60}laø {\k39}ngaøy {\k43}thaùng {\k40}laïnh {\k117}giaù {\k33}trong {\k49}em
+Comment: 0,0:03:38.25,0:03:41.42,mẫu đẹp,,0000,0000,0000,karaoke,{\k50}Nhaém {\k37}maét {\k41}buoâng {\k127}tay {\k24}nhau {\k51}ñi
+Comment: 0,0:03:41.42,0:03:45.47,mẫu đẹp,,0000,0000,0000,karaoke,{\k46}Nhaém {\k52}maét {\k39}xa {\k34}nhau {\k33}yeâu {\k53}thöông {\k33}ñaõ {\k115}lôõ
+Comment: 0,0:03:45.47,0:03:53.82,mẫu đẹp,,0000,0000,0000,karaoke,{\k27}Böôùc {\k18}qua {\k24}nhau {\k105}roài {\k34}thì {\k24}maõi {\k38}maõi {\k43}ngöôøi {\k23}ôi {\k30}ñuøng {\k166}nhôù {\k163}ôù {\k55}ô.{\k42}.{\k43}.
+Comment: 0,0:03:53.82,0:04:02.62,mẫu đẹp,,0000,0000,0000,karaoke,{\k66}Mình {\k48}chia {\k157}tay {\k228}nheù {\k328}em {\k53}!
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

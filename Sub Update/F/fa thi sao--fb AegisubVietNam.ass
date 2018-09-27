@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Last Style Storage: Default
+Audio URI: FA Thi Sao - Cuong TD MinGo.mp3
+Scroll Position: 35
+Active Line: 44
+Video Zoom Percent: 0.5
+Video File: E:\NhữngNgàyTháng NămDài\Tricking\Best Moments of Tricking.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 4259
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,15,&H00F6FCF6,&H000000FF,&H06010201,&H00050506,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.40,0:00:26.37,Default,,0,0,0,,Là vì tôi FA FA FA, ừ thì FA FA FA
+Dialogue: 0,0:00:26.51,0:00:29.27,Default,,0,0,0,,Ờ thì tuôi FA ... chỉ có mình tuôi tự đón tự đưa
+Dialogue: 0,0:00:29.37,0:00:31.58,Default,,0,0,0,,Yêu thì khổ không yêu thì lỗ ... như thế nào mới vừaaa
+Dialogue: 0,0:00:31.54,0:00:37.05,Default,,0,0,0,,Là vì tôi FA FA FA, ừ thì FA FA FA
+Dialogue: 0,0:00:37.18,0:00:40.32,Default,,0,0,0,,Người ta thì có ghệ .. ờ ! tay trong tay cùng nhau đi dạo phố
+Dialogue: 0,0:00:40.45,0:00:42.75,Default,,0,0,0,,Mà cũng mặc kệ tuôi thà chịu lỗ, chứ tuôi cũng chẳng muốn chịu khổ :))
+Dialogue: 0,0:00:42.89,0:00:45.09,Default,,0,0,0,,Ngày rồi tháng cứ thế trôi qua dần dần
+Dialogue: 0,0:00:45.29,0:00:48.03,Default,,0,0,0,,Và cái danh cô đơn vẫn luôn kề sát tôi
+Dialogue: 0,0:00:48.19,0:00:50.66,Default,,0,0,0,,Không quan tâm ai nói tôi 1 mình
+Dialogue: 0,0:00:50.86,0:00:54.07,Default,,0,0,0,,Họ bảo rằng tôi xấuuuuuuu ... nên chẳng ai yêu
+Dialogue: 0,0:00:54.53,0:00:56.94,Default,,0,0,0,,Là vì nghe lời ba mẹ thôi
+Dialogue: 0,0:00:57.07,0:00:59.50,Default,,0,0,0,,Không quan tâm bạn bè nói tôi
+Dialogue: 0,0:00:59.64,0:01:02.11,Default,,0,0,0,,Sao 1 mình mày chẳng ai yêu
+Dialogue: 0,0:01:02.24,0:01:04.48,Default,,0,0,0,,Yêu hay không thì cũng chẳng sao .
+Dialogue: 0,0:01:04.61,0:01:07.28,Default,,0,0,0,,Nà ... tự giới thiệu tuôi tên là MinGo á
+Dialogue: 0,0:01:07.41,0:01:09.75,Default,,0,0,0,,Quanh năm cứ thế thằng "F" thằng "A" nó bám theo đuôi hoài à
+Dialogue: 0,0:01:09.88,0:01:12.58,Default,,0,0,0,,Biết làm sao đây hả ? buồn thì cũng buồn lắm chứ
+Dialogue: 0,0:01:12.72,0:01:15.02,Default,,0,0,0,,Người ta có đôi có cặp, còn tuôi thì cứ à ờ ừ =))
+Dialogue: 0,0:01:15.15,0:01:17.62,Default,,0,0,0,,Chỉ biết chờ [lúc tụi nó chia tay ] mấy đứa FA như tuôi cười thầm
+Dialogue: 0,0:01:17.79,0:01:20.33,Default,,0,0,0,," Á đù từng quen, đã từng hạnh phúc giờ chia tay hơi bị thấm " =))
+Dialogue: 0,0:01:20.49,0:01:23.23,Default,,0,0,0,,Chân thành lêu lêu cái tụi có gấu hỗng được FA như tụi tuôi
+Dialogue: 0,0:01:23.36,0:01:25.66,Default,,0,0,0,," Ép thì ép mà ây thì ây " dị á mà cũng có cái vuôiiiii
+Dialogue: 0,0:01:24.73,0:01:30.30,Default,,0,0,0,,Là vì tôi FA FA FA, ừ thì FA FA FA
+Dialogue: 0,0:01:30.60,0:01:33.21,Default,,0,0,0,,Ờ thì tuôi FA ... chỉ có mình tuôi tự đón tự đưa
+Dialogue: 0,0:01:33.34,0:01:36.44,Default,,0,0,0,,Yêu thì khổ không yêu thì lỗ ... như thế nào mới vừaaaaaaaa ?
+Dialogue: 0,0:01:35.47,0:01:41.01,Default,,0,0,0,,Là vì tôi FA FA FA, ừ thì FA FA FA
+Dialogue: 0,0:01:41.15,0:01:44.28,Default,,0,0,0,,Người ta thì có ghệ .. ờ ! tay trong tay cùng nhau đi dạo phố
+Dialogue: 0,0:01:44.42,0:01:47.09,Default,,0,0,0,,Mà cũng mặc kệ tuôi thà chịu lỗ, chứ tuôi cũng chẳng muốn chịu khổ :))
+Dialogue: 0,0:01:47.75,0:01:56.96,Default,,0,0,0,,Haizzzzz, FA thôi mà gì đâu buồn =)) FA có thú vuôi riêng chứ nghe nè
+Dialogue: 0,0:01:57.13,0:02:00.37,Default,,0,0,0,,Tuôi mà ế á cũng có người ế như tuôi thôi
+Dialogue: 0,0:02:00.50,0:02:03.03,Default,,0,0,0,,Nhiều người muốn ế mà không thể ... aicha thiệt cũng tội
+Dialogue: 0,0:02:03.17,0:02:05.87,Default,,0,0,0,,À mà không phải là ế tuôi là "cô" vợ chú "đơn" =))
+Dialogue: 0,0:02:06.00,0:02:08.47,Default,,0,0,0,,Mấy bạn mà nói sai sự thật á coi chừng tuôi giận nha hơm :))))
+Dialogue: 0,0:02:08.61,0:02:11.18,Default,,0,0,0,,FA có nhiều lợi thế điển hình như là về mặt kinh tế
+Dialogue: 0,0:02:11.31,0:02:13.75,Default,,0,0,0,,Khỏi thức thâu đêm suốt sáng chỉ vì lí do "nhắn tin với ghệ"
+Dialogue: 0,0:02:13.91,0:02:16.45,Default,,0,0,0,,Khỏi mắc công giận rồi hờn , đón rồi đưa hay đợi với chờ
+Dialogue: 0,0:02:16.55,0:02:18.92,Default,,0,0,0,,Khỏi phải sợ 2 tiếng chia tay hay ôm trong lòng hàng ngàn chữ nhớ
+Dialogue: 0,0:02:19.05,0:02:21.72,Default,,0,0,0,,Thôi thôi thà là ờ-lon hơn là hằng đêm nước mắt lăn trên gối
+Dialogue: 0,0:02:21.85,0:02:24.36,Default,,0,0,0,,Khi nào duyên đưa tình đẩy, tự khắc "ép ây" nó biến ngay thôi
+Dialogue: 0,0:02:24.52,0:02:27.09,Default,,0,0,0,,Má dặn phải lo chăm học lớn lên dòi á tuôi hãy yêu
+Dialogue: 0,0:02:27.23,0:02:29.73,Default,,0,0,0,,Còn bây giờ tuôi chỉ biết học, ăn, ngũ và viết rap để feel =))
+Dialogue: 0,0:02:28.46,0:02:34.37,Default,,0,0,0,,Là vì tôi FA FA FA, ừ thì FA FA FA
+Dialogue: 0,0:02:34.60,0:02:37.34,Default,,0,0,0,,Ờ thì tuôi FA ... chỉ có mình tuôi tự đón tự đưa
+Dialogue: 0,0:02:37.47,0:02:40.11,Default,,0,0,0,,Yêu thì khổ không yêu thì lỗ ... như thế nào mới vừaaaaaaaa ?
+Dialogue: 0,0:02:39.64,0:02:45.11,Default,,0,0,0,,Là vì tôi FA FA FA, ừ thì FA FA FA
+Dialogue: 0,0:02:45.31,0:02:48.25,Default,,0,0,0,,Người ta thì có ghệ .. ờ ! tay trong tay cùng nhau đi dạo phố
+Dialogue: 0,0:02:48.38,0:02:52.28,Default,,0,0,0,,Mà cũng mặc kệ tuôi thà chịu lỗ, chứ tuôi cũng chẳng muốn chịu khổ :))
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

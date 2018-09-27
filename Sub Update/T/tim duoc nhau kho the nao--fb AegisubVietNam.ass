@@ -1,0 +1,57 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 0
+Active Line: 18
+Video Zoom Percent: 1
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:43.60,0:00:50.69,Default,,0,0,0,karaoke,{\k109}Đừng {\k124}khóc {\k41}nếu {\k46}không {\k40}yêu {\k40}anh {\k24}em {\k56}sẽ {\k115}hạnh {\k114}phúc
+Comment: 0,0:00:50.77,0:00:54.17,Default,,0,0,0,karaoke,{\k44}Rất {\k41}đau {\k38}nhưng {\k42}anh {\k28}vẫn {\k56}lạnh {\k91}lùng
+Comment: 0,0:00:54.71,0:00:59.06,Default,,0,0,0,karaoke,{\k48}Phải {\k43}làm {\k40}em {\k27}tin {\k51}rằng {\k41}anh {\k28}đã {\k50}không {\k107}còn
+Comment: 0,0:00:59.58,0:01:02.18,Default,,0,0,0,karaoke,{\k25}Như {\k40}ngày {\k67}xưa {\k128}nữa
+Comment: 0,0:01:02.81,0:01:09.74,Default,,0,0,0,karaoke,{\k121}Từ {\k113}đó {\k42}dù {\k46}cho {\k40}bên {\k38}ai {\k26}cũng {\k54}không {\k107}hạnh {\k106}phúc
+Comment: 0,0:01:09.97,0:01:17.05,Default,,0,0,0,karaoke,{\k38}Nhận {\k42}ra {\k46}trong {\k40}anh {\k40}tình {\k39}yêu {\k150}ấy {\k45}không {\k43}thể {\k60}thay {\k165}đổi
+Comment: 0,0:01:17.56,0:01:27.11,Default,,0,0,0,karaoke,{\k42}Một {\k40}ký {\k37}ức {\k46}đã {\k40}từng {\k119}rất {\k163}đẹp, {\k34}đã {\k38}kết {\k52}thúc {\k35}khi {\k41}em {\k88}về {\k28}bên {\k152}ai
+Comment: 0,0:01:27.25,0:01:30.74,Default,,0,0,0,karaoke,{\k38}Tìm {\k22}được {\k56}nhau {\k55}khó {\k23}thế {\k155}nào?
+Comment: 0,0:01:30.83,0:01:35.49,Default,,0,0,0,karaoke,{\k42}Điều {\k36}gì {\k78}đau {\k78}lòng {\k35}hơn {\k49}mất {\k148}em
+Comment: 0,0:01:35.59,0:01:40.21,Default,,0,0,0,karaoke,{\k39}Anh {\k40}đã {\k37}khóc {\k37}cho {\k47}chuyện {\k41}tình {\k23}ta {\k97}mỗi {\k101}đêm
+Comment: 0,0:01:40.41,0:01:45.06,Default,,0,0,0,karaoke,{\k35}Để {\k42}em {\k41}bước {\k38}đi {\k41}ngàn {\k36}lần {\k41}không {\k40}thể {\k44}thứ {\k107}tha
+Comment: 0,0:01:45.22,0:01:49.90,Default,,0,0,0,karaoke,{\k36}Mất {\k36}em {\k44}chỉ {\k32}một {\k92}lần {\k38}anh {\k36}mất {\k43}em {\k41}mãi {\k70}mãi
+Comment: 0,0:01:50.02,0:01:54.78,Default,,0,0,0,karaoke,{\k33}Thời {\k37}gian {\k50}chẳng {\k38}thể {\k37}hàn {\k35}gắn {\k42}những {\k44}vết {\k160}thương
+Comment: 0,0:01:54.82,0:01:59.45,Default,,0,0,0,karaoke,{\k36}Từng {\k39}không {\k40}muốn {\k38}tin {\k43}mà {\k39}cuối {\k39}cùng {\k22}cũng {\k67}phải {\k100}tin
+Comment: 0,0:01:59.54,0:02:04.21,Default,,0,0,0,karaoke,{\k48}Nỗi {\k42}cô {\k45}đơn {\k32}nặng {\k74}nề {\k41}biết {\k42}em {\k36}quên {\k47}anh {\k61}rồi
+Comment: 0,0:02:04.26,0:02:09.01,Default,,0,0,0,karaoke,{\k53}Dù {\k36}không {\k42}thấy {\k40}nhưng {\k44}tim {\k38}anh {\k37}có {\k36}thể {\k149}thấu
+Comment: 0,0:02:09.17,0:02:13.55,Default,,0,0,0,karaoke,{\k37}Những {\k38}âm {\k44}thanh {\k41}em {\k37}đang {\k33}cười {\k53}vui {\k42}bên {\k113}ai
+Comment: 0,0:02:13.85,0:02:23.51,Default,,0,0,0,karaoke,{\k47}Vết {\k27}thương {\k165}xưa {\k75}trong {\k129}lòng {\k46}đã {\k43}sâu {\k38}càng {\k277}thêm {\k286}sâu
+Comment: 0,0:02:23.52,0:02:31.61,Default-furigana,,0,0,0,karaoke,{\k45}Dù {\k44}biết {\k185}trước {\k51}sẽ {\k41}đớn {\k79}đau {\k40}nếu {\k32}mai {\k52}ta {\k35}rời {\k205}nhau
+Comment: 0,0:02:33.09,0:02:43.04,Default-furigana,,0,0,0,karaoke,{\k48}Duyên {\k43}tình {\k35}quá {\k123}ngắn, {\k36}mình {\k43}có {\k73}nhau {\k85}chẳng {\k85}được {\k424}lâu
+Comment: 0,0:02:43.08,0:02:47.80,Default-furigana,,0,0,0,karaoke,{\k28}Em {\k24}đã {\k45}níu {\k39}lấy {\k76}tay {\k30}anh {\k50}và {\k180}khóc
+Comment: 0,0:02:48.01,0:02:52.47,Default-furigana,,0,0,0,karaoke,{\k23}Mà {\k29}anh {\k27}phải {\k44}nhẫn {\k34}tâm {\k47}không {\k30}được {\k44}nhìn {\k168}em
+Comment: 0,0:02:52.62,0:02:57.34,Default-furigana,,0,0,0,karaoke,{\k39}Lời {\k19}em {\k48}nói {\k33}khiến {\k38}anh {\k36}không {\k43}cầm {\k26}được {\k41}nước {\k149}mắt
+Comment: 0,0:02:57.42,0:03:02.02,Default-furigana,,0,0,0,karaoke,{\k33}Dù {\k25}cho {\k43}núi {\k30}sẽ {\k45}mòn {\k37}và {\k25}sông {\k81}sẽ {\k141}cạn
+Comment: 0,0:03:02.41,0:03:07.06,Default-furigana,,0,0,0,karaoke,{\k21}Lòng {\k26}anh {\k41}vẫn {\k30}không {\k71}quên {\k37}được {\k49}ngày {\k190}xưa
+Comment: 0,0:03:07.17,0:03:11.75,Default-furigana,,0,0,0,karaoke,{\k18}Anh {\k21}đã {\k44}hứa {\k36}bên {\k79}em {\k44}để {\k42}che {\k174}chở
+Comment: 0,0:03:11.97,0:03:16.30,Default-furigana,,0,0,0,karaoke,{\k24}Tại {\k18}sao {\k44}vẫn {\k35}yêu {\k35}em {\k26}mà {\k57}phải {\k41}mất {\k153}em
+Comment: 0,0:03:16.35,0:03:21.05,Default-furigana,,0,0,0,karaoke,{\k45}Anh {\k35}đã {\k38}khóc {\k39}cho {\k45}chuyện {\k42}tình {\k41}ta {\k63}mỗi {\k122}đêm
+Comment: 0,0:03:21.17,0:03:25.89,Default-furigana,,0,0,0,karaoke,{\k35}Để {\k45}em {\k41}bước {\k35}đi {\k39}ngàn {\k43}lần {\k40}không {\k41}thể {\k40}thứ {\k113}tha
+Comment: 0,0:03:26.00,0:03:30.70,Default-furigana,,0,0,0,karaoke,{\k32}Mất {\k41}em {\k42}chỉ {\k37}một {\k89}lần {\k36}anh {\k37}mất {\k33}em {\k49}mãi {\k74}mãi
+Comment: 0,0:03:30.77,0:03:35.49,Default-furigana,,0,0,0,karaoke,{\k44}Thời {\k31}gian {\k47}chẳng {\k39}thể {\k38}hàn {\k39}gắn {\k43}những {\k39}vết {\k152}thương
+Comment: 0,0:03:35.59,0:03:40.29,Default-furigana,,0,0,0,karaoke,{\k36}Từng {\k39}không {\k40}muốn {\k38}tin {\k43}mà {\k39}cuối {\k39}cùng {\k22}cũng {\k67}phải {\k100}tin
+Comment: 0,0:03:40.33,0:03:46.29,Default-furigana,,0,0,0,karaoke,{\k48}Nỗi {\k42}cô {\k45}đơn {\k32}nặng {\k74}nề {\k41}biết {\k42}em {\k36}xa {\k47}anh {\k61}rồi
+Comment: 0,0:03:46.39,0:03:55.81,Default-furigana,,0,0,0,karaoke,{\k40}Một {\k46}ký {\k40}ức {\k43}đã {\k32}từng {\k133}rất {\k144}đẹp {\k40}đã {\k39}kết {\k39}thúc {\k42}khi {\k39}em {\k81}về {\k40}bên {\k144} ai
+Comment: 0,0:03:55.97,0:03:59.45,Default-furigana,,0,0,0,karaoke,{\k37}Tìm {\k26}được {\k43}nhau {\k89}khó {\k54}thế {\k99}nào
+Comment: 0,0:03:59.49,0:04:04.40,Default-furigana,,0,0,0,karaoke,{\k44}Thời {\k31}gian {\k47}chẳng {\k48}thể {\k39}hàn {\k36}gắn {\k43}những {\k36}vết {\k167}thương
+Comment: 0,0:04:04.54,0:04:09.01,Default-furigana,,0,0,0,karaoke,{\k36}Từng {\k26}không {\k39}muốn {\k40}tin {\k42}mà {\k30}cuối {\k45}cùng {\k38}cũng {\k51}phải {\k100}tin
+Comment: 0,0:04:09.08,0:04:16.27,Default-furigana,,0,0,0,karaoke,{\k48}Nỗi {\k42}cô {\k39}đơn {\k38}nặng {\k74}nề {\k41}biết {\k34}em {\k58}xa {\k33}anh {\k312}mãi
+Comment: 0,0:04:17.17,0:04:29.72,Default-furigana,,0,0,0,karaoke,{\k109}Từ {\k123}đó {\k40}thấy {\k47}em {\k45}trong {\k39}mơ {\k42}là {\k41}nước {\k141}mắt {\k83}rơi {\k133}mãi {\k85}không {\k327}ngừng...
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

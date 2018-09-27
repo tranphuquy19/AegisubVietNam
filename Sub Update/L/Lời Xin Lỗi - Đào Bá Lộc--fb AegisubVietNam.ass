@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: Lời Xin Lỗi Đào Bá Lộc, Nghe Tải Bài Hát MP3 320 kbps _ 307906.mp3
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 2928
+Video File: ?dummy:23.976000:40000:1280:720:0:1:2:c
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,UVF A Charming Font Expanded,60,&H00FFFFFF,&H000000FF,&H00138E0E,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:32.11,0:00:39.02,Default,,0000,0000,0000,,Làm sao ta bên nhau người hỡi, qua đêm nay rồi thôi.
+Dialogue: 0,0:00:39.78,0:00:43.18,Default,,0000,0000,0000,,Từ đây anh cô đơn, buồn đau như mưa tuôn.
+Dialogue: 0,0:00:43.68,0:00:50.27,Default,,0000,0000,0000,,Lẻ loi chỉ mình anh biết, phải vì đôi ta yêu nhau vội vã?
+Dialogue: 0,0:00:51.13,0:00:56.04,Default,,0000,0000,0000,,Hay tim chưa sâu đậm quá, tình yêu bay như mây bay.
+Dialogue: 0,0:00:56.56,0:01:03.37,Default,,0000,0000,0000,,Hờ hững trôi qua tay, đến khi tìm lại mới đắng cay.
+Dialogue: 0,0:01:03.85,0:01:11.08,Default,,0000,0000,0000,,Này em ơi xin đừng quay bước vội, dù yêu thương xưa hết rồi.
+Dialogue: 0,0:01:11.08,0:01:18.35,Default,,0000,0000,0000,,Vì anh đã lỡ vô tâm ngày tháng qua, để em buông tay từ giã.
+Dialogue: 0,0:01:18.69,0:01:25.99,Default,,0000,0000,0000,,Này em ơi xin đừng quay bước vội, anh đây đã đau lắm rồi.
+Dialogue: 0,0:01:26.20,0:01:32.98,Default,,0000,0000,0000,,Người ơi hãy để cho anh lần nữa thôi, được ôm em lần sau cuối.
+Dialogue: 0,0:01:33.23,0:01:37.48,Default,,0000,0000,0000,,Và nói một lời.
+Dialogue: 0,0:02:07.71,0:02:14.62,Default,,0000,0000,0000,,Làm sao ta bên nhau người hỡi, qua đêm nay rồi thôi.
+Dialogue: 0,0:02:15.38,0:02:18.78,Default,,0000,0000,0000,,Từ đây anh cô đơn, buồn đau như mưa tuôn.
+Dialogue: 0,0:02:19.28,0:02:25.87,Default,,0000,0000,0000,,Lẻ loi chỉ mình anh biết, phải vì đôi ta yêu nhau vội vã?
+Dialogue: 0,0:02:26.73,0:02:31.64,Default,,0000,0000,0000,,Hay tim chưa sâu đậm quá, tình yêu bay như mây bay.
+Dialogue: 0,0:02:32.16,0:02:38.97,Default,,0000,0000,0000,,Hờ hững trôi qua tay, đến khi tìm lại mới đắng cay.
+Dialogue: 0,0:02:39.45,0:02:46.68,Default,,0000,0000,0000,,Này em ơi xin đừng quay bước vội, dù yêu thương xưa hết rồi.
+Dialogue: 0,0:02:46.68,0:02:53.95,Default,,0000,0000,0000,,Vì anh đã lỡ vô tâm ngày tháng qua, để em buông tay từ giã.
+Dialogue: 0,0:02:54.29,0:03:01.59,Default,,0000,0000,0000,,Này em ơi xin đừng quay bước vội, anh đây đã đau lắm rồi.
+Dialogue: 0,0:03:01.80,0:03:08.58,Default,,0000,0000,0000,,Người ơi hãy để cho anh lần nữa thôi, được ôm em lần sau cuối.
+Dialogue: 0,0:03:08.83,0:03:13.08,Default,,0000,0000,0000,,Và nói một lời.
+Dialogue: 0,0:03:13.26,0:03:20.01,Default,,0000,0000,0000,,Này em ơi xin đừng quay bước vội, dù yêu thương xưa hết rồi.
+Dialogue: 0,0:03:20.49,0:03:28.05,Default,,0000,0000,0000,,Vì anh đã lỡ vô tâm ngày tháng qua, để em buông tay từ giã.
+Dialogue: 0,0:03:28.05,0:03:35.09,Default,,0000,0000,0000,,Này em ơi xin đừng quay bước vội, anh đây đã đau lắm rồi.
+Dialogue: 0,0:03:35.45,0:03:42.46,Default,,0000,0000,0000,,Người ơi hãy để cho anh lần nữa thôi, được ôm em lần sau cuối.
+Dialogue: 0,0:03:42.46,0:03:52.56,Default,,0000,0000,0000,,Và nói một lời.
+Dialogue: 0,0:03:52.56,0:03:54.56,Default,,0000,0000,0000,,

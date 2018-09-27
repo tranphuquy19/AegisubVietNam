@@ -1,0 +1,129 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_FILTER DIALOGEX 0, 0, 289, 182
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "filter: red/green/blue adjust"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,63,161,48,14,WS_GROUP
+    PUSHBUTTON      "Cancel",IDCANCEL,235,161,47,14
+    LTEXT           "R",IDC_STATIC,7,10,8,8
+    LTEXT           "G",IDC_STATIC,7,34,8,8
+    LTEXT           "B",IDC_STATIC,7,57,8,8
+    PUSHBUTTON      "Help",IDHELP,118,161,47,14
+    CONTROL         "Slider1",IDC_RED,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_NOTICKS | WS_TABSTOP,37,7,217,14
+    CONTROL         "Slider1",IDC_GREEN,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_NOTICKS | WS_TABSTOP,37,30,217,18
+    CONTROL         "Slider1",IDC_BLUE,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_NOTICKS | WS_TABSTOP,37,53,217,16
+    PUSHBUTTON      "x 1",IDC_ZEROR,20,8,15,12,BS_BOTTOM
+    PUSHBUTTON      "x 1",IDC_ZEROB,20,54,15,13,BS_CENTER | BS_BOTTOM
+    PUSHBUTTON      "x 1",IDC_ZEROG,20,31,15,12,BS_CENTER | BS_BOTTOM
+    DEFPUSHBUTTON   "Show preview",IDPREVIEW,7,161,48,14,WS_GROUP
+    EDITTEXT        IDC_REDVAL,256,10,26,12,ES_RIGHT | ES_READONLY | NOT 
+                    WS_BORDER | NOT WS_TABSTOP
+    EDITTEXT        IDC_GREENVAL,260,32,22,12,ES_RIGHT | ES_READONLY | NOT 
+                    WS_BORDER | NOT WS_TABSTOP
+    EDITTEXT        IDC_BLUEVAL,259,56,22,12,ES_RIGHT | ES_READONLY | NOT 
+                    WS_BORDER | NOT WS_TABSTOP
+    CONTROL         "Slider1",IDC_SAT,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_NOTICKS | WS_TABSTOP,7,96,275,16
+    LTEXT           "Saturation",IDC_STATIC,7,82,43,8
+    PUSHBUTTON      "100%",IDC_ZEROSAT,51,80,31,13,BS_CENTER | BS_BOTTOM
+    EDITTEXT        IDC_SATVAL,260,82,22,12,ES_RIGHT | ES_READONLY | NOT 
+                    WS_BORDER | NOT WS_TABSTOP
+    CONTROL         "Slider1",IDC_CONTRAST,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    TBS_NOTICKS | WS_TABSTOP,7,135,275,16
+    LTEXT           "Contrast",IDC_STATIC,7,121,43,8
+    PUSHBUTTON      "100%",IDC_ZEROCONTRAST,51,119,31,13,BS_CENTER | 
+                    BS_BOTTOM
+    LTEXT           "Static",IDC_CONTRASTVAL,261,124,21,9,0,WS_EX_RIGHT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_FILTER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 282
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 175
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

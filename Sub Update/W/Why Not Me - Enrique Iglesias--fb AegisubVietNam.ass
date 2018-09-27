@@ -1,0 +1,111 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: Why Not Me - Enrique Iglesias.mp3
+Video File: D:\My Documents\25.avi
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.75,0:00:15.59,Default,,0000,0000,0000,karaoke,{\k58}Escaping {\k50}nights {\k62}without {\k69}you {\k32}with {\k46}shadows {\k36}on {\k26}the {\k105}wall
+Dialogue: 0,0:00:15.59,0:00:20.41,Default,,0000,0000,0000,karaoke,{\k31}My {\k44}mind {\k15}is {\k48}running {\k59}wild {\k44}tryin {\k30}hard {\k58}not {\k37}to {\k116}fall
+Dialogue: 0,0:00:20.41,0:00:24.95,Default,,0000,0000,0000,karaoke,{\k34}You {\k32}told {\k24}me {\k27}that {\k31}you {\k22}love {\k72}me {\k21}but {\k25}say {\k28}I’m {\k48}just {\k21}a {\k69}friend
+Dialogue: 0,0:00:24.95,0:00:28.54,Default,,0000,0000,0000,karaoke,{\k61}my {\k29}heart {\k17}is {\k62}broken {\k53}up {\k52}into {\k85}pieces
+Dialogue: 0,0:00:28.54,0:00:32.51,Default,,0000,0000,0000,karaoke,{\k39}Cos {\k25}i {\k96}know {\k30}i’ll {\k54}never {\k34}free {\k25}my {\k94}soul
+Dialogue: 0,0:00:32.51,0:00:37.36,Default,,0000,0000,0000,karaoke,{\k22}it’s {\k67}trapped {\k82}between {\k41}true {\k42}love {\k24}and {\k53}being {\k154}alone
+Dialogue: 0,0:00:37.64,0:00:42.38,Default,,0000,0000,0000,karaoke,{\k39}When {\k28}my {\k28}eyes {\k28}are {\k101}closed {\k24}the {\k57}greatest {\k59}story {\k110}told
+Dialogue: 0,0:00:42.38,0:00:48.40,Default,,0000,0000,0000,karaoke,{\k23}I {\k27}woke {\k26}and {\k31}my {\k58}dreams {\k18}are {\k75}shattered {\k40}here {\k23}on {\k29}the {\k252}floor
+Dialogue: 0,0:00:48.40,0:00:53.25,Default,,0000,0000,0000,karaoke,{\k82}Why {\k62}oh {\k42}why {\k45}tell {\k31}me {\k63}why {\k46}not {\k114}me
+Dialogue: 0,0:00:53.25,0:00:57.59,Default,,0000,0000,0000,karaoke,{\k68}Why {\k66}oh {\k59}why {\k32}we {\k40}were {\k39}meant {\k81}to {\k49}be
+Dialogue: 0,0:00:57.59,0:01:03.04,Default,,0000,0000,0000,karaoke,{\k67}Baby {\k50}i {\k70}know {\k59}i {\k36}could {\k29}be {\k63}all {\k49}you {\k122}need
+Dialogue: 0,0:01:03.04,0:01:07.08,Default,,0000,0000,0000,karaoke,{\k55}Why {\k48}oh {\k75}why {\k66}oh {\k160}why
+Dialogue: 0,0:01:07.08,0:01:09.45,Default,,0000,0000,0000,karaoke,{\k30}I {\k36}wanna {\k84}love {\k87}you
+Dialogue: 0,0:01:09.45,0:01:14.86,Default,,0000,0000,0000,karaoke,{\k94}if {\k48}you {\k39}only {\k69}knew {\k27}how {\k25}much {\k36}i {\k61}love {\k142}you
+Dialogue: 0,0:01:14.88,0:01:18.65,Default,,0000,0000,0000,karaoke,{\k39}So {\k45}why {\k45}not {\k248}me
+Dialogue: 0,0:01:18.65,0:01:23.52,Default,,0000,0000,0000,karaoke,{\k31}The {\k21}day {\k51}after {\k161}tomorrow {\k34}I’ll {\k23}still {\k42}be {\k124}around
+Dialogue: 0,0:01:23.52,0:01:27.95,Default,,0000,0000,0000,karaoke,{\k28}To {\k25}catch {\k27}you {\k22}when {\k39}you {\k63}fall {\k32}and {\k59}ever {\k27}let {\k36}you {\k85}down
+Dialogue: 0,0:01:28.29,0:01:33.23,Default,,0000,0000,0000,karaoke,{\k33}you {\k31}say {\k19}that {\k34}we’re {\k127}forever {\k27}our {\k35}love {\k20}will {\k39}never {\k129}end
+Dialogue: 0,0:01:33.23,0:01:38.00,Default,,0000,0000,0000,karaoke,{\k20}I’ve {\k48}tried {\k31}to {\k22}come {\k65}up {\k50}but {\k31}it’s {\k56}drowning {\k34}me {\k29}to {\k91}know
+Dialogue: 0,0:01:38.03,0:01:40.72,Default,,0000,0000,0000,karaoke,{\k27}you’ll {\k57}never {\k38}feel {\k23}my {\k124}soul
+Dialogue: 0,0:01:40.72,0:01:45.54,Default,,0000,0000,0000,karaoke,{\k17}It’s {\k42}trapped {\k77}between {\k37}true {\k40}love {\k33}and {\k53}being {\k183}alone
+Dialogue: 0,0:01:45.54,0:01:50.39,Default,,0000,0000,0000,karaoke,{\k31}when {\k33}my {\k40}eyes {\k19}are {\k103}closed {\k24}the {\k55}greatest {\k58}story {\k122}told
+Dialogue: 0,0:01:50.39,0:01:55.19,Default,,0000,0000,0000,karaoke,{\k13}i {\k25}woke {\k26}and {\k29}my {\k62}dreams {\k18}are {\k73}shattered {\k56}here {\k35}on {\k32}the {\k111}floor
+Dialogue: 0,0:01:55.19,0:02:01.13,Default,,0000,0000,0000,karaoke,{\k44}Tell {\k23}me {\k58}baby {\k60}why {\k63}oh {\k47}why {\k34}tell {\k40}me {\k66}why {\k40}not {\k119}me
+Dialogue: 0,0:02:01.13,0:02:05.47,Default,,0000,0000,0000,karaoke,{\k61}Why {\k71}oh {\k74}why {\k26}we {\k29}were {\k46}meant {\k42}to {\k85}be
+Dialogue: 0,0:02:05.47,0:02:10.86,Default,,0000,0000,0000,karaoke,{\k68}Baby {\k47}i {\k70}know {\k59}i {\k34}could {\k31}be {\k64}all {\k52}you {\k114}need
+Dialogue: 0,0:02:10.86,0:02:14.83,Default,,0000,0000,0000,karaoke,{\k69}why {\k56}oh {\k73}why {\k56}oh {\k143}why
+Dialogue: 0,0:02:14.83,0:02:17.96,Default,,0000,0000,0000,karaoke,{\k39}I {\k66}wanna {\k60}love {\k148}you
+Dialogue: 0,0:02:17.96,0:02:22.50,Default,,0000,0000,0000,karaoke,{\k27}if {\k39}you {\k57}only {\k66}knew {\k27}how {\k26}much {\k32}i {\k64}love {\k116}you
+Dialogue: 0,0:02:22.76,0:02:25.35,Default,,0000,0000,0000,karaoke,{\k33}So {\k39}why {\k56}not {\k131}me
+Dialogue: 0,0:02:25.35,0:02:30.37,Default,,0000,0000,0000,karaoke,{\k138}You {\k29}won’t {\k57}ever {\k278}know
+Dialogue: 0,0:02:30.37,0:02:35.15,Default,,0000,0000,0000,karaoke,{\k112}How {\k46}far {\k29}we {\k33}can {\k115}go {\k143}(go)
+Dialogue: 0,0:02:35.15,0:02:40.08,Default,,0000,0000,0000,karaoke,{\k123}You {\k44}won’t {\k45}ever {\k281}know
+Dialogue: 0,0:02:40.08,0:02:44.82,Default,,0000,0000,0000,karaoke,{\k117}How {\k39}far {\k30}we {\k34}can {\k113}go {\k141}(go)
+Dialogue: 0,0:02:44.82,0:02:49.61,Default,,0000,0000,0000,karaoke,{\k66}Why {\k50}oh {\k66}why {\k47}tell {\k27}me {\k58}why {\k54}not {\k111}me
+Dialogue: 0,0:02:49.61,0:02:53.93,Default,,0000,0000,0000,karaoke,{\k71}why {\k39}oh {\k64}why {\k22}we {\k33}were {\k84}meant {\k68}to {\k51}be
+Dialogue: 0,0:02:53.93,0:02:59.28,Default,,0000,0000,0000,karaoke,{\k70}Baby {\k37}I {\k76}know {\k54}I {\k40}could {\k40}be {\k52}all {\k53}you {\k113}need
+Dialogue: 0,0:02:59.28,0:03:04.19,Default,,0000,0000,0000,karaoke,{\k55}Why {\k64}oh {\k83}why {\k62}oh {\k227}why
+Dialogue: 0,0:03:04.19,0:03:08.99,Default,,0000,0000,0000,karaoke,{\k74}Why {\k61}oh {\k47}why {\k44}tell {\k32}me {\k43}why {\k67}not {\k112}me
+Dialogue: 0,0:03:08.99,0:03:13.29,Default,,0000,0000,0000,karaoke,{\k70}Why {\k39}oh {\k78}why {\k37}we {\k30}were {\k73}meant {\k58}to {\k45}be
+Dialogue: 0,0:03:13.29,0:03:18.77,Default,,0000,0000,0000,karaoke,{\k76}Baby {\k43}I {\k68}know {\k57}I {\k33}could {\k40}be {\k35}all {\k73}you {\k123}need
+Dialogue: 0,0:03:18.77,0:03:22.84,Default,,0000,0000,0000,karaoke,{\k52}Why {\k56}oh {\k73}why {\k54}oh {\k172}why
+Dialogue: 0,0:03:22.84,0:03:25.82,Default,,0000,0000,0000,karaoke,{\k23}I {\k38}wanna {\k88}love {\k149}you
+Dialogue: 0,0:03:25.82,0:03:30.43,Default,,0000,0000,0000,karaoke,{\k29}If {\k54}you {\k44}only {\k65}knew {\k23}how {\k28}much {\k37}I {\k58}love {\k123}you
+Dialogue: 0,0:03:30.43,0:03:33.70,Default,,0000,0000,0000,karaoke,{\k56}so {\k36}why {\k57}not {\k178}me
+Dialogue: 0,0:03:33.70,0:03:39.98,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:10.75,0:00:15.59,Default,,0000,0000,0000,,Cố gắng thoát khỏi những đêm dài vắng em, Chỉ mình anh với chiếc bóng trên tường
+Dialogue: 0,0:00:15.59,0:00:20.41,Default,,0000,0000,0000,,Lòng anh day dứt không yên, chỉ cố gắng không ngã quỵ
+Dialogue: 0,0:00:20.41,0:00:24.95,Default,,0000,0000,0000,,Em bảo rẳng em yêu anh, nhưng rồi em lại nói anh chỉ là một người bạn
+Dialogue: 0,0:00:24.95,0:00:28.54,Default,,0000,0000,0000,,Trái tim anh nát tan thành nghìn mảnh
+Dialogue: 0,0:00:28.54,0:00:32.51,Default,,0000,0000,0000,,Bởi anh biết tâm hồn anh chẳng bao giơ được bình yên
+Dialogue: 0,0:00:32.51,0:00:37.36,Default,,0000,0000,0000,,Cứ mãi phân vân tìm kiến tình yêu đích thực hay mãi chìm trong cô đơn
+Dialogue: 0,0:00:37.64,0:00:42.38,Default,,0000,0000,0000,,Khi anh chợp mắt thì câu chuyện tuyệt vời nhất lại hiện ra
+Dialogue: 0,0:00:42.38,0:00:48.40,Default,,0000,0000,0000,,Anh thức dậy và giấc mơ của anh lại tan thành mây khói
+Dialogue: 0,0:00:48.40,0:00:53.25,Default,,0000,0000,0000,,Tại sao chứ? Nói anh nghe tại sao lại không phải là anh
+Dialogue: 0,0:00:53.25,0:00:57.59,Default,,0000,0000,0000,,Tại sao chứ? Chúng mình đã từng thuộc về nhau mà
+Dialogue: 0,0:00:57.59,0:01:03.04,Default,,0000,0000,0000,,Em yêu à, anh biết mình có thể là tất cả những gì em cần
+Dialogue: 0,0:01:03.04,0:01:07.08,Default,,0000,0000,0000,,Tại sao, tại sao chứ?
+Dialogue: 0,0:01:07.08,0:01:09.45,Default,,0000,0000,0000,,Anh mong được yêu em
+Dialogue: 0,0:01:09.45,0:01:14.86,Default,,0000,0000,0000,,Giá mà em hiểu được anh yêu em đến nhường nào
+Dialogue: 0,0:01:14.88,0:01:18.65,Default,,0000,0000,0000,,Vậy thì tại sao lại không phải là anh?
+Dialogue: 0,0:01:18.65,0:01:23.52,Default,,0000,0000,0000,,Rồi mai đây anh vẫn sẽ ở bên
+Dialogue: 0,0:01:23.52,0:01:27.95,Default,,0000,0000,0000,,để đỡ lấy em khi em gục ngã và chẳng bao giờ làm em buồn
+Dialogue: 0,0:01:28.29,0:01:33.23,Default,,0000,0000,0000,,Em nói rằng chúng ta mãi mãi bên nhau, Tình yêu chúng mình là bất diệt
+Dialogue: 0,0:01:33.23,0:01:38.00,Default,,0000,0000,0000,,Anh đã cố gắng gượng dậy nhưng rồi anh lại ngã quỵ khi biết rằng
+Dialogue: 0,0:01:38.03,0:01:40.72,Default,,0000,0000,0000,,Em sẽ chẳng bao giờ thấu hiểu lòng anh
+Dialogue: 0,0:01:40.72,0:01:45.54,Default,,0000,0000,0000,,Cứ mãi phân vân tìm kiếm tình yêu đích thực hay mãi chìm trong cô đơn
+Dialogue: 0,0:01:45.54,0:01:50.39,Default,,0000,0000,0000,,Khi anh chợp mắt thì câu chuyện tuyệt vời nhất lại hiện ra
+Dialogue: 0,0:01:50.39,0:01:55.19,Default,,0000,0000,0000,,Anh thức dậy và giấc mơ của anh lại tan thành mây khói
+Dialogue: 0,0:01:55.19,0:02:01.13,Default,,0000,0000,0000,,Em yêu hãy nói anh nghe, Tại sao chứ? Nói anh nghe tại sao lại không phải là anh
+Dialogue: 0,0:02:01.13,0:02:05.47,Default,,0000,0000,0000,,Tại sao chứ? Chúng mình đã từng thuộc về nhau mà
+Dialogue: 0,0:02:05.47,0:02:10.86,Default,,0000,0000,0000,,Em yêu à, anh biết mình có thể là tất cả những gì em cần
+Dialogue: 0,0:02:10.86,0:02:14.83,Default,,0000,0000,0000,,Tại sao, tại sao chứ?
+Dialogue: 0,0:02:14.83,0:02:17.96,Default,,0000,0000,0000,,Anh mong được yêu em
+Dialogue: 0,0:02:17.96,0:02:22.50,Default,,0000,0000,0000,,Giá mà em hiểu được anh yêu em đến nhường nào
+Dialogue: 0,0:02:22.76,0:02:25.35,Default,,0000,0000,0000,,Vậy thì tại sao lại không phải là anh?
+Dialogue: 0,0:02:25.35,0:02:30.37,Default,,0000,0000,0000,,Em chẳng bao giờ hay biết
+Dialogue: 0,0:02:30.37,0:02:35.15,Default,,0000,0000,0000,,Chuyện chúng mình có thể tiến xa đến đâu
+Dialogue: 0,0:02:35.15,0:02:40.08,Default,,0000,0000,0000,,Em chẳng bao giờ hay biết
+Dialogue: 0,0:02:40.08,0:02:44.82,Default,,0000,0000,0000,,Chuyện chúng mình có thể tiến xa đến đâu
+Dialogue: 0,0:02:44.82,0:02:49.61,Default,,0000,0000,0000,,Tại sao chứ? Nói anh nghe tại sao lại không phải là anh
+Dialogue: 0,0:02:49.61,0:02:53.93,Default,,0000,0000,0000,,Tại sao chứ? Nói anh nghe tại sao lại không phải là anh
+Dialogue: 0,0:02:53.93,0:02:59.28,Default,,0000,0000,0000,,Em yêu à, anh biết mình có thể là tất cả những gì em cần
+Dialogue: 0,0:02:59.28,0:03:04.19,Default,,0000,0000,0000,,Tại sao, tại sao chứ?
+Dialogue: 0,0:03:04.19,0:03:08.99,Default,,0000,0000,0000,,Tại sao chứ? Nói anh nghe tại sao lại không phải là anh
+Dialogue: 0,0:03:08.99,0:03:13.29,Default,,0000,0000,0000,,Tại sao chứ? Chúng mình đã từng thuộc về nhau mà
+Dialogue: 0,0:03:13.29,0:03:18.77,Default,,0000,0000,0000,,Em yêu à, anh biết mình có thể là tất cả những gì em cần
+Dialogue: 0,0:03:18.77,0:03:22.84,Default,,0000,0000,0000,,Tại sao, tại sao chứ?
+Dialogue: 0,0:03:22.84,0:03:25.82,Default,,0000,0000,0000,,Anh mong được yêu em
+Dialogue: 0,0:03:25.82,0:03:30.43,Default,,0000,0000,0000,,Giá mà em hiểu được anh yêu em đến nhường nào
+Dialogue: 0,0:03:30.43,0:03:33.70,Default,,0000,0000,0000,,Vậy thì tại sao lại không phải là anh?
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

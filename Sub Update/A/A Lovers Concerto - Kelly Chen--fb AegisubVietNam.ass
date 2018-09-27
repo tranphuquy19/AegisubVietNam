@@ -1,0 +1,52 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 852
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: ..\..\3.MUSIC\A Lover's Concerto - Kelly Chen.mp3
+Video File: ..\..\5. CLIP NHAC\tim lai bau troi.mp4
+Video Aspect Ratio: 0
+Video Zoom: 5
+Video Position: 4742
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,13,13,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.66,0:00:05.75,Default,,0000,0000,0000,,{\k154}How {\k47}gen{\k62}tle {\k28}is {\k23}the {\k195}rain
+Dialogue: 0,0:00:06.84,0:00:12.82,Default,,0000,0000,0000,,{\k58}That {\k114}falls {\k71}soft{\k37}ly {\k34}on {\k43}the {\k144}mea{\k97}dow
+Dialogue: 0,0:00:15.46,0:00:19.91,Default,,0000,0000,0000,,{\k166}Birds {\k53}high {\k37}up {\k35}on {\k21}the {\k133}trees
+Dialogue: 0,0:00:21.05,0:00:27.83,Default,,0000,0000,0000,,{\k67}Se{\k40}re{\k37}nade {\k29}the {\k176}clouds {\k55}with {\k42}their {\k34}me{\k58}lo{\k140}dy
+Dialogue: 0,0:00:30.72,0:00:34.83,Default,,0000,0000,0000,,{\k126}How {\k35}gen{\k45}tle {\k20}is {\k34}the {\k151}rain
+Dialogue: 0,0:00:35.05,0:00:40.11,Default,,0000,0000,0000,,{\k61}That {\k88}falls {\k57}soft{\k37}ly {\k25}on {\k31}the {\k117}mea{\k90}dow
+Dialogue: 0,0:00:40.43,0:00:43.76,Default,,0000,0000,0000,,{\k105}Birds {\k44}high {\k24}up {\k30}on {\k27}the {\k103}trees
+Dialogue: 0,0:00:43.97,0:00:48.81,Default,,0000,0000,0000,,{\k27}Se{\k26}re{\k41}nade {\k15}the {\k133}clouds {\k32}with {\k22}their {\k32}me{\k41}lo{\k115}dy
+Dialogue: 0,0:00:48.81,0:00:53.90,Default,,0000,0000,0000,,{\k99}Oh! {\k134}See {\k39}there {\k25}be{\k33}yond {\k30}the {\k149}hills
+Dialogue: 0,0:00:54.19,0:00:59.27,Default,,0000,0000,0000,,{\k53}The {\k122}bright {\k34}co{\k33}lors {\k31}of {\k33}the {\k95}rain{\k107}bow
+Dialogue: 0,0:00:59.42,0:01:02.89,Default,,0000,0000,0000,,{\k120}Some {\k39}ma{\k37}gic {\k35}from {\k25}a{\k91}bove
+Dialogue: 0,0:01:03.12,0:01:05.04,Default,,0000,0000,0000,,{\k35}Made {\k30}this {\k32}day {\k24}for {\k71}us
+Dialogue: 0,0:01:05.29,0:01:08.31,Default,,0000,0000,0000,,{\k84}Just {\k37}to {\k32}fall {\k19}in {\k130}love
+Dialogue: 0,0:01:09.12,0:01:13.06,Default,,0000,0000,0000,,{\k121}You {\k27}hold {\k35}me {\k28}in {\k31}your {\k152}arms
+Dialogue: 0,0:01:13.36,0:01:18.35,Default,,0000,0000,0000,,{\k42}And {\k129}say {\k67}once {\k25}again {\k29}you {\k112}love {\k95}me
+Dialogue: 0,0:01:18.46,0:01:22.01,Default,,0000,0000,0000,,{\k150}And {\k26}if {\k32}your {\k28}love {\k29}is {\k90}true
+Dialogue: 0,0:01:22.31,0:01:27.41,Default,,0000,0000,0000,,{\k15}E{\k41}very{\k31}thing {\k33}will {\k117}be {\k32}just {\k58}as {\k35}won{\k31}der{\k117}ful
+Dialogue: 0,0:01:27.41,0:01:35.89,Default,,0000,0000,0000,,Timer & Typesetter: Vũ Thành Tín
+Dialogue: 0,0:01:37.46,0:01:41.06,Default,,0000,0000,0000,,{\k132}Now, {\k22}I {\k28}be{\k41}long {\k44}to {\k93}you
+Dialogue: 0,0:01:41.70,0:01:46.80,Default,,0000,0000,0000,,{\k56}From {\k95}this {\k55}day {\k28}un{\k36}til {\k28}fo{\k88}re{\k124}ver
+Dialogue: 0,0:01:46.92,0:01:50.32,Default,,0000,0000,0000,,{\k103}Just {\k59}love {\k30}me {\k31}ten{\k24}der{\k93}ly
+Dialogue: 0,0:01:50.32,0:01:52.96,Default,,0000,0000,0000,,{\k53}And {\k37}I'll {\k28}give {\k27}to {\k119}you
+Dialogue: 0,0:01:52.96,0:01:55.02,Default,,0000,0000,0000,,{\k13}E{\k26}ve{\k26}ry {\k27}part {\k21}of {\k93}me
+Dialogue: 0,0:01:55.02,0:02:00.14,Default,,0000,0000,0000,,{\k150}Oh! {\k90}Don't {\k51}e{\k36}ver {\k33}make {\k34}me {\k118}cry
+Dialogue: 0,0:02:00.62,0:02:05.89,Default,,0000,0000,0000,,{\k161}Through {\k23}long {\k48}lonely {\k44}nights {\k32}with{\k108}out {\k111}love
+Dialogue: 0,0:02:05.98,0:02:09.31,Default,,0000,0000,0000,,{\k120}Be {\k30}al{\k27}ways {\k36}true {\k28}to {\k92}me
+Dialogue: 0,0:02:09.48,0:02:14.48,Default,,0000,0000,0000,,{\k36}Keep {\k27}this {\k30}day {\k27}in {\k91}your {\k73}heart {\k28}e{\k47}ter{\k29}nal{\k112}ly
+Dialogue: 0,0:02:15.26,0:02:19.25,Default,,0000,0000,0000,,{\k137}You {\k29}hold {\k32}me {\k16}in {\k40}your {\k145}arms
+Dialogue: 0,0:02:19.26,0:02:24.66,Default,,0000,0000,0000,,{\k74}And {\k135}say {\k39}on{\k17}ce {\k11}a{\k27}gain {\k40}you {\k81}love {\k116}me
+Dialogue: 0,0:02:24.96,0:02:28.23,Default,,0000,0000,0000,,{\k103}And {\k47}if {\k30}your {\k23}love {\k35}is {\k89}true
+Dialogue: 0,0:02:28.23,0:02:33.98,Default,,0000,0000,0000,,{\k57}E{\k27}very{\k39}thing {\k22}will {\k112}be {\k35}just {\k74}as {\k14}won{\k35}der{\k160}ful
+Dialogue: 0,0:02:33.98,0:02:35.98,Default,,0000,0000,0000,,

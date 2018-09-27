@@ -1,0 +1,68 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:11.40,0:00:13.84,Default,,0000,0000,0000,karaoke,{\k46}Baby {\k46}life {\k37}was {\k46}good {\k28}to {\k19}me
+Comment: 0,0:00:13.85,0:00:17.42,Default,,0000,0000,0000,karaoke,{\k31}But {\k42}you {\k35}just {\k34}made {\k31}it {\k184}better
+Comment: 0,0:00:22.14,0:00:24.92,Default,,0000,0000,0000,karaoke,{\k39}I {\k30}love {\k38}the {\k37}way {\k31}you {\k25}stand {\k45}by {\k33}me
+Comment: 0,0:00:24.93,0:00:28.74,Default,,0000,0000,0000,karaoke,{\k34}Through {\k67}any {\k35}kind {\k19}of {\k17}the {\k209}weather
+Comment: 0,0:00:31.66,0:00:34.46,Default,,0000,0000,0000,karaoke,{\k50}I {\k42}don't {\k28}wanna {\k38}run {\k122}away
+Comment: 0,0:00:34.91,0:00:37.58,Default,,0000,0000,0000,karaoke,{\k37}Just {\k34}wanna {\k33}make {\k36}your {\k127}day
+Comment: 0,0:00:38.36,0:00:40.14,Default,,0000,0000,0000,karaoke,{\k30}When {\k25}you {\k55}felt {\k21}the {\k47}world
+Comment: 0,0:00:40.14,0:00:42.66,Default,,0000,0000,0000,karaoke,{\k16}Is {\k61}on {\k19}your {\k156}shoulders
+Comment: 0,0:00:43.18,0:00:45.54,Default,,0000,0000,0000,karaoke,{\k33}Don't {\k37}wanna {\k29}make {\k41}it {\k96}worse
+Comment: 0,0:00:45.94,0:00:48.98,Default,,0000,0000,0000,karaoke,{\k36}Just {\k35}wanna {\k32}make {\k73}us {\k128}work
+Comment: 0,0:00:49.38,0:00:50.69,Default,,0000,0000,0000,karaoke,{\k55}Baby {\k55}tell {\k21}me
+Comment: 0,0:00:50.70,0:00:53.87,Default,,0000,0000,0000,karaoke,{\k42}I {\k34}will {\k39}do {\k203}whatever
+Comment: 0,0:00:53.88,0:01:00.18,Default,,0000,0000,0000,karaoke,{\k20}It {\k75}feels {\k67}like {\k74}nobody {\k64}ever {\k44}knew {\k36}me {\k34}until {\k37}you {\k68}knew {\k111}me
+Comment: 0,0:01:00.18,0:01:05.46,Default,,0000,0000,0000,karaoke,{\k58}Feels {\k36}like {\k61}nobody {\k55}ever {\k43}loved {\k39}me {\k38}until {\k44}you {\k65}loved {\k89}me
+Comment: 0,0:01:05.87,0:01:11.10,Default,,0000,0000,0000,karaoke,{\k43}Feels {\k34}like {\k54}nobody {\k74}ever {\k45}touched {\k27}me {\k41}until {\k41}you {\k95}touched {\k69}me
+Comment: 0,0:01:11.46,0:01:15.38,Default,,0000,0000,0000,karaoke,{\k104}Baby{\k138} nobody {\k150}nobody
+Comment: 0,0:01:15.38,0:01:17.82,Default,,0000,0000,0000,karaoke,{\k126}Until {\k118}you
+Comment: 0,0:01:23.30,0:01:29.30,Default,,0000,0000,0000,karaoke,{\k52}Baby {\k39}it {\k34}just {\k33}took {\k28}one {\k48}hit {\k18}of {\k48}you {\k33}now {\k70}i'm {\k197}addicted
+Comment: 0,0:01:33.74,0:01:36.26,Default,,0000,0000,0000,karaoke,{\k46}You {\k53}never {\k40}know {\k40}what's {\k73}missing
+Comment: 0,0:01:36.26,0:01:40.58,Default,,0000,0000,0000,karaoke,{\k17}Till {\k56}you {\k38}get {\k79}everything {\k15}you {\k75}need {\k152}yeah...
+Comment: 0,0:01:43.38,0:01:46.14,Default,,0000,0000,0000,karaoke,{\k45}I {\k40}don't {\k34}wanna {\k37}run {\k120}away
+Comment: 0,0:01:46.63,0:01:49.30,Default,,0000,0000,0000,karaoke,{\k35}Just {\k35}wanna {\k27}make {\k41}your {\k129}day
+Comment: 0,0:01:50.00,0:01:51.83,Default,,0000,0000,0000,karaoke,{\k36}When {\k38}you {\k42}feel {\k18}the {\k49}world
+Comment: 0,0:01:51.84,0:01:54.42,Default,,0000,0000,0000,karaoke,{\k21}Is {\k19}on {\k25}your {\k193}shoulders
+Comment: 0,0:01:54.74,0:01:57.26,Default,,0000,0000,0000,karaoke,{\k19}I {\k16}don't {\k51}wanna {\k35}make {\k35}it {\k96}worse
+Comment: 0,0:01:57.65,0:02:00.66,Default,,0000,0000,0000,karaoke,{\k36}Just {\k35}wanna {\k30}make {\k75}us {\k125}work
+Comment: 0,0:02:01.11,0:02:02.33,Default,,0000,0000,0000,karaoke,{\k41}Baby {\k41}tell {\k40}me
+Comment: 0,0:02:02.44,0:02:05.54,Default,,0000,0000,0000,karaoke,{\k75}I'll {\k49}do {\k186}whatever
+Comment: 0,0:02:05.54,0:02:12.07,Default,,0000,0000,0000,karaoke,{\k40}It {\k66}feels {\k68}like {\k70}nobody {\k71}ever {\k36}knew {\k33}me {\k35}until {\k33}you {\k95}knew {\k106}me
+Comment: 0,0:02:12.08,0:02:17.58,Default,,0000,0000,0000,karaoke,{\k35}Feels {\k41}like {\k56}nobody {\k72}ever {\k44}loved {\k35}me {\k36}until {\k33}you {\k94}loved {\k76}me
+Comment: 0,0:02:17.59,0:02:23.17,Default,,0000,0000,0000,karaoke,{\k33}Feels {\k42}like {\k69}nobody {\k61}ever {\k32}touched {\k42}me {\k40}until {\k43}you {\k86}touched {\k110}me
+Comment: 0,0:02:23.18,0:02:26.86,Default,,0000,0000,0000,karaoke,{\k108}Baby {\k135}nobody {\k125}nobody
+Comment: 0,0:02:27.58,0:02:30.02,Default,,0000,0000,0000,karaoke,{\k81}Until {\k163}you
+Comment: 0,0:02:35.94,0:02:38.34,Default,,0000,0000,0000,karaoke,{\k12}See {\k23}it {\k34}was {\k42}enough {\k25}to {\k104}know
+Comment: 0,0:02:38.34,0:02:41.14,Default,,0000,0000,0000,karaoke,{\k55}If {\k24}I {\k37}ever {\k40}let {\k25}you {\k99}go
+Comment: 0,0:02:42.30,0:02:44.94,Default,,0000,0000,0000,karaoke,{\k45}I {\k16}would {\k33}be {\k40}no {\k130}one
+Comment: 0,0:02:46.69,0:02:49.25,Default,,0000,0000,0000,karaoke,{\k20}Cos {\k21}I {\k55}never {\k31}thought {\k20}I'd {\k105}feel
+Comment: 0,0:02:49.46,0:02:52.10,Default,,0000,0000,0000,karaoke,{\k20}All {\k30}the {\k24}things {\k23}you {\k27}made {\k20}me {\k118}feel
+Comment: 0,0:02:52.91,0:02:56.02,Default,,0000,0000,0000,karaoke,{\k39}Wasn't {\k44}looking {\k24}for {\k48}some{\k145}one
+Comment: 0,0:03:00.78,0:03:03.14,Default,,0000,0000,0000,karaoke,{\k89}Until {\k147}you
+Comment: 0,0:03:03.55,0:03:09.78,Default,,0000,0000,0000,karaoke,{\k29}It {\k71}feels {\k71}like {\k57}nobody {\k53}ever {\k62}knew {\k31}me {\k39}until {\k40}you {\k90}knew {\k80}me
+Comment: 0,0:03:10.00,0:03:15.38,Default,,0000,0000,0000,karaoke,{\k42}Feels {\k38}like {\k72}nobody {\k67}ever {\k12}loved {\k50}me {\k39}until {\k39}you {\k85}loved {\k94}me
+Comment: 0,0:03:15.50,0:03:20.74,Default,,0000,0000,0000,karaoke,{\k32}Feels {\k49}like {\k55}nobody {\k74}ever {\k42}touched {\k31}me {\k38}until {\k37}you {\k95}touched {\k71}me
+Comment: 0,0:03:21.11,0:03:25.46,Default,,0000,0000,0000,karaoke,{\k105}Baby {\k137}nobody {\k193}nobody
+Comment: 0,0:03:25.46,0:03:31.98,Default,,0000,0000,0000,karaoke,{\k50}It {\k68}feels {\k68}like {\k57}nobody {\k73}ever {\k43}knew {\k30}me {\k40}until {\k39}you {\k95}knew {\k89}me
+Comment: 0,0:03:31.98,0:03:37.62,Default,,0000,0000,0000,karaoke,{\k53}Feels {\k35}like {\k68}nobody {\k62}ever {\k44}loved {\k29}me {\k37}until {\k37}you {\k104}loved {\k95}me
+Comment: 0,0:03:37.62,0:03:43.02,Default,,0000,0000,0000,karaoke,{\k42}Feels {\k33}like {\k79}nobody {\k50}ever {\k40}touched {\k33}me {\k39}until {\k39}you {\k95}touched {\k90}me
+Comment: 0,0:03:43.02,0:03:47.38,Default,,0000,0000,0000,karaoke,{\k128}Baby {\k132}nobody {\k176}nobody
+Comment: 0,0:03:49.66,0:03:53.98,Default,,0000,0000,0000,karaoke,{\k147}Nobody {\k285}Nobody
+Comment: 0,0:03:56.18,0:03:58.18,Default,,0000,0000,0000,karaoke,{\k100}Until {\k100}you
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

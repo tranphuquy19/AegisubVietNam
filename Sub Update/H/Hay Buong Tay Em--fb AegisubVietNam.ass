@@ -1,0 +1,50 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: ?video
+Video File: PHUNG KIM.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 7871
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,VNI 15 Chops,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.40,0:00:33.67,Default,,0000,0000,0000,karaoke,{\k99}Cöù {\k39}maõi {\k47}giaän {\k89}hôøn {\k40}nieàm {\k44}tin {\k70}ñaâu {\k199}anh
+Dialogue: 0,0:00:34.17,0:00:40.20,Default,,0000,0000,0000,karaoke,{\k99}Cöù {\k42}maõi {\k46}moûi {\k81}meät {\k25}buoàn {\k72}phieàn {\k29}chi {\k209}nöõa
+Dialogue: 0,0:00:41.23,0:00:47.07,Default,,0000,0000,0000,karaoke,{\k64}Chaúng {\k45}bieát {\k39}ngoït {\k83}buøi {\k28}ngaøy {\k56}xöa {\k87}nay {\k182}ñaâu
+Dialogue: 0,0:00:47.73,0:00:54.03,Default,,0000,0000,0000,karaoke,{\k87}Chæ {\k50}thaáy {\k45}loøng {\k83}ñaày {\k46}noåi {\k54}ñau {\k72}ngheïn {\k193}ngaøo
+Dialogue: 0,0:00:54.70,0:01:01.00,Default,,0000,0000,0000,karaoke,{\k71}Tieác {\k41}nhöõng {\k38}nuï {\k80}cöôøi {\k36}chaúng {\k61}coøn {\k37}vui {\k266}töôi
+Dialogue: 0,0:01:01.63,0:01:07.80,Default,,0000,0000,0000,karaoke,{\k52}Nöôùc {\k42}maét {\k43}ngaäm {\k77}nguøi {\k38}moät {\k32}mình {\k59}em {\k274}khoùc....
+Dialogue: 0,0:01:08.27,0:01:14.23,Default,,0000,0000,0000,karaoke,{\k55}Neáu {\k48}chaúng {\k36}coøn {\k79}gì {\k33}thì {\k25}buoâng {\k85}caùnh {\k235}tay
+Dialogue: 0,0:01:14.70,0:01:21.73,Default,,0000,0000,0000,karaoke,{\k88}Cho {\k32}em {\k58}phía {\k86}tröôùc {\k41}moät {\k45}mình {\k87}böôùc {\k266}ñi....
+Dialogue: 0,0:01:21.77,0:01:28.30,Default,,0000,0000,0000,karaoke,{\k66}Neáu {\k41}khoâng {\k39}laø {\k42}heïn {\k44}öôùc {\k44}em {\k33}ñaõ {\k53}chaúng {\k116}mô {\k53}thaät {\k122}nhieàu
+Dialogue: 0,0:01:28.47,0:01:34.90,Default,,0000,0000,0000,karaoke,{\k67}Neáu {\k47}khoâng {\k41}laø {\k23}cuûa {\k62}nhau {\k43}em {\k32}ñaõ {\k53}chaúng {\k116}ñau {\k53}vì {\k106}anh
+Dialogue: 0,0:01:35.07,0:01:41.47,Default,,0000,0000,0000,karaoke,{\k87}Neáu {\k42}nhö {\k40}lôøi {\k24}anh {\k55}höùa {\k49}em {\k33}ñaõ {\k54}chaúng {\k122}theâm {\k77}voâ {\k57}voïng
+Dialogue: 0,0:01:41.47,0:01:48.20,Default,,0000,0000,0000,karaoke,{\k56}Vaø {\k26}nhöõng {\k39}noåi {\k44}ñau {\k42}ngaøy {\k24}hoâm {\k59}qua {\k43}ñeán {\k45}khi {\k42}naøo {\k253}nguoâi..
+Dialogue: 0,0:01:48.87,0:01:55.33,Default,,0000,0000,0000,karaoke,{\k59}Muoán {\k42}ñi {\k41}tìm {\k29}moät {\k56}nôi {\k42}ñeå {\k46}ñöôïc {\k37}nguû {\k123}trong {\k47}yeân {\k124}bình
+Dialogue: 0,0:01:55.50,0:02:02.10,Default,,0000,0000,0000,karaoke,{\k68}Muoán {\k43}ñi {\k43}tìm {\k26}moät {\k65}nôi {\k38}ñeå {\k38}ngoài {\k48}khoùc {\k103}cho {\k66}saàu {\k122}vôi
+Dialogue: 0,0:02:02.37,0:02:08.40,Default,,0000,0000,0000,karaoke,{\k66}Ñeå {\k38}em {\k31}ñöôïc {\k33}maïnh {\k60}meõ {\k44}ñi {\k31}veà {\k44}phía {\k131}xa {\k49}con {\k76}ñöôøng
+Dialogue: 0,0:02:08.40,0:02:16.93,Default,,0000,0000,0000,karaoke,{\k69}Tìm {\k18}haïnh {\k42}phuùc {\k48}cho {\k38}ngöôøi {\k27}con {\k59}gaùi {\k42}ñaõ {\k43}ñaùnh {\k41}maát {\k127}ñaâu {\k69}tieáng {\k230}cöôøi...
+Dialogue: 0,0:02:43.10,0:02:49.23,Default,,0000,0000,0000,karaoke,{\k51}Tieác {\k38}nhöõng {\k42}nuï {\k74}cöôøi {\k39}chaúng {\k53}coøn {\k45}vui {\k271}töôi
+Dialogue: 0,0:02:49.57,0:02:55.80,Default,,0000,0000,0000,karaoke,{\k76}Nöôùc {\k41}maét {\k41}ngaäm {\k82}nguøi {\k27}moät {\k46}mình {\k57}em {\k253}khoùc
+Dialogue: 0,0:02:56.43,0:03:02.50,Default,,0000,0000,0000,karaoke,{\k60}Neáu {\k46}chaúng {\k38}coøn {\k84}gì {\k35}thì {\k37}buoâng {\k61}caùnh {\k246}tay
+Dialogue: 0,0:03:03.30,0:03:09.77,Default,,0000,0000,0000,karaoke,{\k51}Cho {\k37}em {\k49}phía {\k85}tröôùc {\k44}moät {\k44}mình {\k86}böôùc {\k251}ñi...
+Dialogue: 0,0:03:10.00,0:03:16.40,Default,,0000,0000,0000,karaoke,{\k58}Neáu {\k66}khoâng {\k20}laø {\k47}heïn {\k39}öôùc {\k40}em {\k36}ñaõ {\k47}chaúng {\k126}mô {\k44}thaät {\k117}nhieàu
+Dialogue: 0,0:03:16.80,0:03:23.23,Default,,0000,0000,0000,karaoke,{\k55}Neáu {\k42}khoâng {\k41}laø {\k16}cuûa {\k69}nhau {\k43}em {\k21}ñaõ {\k64}chaúng {\k127}ñau {\k41}vì {\k124}anh
+Dialogue: 0,0:03:23.47,0:03:29.70,Default,,0000,0000,0000,karaoke,{\k66}Neáu {\k42}nhö {\k40}lôøi {\k24}anh {\k56}höùa {\k45}em {\k38}ñaõ {\k64}chaúng {\k103}theâm {\k51}voâ {\k94}voïng
+Dialogue: 0,0:03:29.77,0:03:35.80,Default,,0000,0000,0000,karaoke,{\k49}Vaø {\k20}nhöõng {\k41}noåi {\k41}ñau {\k39}ngaøy {\k33}hoâm {\k58}qua {\k40}ñeán {\k41}khi {\k30}naøo {\k211}nguoâi...
+Dialogue: 0,0:03:37.00,0:03:43.27,Default,,0000,0000,0000,karaoke,{\k62}Muoán {\k42}ñi {\k41}tìm {\k23}moät {\k59}nôi {\k38}ñeå {\k40}ñöôïc {\k48}nguû {\k124}trong {\k54}yeân {\k96}bình
+Dialogue: 0,0:03:43.87,0:03:50.23,Default,,0000,0000,0000,karaoke,{\k54}Muoán {\k41}ñi {\k43}tìm {\k24}moät {\k56}nôi {\k45}ñeå {\k47}ngoài {\k40}khoùc {\k108}cho {\k60}saàu {\k118}vôi
+Dialogue: 0,0:03:50.63,0:03:56.67,Default,,0000,0000,0000,karaoke,{\k56}Ñeå {\k39}em {\k40}ñöôïc {\k28}maïnh {\k60}meõ {\k41}ñi {\k44}veà {\k74}phía {\k92}xa {\k44}con {\k86}ñöôøng
+Dialogue: 0,0:03:56.87,0:04:04.77,Default,,0000,0000,0000,karaoke,{\k37}Tìm {\k22}haïnh {\k43}phuùc {\k45}cho {\k38}ngöôøi {\k26}con {\k69}gaùi {\k33}ñaõ {\k45}ñaùnh {\k39}maát {\k129}ñaâu {\k75}tieáng {\k189}cöôøi
+Dialogue: 0,0:04:10.03,0:04:17.03,Default,,0000,0000,0000,karaoke,{\k51}Tìm {\k36}haïnh {\k50}phuùc {\k46}cho {\k40}ngöôøi {\k23}con {\k64}gaùi {\k42}ñaõ {\k45}ñaùnh {\k41}maát {\k262}ñaâu...
+Dialogue: 0,0:04:20.07,0:04:25.50,Default,,0000,0000,0000,karaoke,{\k120}...tieáng {\k423}cöôøi

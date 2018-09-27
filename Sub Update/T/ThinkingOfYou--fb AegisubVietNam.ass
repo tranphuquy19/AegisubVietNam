@@ -1,0 +1,67 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Audio File: Thinking Of You.mp3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.14,0:00:04.80,Default,,0000,0000,0000,,{\k30} {\k31}Think{\k36}ing {\k36}of {\k127}you {\k39}I'm {\k25}think{\k41}ing {\k33}of {\k68}you
+Dialogue: 0,0:00:04.80,0:00:10.21,Default,,0000,0000,0000,,{\k96} {\k33}All {\k35}I {\k36}can {\k101}do {\k28}is {\k35}just {\k26}think {\k40}a{\k30}bout {\k81}you
+Dialogue: 0,0:00:10.21,0:00:15.47,Default,,0000,0000,0000,,{\k88} {\k33}Think{\k36}ing {\k34}of {\k132}you {\k30}I'm {\k33}think{\k38}ing {\k34}of {\k68}you
+Dialogue: 0,0:00:15.47,0:00:21.09,Default,,0000,0000,0000,,{\k95} {\k36}When{\k34}ever {\k67}I'm {\k97}blue {\k34}I’m {\k28}think{\k39}ing {\k33}of {\k99}you
+Dialogue: 0,0:00:22.38,0:00:28.42,Default,,0000,0000,0000,,{\k104} {\k33}No {\k36}matt{\k34}er {\k33}how {\k29}I {\k94}try {\k11}I {\k23}don't {\k41}find {\k34}a {\k33}rea{\k32}son {\k67}why
+Dialogue: 0,0:00:28.42,0:00:31.05,Default,,0000,0000,0000,,{\k34} {\k34}Be{\k29}lieve {\k39}me {\k32}it's {\k36}no {\k59}lie
+Dialogue: 0,0:00:31.05,0:00:34.03,Default,,0000,0000,0000,,{\k38} {\k34}I {\k34}al{\k33}ways {\k33}have {\k32}you {\k34}on {\k32}my {\k28}mind
+Dialogue: 0,0:00:34.03,0:00:39.00,Default,,0000,0000,0000,,{\k7} {\k33}No {\k35}mat{\k32}ter {\k34}what {\k22}I {\k108}see {\k37}guess {\k34}where {\k31}I {\k41}wan{\k23}na {\k60}be
+Dialogue: 0,0:00:39.00,0:00:42.46,Default,,0000,0000,0000,,{\k43} {\k32}Love {\k28}is {\k38}the {\k34}an{\k36}swer {\k34}I {\k34}will {\k67}find
+Dialogue: 0,0:00:42.48,0:00:47.60,Default,,0000,0000,0000,,{\k64} {\k26}Think{\k38}ing {\k34}of {\k134}you {\k35}I'm {\k29}think{\k37}ing {\k38}of {\k77}you
+Dialogue: 0,0:00:48.04,0:00:53.04,Default,,0000,0000,0000,,{\k41} {\k31}All {\k35}I {\k29}can {\k104}do {\k35}is {\k33}just {\k29}think {\k36}a{\k34}bout {\k93}you
+Dialogue: 0,0:00:53.04,0:00:58.39,Default,,0000,0000,0000,,{\k74} {\k31}Think{\k32}ing {\k38}of {\k131}you {\k35}I'm {\k30}think{\k36}ing {\k35}of {\k93}you
+Dialogue: 0,0:00:58.39,0:01:03.75,Default,,0000,0000,0000,,{\k39} {\k35}When{\k33}e{\k32}ver {\k67}I'm {\k99}blue {\k32}I’m {\k31}think{\k38}ing {\k34}of {\k96}you
+Dialogue: 0,0:01:05.69,0:01:08.43,Default,,0000,0000,0000,,{\k41} {\k33}No {\k32}matt{\k34}er {\k37}where {\k31}I {\k66}go
+Dialogue: 0,0:01:08.43,0:01:11.06,Default,,0000,0000,0000,,{\k31} {\k37}This {\k34}is {\k31}the {\k33}on{\k18}ly {\k79}show
+Dialogue: 0,0:01:11.06,0:01:13.74,Default,,0000,0000,0000,,{\k39} {\k30}I'd {\k27}like {\k39}to {\k37}be {\k33}your {\k63}girl
+Dialogue: 0,0:01:13.74,0:01:16.41,Default,,0000,0000,0000,,{\k35} {\k34}Come {\k35}on {\k23}and {\k45}take {\k29}my {\k66}heart
+Dialogue: 0,0:01:16.41,0:01:19.04,Default,,0000,0000,0000,,{\k36} {\k36}No {\k33}matt{\k33}er {\k33}where {\k33}you {\k59}are
+Dialogue: 0,0:01:19.04,0:01:21.75,Default,,0000,0000,0000,,{\k38} {\k34}Ba{\k35}by {\k27}I {\k41}can't {\k21}be {\k75}far
+Dialogue: 0,0:01:21.75,0:01:25.42,Default,,0000,0000,0000,,{\k36} {\k34}Cause {\k34}I'll {\k34}be {\k32}with {\k32}you {\k35}all {\k33}the {\k97}time
+Dialogue: 0,0:01:29.91,0:01:33.35,Default,,0000,0000,0000,,{\k56} {\k57}Think{\k72}ing {\k70}of {\k89}you
+Dialogue: 0,0:01:37.06,0:01:40.45,Default,,0000,0000,0000,,{\k73} {\k55}Think {\k12}a{\k55}bout {\k14}you {\k31}all {\k33}the {\k66}time
+Dialogue: 0,0:01:47.96,0:01:51.07,Default,,0000,0000,0000,,{\k83} {\k32}This {\k34}feel{\k34}ing {\k33}deep {\k38}in{\k57}side
+Dialogue: 0,0:01:51.07,0:01:53.72,Default,,0000,0000,0000,,{\k38} {\k34}When {\k33}you're {\k33}right {\k34}by {\k33}my {\k60}side
+Dialogue: 0,0:01:53.72,0:01:56.35,Default,,0000,0000,0000,,{\k44} {\k30}I'll {\k33}al{\k34}ways {\k32}be {\k34}with {\k56}you
+Dialogue: 0,0:01:56.35,0:01:59.07,Default,,0000,0000,0000,,{\k43} {\k34}Be{\k33}lieve {\k34}me {\k28}this {\k36}is {\k64}true
+Dialogue: 0,0:01:59.07,0:02:01.74,Default,,0000,0000,0000,,{\k38} {\k34}When{\k35}e{\k31}ver {\k33}we {\k33}a{\k63}part
+Dialogue: 0,0:02:01.74,0:02:04.41,Default,,0000,0000,0000,,{\k32} {\k40}You're {\k33}deep {\k33}with {\k33}in {\k31}my {\k65}heart
+Dialogue: 0,0:02:04.41,0:02:08.06,Default,,0000,0000,0000,,{\k38} {\k33}Cause {\k34}you'll {\k33}be {\k34}with {\k32}me {\k35}all {\k33}the {\k93}time
+Dialogue: 0,0:02:08.06,0:02:13.08,Default,,0000,0000,0000,,{\k41} {\k31}Think{\k35}ing {\k34}of {\k131}you {\k34}I'm {\k33}think{\k35}ing {\k31}of {\k97}you
+Dialogue: 0,0:02:13.08,0:02:18.38,Default,,0000,0000,0000,,{\k72} {\k33}All {\k32}I {\k33}can {\k100}do {\k33}is {\k35}just {\k32}think {\k35}a{\k32}bout {\k93}you
+Dialogue: 0,0:02:18.38,0:02:23.69,Default,,0000,0000,0000,,{\k74} {\k27}Think{\k36}ing {\k38}of {\k133}you {\k34}I'm {\k30}think{\k36}ing {\k34}of {\k89}you
+Dialogue: 0,0:02:23.69,0:02:29.03,Default,,0000,0000,0000,,{\k44} {\k33}When{\k35}e{\k32}ver {\k66}I'm {\k100}blue {\k34}I’m {\k30}think{\k39}ing {\k28}of {\k93}you
+Dialogue: 0,0:02:31.08,0:02:33.66,Default,,0000,0000,0000,,{\k38} {\k32}No {\k35}matt{\k33}er {\k34}where {\k33}I {\k53}go
+Dialogue: 0,0:02:33.66,0:02:36.43,Default,,0000,0000,0000,,{\k47} {\k33}This {\k33}is {\k31}the {\k31}on{\k25}ly {\k77}show
+Dialogue: 0,0:02:36.43,0:02:39.08,Default,,0000,0000,0000,,{\k34} {\k34}I'd {\k29}like {\k40}to {\k31}be {\k35}your {\k62}boy
+Dialogue: 0,0:02:39.08,0:02:41.77,Default,,0000,0000,0000,,{\k37} {\k33}Come {\k35}on {\k24}and {\k43}take {\k30}my {\k67}heart
+Dialogue: 0,0:02:41.77,0:02:44.40,Default,,0000,0000,0000,,{\k36} {\k32}No {\k34}matt{\k30}er {\k37}where {\k32}you {\k62}are
+Dialogue: 0,0:02:44.40,0:02:47.05,Default,,0000,0000,0000,,{\k40} {\k33}Ba{\k31}by {\k29}I {\k41}can't {\k31}be {\k60}far
+Dialogue: 0,0:02:47.05,0:02:50.70,Default,,0000,0000,0000,,{\k41} {\k35}Cause {\k32}I'll {\k34}be {\k33}with {\k32}you {\k36}all {\k23}the {\k72}time
+Dialogue: 0,0:02:50.70,0:02:55.95,Default,,0000,0000,0000,,{\k44} {\k28}Think{\k40}ing {\k31}of {\k132}you {\k29}I'm {\k36}think{\k36}ing {\k35}of {\k114}you
+Dialogue: 0,0:02:55.95,0:03:01.06,Default,,0000,0000,0000,,{\k48} {\k37}All {\k32}I {\k33}can {\k101}do {\k32}is {\k35}just {\k29}think {\k37}a{\k34}bout {\k93}you
+Dialogue: 0,0:03:01.07,0:03:06.09,Default,,0000,0000,0000,,{\k72} {\k30}Think{\k35}ing {\k36}of {\k132}you {\k35}I'm {\k32}think{\k33}ing {\k35}of {\k62}you
+Dialogue: 0,0:03:06.09,0:03:11.92,Default,,0000,0000,0000,,{\k70} {\k35}When{\k34}e{\k32}ver {\k67}I'm {\k99}blue {\k34}I’m {\k33}think{\k33}ing {\k34}of {\k112}you
+Dialogue: 0,0:03:22.31,0:03:27.48,Default,,0000,0000,0000,,{\k74} {\k39}Think{\k33}ing {\k36}of {\k133}you {\k35}I'm {\k29}think{\k38}ing {\k32}of {\k68}you
+Dialogue: 0,0:03:27.48,0:03:32.78,Default,,0000,0000,0000,,{\k66} {\k35}When{\k32}e{\k32}ver {\k69}I'm {\k98}blue {\k33}I’m {\k31}think{\k32}ing {\k37}of {\k65}you
+Dialogue: 0,0:03:33.33,0:03:38.20,Default,,0000,0000,0000,,{\k48} {\k29}Think{\k38}ing {\k32}of {\k132}you {\k29}I'm {\k37}think{\k37}ing {\k33}of {\k72}you
+Dialogue: 0,0:03:38.20,0:03:43.56,Default,,0000,0000,0000,,{\k60} {\k32}When{\k38}e{\k31}ver {\k61}I'm {\k105}blue {\k32}I’m {\k29}think{\k41}ing {\k33}of {\k74}you
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

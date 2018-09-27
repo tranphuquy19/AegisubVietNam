@@ -1,0 +1,78 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 0
+Active Line: 5
+Audio URI: ..\Downloads\Ck Yêu Zk, Zk Cũng Yêu Ck V.A nghe tải nhạc 320 _ ypgjKp1RPZJK.mp3
+Video Zoom Percent: 0.5
+Last Style Storage: Default
+PlayResX: 640
+PlayResY: 480
+Video File: ?dummy:23.976000:40000:640:480:47:163:254:
+Video Aspect Ratio: 0
+Video Position: 773
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: nam,UVF Fiolex Girls,65,&H00FFFFFF,&H000000FF,&H0008F320,&H00000000,0,0,0,0,100,100,0,0,1,2,2,9,10,10,30,1
+Style: nam2,UVF Bleeding Cowboys,45,&H00FFFFFF,&H000000FF,&H00FD6004,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.40,nam2,,0,0,0,,{\k6}{\k36}Mình {\k50}sẽ {\k76}mãi {\k22}mãi {\k34}yêu {\k58}nkau {\k20}nhé {\k38}anhh.
+Dialogue: 0,0:00:03.44,0:00:06.54,nam2,,0,0,0,,{\k0}{\k22}Cko {\k12}dù {\k16}pkonq {\k72}ba {\k26}mãi {\k30}không {\k48}xa {\k84}rời.
+Dialogue: 0,0:00:06.54,0:00:12.62,nam2,,0,0,0,,{\k0}{\k40}Người {\k78}ơi {\k26}anh {\k40}có {\k84}biết {\k38}trái {\k44}tim {\k36}em {\k22}thuộc {\k16}về {\k26}anh {\k24}từ {\k70}thuở {\k64}nau.
+Dialogue: 0,0:00:12.62,0:00:18.64,nam2,,0,0,0,,{\k38}Nguyện {\k80}bên {\k38}anh {\k18}đi {\k98}hết {\k32}quảng {\k26}đường {\k26}ngày {\k26}sao {\k28}dù {\k38}có {\k34}giang {\k34}lau {\k42}thế {\k44}nao.
+Dialogue: 0,0:00:18.64,0:00:24.66,nam2,,0,0,0,,{\k8}{\k20}E {\k20}vẫn {\k76}sẽ {\k24}tkeo {\k32}anh {\k52}mãi {\k84}thôi, {\k20}I {\k14}love {\k76}you {\k59}for{\k19}re{\k98}ver.
+Dialogue: 0,0:00:24.74,0:00:27.76,nam,,0,0,0,,Ê thằng ck , mày biết hog ? kao có cái này nói cko nqer nè .
+Dialogue: 0,0:00:27.76,0:00:30.78,nam,,0,0,0,,Zk yêu ck , yêu nhìu lắm ,ck hứa kh đc bỏ zk đâu nhé
+Dialogue: 0,0:00:30.78,0:00:33.80,nam,,0,0,0,,Dù có đôi lúc zk hơi con nít , đùa lắm trò chọc ck tí thôi
+Dialogue: 0,0:00:33.80,0:00:36.78,nam,,0,0,0,,Đừg có nv giận hờn lug tug zk đáh cái bốp là ck tiu rồi (hớ)
+Dialogue: 0,0:00:36.78,0:00:39.80,nam,,0,0,0,,Zk thíc cái lúc mà ck đang gken , cách nc thấy réc vô cùng
+Dialogue: 0,0:00:39.80,0:00:42.88,nam,,0,0,0,,Tự nhiên khóa face, dã bộ giận đồ, đ/xử với zk thì rất lạh lùg ( hic)
+Dialogue: 0,0:00:42.88,0:00:45.86,nam,,0,0,0,,Nhữg lúc nv buồn lắm chứ bộ,nhưg mà cũg yêu ck mãi thôi
+Dialogue: 0,0:00:45.86,0:00:48.92,nam,,0,0,0,,Sao ck ko nghĩ , ko hĩu cko zk bỏ mặt zk 1 mình đơn côi
+Dialogue: 0,0:00:49.00,0:00:51.96,nam,,0,0,0,,Dù có đôi khi zk réc ck lắm , mún põ ck nhưng lại k nỡ
+Dialogue: 0,0:00:51.96,0:00:55.02,nam,,0,0,0,,Tại vì kao lỡ yêu mày mất rồi , bỏ mặt mày , sao lại đc hơ ?
+Dialogue: 0,0:00:55.02,0:00:58.04,nam,,0,0,0,,Đừg thấy kao thươg rồi làm dá,bài đặt lên mặt với kao đồ ha
+Dialogue: 0,0:00:58.04,0:01:01.14,nam,,0,0,0,,Dã bộ thữ đi , lên mặt cái coi r biết cảm giác ăn đá liền à
+Dialogue: 0,0:01:01.20,0:01:04.10,nam,,0,0,0,,À mà nè , hứa với zk dù có xãy ra bất cứ chuyện gì
+Dialogue: 0,0:01:04.10,0:01:07.16,nam,,0,0,0,,Ck phãi thông cãm lắng nqe zk nói, zk cấm ck ko đc hoài nqki
+Dialogue: 0,0:01:07.16,0:01:10.20,nam,,0,0,0,,Vì khi đã iu zk đã bất chấp , hết tất cả iu mình ck thôi
+Dialogue: 0,0:01:10.20,0:01:13.22,nam,,0,0,0,,Nên cấm nghĩ bừa , suy nghĩ này cia rồi dẫn đến chuyện 2 mình ckia đôi ( nhớ nka >.<)
+Dialogue: 0,0:01:13.22,0:01:16.04,nam2,,0,0,0,,{\k30}Mình {\k26}sẽ {\k76}mãi {\k24}mãi {\k20}yêu {\k68}nkau {\k22}nhé {\k16}anhh.
+Dialogue: 0,0:01:16.04,0:01:19.32,nam2,,0,0,0,,{\k20}{\k16}Cko {\k16}dù {\k26}pkonq {\k76}ba {\k24}mãi {\k28}kh {\k50}xa {\k72}rời.
+Dialogue: 0,0:01:19.46,0:01:25.44,nam2,,0,0,0,,{\k42}Người {\k74}ơi {\k28}anh {\k34}có {\k80}biết {\k44}trái {\k44}tim {\k36}em {\k28}thuộc {\k10}về {\k26}anh {\k32}từ {\k58}thuở {\k62}nau.
+Dialogue: 0,0:01:25.52,0:01:31.44,nam2,,0,0,0,,{\k42}Nguyện {\k74}bên {\k32}a {\k24}đi {\k94}hết {\k34}quảng {\k20}đường {\k22}ngày {\k32}sao {\k24}dù {\k40}có {\k40}giang {\k42}lau {\k34}thế {\k38}nao.
+Dialogue: 0,0:01:31.60,0:01:37.60,nam2,,0,0,0,,{\k30}E {\k26}vẫn {\k56}sẽ {\k32}tkeo {\k32}anh {\k48}mãi {\k84}thôi, {\k22}I {\k24}love {\k50}you {\k196}forrever.
+Dialogue: 0,0:01:43.34,0:01:46.72,nam,,0,0,0,,Ê ê zk zk nói zk nghe neh... ck cũng ghét zk nhiều lắm đó.
+Dialogue: 0,0:01:46.72,0:01:49.70,nam,,0,0,0,,Cẩn thận có ngày ck quăng cục lơ... chứ đừng ở đó mà làm trò.
+Dialogue: 0,0:01:49.72,0:01:52.48,nam,,0,0,0,,Ghét zk ghét zk nhiều lắm đó.... nhưng sao càng ghét lại càng yêu.
+Dialogue: 0,0:01:52.48,0:01:55.52,nam,,0,0,0,,Chỉ cần một ngày không dc chữi zk là ck thấy nhớ zk càng nhiều.
+Dialogue: 0,0:01:55.52,0:01:58.80,nam,,0,0,0,,Ai kêu zk chọc ck tức cki zậy.... để ck nóng lên nói lời chia tay.
+Dialogue: 0,0:01:58.80,0:02:01.90,nam,,0,0,0,,Nếu có cơ hội cho ck lần nữa... hai ta đánh thức tình yêu kia dậy.
+Dialogue: 0,0:02:01.94,0:02:04.90,nam,,0,0,0,,Lúc nào cũng muốn hơn ck hết har... làm zậy có nhận dc gì không?
+Dialogue: 0,0:02:04.90,0:02:07.90,nam,,0,0,0,,Hay là hai bên giận một lúc ... rồi bỏ thời gian trôi ***g bồng.
+Dialogue: 0,0:02:07.90,0:02:10.96,nam,,0,0,0,,Bà đặc ghen tuôn với ck đồ har... ck đâu lăn nhăn như người ta đâu.
+Dialogue: 0,0:02:10.96,0:02:13.98,nam,,0,0,0,,Thề rằng lòng này sẽ mãi yêu zk... đến khi tóc trắng hết cả đầu.
+Dialogue: 0,0:02:14.00,0:02:17.04,nam,,0,0,0,,Ck cũng đâu thích ăn phở lắm đâu... cơm ngày ba bữa đủ no rồi.
+Dialogue: 0,0:02:17.04,0:02:19.86,nam,,0,0,0,,Đôi lúc giận hờn giả bộ nhỏng nhẻo... chỉ mún là dc zk lo thôi.
+Dialogue: 0,0:02:19.86,0:02:22.92,nam,,0,0,0,,Mỗi lần ck muốn dc ở cạnh zk... là zk bắt ck đi ngủ ah.
+Dialogue: 0,0:02:22.92,0:02:26.12,nam,,0,0,0,,Vẫn lun mãi mãi là một câu nói... đi ngủ đi rồi nằm mơ cka.
+Dialogue: 0,0:02:26.16,0:02:29.18,nam,,0,0,0,,Nhớ ngày đầu tiên nc với nhau... giả bộ ngại ngùng này nọ har.
+Dialogue: 0,0:02:29.18,0:02:32.22,nam,,0,0,0,,Mún dc zk kêu một tiếng ck yêu... nhưng sao năn nĩ zk khó quá.
+Dialogue: 0,0:02:32.22,0:02:35.24,nam,,0,0,0,,Nhiều lúc muốn bỏ mặt zk lắm đó... cái tính ngang bướng vẫn không bỏ.
+Dialogue: 0,0:02:35.24,0:02:38.28,nam,,0,0,0,,Nhưng sao ck làm không dc chuyện đó... chắc có lẽ là cái duyên trời cho.
+Dialogue: 0,0:02:38.28,0:02:41.36,nam,,0,0,0,,Cây beat này không đủ thời gian.... cho ck nói lên tình cảm với zk.
+Dialogue: 0,0:02:41.36,0:02:44.40,nam,,0,0,0,,Nên thôi câu cuối ck chỉ muốn nói ck yêu zk nhiều lắm đó.
+Dialogue: 0,0:02:44.40,0:02:47.44,nam,,0,0,0,,Đừng có tự kĩ suy nghĩ lung tung... chỉ khổ thân zk thêm mà thôi.
+Dialogue: 0,0:02:47.44,0:02:50.48,nam,,0,0,0,,Dòng beat đã hết nhưng vẫn mún lặp lại câu.... ck yeu zk mất rồi.
+Dialogue: 0,0:02:51.72,0:02:54.82,nam2,,0,0,0,,{\k38}Mình {\k52}sẽ {\k72}mãi {\k26}mãi {\k36}yêu {\k40}nkau {\k28}nhé {\k18}anhh.
+Dialogue: 0,0:02:54.94,0:02:58.08,nam2,,0,0,0,,{\k24}Cko {\k12}dù {\k30}pkonq {\k68}ba {\k30}mãi {\k32}kh {\k46}xa {\k72}rời.
+Dialogue: 0,0:02:58.16,0:03:04.26,nam2,,0,0,0,,{\k42}Người {\k76}ơi {\k34}anh {\k32}có {\k84}biết {\k42}trái {\k36}tim {\k38}em {\k18}thuộc {\k28}về {\k20}anh {\k24}từ {\k74}thuở {\k62}nau.
+Dialogue: 0,0:03:04.26,0:03:10.26,nam2,,0,0,0,,{\k40}Nguyện {\k80}bên {\k34}a {\k22}đi {\k92}hết {\k34}quảng {\k24}đường {\k32}ngày {\k26}sao {\k26}dù {\k44}có {\k40}giang {\k28}lau {\k36}thế {\k42}nao.
+Dialogue: 0,0:03:10.26,0:03:16.12,nam2,,0,0,0,,{\k12}E {\k34}vẫn {\k78}sẽ {\k28}tkeo {\k38}anh {\k52}mãi {\k80}thôi, {\k20}I {\k18}love {\k72}you {\k154}forrever.

@@ -1,0 +1,109 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.68,0:00:16.82,Default,,0,0,0,karaoke,Từng ngày qua anh đã đi rất xa...
+Dialogue: 0,0:00:16.82,0:00:20.18,Default,,0,0,0,karaoke,Để lại mình em trong đêm buồn tênh chỉ em với em
+Dialogue: 0,0:00:20.28,0:00:23.40,Default,,0,0,0,karaoke,Tại vì sao anh ở nơi chốn nào?
+Dialogue: 0,0:00:23.40,0:00:26.92,Default,,0,0,0,karaoke,Mà tim em luôn mơ về anh như phút ban đầu
+Dialogue: 0,0:00:26.94,0:00:30.18,Default,,0,0,0,karaoke,Anh có thấy những lúc em đau (hu..hu..)
+Dialogue: 0,0:00:30.18,0:00:33.04,Default,,0,0,0,karaoke,Oh.. Anh có thấy những lúc em buồn
+Dialogue: 0,0:00:33.56,0:00:36.98,Default,,0,0,0,karaoke,Mơ về anh từng giờ, mong chờ anh thẩn thờ
+Dialogue: 0,0:00:36.98,0:00:40.58,Default,,0,0,0,karaoke,Chỉ muốn thét lên rằng em nhớ anh
+Dialogue: 0,0:00:40.80,0:00:42.66,Default,,0,0,0,karaoke,Trong tim vẫn mơ về anh
+Dialogue: 0,0:00:42.66,0:00:44.10,Default,,0,0,0,karaoke,Bao đêm thầm mơ về anh
+Dialogue: 0,0:00:44.10,0:00:47.48,Default,,0,0,0,karaoke,Bên ai người có chợt biết về bao buồn vui mà em đã qua
+Dialogue: 0,0:00:47.48,0:00:49.38,Default,,0,0,0,karaoke,I wanna wanna get your love
+Dialogue: 0,0:00:49.38,0:00:51.16,Default,,0,0,0,karaoke,Never want you to Let go
+Dialogue: 0,0:00:51.16,0:00:53.12,Default,,0,0,0,karaoke,Cuz i believe we belong together
+Dialogue: 0,0:00:53.12,0:00:56.36,Default,,0,0,0,karaoke,Và nếu như anh buồn em sẽ luôn bên anh (Hey)
+Dialogue: 0,0:00:56.36,0:00:59.84,Default,,0,0,0,karaoke,Và nếu như anh cần em sẽ là đôi cánh (Yes)
+Dialogue: 0,0:00:59.84,0:01:03.00,Default,,0,0,0,karaoke,Giữa nơi khung trời giúp anh bay xa
+Dialogue: 0,0:01:03.00,0:01:06.34,Default,,0,0,0,karaoke,Dù bao giông tố mãi luôn vượt qua (Ha)
+Dialogue: 0,0:01:06.34,0:01:09.72,Default,,0,0,0,karaoke,Tháng năm trôi hoài anh đừng đi bên ai
+Dialogue: 0,0:01:09.72,0:01:13.06,Default,,0,0,0,karaoke,Vì chính anh là người sẽ chở che em mãi
+Dialogue: 0,0:01:13.06,0:01:16.54,Default,,0,0,0,karaoke,Dẫu đến bao giờ (Eyyy) Dẫu đến bao lâu (Eyyy)
+Dialogue: 0,0:01:16.54,0:01:18.86,Default,,0,0,0,karaoke,Thì ở đằng sau anh vẫn luôn là
+Dialogue: 0,0:01:18.86,0:01:21.94,Default,,0,0,0,karaoke,Bóng dáng ai đó mãi trông về anh
+Dialogue: 0,0:01:21.98,0:01:25.54,Default,,0,0,0,karaoke,(Yeah..Luôn bên anh...Luôn bên anh...Luôn bên anh...Luôn bên anh
+Dialogue: 0,0:01:25.62,0:01:28.60,Default,,0,0,0,karaoke,Hit me baby one more time..oh..oh..oh
+Dialogue: 0,0:01:29.94,0:01:33.78,Default,,0,0,0,karaoke,Luôn bên anh...Luôn bên anh...Luôn bên anh...Luôn bên anh...
+Dialogue: 0,0:01:33.94,0:01:37.98,Default,,0,0,0,karaoke,Và nếu một ngày nào đó anh chợt bước đi
+Dialogue: 0,0:01:38.42,0:01:41.46,Default,,0,0,0,karaoke,Thật lòng chẳng biết em sẽ nghĩ gì
+Dialogue: 0,0:01:41.82,0:01:43.50,Default,,0,0,0,karaoke,Anh mang đi bao nhiêu lời ca
+Dialogue: 0,0:01:43.50,0:01:46.78,Default,,0,0,0,karaoke,Melody trong em không rời xa mất rồi
+Dialogue: 0,0:01:47.08,0:01:51.86,Default,,0,0,0,karaoke,Và nếu ngày ấy em chẳng có anh
+Dialogue: 0,0:01:51.86,0:01:55.02,Default,,0,0,0,karaoke,Cuộc đời này sẽ chẳng còn màu xanh
+Dialogue: 0,0:01:55.14,0:01:59.76,Default,,0,0,0,karaoke,Vì em đã trót yêu anh..My baby boy..
+Dialogue: 0,0:01:59.78,0:02:00.74,Default,,0,0,0,karaoke,Talk that!
+Dialogue: 0,0:02:00.94,0:02:02.24,Default,,0,0,0,karaoke,Chẳng cần đôi giày cao gót
+Dialogue: 0,0:02:02.24,0:02:03.84,Default,,0,0,0,karaoke,Em vẫn là cô gái on top
+Dialogue: 0,0:02:03.84,0:02:05.66,Default,,0,0,0,karaoke,Và chẳng cần son môi hay thêm phấn
+Dialogue: 0,0:02:05.66,0:02:07.48,Default,,0,0,0,karaoke,Em vẫn khiến nốt nhạc anh thăng hoa
+Dialogue: 0,0:02:07.48,0:02:09.34,Default,,0,0,0,karaoke,Những tinh tú muốn ngủ vùi và xoay vần
+Dialogue: 0,0:02:09.36,0:02:10.78,Default,,0,0,0,karaoke,Anh muốn nói với em một điều là
+Dialogue: 0,0:02:10.78,0:02:12.62,Default,,0,0,0,karaoke,I can be your lover
+Dialogue: 0,0:02:12.62,0:02:13.78,Default,,0,0,0,karaoke,I can be your dreamer
+Dialogue: 0,0:02:13.78,0:02:16.26,Default,,0,0,0,karaoke,Và nếu như anh buồn em sẽ luôn bên anh
+Dialogue: 0,0:02:16.26,0:02:19.84,Default,,0,0,0,karaoke,Và nếu như anh cần em sẽ là đôi cánh (Yes)
+Dialogue: 0,0:02:19.84,0:02:23.04,Default,,0,0,0,karaoke,Giữa nơi khung trời giúp anh bay xa
+Dialogue: 0,0:02:23.04,0:02:26.42,Default,,0,0,0,karaoke,Dù bao giông tố mãi luôn vượt qua
+Dialogue: 0,0:02:26.42,0:02:29.64,Default,,0,0,0,karaoke,Tháng năm trôi hoài anh đừng đi bên ai
+Dialogue: 0,0:02:29.64,0:02:32.94,Default,,0,0,0,karaoke,Vì chính anh là người sẽ chở che em mãi
+Dialogue: 0,0:02:32.94,0:02:36.20,Default,,0,0,0,karaoke,Dẫu đến bao giờ.. Dẫu đến bao lâu..
+Dialogue: 0,0:02:36.20,0:02:38.90,Default,,0,0,0,karaoke,Thì ở đằng sau anh vẫn luôn là
+Dialogue: 0,0:02:38.90,0:02:40.76,Default,,0,0,0,karaoke,Bóng dáng ai đó mãi trông về anh
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,karaoke,Rap:
+Dialogue: 0,0:02:40.76,0:02:42.60,Default,,0,0,0,karaoke,Đôi môi nào ngọt ngào như Cherry
+Dialogue: 0,0:02:42.60,0:02:44.14,Default,,0,0,0,karaoke,Như rượu vang hảo hạng trên ly
+Dialogue: 0,0:02:44.14,0:02:45.98,Default,,0,0,0,karaoke,Khác biệt với những cô gái anh biết
+Dialogue: 0,0:02:45.98,0:02:47.48,Default,,0,0,0,karaoke,Em là một giai điệu anh cần viết
+Dialogue: 0,0:02:47.48,0:02:49.22,Default,,0,0,0,karaoke,Bao nhiêu lâu em biết câu yêu đầu
+Dialogue: 0,0:02:49.22,0:02:50.92,Default,,0,0,0,karaoke,Những bức tranh anh vẽ đã theo màu
+Dialogue: 0,0:02:50.92,0:02:54.20,Default,,0,0,0,karaoke,2 giờ 30 phút sáng giật mình bàng hoàng lại nhớ đến em
+Dialogue: 0,0:02:54.20,0:02:55.84,Default,,0,0,0,karaoke,Em xoá đi hết đêm đen
+Dialogue: 0,0:02:55.84,0:02:57.52,Default,,0,0,0,karaoke,Em đã khiến bài hát có tên
+Dialogue: 0,0:02:57.52,0:03:00.90,Default,,0,0,0,karaoke,Em khiến gã mộng mơ nào lại thao thức trong bao nhiêu đêm
+Dialogue: 0,0:03:00.90,0:03:02.68,Default,,0,0,0,karaoke,Phím nào lại rơi bên thềm
+Dialogue: 0,0:03:02.68,0:03:05.24,Default,,0,0,0,karaoke,Mong giọi mưa ru em vào giấc ngủ êm
+Dialogue: 0,0:03:05.24,0:03:06.84,Default,,0,0,0,karaoke,Kẻ yêu đơn phương là anh
+Dialogue: 0,0:03:06.84,0:03:10.06,Default,,0,0,0,karaoke,Tình yêu của anh vượt qua cả thuyết tương đối của Anh-Xtanh
+Dialogue: 0,0:03:10.06,0:03:11.34,Default,,0,0,0,karaoke,I'll make you smile
+Dialogue: 0,0:03:11.34,0:03:12.10,Default,,0,0,0,karaoke,Make you fly
+Dialogue: 0,0:03:12.10,0:03:13.64,Default,,0,0,0,karaoke,Make you high girl
+Dialogue: 0,0:03:13.64,0:03:14.70,Default,,0,0,0,karaoke,I'll make you smile
+Dialogue: 0,0:03:14.70,0:03:15.44,Default,,0,0,0,karaoke,Make you fly
+Dialogue: 0,0:03:15.50,0:03:17.04,Default,,0,0,0,karaoke,Make you high girl
+Dialogue: 0,0:03:17.04,0:03:18.96,Default,,0,0,0,karaoke,I'm gonna treat you right (Hah)
+Dialogue: 0,0:03:19.34,0:03:20.84,Default,,0,0,0,karaoke,Treat you right
+Dialogue: 0,0:03:46.00,0:03:46.68,Default,,0,0,0,karaoke,Here we go!
+Dialogue: 0,0:03:46.68,0:03:49.76,Default,,0,0,0,karaoke,Và nếu như anh buồn em sẽ luôn bên anh (Hey)
+Dialogue: 0,0:03:49.76,0:03:53.42,Default,,0,0,0,karaoke,Và nếu như anh cần em sẽ là đôi cánh (Yes)
+Dialogue: 0,0:03:53.42,0:03:56.26,Default,,0,0,0,karaoke,Giữa nơi khung trời giúp anh bay xa
+Dialogue: 0,0:03:56.26,0:03:59.64,Default,,0,0,0,karaoke,Dù bao giông tố mãi luôn vượt qua
+Dialogue: 0,0:03:59.64,0:04:03.02,Default,,0,0,0,karaoke,Tháng năm trôi hoài anh đừng đi bên ai
+Dialogue: 0,0:04:03.02,0:04:06.26,Default,,0,0,0,karaoke,Vì chính anh là người sẽ chở che em mãi
+Dialogue: 0,0:04:06.26,0:04:09.56,Default,,0,0,0,karaoke,Dẫu đến bao giờ.. Dẫu đến bao lâu..
+Dialogue: 0,0:04:09.56,0:04:12.26,Default,,0,0,0,karaoke,Thì ở đằng sau anh vẫn luôn là
+Dialogue: 0,0:04:12.26,0:04:16.44,Default,,0,0,0,karaoke,Bóng dáng ai đó mãi trông về anh .....
+Dialogue: 0,0:04:16.44,0:04:18.98,Default,,0,0,0,karaoke,Luôn bên anh...Luôn bên anh...Luôn bên anh...Luôn bên anh...
+Dialogue: 0,0:04:18.98,0:04:22.26,Default,,0,0,0,karaoke,Hit me baby one more time..oh..oh..oh
+Dialogue: 0,0:04:23.42,0:04:26.98,Default,,0,0,0,karaoke,Luôn bên anh...Luôn bên anh...Luôn bên anh...Luôn bên anh...
+Dialogue: 0,0:04:29.52,0:04:31.20,Default,,0,0,0,karaoke,It's like baby
+Dialogue: 0,0:04:32.64,0:04:34.06,Default,,0,0,0,karaoke,I feel love
+Dialogue: 0,0:04:35.74,0:04:38.34,Default,,0,0,0,karaoke,I can be your lover, baby
+Dialogue: 0,0:04:39.26,0:04:40.70,Default,,0,0,0,karaoke,Come to me!
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

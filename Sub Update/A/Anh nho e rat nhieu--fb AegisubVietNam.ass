@@ -1,0 +1,62 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: ..\Downloads\Music\Boi Vi Anh Nho Em - Khang Duy.mp3
+Video Aspect Ratio: 0
+Video Zoom: 2
+Video Position: 3034
+Video File: ..\Fist Love Song.avi
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.12,0:00:15.66,Default,,0000,0000,0000,,{\k132}Luôn {\k54}cùng {\k52}nhau {\k38}đứng {\k79}dưới {\k58}bầu {\k41}trời
+Dialogue: 0,0:00:16.58,0:00:19.80,Default,,0000,0000,0000,,{\k138}Tháng {\k46}ngày {\k40}mình {\k42}có {\k56}nhau
+Dialogue: 0,0:00:21.97,0:00:26.83,Default,,0000,0000,0000,,{\k50}Khi {\k37}ta {\k50}bên {\k34}nhau {\k38}yêu {\k61}thương {\k67}em {\k51}nhiều {\k98}lắm
+Dialogue: 0,0:00:27.30,0:00:30.64,Default,,0000,0000,0000,,{\k36}Đã {\k36}có {\k72}những {\k48}lúc {\k36}ta {\k46}giận {\k60}nhau
+Dialogue: 0,0:00:32.71,0:00:37.25,Default,,0000,0000,0000,,{\k133}Em {\k45}người {\k39}anh {\k55}yêu {\k68}nhất {\k64}trên {\k50}đời
+Dialogue: 0,0:00:38.17,0:00:41.49,Default,,0000,0000,0000,,{\k130}Hứa {\k45}vượt {\k35}ngàn {\k46}khó {\k76}khăn
+Dialogue: 0,0:00:43.45,0:00:48.13,Default,,0000,0000,0000,,{\k45}Luôn {\k53}luôn {\k43}quan {\k43}tâm {\k41}khi {\k44}cô {\k79}đơn {\k53}đến {\k67}bên
+Dialogue: 0,0:00:48.85,0:00:53.52,Default,,0000,0000,0000,,{\k46}Anh {\k49}muốn {\k35}được {\k45}thấy {\k40}nụ {\k47}cười {\k205}em
+Dialogue: 0,0:00:54.24,0:00:58.38,Default,,0000,0000,0000,,{\k38}Em {\k52}ơi {\k46}anh {\k48}nhớ {\k38}em {\k48}nhiều {\k144}lắm
+Dialogue: 0,0:00:59.35,0:01:03.80,Default,,0000,0000,0000,,{\k64}Sao {\k50}con {\k56}tim {\k44}anh {\k40}lại {\k38}bật {\k153}khóc
+Dialogue: 0,0:01:04.12,0:01:08.25,Default,,0000,0000,0000,,{\k41}Em {\k47}biết {\k124}không? {\k35}Cứ {\k55}qua {\k39}mỗi {\k72}ngày
+Dialogue: 0,0:01:08.94,0:01:14.80,Default,,0000,0000,0000,,{\k56}Gọi {\k42}tên {\k40}em {\k40}yêu {\k52}trong {\k46}nỗi {\k54}nhớ {\k36}anh {\k46}trào {\k174}dâng
+Dialogue: 0,0:01:15.67,0:01:19.54,Default,,0000,0000,0000,,{\k52}Đêm {\k46}qua {\k45}thức {\k47}giấc {\k36}anh {\k47}chợt {\k114}nhớ
+Dialogue: 0,0:01:20.99,0:01:24.98,Default,,0000,0000,0000,,{\k53}Nhớ {\k48}phút {\k40}ấm {\k44}áp {\k46}ta {\k42}hạnh {\k126}phúc
+Dialogue: 0,0:01:25.54,0:01:29.94,Default,,0000,0000,0000,,{\k49}Anh {\k45}nhớ {\k111}em! {\k57}Nhớ {\k37}em {\k63}rất {\k78}nhiều
+Dialogue: 0,0:01:30.53,0:01:35.95,Default,,0000,0000,0000,,{\k45}Từng {\k41}ngày {\k51}trôi {\k57}qua {\k35}anh {\k37}luôn {\k37}mong {\k93}muốn {\k75}thấy {\k71}em!
+Dialogue: 0,0:01:36.41,0:01:40.17,Default,,0000,0000,0000,,{\k65}Em {\k33}mà {\k278}thôi
+Dialogue: 0,0:01:50.50,0:01:55.34,Default,,0000,0000,0000,,{\k138}Em {\k45}người {\k45}anh {\k47}yêu {\k81}nhất {\k57}trên {\k71}đời
+Dialogue: 0,0:01:56.03,0:01:59.48,Default,,0000,0000,0000,,{\k105}Hứa {\k76}vượt {\k42}ngàn {\k35}khó {\k87}khăn
+Dialogue: 0,0:02:01.28,0:02:05.91,Default,,0000,0000,0000,,{\k51}Luôn {\k49}luôn {\k49}quan {\k44}tâm {\k46}khi {\k44}cô {\k86}đơn {\k36}đến {\k58}bên
+Dialogue: 0,0:02:06.86,0:02:11.75,Default,,0000,0000,0000,,{\k39}Anh {\k39}mong {\k49}đôi {\k47}ta {\k39}mãi {\k45}bên {\k231}nhau...
+Dialogue: 0,0:02:12.11,0:02:16.03,Default,,0000,0000,0000,,{\k51}Em {\k47}ơi {\k46}anh {\k46}nhớ {\k39}em {\k42}nhiều {\k121}lắm
+Dialogue: 0,0:02:17.41,0:02:21.17,Default,,0000,0000,0000,,{\k54}Sao {\k42}con {\k48}tim {\k38}anh {\k54}lại {\k34}bật {\k106}khóc
+Dialogue: 0,0:02:21.91,0:02:26.04,Default,,0000,0000,0000,,{\k53}Em {\k41}biết {\k124}không? {\k47}Cứ {\k51}qua {\k45}mỗi {\k52}ngày
+Dialogue: 0,0:02:26.86,0:02:32.58,Default,,0000,0000,0000,,{\k54}Gọi {\k48}tên {\k37}em {\k42}yêu {\k48}trong {\k42}nỗi {\k56}nhớ {\k32}anh {\k46}trào {\k167}dâng
+Dialogue: 0,0:02:33.32,0:02:38.57,Default,,0000,0000,0000,,{\k78}Đêm {\k48}qua {\k46}thức {\k46}giấc {\k40}anh {\k48}chợt {\k219}nhớ
+Dialogue: 0,0:02:38.57,0:02:42.47,Default,,0000,0000,0000,,{\k86}Nhớ {\k44}phút {\k43}ấm {\k51}áp {\k35}ta {\k52}hạnh {\k79}phúc
+Dialogue: 0,0:02:43.41,0:02:47.95,Default,,0000,0000,0000,,{\k55}Anh {\k43}nhớ {\k125}em! {\k47}Nhớ {\k49}em {\k43}rất {\k92}nhiều
+Dialogue: 0,0:02:48.39,0:02:54.01,Default,,0000,0000,0000,,{\k47}Từng {\k45}ngày {\k47}trôi {\k45}qua {\k35}anh {\k51}luôn {\k37}mong {\k83}muốn {\k63}thấy {\k109}em!
+Dialogue: 0,0:02:54.29,0:02:57.24,Default,,0000,0000,0000,,{\k46}Em {\k46}mà {\k203}thôi...
+Dialogue: 0,0:03:16.56,0:03:17.87,Default,,0000,0000,0000,,{\k33}Nếu {\k22}ngày {\k22}mai {\k22}dời {\k32}xa
+Dialogue: 0,0:03:18.01,0:03:21.16,Default,,0000,0000,0000,,{\k42}Con {\k39}tim {\k42}anh {\k40}nhớ {\k50}em {\k43}vô {\k59}cùng
+Dialogue: 0,0:03:22.02,0:03:26.33,Default,,0000,0000,0000,,{\k39}Muốn {\k40}em {\k50}là {\k39}giấc {\k51}mơ {\k51}của {\k161}anh
+Dialogue: 0,0:03:29.85,0:03:34.19,Default,,0000,0000,0000,,{\k75}Yêu {\k37}em {\k45}anh {\k42}yêu {\k46}em {\k41}nhiều {\k148}lắm
+Dialogue: 0,0:03:35.36,0:03:39.16,Default,,0000,0000,0000,,{\k51}Yêu {\k38}em {\k52}từ {\k34}tận {\k54}sâu {\k45}nơi {\k58}trái {\k48}tim
+Dialogue: 0,0:03:39.88,0:03:44.07,Default,,0000,0000,0000,,{\k42}Em {\k46}biết {\k138}không? {\k47}Cứ {\k42}qua {\k37}mỗi {\k67}ngày
+Dialogue: 0,0:03:44.77,0:03:50.06,Default,,0000,0000,0000,,{\k50}Gọi {\k45}tên {\k43}em {\k50}yêu {\k40}trong {\k42}nỗi {\k48}nhớ {\k46}anh {\k42}trào {\k123}dâng
+Dialogue: 0,0:03:51.43,0:03:55.66,Default,,0000,0000,0000,,{\k63}Đêm {\k43}qua {\k40}thức {\k45}giấc {\k47}anh {\k42}chợt {\k143}nhớ
+Dialogue: 0,0:03:56.86,0:04:00.69,Default,,0000,0000,0000,,{\k51}Nhớ {\k39}phút {\k33}ấm {\k43}áp {\k63}ta {\k47}hạnh {\k107}phúc
+Dialogue: 0,0:04:01.41,0:04:05.44,Default,,0000,0000,0000,,{\k43}Anh {\k45}nhớ {\k114}em! {\k48}Nhớ {\k47}em {\k49}rất {\k57}nhiều
+Dialogue: 0,0:04:06.25,0:04:11.85,Default,,0000,0000,0000,,{\k49}Từng {\k39}ngày {\k48}trôi {\k61}qua {\k35}anh {\k37}luôn {\k43}mong {\k85}muốn {\k85}thấy {\k78}em!
+Dialogue: 0,0:04:12.08,0:04:14.89,Default,,0000,0000,0000,,{\k52}Em {\k40}mà {\k189}thôi...
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

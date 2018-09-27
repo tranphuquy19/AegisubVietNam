@@ -1,0 +1,65 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 854
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: ProShow Slideshow.avi
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,13,13,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:37.28,0:00:41.11,Default,,0000,0000,0000,,{\k60}Đừng {\k40}nhìn {\k60}anh {\k52}bằng {\k28}ánh {\k32}mắt {\k36}xa {\k75}lạ
+Dialogue: 0,0:00:41.40,0:00:45.51,Default,,0000,0000,0000,,{\k37}Xin {\k36}đừng {\k38}nhìn {\k75}anh {\k56}bằng {\k25}ánh {\k31}mắt {\k40}vô {\k73}tình
+Dialogue: 0,0:00:45.87,0:00:50.04,Default,,0000,0000,0000,,{\k31}Đã {\k31}bao {\k46}ngày {\k67}qua, {\k27}em {\k31}cứ {\k30}lạnh {\k24}lùng {\k28}trốn {\k28}tránh {\k74}anh
+Dialogue: 0,0:00:50.15,0:00:54.26,Default,,0000,0000,0000,,{\k36}Rồi {\k30}khi {\k68}gặp {\k48}nhau {\k38}sao {\k29}em {\k28}hờ {\k31}hững {\k35}vô {\k68}tâm.
+Dialogue: 0,0:00:54.68,0:00:58.67,Default,,0000,0000,0000,,{\k31}Có {\k47}phải {\k37}em {\k45}đã {\k39}không {\k23}còn {\k33}yêu {\k25}anh {\k31}như {\k33}ngày {\k55}nào.
+Dialogue: 0,0:00:59.00,0:01:03.09,Default,,0000,0000,0000,,{\k40}Có {\k42}phải {\k48}em {\k66}đã {\k38}yêu {\k26}một {\k44}người {\k28}hơn {\k77}anh.
+Dialogue: 0,0:01:03.09,0:01:07.28,Default,,0000,0000,0000,,{\k35}Sao {\k38}em {\k31}nỡ {\k31}lừa {\k71}dối {\k26}đánh {\k35}mất {\k30}tình {\k27}cảm {\k27}hai {\k23}chúng {\k45}ta.
+Dialogue: 0,0:01:15.97,0:01:20.65,Default,,0000,0000,0000,,{\k49}Vì {\k29}ngày {\k31}hôm {\k31}qua {\k31}anh {\k23}đã {\k27}nhìn {\k29}thấy {\k33}em {\k43}ôm {\k33}hôn {\k31}một {\k78}người.
+Dialogue: 0,0:01:20.65,0:01:25.00,Default,,0000,0000,0000,,{\k47}Lòng {\k22}đau {\k35}xót {\k28}khi {\k28}anh {\k27}nhận {\k27}ra {\k36}sự {\k29}thật {\k28}sao {\k27}quá {\k27}trái {\k74}ngang.
+Dialogue: 0,0:01:25.00,0:01:29.32,Default,,0000,0000,0000,,{\k31}Anh {\k31}đã {\k24}thẩn {\k31}thờ {\k29}và {\k25}gục {\k45}ngã {\k56}trước {\k31}nỗi {\k37}đau {\k35}vô {\k57}bờ.
+Dialogue: 0,0:01:29.32,0:01:33.53,Default,,0000,0000,0000,,{\k40}Như {\k36}muốn {\k28}cào {\k34}xé {\k36}tan {\k46}nát {\k36}trái {\k44}tim {\k121}anh.
+Dialogue: 0,0:01:33.75,0:01:38.31,Default,,0000,0000,0000,,{\k36}Từng {\k36}giọt {\k24}nước {\k26}mắt {\k34}cũng {\k24}không {\k28}thể {\k32}xóa {\k20}được {\k28}hết {\k29}những {\k36}nỗi {\k32}đau {\k71}này.
+Dialogue: 0,0:01:38.31,0:01:42.52,Default,,0000,0000,0000,,{\k48}Chẳng {\k28}lẽ {\k21}em {\k28}xem {\k28}như {\k41}tình {\k18}yêu {\k33}chỉ {\k24}là {\k31}trò {\k31}chơi {\k27}đắng {\k63}cay.
+Dialogue: 0,0:01:42.52,0:01:44.77,Default,,0000,0000,0000,,{\k29}Sẽ {\k29}có {\k36}một {\k30}ngày {\k36}em {\k30}nhận {\k35}ra.
+Dialogue: 0,0:01:45.13,0:01:49.69,Default,,0000,0000,0000,,{\k43}Chẳng {\k20}có {\k27}ai {\k20}yêu {\k25}em {\k28}thật {\k32}lòng {\k40}như {\k221}anh...........
+Dialogue: 0,0:02:09.84,0:02:13.69,Default,,0000,0000,0000,,{\k59}Đừng {\k37}nhìn {\k61}anh {\k45}bằng {\k29}ánh {\k29}mắt {\k34}xa {\k91}lạ.
+Dialogue: 0,0:02:13.69,0:02:17.82,Default,,0000,0000,0000,,{\k45}Xin {\k47}đừng {\k55}nhìn {\k37}anh {\k67}bằng {\k34}ánh {\k32}mắt {\k42}vô {\k54}tình.
+Dialogue: 0,0:02:18.24,0:02:22.36,Default,,0000,0000,0000,,{\k38}Đã {\k26}bao {\k41}ngày {\k75}qua, {\k30}em {\k22}cứ {\k37}lạnh {\k15}lùng {\k27}trốn {\k30}tránh {\k71}anh.
+Dialogue: 0,0:02:22.62,0:02:27.19,Default,,0000,0000,0000,,{\k46}Rồi {\k40}khi {\k34}gặp {\k38}nhau {\k44}sao {\k37}em {\k38}hờ {\k27}hững {\k33}vô {\k120}tâm
+Dialogue: 0,0:02:27.19,0:02:31.41,Default,,0000,0000,0000,,{\k34}Có {\k51}phải {\k25}em {\k34}đã {\k51}không {\k24}còn {\k26}yêu {\k42}anh {\k24}như {\k27}ngày {\k84}nào
+Dialogue: 0,0:02:31.61,0:02:35.58,Default,,0000,0000,0000,,{\k40}Có {\k38}phải {\k24}em {\k82}đã {\k32}yêu {\k32}một {\k49}người {\k26}hơn {\k74}anh
+Dialogue: 0,0:02:35.58,0:02:40.04,Default,,0000,0000,0000,,{\k32}Sao {\k24}em {\k32}nỡ {\k44}lừa {\k78}dối {\k26}đánh {\k40}mất {\k28}tình {\k26}cảm {\k26}hai {\k26}chúng {\k64}ta
+Dialogue: 0,0:02:40.42,0:02:47.44,Default,,0000,0000,0000,,{\k28}Để {\k38}khi {\k26}anh {\k28}nhận {\k85}ra {\k25}thì {\k26}sự {\k50}thật {\k24}đã {\k135}quá {\k66}đau {\k171}lòng
+Dialogue: 0,0:02:48.59,0:02:53.06,Default,,0000,0000,0000,,{\k30}Vì {\k35}ngày {\k26}hôm {\k32}qua {\k32}anh {\k30}đã {\k23}nhìn {\k27}thấy {\k35}em {\k35}ôm {\k38}hôn {\k42}một {\k62}người
+Dialogue: 0,0:02:53.32,0:02:57.36,Default,,0000,0000,0000,,{\k39}Lòng {\k26}đau {\k33}xót {\k26}khi {\k26}anh {\k25}nhận {\k28}ra {\k26}sự {\k31}thật {\k24}sao {\k39}quá {\k29}trái {\k52}ngang
+Dialogue: 0,0:02:57.44,0:03:01.99,Default,,0000,0000,0000,,{\k33}Anh {\k33}đã {\k22}thẩn {\k29}thờ {\k31}và {\k37}gục {\k43}ngã {\k38}trước {\k39}nỗi {\k47}đau {\k29}vô {\k74}bờ
+Dialogue: 0,0:03:01.99,0:03:06.01,Default,,0000,0000,0000,,{\k23}Như {\k29}muốn {\k27}cào {\k37}xé {\k47}tan {\k53}nát {\k31}trái {\k31}tim {\k124}anh
+Dialogue: 0,0:03:06.19,0:03:10.58,Default,,0000,0000,0000,,{\k35}Từng {\k35}giọt {\k27}nước {\k31}mắt {\k25}cũng {\k29}không {\k31}thể {\k15}xóa {\k23}được {\k41}hết {\k32}những {\k31}nỗi {\k43}đau {\k41}này
+Dialogue: 0,0:03:10.80,0:03:15.04,Default,,0000,0000,0000,,{\k49}Chẳng {\k28}lẽ {\k21}em {\k28}xem {\k28}như {\k26}tình {\k32}yêu {\k29}chỉ {\k26}là {\k27}trò {\k29}chơi {\k44}đắng {\k57}cay
+Dialogue: 0,0:03:15.04,0:03:17.46,Default,,0000,0000,0000,,{\k31}Sẽ {\k31}có {\k29}một {\k25}ngày {\k31}em {\k31}nhận {\k64}ra.
+Dialogue: 0,0:03:17.85,0:03:22.22,Default,,0000,0000,0000,,Chẳng có ai yêu em thật lòng như anh...........
+Dialogue: 0,0:03:23.79,0:03:28.24,Default,,0000,0000,0000,,{\k30}Vì {\k45}ngày {\k30}hôm {\k24}qua {\k22}anh {\k24}đã {\k31}nhìn {\k39}thấy {\k26}em {\k28}ôm {\k40}hôn {\k47}một {\k59}người.
+Dialogue: 0,0:03:28.66,0:03:32.58,Default,,0000,0000,0000,,{\k25}Lòng {\k27}đau {\k23}xót {\k29}khi {\k27}anh {\k31}nhận {\k29}ra {\k21}sự {\k31}thật {\k35}sao {\k23}quá {\k53}trái {\k38}ngang.
+Dialogue: 0,0:03:32.58,0:03:37.05,Default,,0000,0000,0000,,{\k32}Anh {\k32}đã {\k26}thẩn {\k30}thờ {\k34}và {\k32}gục {\k40}ngã {\k46}trước {\k40}nỗi {\k32}đau {\k34}vô {\k69}bờ.
+Dialogue: 0,0:03:37.05,0:03:41.06,Default,,0000,0000,0000,,{\k38}Như {\k27}muốn {\k32}cào {\k34}xé {\k38}tan {\k34}nát {\k37}trái {\k48}tim {\k113}anh.
+Dialogue: 0,0:03:41.59,0:03:46.10,Default,,0000,0000,0000,,{\k33}Vì {\k25}ngày {\k17}hôm {\k31}qua {\k33}anh {\k27}đã {\k29}nhìn {\k29}thấy {\k49}em {\k35}say {\k21}đắm {\k47}bên {\k75}ai
+Dialogue: 0,0:03:46.16,0:03:50.24,Default,,0000,0000,0000,,{\k39}Lòng {\k26}đau {\k28}xót {\k30}khi {\k26}anh {\k27}nhận {\k31}ra {\k26}sự {\k21}thật {\k28}sao {\k30}quá {\k57}trái {\k39}ngang.
+Dialogue: 0,0:03:50.24,0:03:54.71,Default,,0000,0000,0000,,{\k32}Anh {\k32}đã {\k28}thẩn {\k28}thờ {\k26}và {\k32}gục {\k40}ngã {\k64}trước {\k36}nỗi {\k36}đau {\k34}vô {\k59}bờ.
+Dialogue: 0,0:03:54.81,0:03:59.05,Default,,0000,0000,0000,,{\k30}Như {\k23}muốn {\k26}cào {\k36}xé {\k48}tan {\k42}nát {\k37}trái {\k40}tim {\k142}anh.
+Dialogue: 0,0:03:59.23,0:04:03.70,Default,,0000,0000,0000,,{\k25}Từng {\k33}giọt {\k25}nước {\k25}mắt {\k25}cũng {\k27}không {\k25}thể {\k29}xóa {\k25}được {\k31}hết {\k37}những {\k35}nỗi {\k33}đau {\k72}này.
+Dialogue: 0,0:04:03.70,0:04:07.88,Default,,0000,0000,0000,,{\k48}Chẳng {\k27}lẽ {\k21}em {\k27}xem {\k27}như {\k21}tình {\k33}yêu {\k34}chỉ {\k25}là {\k30}trò {\k28}chơi {\k43}đắng {\k54}cay.
+Dialogue: 0,0:04:07.88,0:04:10.48,Default,,0000,0000,0000,,{\k34}Sẽ {\k34}có {\k26}một {\k22}ngày {\k25}em {\k34}nhận {\k85}ra.
+Dialogue: 0,0:04:10.64,0:04:15.96,Default,,0000,0000,0000,,{\k33}Chẳng {\k18}có {\k15}ai {\k32}yêu {\k35}em {\k23}thật {\k27}lòng {\k44}như {\k305}anh...........
+Dialogue: 0,0:04:16.48,0:04:19.17,Default,,0000,0000,0000,,{\k35}Sẽ {\k35}có {\k43}một {\k32}ngày {\k28}em {\k40}nhận {\k56}ra.
+Dialogue: 0,0:04:19.27,0:04:29.91,Default,,0000,0000,0000,,{\k58}Chẳng {\k17}có {\k11}ai {\k19}yêu {\k43}em {\k31}thật {\k319}lòng {\k215}như {\k351}anh...........
+Dialogue: 0,0:01:07.99,0:01:15.01,Default,,0000,0000,0000,,{\k31}Để {\k27}khi {\k31}anh {\k25}nhận {\k44}ra {\k54}thì {\k31}sự {\k37}thật {\k51}đã {\k98}quá {\k77}đau {\k196}lòng.
+Dialogue: 0,0:01:15.01,0:01:17.01,Default,,0000,0000,0000,,

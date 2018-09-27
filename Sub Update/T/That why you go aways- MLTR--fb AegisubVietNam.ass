@@ -1,0 +1,80 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:09.82,0:00:16.32,engsub,,0000,0000,0000,karaoke,{\k22}Ba{\k22}by {\k26}won't {\k22}you {\k47}tell {\k23}me {\k168}why {\k22}there {\k9}is {\k49}sad{\k26}ness {\k58}in {\k38}your {\k124}eyes
+Comment: 0,0:00:17.38,0:00:21.97,engsub,,0000,0000,0000,karaoke,{\k21}I {\k17}don't {\k31}wan{\k12}na {\k60}say {\k24}good{\k112}bye {\k42}to {\k146}you
+Comment: 0,0:00:24.90,0:00:31.43,engsub,,0000,0000,0000,karaoke,{\k21}Love {\k23}is {\k53}one {\k44}big {\k18}il{\k62}lu{\k161}sion {\k16}I {\k24}should {\k51}try {\k35}to {\k150}forget
+Comment: 0,0:00:32.25,0:00:36.42,engsub,,0000,0000,0000,karaoke,{\k25}But {\k30}there {\k25}is {\k87}some{\k47}thing {\k48}left {\k46}in {\k48}my {\k214}head
+Comment: 0,0:00:40.01,0:00:42.43,engsub,,0000,0000,0000,karaoke,{\k28}You're {\k20}the {\k28}one {\k10}who {\k59}set {\k24}it {\k80}up
+Comment: 0,0:00:43.58,0:00:46.38,engsub,,0000,0000,0000,karaoke,{\k24}Now {\k23}you're {\k17}the {\k26}one {\k21}to {\k51}make {\k33}it {\k95}stop
+Comment: 0,0:00:47.60,0:00:52.03,engsub,,0000,0000,0000,karaoke,{\k16}I'm {\k32}the {\k23}one {\k24}who's {\k72}feeling {\k117}lost {\k40}right {\k126}now
+Comment: 0,0:00:55.16,0:01:01.57,engsub,,0000,0000,0000,karaoke,{\k27}Now {\k20}you {\k22}want {\k22}me {\k51}to {\k24}for{\k213}get {\k41}every {\k52}little {\k40}thing {\k20}you {\k124}said
+Comment: 0,0:01:02.49,0:01:07.03,engsub,,0000,0000,0000,karaoke,{\k23}But {\k40}there {\k18}is {\k83}some{\k49}thing {\k34}left {\k60}in {\k47}my {\k106}head
+Comment: 0,0:01:08.36,0:01:15.34,engsub,,0000,0000,0000,karaoke,{\k71}I {\k58}won't {\k61}for{\k144}get {\k47}the {\k141}way {\k48}you're {\k133}kissing
+Comment: 0,0:01:15.62,0:01:22.51,engsub,,0000,0000,0000,karaoke,{\k33}The {\k95}feelings {\k47}so {\k140}strong {\k90}were {\k75}lasting {\k32}for {\k62}so {\k115}long
+Comment: 0,0:01:23.26,0:01:30.50,engsub,,0000,0000,0000,karaoke,{\k24}But {\k67}I'm {\k75}not {\k50}the {\k139}man {\k47}your {\k142}heart {\k46}is {\k139}missing
+Comment: 0,0:01:31.01,0:01:37.53,engsub,,0000,0000,0000,karaoke,{\k74}That's {\k71}why {\k17}you {\k174}go {\k35}a{\k62}way {\k91}I {\k136}know
+Comment: 0,0:01:40.51,0:01:47.04,engsub,,0000,0000,0000,karaoke,{\k15}You {\k26}were {\k38}never {\k298}satisfied {\k49}no {\k45}matter {\k47}how {\k33}I {\k114}tried
+Comment: 0,0:01:48.05,0:01:52.71,engsub,,0000,0000,0000,karaoke,{\k23}Now {\k21}you {\k37}wanna {\k55}say {\k29}good{\k114}bye {\k54}to {\k138}me
+Comment: 0,0:01:55.57,0:02:01.81,engsub,,0000,0000,0000,karaoke,{\k29}Love {\k24}is {\k42}one {\k53}big {\k235}illusion {\k17}I {\k27}should {\k45}try {\k53}to {\k24}for{\k80}get
+Comment: 0,0:02:03.18,0:02:07.42,engsub,,0000,0000,0000,karaoke,{\k11}But {\k26}there {\k18}is {\k66}some{\k67}thing {\k27}left {\k68}in {\k48}my {\k100}head
+Comment: 0,0:02:08.83,0:02:15.90,engsub,,0000,0000,0000,karaoke,{\k71}I {\k54}won't {\k60}for{\k103}get {\k93}the {\k93}way {\k93}you're {\k145}kissing
+Comment: 0,0:02:16.07,0:02:22.93,engsub,,0000,0000,0000,karaoke,{\k26}The {\k114}feelings {\k38}so {\k182}strong {\k53}were {\k68}lasting {\k36}for {\k60}so {\k109}long
+Comment: 0,0:02:23.71,0:02:30.89,engsub,,0000,0000,0000,karaoke,{\k24}But {\k67}I'm {\k72}not {\k51}the {\k141}man {\k49}your {\k141}heart {\k44}is {\k136}missing
+Comment: 0,0:02:31.52,0:02:37.43,engsub,,0000,0000,0000,karaoke,{\k70}That's {\k69}why {\k26}you {\k165}go {\k96}away {\k92}I {\k81}know
+Comment: 0,0:02:40.82,0:02:46.32,engsub,,0000,0000,0000,karaoke,{\k56}Sitting {\k55}here {\k46}all {\k96}alone {\k22}in {\k24}the {\k43}middle {\k49}of {\k93}no{\k66}where
+Comment: 0,0:02:49.47,0:02:53.18,engsub,,0000,0000,0000,karaoke,{\k21}Don't {\k18}know {\k52}which {\k89}way {\k73}to {\k122}go
+Comment: 0,0:02:55.82,0:03:01.22,engsub,,0000,0000,0000,karaoke,{\k27}There {\k35}ain't {\k58}so {\k45}much {\k34}to {\k64}say {\k48}now {\k36}bet{\k104}ween {\k95}us
+Comment: 0,0:03:03.42,0:03:05.88,engsub,,0000,0000,0000,karaoke,{\k18}There {\k37}ain't {\k62}so {\k29}much {\k34}for {\k88}you
+Comment: 0,0:03:07.19,0:03:13.13,engsub,,0000,0000,0000,karaoke,{\k25}There {\k27}ain't {\k66}so {\k36}much {\k31}for {\k171}me {\k224}anymore
+Comment: 0,0:03:28.18,0:03:35.26,engsub,,0000,0000,0000,karaoke,{\k58}I {\k68}won't {\k65}for{\k97}get {\k92}the {\k97}way {\k92}you're {\k143}kissing
+Comment: 0,0:03:35.45,0:03:42.29,engsub,,0000,0000,0000,karaoke,{\k32}The {\k103}feelings {\k39}so {\k188}strong {\k49}were {\k64}lasting {\k40}for {\k59}so {\k110}long
+Comment: 0,0:03:43.07,0:03:50.37,engsub,,0000,0000,0000,karaoke,{\k34}But {\k57}I'm {\k76}not {\k46}the {\k140}man {\k40}your {\k146}heart {\k54}is {\k145}missing
+Comment: 0,0:03:50.88,0:03:57.17,engsub,,0000,0000,0000,karaoke,{\k68}That's {\k66}why {\k36}you {\k161}go {\k96}away {\k85}I {\k121}know
+Comment: 0,0:03:58.43,0:04:05.44,engsub,,0000,0000,0000,karaoke,{\k68}That's {\k69}why {\k27}you {\k169}go {\k26}a{\k75}way {\k105}I {\k171}know
+Dialogue: 0,0:00:09.82,0:00:16.32,vietsub,,0000,0000,0000,,Người yêu hỡi có thể nói cho anh, sao nỗi buồn vương trong mắt em?
+Dialogue: 0,0:00:17.38,0:00:21.97,vietsub,,0000,0000,0000,,Anh chẳng muốn phải thốt nên lời ..ly biệt...
+Dialogue: 0,0:00:24.90,0:00:31.43,vietsub,,0000,0000,0000,,Tình yêu chỉ là cơn mộng ảo. Mà anh cần phải cố quên đi,
+Dialogue: 0,0:00:32.25,0:00:36.42,vietsub,,0000,0000,0000,,Nhưng vẫn còn đôi điều gì đó, còn đọng lại trong tâm trí anh.
+Dialogue: 0,0:00:40.01,0:00:42.43,vietsub,,0000,0000,0000,,Em là người khơi nguồn tình yêu,
+Dialogue: 0,0:00:43.58,0:00:46.38,vietsub,,0000,0000,0000,,Để giờ chính em lại là người dập tắt.
+Dialogue: 0,0:00:47.60,0:00:52.03,vietsub,,0000,0000,0000,,Và chỉ mình anh là người duy nhất, cảm thấy mình mất mát mà thôi!
+Dialogue: 0,0:00:55.16,0:01:01.57,vietsub,,0000,0000,0000,,Giờ em muốn anh quên đi tất cả. Những lời dịu dàng em đã nói cùng anh,
+Dialogue: 0,0:01:02.49,0:01:07.03,vietsub,,0000,0000,0000,,Nhưng vẫn còn đôi điều gì đó, giữ lại trong tâm trí của anh.
+Dialogue: 0,0:01:08.36,0:01:15.34,vietsub,,0000,0000,0000,,Anh sẽ chẳng bao giờ quên được, cách mà em trao trọn nụ hôn.
+Dialogue: 0,0:01:15.62,0:01:22.51,vietsub,,0000,0000,0000,,Cảm xúc ấy ôi thật mãnh liệt, cứ kéo dài mãi mãi không thôi!
+Dialogue: 0,0:01:23.26,0:01:30.50,vietsub,,0000,0000,0000,,Nhưng anh chẳng phải là hình bóng, mà trái tim em đang nhớ mong.
+Dialogue: 0,0:01:31.01,0:01:37.53,vietsub,,0000,0000,0000,,Chính vì vậy mà anh đã biết,...tại vì sao em rời xa anh!
+Dialogue: 0,0:01:40.51,0:01:47.04,vietsub,,0000,0000,0000,,Chưa bao giờ em thấy vừa ý, cho dù anh cố gắng thế nào.
+Dialogue: 0,0:01:48.05,0:01:52.71,vietsub,,0000,0000,0000,,giờ em lại muốn nói với anh,...lời ly biệt...
+Dialogue: 0,0:01:55.57,0:02:01.81,vietsub,,0000,0000,0000,,Tình yêu chỉ là một thứ ảo ảnh\NMà anh nên quên, và phải cố quên!
+Dialogue: 0,0:02:03.18,0:02:07.42,vietsub,,0000,0000,0000,,\NThế nhưng ... trong tâm trí anh ... vẫn còn chút j đó ... vấn vương
+Dialogue: 0,0:02:08.83,0:02:15.90,vietsub,,0000,0000,0000,,Anh sẽ chẳng bao giờ quên được,..cách mà em trao trọn nụ hôn...
+Dialogue: 0,0:02:16.07,0:02:22.93,vietsub,,0000,0000,0000,,Cảm xúc ấy ôi thật mãnh liệt,...cứ kéo dài mãi mãi không thôi!
+Dialogue: 0,0:02:23.71,0:02:30.89,vietsub,,0000,0000,0000,,Nhưng anh chẳng phải là hình bóng, ...mà trái tim em đang nhớ mong.
+Dialogue: 0,0:02:31.52,0:02:37.43,vietsub,,0000,0000,0000,,Chính vì vậy mà anh đã biết,...tại vì sao em rời xa anh!..
+Dialogue: 0,0:02:40.82,0:02:46.32,vietsub,,0000,0000,0000,,Giờ anh ngồi đây trong cô độc,...giữa chốn vô định mà đâu hay.
+Dialogue: 0,0:02:49.47,0:02:53.18,vietsub,,0000,0000,0000,,anh chẳng biết chọn con đường nào cả
+Dialogue: 0,0:02:55.82,0:03:01.22,vietsub,,0000,0000,0000,,Chẳng còn gì để nói đâu em..
+Dialogue: 0,0:03:03.42,0:03:05.88,vietsub,,0000,0000,0000,,Không còn lại gì cho em
+Dialogue: 0,0:03:07.19,0:03:13.13,vietsub,,0000,0000,0000,,Cũng chẳng còn lại gì cho anh!
+Dialogue: 0,0:03:28.18,0:03:35.26,vietsub,,0000,0000,0000,,Anh sẽ chẳng bao giờ quên được,..cách mà em trao trọn nụ hôn.
+Dialogue: 0,0:03:35.45,0:03:42.29,vietsub,,0000,0000,0000,,Cảm xúc ấy ôi thật mãnh liệt,...cứ kéo dài mãi mãi không thôi!
+Dialogue: 0,0:03:43.07,0:03:50.37,vietsub,,0000,0000,0000,,Nhưng anh chẳng phải là hình bóng, mà trái tim em đang nhớ mong.
+Dialogue: 0,0:03:50.88,0:03:57.17,vietsub,,0000,0000,0000,,Chính vì vậy mà anh đã biết,...tại vì sao em rời xa anh.
+Dialogue: 0,0:03:58.43,0:04:05.44,vietsub,,0000,0000,0000,,Chính vì vậy mà anh đã biết,tại vì sao em rời xa anh.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

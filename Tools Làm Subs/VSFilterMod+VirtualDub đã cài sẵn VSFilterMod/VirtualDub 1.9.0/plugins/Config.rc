@@ -1,0 +1,117 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_FXAWS_CONFIG DIALOGEX 0, 0, 144, 129
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "flaXen's Warp-Sharpen"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    EDITTEXT        IDC_DRMIN,42,10,24,12,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_DRMAX,109,10,24,12,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "Use curved selection, not linear.",IDC_DRCURVE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,11,26,120,8
+    EDITTEXT        IDC_DRAMP,46,38,24,12,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_DRREACH,110,38,24,12,ES_AUTOHSCROLL
+    CONTROL         "Show sharpened areas only",IDC_DRDBG,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,11,54,100,8
+    CONTROL         "Ycc Input",IDC_YIQIN,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,11,81,45,8
+    CONTROL         "Ycc Output",IDC_YIQOUT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,61,81,49,8
+    CONTROL         "Use YIQ instead of YUV",IDC_YUVTOG,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,11,94,89,8
+    DEFPUSHBUTTON   "OK",IDOK,44,112,46,14
+    PUSHBUTTON      "Cancel",IDCANCEL,94,112,46,14
+    GROUPBOX        " Colorspace Options ",IDC_STATIC,4,70,136,38
+    GROUPBOX        " Delta Range Selection ",IDC_STATIC,4,0,136,68
+    LTEXT           "Minimum:",IDC_STATIC,11,12,29,8
+    LTEXT           "Maximum:",IDC_STATIC,75,12,32,8
+    LTEXT           "Amplitude:",IDC_STATIC,12,40,32,8
+    LTEXT           "Reach:",IDC_STATIC,85,40,24,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_FXAWS_CONFIG, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 141
+        BOTTOMMARGIN, 126
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

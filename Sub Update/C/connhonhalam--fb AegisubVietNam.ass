@@ -1,0 +1,89 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: C:\Documents and Settings\User\My Documents\Downloads\Con nho nha lam - Lil S ft Ry2C.mp3
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Ghi rõ nguồn time: Đình Hiếu (Cao Hiếu Minh)
+Dialogue: 0,0:00:28.42,0:00:31.21,Default,,0000,0000,0000,,Con mệt lắm, con mệt mỏi lắm mẹ à
+Dialogue: 0,0:00:31.21,0:00:34.43,Default,,0000,0000,0000,,Con ghét cái cảnh đơn phương bây giờ xung quanh toàn người lạ
+Dialogue: 0,0:00:34.43,0:00:37.62,Default,,0000,0000,0000,,Cuộc sống sinh viên thật khổ cực, tất cả mọi thứ phải tự lo
+Dialogue: 0,0:00:37.62,0:00:39.60,Default,,0000,0000,0000,,Sống xa nhà phải tự chăm sóc bản thân!
+Dialogue: 0,0:00:39.64,0:00:40.85,Default,,0000,0000,0000,,Điều này thực sự khó
+Dialogue: 0,0:00:41.01,0:00:43.85,Default,,0000,0000,0000,,Đối với con ngay từ nhỏ đã được ba mẹ nuông chiều
+Dialogue: 0,0:00:44.21,0:00:47.41,Default,,0000,0000,0000,,Luôn dạy bảo dặn dò mọi thứ nhưng chưa bao giờ mà con hiểu
+Dialogue: 0,0:00:47.41,0:00:50.27,Default,,0000,0000,0000,,Cứ rong chơi, mãi vui đùa, cứ bảo con cứng đầu thôi
+Dialogue: 0,0:00:50.48,0:00:53.72,Default,,0000,0000,0000,,Không biết vào đó rồi ở một mình không có mẹ sao lo nỗi
+Dialogue: 0,0:00:53.83,0:00:56.89,Default,,0000,0000,0000,,Con vẫn nhớ mãi câu đó, đúng là không hề dễ
+Dialogue: 0,0:00:56.89,0:01:00.14,Default,,0000,0000,0000,,Cầm điện thoại ở trên tay .. không đủ can đảm để gọi về
+Dialogue: 0,0:01:00.38,0:01:03.19,Default,,0000,0000,0000,,Con sợ phải bật khóc khi nghe giọng mẹ ở bên kia
+Dialogue: 0,0:01:03.39,0:01:06.38,Default,,0000,0000,0000,,Và con sợ ai đó mất ngủ vì lo cho con vào đêm khuya
+Dialogue: 0,0:01:06.77,0:01:09.57,Default,,0000,0000,0000,,Con sợ con không chịu nỗi cảm giác xa nhà ngay bây giờ
+Dialogue: 0,0:01:09.86,0:01:12.86,Default,,0000,0000,0000,,Và con sợ tim con thắt lại trong lòng tràn ngập những nỗi nhớ
+Dialogue: 0,0:01:13.12,0:01:16.25,Default,,0000,0000,0000,,Con sợ nhưng vẫn cố cười .. phải mạnh mẽ như mẹ nói
+Dialogue: 0,0:01:16.25,0:01:19.02,Default,,0000,0000,0000,,Không được khóc phải cố học hành mai sau cuộc sống sẽ thay đổi
+Dialogue: 0,0:01:19.02,0:01:26.01,Default,,0000,0000,0000,,Chưa bao giờ con tự nói con yêu mẹ rất nhiều
+Dialogue: 0,0:01:26.01,0:01:31.71,Default,,0000,0000,0000,,Vì người bên con, từng giấc ngủ cũng chỉ là mẹ
+Dialogue: 0,0:01:32.50,0:01:35.60,Default,,0000,0000,0000,,Ngày mai, khôn lớn
+Dialogue: 0,0:01:35.84,0:01:44.64,Default,,0000,0000,0000,,Sẽ hiểu ra rằng bên con, khi vấp ngã cũng chỉ là mẹ
+Dialogue: 0,0:01:45.00,0:01:48.07,Default,,0000,0000,0000,,Chưa bao giờ con nói với mẹ : "Con nhớ nhà lắm"
+Dialogue: 0,0:01:48.21,0:01:51.09,Default,,0000,0000,0000,,Giấu tình cảm ở trong lòng và chỉ biết lặng câm
+Dialogue: 0,0:01:51.63,0:01:54.52,Default,,0000,0000,0000,,Con biết ở nhà cực khổ, gửi tiền lên con ăn học
+Dialogue: 0,0:01:54.59,0:01:57.79,Default,,0000,0000,0000,,Và nhiều lúc đi theo cuộc chơi,đánh mất bản thân trog phút chốc
+Dialogue: 0,0:01:57.79,0:02:01.00,Default,,0000,0000,0000,,Rồi chợt nghĩ lại…con gái bất hiếu quá mẹ ơi
+Dialogue: 0,0:02:01.00,0:02:03.99,Default,,0000,0000,0000,,Câu xin lỗi muốn nói ngàn lần nhưng không thể thốt được nên lời
+Dialogue: 0,0:02:04.25,0:02:07.25,Default,,0000,0000,0000,,Chưa bao giờ con rơi nước mắt vì gia đình một lần nào
+Dialogue: 0,0:02:07.25,0:02:10.39,Default,,0000,0000,0000,,Chỉ là con không thể hiện bên ngoài chứ không vô tâm như mẹ bảo
+Dialogue: 0,0:02:10.81,0:02:13.56,Default,,0000,0000,0000,,Con nhớ biển xanh .. nơi mà con từng lớn lên
+Dialogue: 0,0:02:13.56,0:02:16.81,Default,,0000,0000,0000,,Dù có đi xa quê hương cách mấy cũng luôn phải nhớ đến
+Dialogue: 0,0:02:17.08,0:02:20.05,Default,,0000,0000,0000,,Những lúc vui hay lúc buồn đều thả tâm hồn ra biển cả
+Dialogue: 0,0:02:20.19,0:02:23.31,Default,,0000,0000,0000,,Nơi yên bình, nơi giải tỏa hết những tâm sự của lòng ta
+Dialogue: 0,0:02:23.60,0:02:26.53,Default,,0000,0000,0000,,Con nhớ những gì đẹp nhất ở trong kí ức còn đọng lại
+Dialogue: 0,0:02:26.53,0:02:29.73,Default,,0000,0000,0000,,Và tất nhiên cùg những nỗi đau vết sẹo hằn đó chưa hề phai
+Dialogue: 0,0:02:29.90,0:02:32.83,Default,,0000,0000,0000,,Con xin lỗi con bất hiếu cứ mãi làm 2 người buồn thôi
+Dialogue: 0,0:02:32.94,0:02:35.96,Default,,0000,0000,0000,,Nhưng mà đừng lo..con hứa..con hứa..sẽ thay đổi
+Dialogue: 0,0:02:36.00,0:02:42.13,Default,,0000,0000,0000,,Chưa bao giờ con tự nói con yêu mẹ rất nhiều
+Dialogue: 0,0:02:42.25,0:02:48.54,Default,,0000,0000,0000,,Vì người bên con, từng giấc ngủ cũng chỉ là mẹ
+Dialogue: 0,0:02:49.26,0:02:52.23,Default,,0000,0000,0000,,Ngày mai, khôn lớn
+Dialogue: 0,0:02:52.55,0:03:01.63,Default,,0000,0000,0000,,Sẽ hiểu ra rằng bên con, khi vấp ngã cũng chỉ là mẹ
+Dialogue: 0,0:03:06.81,0:03:09.80,Default,,0000,0000,0000,,Con hứa sẽ thay đổi, không làm cho mẹ phải buồn đâu
+Dialogue: 0,0:03:10.00,0:03:13.01,Default,,0000,0000,0000,,Con hứa sẽ học thật giỏi và trả hiếu cho mẹ về sau
+Dialogue: 0,0:03:13.32,0:03:16.11,Default,,0000,0000,0000,,Con hứa sẽ từ bỏ hết, những thứ vui tiêu khiển trước giờ
+Dialogue: 0,0:03:16.24,0:03:19.16,Default,,0000,0000,0000,,Và con hứa con sẽ trưởng thành đi qua tất cả những nỗi sợ
+Dialogue: 0,0:03:19.45,0:03:22.34,Default,,0000,0000,0000,,Con chỉ cần mọi người mạnh khoẻ, không cần lo lắng cho con nhiều
+Dialogue: 0,0:03:22.45,0:03:25.59,Default,,0000,0000,0000,,Mười tám tuổi rồi đã đủ trưởng thành và sự đời cũng thấu hiểu
+Dialogue: 0,0:03:25.59,0:03:28.65,Default,,0000,0000,0000,,Sống xa nhà rất khó khăn nhưng con sẽ cố gắng hết sức
+Dialogue: 0,0:03:28.97,0:03:31.95,Default,,0000,0000,0000,,Không muốn thấy thấy nữa đâu đấng sinh thành phải khổ cực
+Dialogue: 0,0:03:32.33,0:03:35.14,Default,,0000,0000,0000,,Con biết là có nói ra..mẹ cũng không bao giờ nghe được
+Dialogue: 0,0:03:35.23,0:03:36.94,Default,,0000,0000,0000,,Cứ sống mạnh khoẻ mỗi ngày đi
+Dialogue: 0,0:03:36.94,0:03:38.44,Default,,0000,0000,0000,,Đó là điều mà con ước
+Dialogue: 0,0:03:38.44,0:03:40.04,Default,,0000,0000,0000,,Có nhiều chuyện còn chưa nói ra
+Dialogue: 0,0:03:40.04,0:03:41.81,Default,,0000,0000,0000,,Con vẫn giấu kín ở trog lòng
+Dialogue: 0,0:03:41.81,0:03:44.79,Default,,0000,0000,0000,,Con chỉ mong khi nói ra được mọi người không bật khóc
+Dialogue: 0,0:03:44.79,0:03:47.90,Default,,0000,0000,0000,,Chưa phải lúc này để con can đảm nói ra được sự thật
+Dialogue: 0,0:03:48.07,0:03:51.29,Default,,0000,0000,0000,,Cái giá phải trả là quá đắt cho những thứ mình sẽ mất
+Dialogue: 0,0:03:51.39,0:03:54.46,Default,,0000,0000,0000,,Nhưng mà thôi …đó là chuyện của ngày mai
+Dialogue: 0,0:03:54.46,0:03:57.80,Default,,0000,0000,0000,,Còn hôm nay con vẫn phải ráng tất cả vì tương lai..!
+Dialogue: 0,0:03:58.13,0:04:01.04,Default,,0000,0000,0000,,Con hứa sẽ thay đổi, không làm cho mẹ phải buồn đâu
+Dialogue: 0,0:04:01.28,0:04:04.06,Default,,0000,0000,0000,,Con hứa sẽ học thật giỏi và trả hiếu cho mẹ về sau
+Dialogue: 0,0:04:04.43,0:04:07.38,Default,,0000,0000,0000,,Con hứa sẽ từ bỏ hết, những thứ vui tiêu khiển trước giờ
+Dialogue: 0,0:04:07.38,0:04:10.60,Default,,0000,0000,0000,,Và con hứa con sẽ trưởng thành đi qua tất cả những nỗi sợ
+Dialogue: 0,0:04:10.88,0:04:13.92,Default,,0000,0000,0000,,Con hứa sẽ thay đổi, không làm cho mẹ phải khóc đâu
+Dialogue: 0,0:04:14.05,0:04:17.01,Default,,0000,0000,0000,,Con hứa sẽ học thật giỏi và trả hiếu cho mẹ về sau
+Dialogue: 0,0:04:17.26,0:04:20.21,Default,,0000,0000,0000,,Con hứa sẽ từ bỏ hết, những thứ vui tiêu khiển trước giờ
+Dialogue: 0,0:04:20.29,0:04:23.40,Default,,0000,0000,0000,,Và con hứa con sẽ trưởng thành đi qua tất cả những nỗi sợ
+Dialogue: 0,0:04:10.60,0:04:12.60,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0000,0000,0000,,

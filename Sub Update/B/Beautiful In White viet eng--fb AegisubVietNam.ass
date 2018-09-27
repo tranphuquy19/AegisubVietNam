@@ -1,0 +1,107 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:13.96,0:00:17.10,Happy[2],,0,0,0,karaoke,{\k37}Not {\k48}sure {\k41}if {\k30}you {\k71}know {\k87}this
+Comment: 0,0:00:17.53,0:00:20.10,Happy[2],,0,0,0,karaoke,{\k28}but {\k45}when {\k29}we {\k83}first {\k72}met
+Comment: 0,0:00:20.58,0:00:23.34,Happy[2],,0,0,0,karaoke,{\k42}I {\k37}got {\k40}so {\k157}nervous
+Comment: 0,0:00:23.78,0:00:25.95,Happy[2],,0,0,0,karaoke,{\k26}I {\k93}couldn’t {\k98}speak
+Comment: 0,0:00:26.52,0:00:29.56,Happy[2],,0,0,0,karaoke,{\k21}In {\k49}that {\k65}very {\k169}moment
+Comment: 0,0:00:29.98,0:00:32.96,Happy[2],,0,0,0,karaoke,{\k23}I {\k59}found {\k23}the {\k81}one {\k112}and
+Comment: 0,0:00:33.14,0:00:38.78,Happy[2],,0,0,0,karaoke,{\k30}my {\k45}life {\k40}had {\k73}found {\k157}its {\k71}missing {\k148}piece
+Comment: 0,0:00:39.62,0:00:43.67,Happy[2],,0,0,0,karaoke,{\k51}So {\k39}as {\k34}long {\k22}as {\k18}I {\k35}live {\k26}I’ll {\k99}love {\k81}you,
+Comment: 0,0:00:44.02,0:00:46.71,Happy[2],,0,0,0,karaoke,{\k31}will {\k48}have {\k38}and {\k64}hold {\k88}you
+Comment: 0,0:00:47.22,0:00:51.79,Happy[2],,0,0,0,karaoke,{\k30}You {\k18}look {\k61}so {\k118}beautiful {\k63}in {\k165}white
+Comment: 0,0:00:52.18,0:00:56.05,Happy[2],,0,0,0,karaoke,{\k28}And {\k44}from {\k43}now {\k26}til {\k18}my {\k61}very {\k88}last {\k79}breath
+Comment: 0,0:00:56.53,0:00:59.34,Happy[2],,0,0,0,karaoke,{\k28}This {\k50}day {\k39}I’ll {\k164}cherish
+Comment: 0,0:00:59.62,0:01:07.43,Happy[2],,0,0,0,karaoke,{\k28}You {\k31}look {\k52}so {\k125}beautiful {\k57}in {\k183}white {\k305}tonight
+Comment: 0,0:01:11.65,0:01:14.69,Happy[2],,0,0,0,karaoke,{\k42}What {\k36}we {\k46}have {\k31}is {\k149}timeless
+Comment: 0,0:01:15.04,0:01:17.80,Happy[2],,0,0,0,karaoke,{\k44}My {\k69}love {\k27}is {\k136}endless
+Comment: 0,0:01:18.34,0:01:23.84,Happy[2],,0,0,0,karaoke,{\k32}and {\k42}with {\k40}this {\k72}ring {\k87}I {\k67}say {\k79}to {\k30}the {\k101}world
+Comment: 0,0:01:24.14,0:01:27.14,Happy[2],,0,0,0,karaoke,{\k43}You’re {\k32}my {\k44}every {\k181}reason
+Comment: 0,0:01:27.21,0:01:30.16,Happy[2],,0,0,0,karaoke,{\k28}You’re {\k39}all {\k22}that {\k35}I {\k111}believe {\k60}in
+Comment: 0,0:01:30.73,0:01:37.07,Happy[2],,0,0,0,karaoke,{\k33}With {\k52}all {\k36}my {\k74}heart {\k83}I {\k120}mean {\k38}every {\k198}word
+Comment: 0,0:01:37.17,0:01:41.24,Happy[2],,0,0,0,karaoke,{\k69}So {\k24}as {\k49}long {\k17}as {\k18}I {\k40}live {\k42}I’ll {\k51}love {\k97}you,
+Comment: 0,0:01:41.64,0:01:44.45,Happy[2],,0,0,0,karaoke,{\k39}will {\k47}have {\k40}and {\k67}hold {\k88}you
+Comment: 0,0:01:44.81,0:01:49.31,Happy[2],,0,0,0,karaoke,{\k39}You {\k25}look {\k48}so {\k125}beautiful {\k59}in {\k154}white
+Comment: 0,0:01:49.79,0:01:53.89,Happy[2],,0,0,0,karaoke,{\k37}And {\k51}from {\k35}now {\k24}til {\k20}my {\k41}very {\k109}last {\k93}breath
+Comment: 0,0:01:54.17,0:01:56.99,Happy[2],,0,0,0,karaoke,{\k35}This {\k44}day {\k35}I’ll {\k168}cherish
+Comment: 0,0:01:57.31,0:02:05.61,Happy[2],,0,0,0,karaoke,{\k30}You {\k27}look {\k55}so {\k121}beautiful {\k60}in {\k213}white {\k324}tonight
+Comment: 0,0:02:06.57,0:02:09.29,Happy[2],,0,0,0,karaoke,{\k121}ohh {\k151}ohh
+Comment: 0,0:02:09.61,0:02:14.85,Happy[2],,0,0,0,karaoke,{\k36}You {\k37}look {\k55}so {\k122}beautiful {\k57}in {\k119}white {\k98}tonight
+Comment: 0,0:02:20.24,0:02:22.25,Happy[2],,0,0,0,karaoke,{\k39}na {\k37}na {\k36}na {\k89}na
+Comment: 0,0:02:22.84,0:02:29.58,Happy[2],,0,0,0,karaoke,{\k53}so {\k119}beautiful {\k37}in {\k237}white {\k228}tonight
+Comment: 0,0:02:30.57,0:02:34.25,Happy[2],,0,0,0,karaoke,{\k29}And {\k15}if {\k12}a {\k41}daughter {\k14}is {\k19}what {\k73}our {\k93}future {\k72}holds
+Comment: 0,0:02:34.65,0:02:37.64,Happy[2],,0,0,0,karaoke,{\k39}I {\k31}hope {\k48}she {\k44}has {\k36}your {\k101}eyes
+Comment: 0,0:02:37.69,0:02:42.20,Happy[2],,0,0,0,karaoke,{\k42}finds {\k41}love {\k45}like {\k44}you {\k28}and {\k116}I {\k135}did
+Comment: 0,0:02:42.44,0:02:46.79,Happy[2],,0,0,0,karaoke,{\k60}and {\k32}when {\k19}she {\k51}falls {\k29}in {\k36}love {\k46}we’ll {\k29}let {\k44}her {\k89}go
+Comment: 0,0:02:47.14,0:02:49.81,Happy[2],,0,0,0,karaoke,{\k22}and {\k19}I’ll {\k30}walk {\k40}her {\k50}down {\k29}the {\k77}aisle
+Comment: 0,0:02:50.13,0:02:57.95,Happy[2],,0,0,0,karaoke,{\k40}She’ll {\k35}look {\k57}so {\k110}beautiful {\k69}in {\k471}white
+Comment: 0,0:02:59.56,0:03:04.28,Happy[2],,0,0,0,karaoke,{\k40}You {\k41}look {\k35}so {\k124}beautiful {\k77}in {\k155}white
+Comment: 0,0:03:04.51,0:03:08.53,Happy[2],,0,0,0,karaoke,{\k24}So {\k55}as {\k45}long {\k21}as {\k17}I {\k46}live {\k24}I’ll {\k82}love {\k88}you,
+Comment: 0,0:03:08.82,0:03:11.73,Happy[2],,0,0,0,karaoke,{\k50}will {\k41}have {\k34}and {\k75}hold {\k91}you
+Comment: 0,0:03:12.07,0:03:16.64,Happy[2],,0,0,0,karaoke,{\k39}You {\k21}look {\k60}so {\k119}beautiful {\k80}in {\k138}white
+Comment: 0,0:03:17.12,0:03:20.90,Happy[2],,0,0,0,karaoke,{\k32}And {\k47}from {\k40}now {\k22}til {\k20}my {\k70}very {\k59}last {\k88}breath
+Comment: 0,0:03:21.25,0:03:24.49,Happy[2],,0,0,0,karaoke,{\k54}This {\k49}day {\k31}I’ll {\k190}cherish
+Comment: 0,0:03:24.84,0:03:32.63,Happy[2],,0,0,0,karaoke,{\k31}You {\k14}look {\k45}so {\k123}beautiful {\k49}in {\k253}white {\k264}tonight
+Comment: 0,0:03:36.97,0:03:45.81,Happy[2],,0,0,0,karaoke,{\k34}You {\k31}look {\k56}so {\k119}beautiful {\k79}in {\k216}white {\k349}tonight
+Dialogue: 0,0:00:00.00,0:00:00.00,-------,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,-------,,0,0,0,,
+Dialogue: 0,0:00:13.96,0:00:17.10,Default,,0,0,0,,Chẳng dám chắc rằng em có biết điều này không
+Dialogue: 0,0:00:17.53,0:00:20.10,Default,,0,0,0,,Nhưng khi chúng ta gặp nhau lần đầu
+Dialogue: 0,0:00:20.58,0:00:23.34,Default,,0,0,0,,Anh đã rất bồn chồn
+Dialogue: 0,0:00:23.78,0:00:25.95,Default,,0,0,0,, chẳng thể nói lên được lời nào
+Dialogue: 0,0:00:26.52,0:00:29.56,Default,,0,0,0,,Vào cái khoảnh khắc đó
+Dialogue: 0,0:00:29.98,0:00:32.96,Default,,0,0,0,,Anh đã nhận ra một điều
+Dialogue: 0,0:00:33.14,0:00:38.78,Default,,0,0,0,,Rằng trái tim của cuộc đời anh đã tìm được Mảnh ghép cuối cùng còn thiếu
+Dialogue: 0,0:00:39.62,0:00:43.67,Default,,0,0,0,,Chỉ cần anh còn sống trên cuộc đời này, anh sẽ mãi yêu em
+Dialogue: 0,0:00:44.02,0:00:46.71,Default,,0,0,0,,Có em và giữ em trong vòng tay này
+Dialogue: 0,0:00:47.22,0:00:51.79,Default,,0,0,0,,Trông em thật xinh đẹp trong chiếc váy  cưới thiên thần đó
+Dialogue: 0,0:00:52.18,0:00:56.05,Default,,0,0,0,,Và từ giây phút này cho tới hết cuộc đời
+Dialogue: 0,0:00:56.53,0:00:59.34,Default,,0,0,0,,Anh sẽ mãi khắc ghi ngày hôm nay
+Dialogue: 0,0:00:59.62,0:01:07.43,Default,,0,0,0,,em thật rạng ngời trong chiếc váy cưới thiên thần, tỏa sáng ... Trong đêm nay
+Dialogue: 0,0:01:11.65,0:01:14.69,Default,,0,0,0,,Chúng ta sẽ mãi mãi bên nhau
+Dialogue: 0,0:01:15.04,0:01:17.80,Default,,0,0,0,,và tình yêu sẽ là bất diệt
+Dialogue: 0,0:01:18.34,0:01:23.84,Default,,0,0,0,,Với chiếc nhẫn này, anh có thể hét to cho cả thế giới biết
+Dialogue: 0,0:01:24.14,0:01:27.14,Default,,0,0,0,,Em là lẽ sống của đời anh
+Dialogue: 0,0:01:27.21,0:01:30.16,Default,,0,0,0,,Là mọi thứ mà anh tin tưởng nhất
+Dialogue: 0,0:01:30.73,0:01:37.07,Default,,0,0,0,,Tất cả những lời anh nói đều xuất phát từ trái tim này
+Dialogue: 0,0:01:37.17,0:01:41.24,Default,,0,0,0,,Chỉ cần anh còn sống trên cuộc đời này, anh sẽ mãi yêu em
+Dialogue: 0,0:01:41.64,0:01:44.45,Default,,0,0,0,,Có em và ôm em trong vòng tay này
+Dialogue: 0,0:01:44.81,0:01:49.31,Default,,0,0,0,,Trông em thật xinh đẹp trong chiếc váy cưới thiên thần đó
+Dialogue: 0,0:01:49.79,0:01:53.89,Default,,0,0,0,,Và kể từ giây phút này cho tới hết cuộc đời
+Dialogue: 0,0:01:54.17,0:01:56.99,Default,,0,0,0,,Anh sẽ mãi khắc ghi ngày hôm nay
+Dialogue: 0,0:01:57.31,0:02:05.61,Default,,0,0,0,,Em thật tuyệt vời trong chiếc váy cưới thiên thần,  tỏa sáng trong đêm nay
+Dialogue: 0,0:02:06.57,0:02:09.29,Default,,0,0,0,,ohh  ohh
+Dialogue: 0,0:02:09.61,0:02:14.85,Default,,0,0,0,,Trông em thật xinh đẹp trong chiếc váy cưới thiên thần đó
+Dialogue: 0,0:02:20.24,0:02:22.25,Default,,0,0,0,,na na na na
+Dialogue: 0,0:02:22.84,0:02:29.58,Default,,0,0,0,,Thật rạng ngời trong chiếc váy cưới tỏa sáng  Trong đêm nay
+Dialogue: 0,0:02:30.57,0:02:34.25,Default,,0,0,0,,Và nếu chúng ta có 1 công chúa nhỏ trong tương lai
+Dialogue: 0,0:02:34.65,0:02:37.64,Default,,0,0,0,,Anh mong rằng nó sẽ có đôi mắt của em
+Dialogue: 0,0:02:37.69,0:02:42.20,Default,,0,0,0,,Tìm ra được tình yêu đích thực như em và anh đã có
+Dialogue: 0,0:02:42.44,0:02:46.79,Default,,0,0,0,,Và khi nó yêu chúng ta sẽ để nó tự cảm nhận hạnh phúc
+Dialogue: 0,0:02:47.14,0:02:49.81,Default,,0,0,0,,Và  chính anh sẽ là người dẫn nó đi giữa nhà thờ này
+Dialogue: 0,0:02:50.13,0:02:57.95,Default,,0,0,0,,Cô công chúa đó sẽ đẹp biết bao trong bộ váy cưới nhỉ
+Dialogue: 0,0:02:59.56,0:03:04.28,Default,,0,0,0,,Trông em thật xinh đẹp trong chiếc váy cưới thiên thần đó
+Dialogue: 0,0:03:04.51,0:03:08.53,Default,,0,0,0,,Chỉ cần anh còn sống trên cuộc đời này, anh sẽ mãi yêu em
+Dialogue: 0,0:03:08.82,0:03:11.73,Default,,0,0,0,,Có em và mãi ôm em trong vòng tay này
+Dialogue: 0,0:03:12.07,0:03:16.64,Default,,0,0,0,,Trông em thật xinh đẹp trong chiếc váy cưới thiên thần đó
+Dialogue: 0,0:03:17.12,0:03:20.90,Default,,0,0,0,,Và kể từ giây phút này cho tới hết cuộc đời
+Dialogue: 0,0:03:21.25,0:03:24.49,Default,,0,0,0,,Anh sẽ mãi khắc ghi ngày hôm nay
+Dialogue: 0,0:03:24.84,0:03:32.63,Default,,0,0,0,,em thật xinh đẹp trong chiếc váy cưới thiên thần, tỏa sáng ... trong đêm nay
+Dialogue: 0,0:03:36.97,0:03:45.81,Default,,0,0,0,,em thật xinh đẹp trong chiếc váy cưới thiên thần, tỏa sáng ... Trong đêm nay
+Comment: 0,0:03:45.81,0:03:47.81,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

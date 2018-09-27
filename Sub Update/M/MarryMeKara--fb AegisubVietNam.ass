@@ -1,0 +1,99 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: Music\MarryMe-MrSiro.mp3
+Video File: ?dummy:23.976000:40000:640:480:0:2:4:
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 5385
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,VNI-Zap,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.28,0:00:16.14,Default,,0000,0000,0000,,{\k52}Naøy {\k28}ngöôøi {\k41}yeâu {\k65}ôi!
+Dialogue: 0,0:00:17.50,0:00:19.50,Default,,0000,0000,0000,,{\k25}Coù {\k21}nhöõng {\k22}luùc {\k15}boái {\k26}roái {\k14}anh {\k29}sôï {\k48}laém
+Dialogue: 0,0:00:21.27,0:00:23.07,Default,,0000,0000,0000,,{\k28}Vaø {\k20}taïi {\k19}vì {\k22}anh {\k44}khoâng {\k47}chaéc
+Dialogue: 0,0:00:24.61,0:00:28.83,Default,,0000,0000,0000,,{\k28}Hoâm {\k23}qua {\k23}em {\k21}oâm {\k22}anh {\k21}vì {\k18}trôøi {\k50}reùt {\k45}ñoâng {\k27}hay {\k42}vì {\k66}nhôù {\k36}anh?
+Dialogue: 0,0:00:29.13,0:00:32.03,Default,,0000,0000,0000,,{\k45}Vaø {\k40}anh {\k47}muoán {\k25}noùi {\k24}heát {\k66}vôùi {\k43}em
+Dialogue: 0,0:00:32.58,0:00:35.63,Default,,0000,0000,0000,,{\k25}Maø {\k26}sao {\k28}khoâng {\k18}theå {\k48}truùt {\k22}heát {\k46}nhöõng {\k37}nghó {\k55}suy
+Dialogue: 0,0:00:36.23,0:00:39.19,Default,,0000,0000,0000,,{\k50}(Chôø {\k45}bao {\k42}laâu {\k27}giaác {\k44}mô {\k46}thieân {\k42}ñöôøng
+Dialogue: 0,0:00:39.84,0:00:42.79,Default,,0000,0000,0000,,{\k27}Cuøng {\k22}nhau {\k20}tay {\k25}trong {\k38}tay {\k29}vaø {\k43}ñeám {\k23}nhöõng {\k23}yeâu {\k45}thöông)
+Dialogue: 0,0:00:43.21,0:00:44.97,Default,,0000,0000,0000,,{\k25}Vaø {\k45}ngaøy {\k30}hoâm {\k76}nay
+Dialogue: 0,0:00:45.87,0:00:48.57,Default,,0000,0000,0000,,{\k17}Anh {\k30}seõ {\k26}coá {\k17}gaéng {\k25}noùi {\k21}heát {\k25}cho {\k23}duø {\k44}theá {\k42}naøo!
+Dialogue: 0,0:00:49.43,0:00:52.16,Default,,0000,0000,0000,,{\k28}Vaø {\k24}seõ {\k19}noùi {\k19}heát {\k27}nhöõng {\k21}khaùt {\k24}khao {\k25}trong {\k40}tim {\k46}mình
+Dialogue: 0,0:00:52.98,0:00:55.32,Default,,0000,0000,0000,,{\k32}Vaø {\k21}muoán {\k24}em {\k18}bieát {\k28}laâu {\k21}nay {\k25}anh {\k16}ñaõ {\k49}nhôù
+Dialogue: 0,0:00:55.32,0:00:59.10,Default,,0000,0000,0000,,{\k24}Vaø {\k19}ñaõ {\k25}thaàm {\k26}yeâu {\k41}em {\k42}baáy {\k201}laâu
+Dialogue: 0,0:00:59.78,0:01:00.74,Default,,0000,0000,0000,,{\k27}Ngöôøi {\k29}yeâu {\k40}ôi
+Dialogue: 0,0:01:01.34,0:01:04.31,Default,,0000,0000,0000,,{\k47}Giôø {\k24}anh {\k42}ñaõ {\k23}bieát {\k25}nhôù {\k16}vaø {\k29}nhôù {\k15}caøng {\k27}da {\k49}dieát
+Dialogue: 0,0:01:04.91,0:01:08.03,Default,,0000,0000,0000,,{\k43}Caàn {\k31}hôi {\k44}aám {\k18}tim {\k25}em {\k24}ñeå {\k21}bieát {\k21}mình {\k23}ñang {\k62}soáng
+Dialogue: 0,0:01:08.50,0:01:11.90,Default,,0000,0000,0000,,{\k26}Coù {\k21}em {\k21}trong {\k27}cuoäc {\k44}ñôøi {\k30}anh {\k36}seõ {\k24}khoâng {\k20}bao {\k24}giôø {\k45}rôøi {\k22}xa
+Dialogue: 0,0:01:11.90,0:01:13.68,Default,,0000,0000,0000,,{\k21}Nhöõng {\k24}phuùt {\k23}giaây {\k23}ñöôïc {\k43}beân {\k44}em
+Dialogue: 0,0:01:13.89,0:01:14.99,Default,,0000,0000,0000,,{\k44}Vaø {\k22}anh {\k44}höùa
+Dialogue: 0,0:01:14.99,0:01:16.53,Default,,0000,0000,0000,,{\k16}Seõ {\k11}khoâng {\k20}bao {\k18}giôø {\k29}khieán {\k23}em {\k37}buoàn
+Dialogue: 0,0:01:16.71,0:01:19.73,Default,,0000,0000,0000,,{\k12}Seõ {\k22}khoâng {\k18}bao {\k17}giôø {\k31}khieán {\k22}em {\k22}phaûi {\k90}lo {\k68}...aâu
+Dialogue: 0,0:01:19.94,0:01:22.37,Default,,0000,0000,0000,,{\k46}Seõ {\k23}coá {\k22}gaéng {\k22}ñeå {\k23}toát {\k23}hôn {\k23}töøng {\k61}ngaøy
+Dialogue: 0,0:01:22.87,0:01:24.00,Default,,0000,0000,0000,,{\k21}Seõ {\k25}yeâu {\k22}caøng {\k45}nhieàu
+Dialogue: 0,0:01:24.52,0:01:27.81,Default,,0000,0000,0000,,{\k34}Seõ {\k25}yeâu {\k21}vaø {\k137}chæ {\k23}yeâu {\k21}moãi {\k68}em
+Dialogue: 0,0:01:28.45,0:01:29.50,Default,,0000,0000,0000,,{\k22}Ngöôøi {\k23}yeâu {\k60}ôi
+Dialogue: 0,0:01:30.83,0:01:33.13,Default,,0000,0000,0000,,{\k30}Do {\k22}you {\k25}wan{\k22}na {\k24}mar{\k37}ry {\k70}me?
+Dialogue: 0,0:01:34.43,0:01:37.18,Default,,0000,0000,0000,,{\k28}Do {\k20}you {\k25}wan{\k25}na {\k22}mar{\k42}ry {\k113}me?
+Dialogue: 0,0:01:39.61,0:01:41.18,Default,,0000,0000,0000,,{\k24}I {\k27}can't {\k21}live {\k24}with{\k22}out {\k39}you
+Dialogue: 0,0:01:41.41,0:01:45.50,Default,,0000,0000,0000,,{\k24}I {\k26}can't {\k44}live {\k22}with{\k31}out {\k37}you {\k23}an{\k40}y {\k161}more {\k1}!
+Dialogue: 0,0:01:45.03,0:01:49.22,Default,,0000,0000,0000,,{\k20}I {\k26}can't {\k45}live {\k22}with{\k24}out {\k42}you {\k24}an{\k44}y {\k171}more {\k1}!
+Dialogue: 0,0:01:49.27,0:01:50.86,Default,,0000,0000,0000,,{\k45}Naøy {\k25}ngöôøi {\k44}yeâu {\k45}ôi!
+Dialogue: 0,0:01:52.41,0:01:54.43,Default,,0000,0000,0000,,{\k24}Coù {\k16}nhöõng {\k28}luùc {\k16}boái {\k23}roái {\k19}anh {\k31}sôï {\k45}laém
+Dialogue: 0,0:01:55.98,0:01:58.09,Default,,0000,0000,0000,,{\k47}Vaø {\k22}taïi {\k17}vì {\k23}anh {\k47}khoâng {\k55}chaéc
+Dialogue: 0,0:01:59.56,0:02:03.71,Default,,0000,0000,0000,,{\k24}Hoâm {\k24}qua {\k20}em {\k21}oâm {\k27}anh {\k22}vì {\k19}trôøi {\k51}reùt {\k39}ñoâng {\k28}hay {\k73}vì {\k37}nhôù {\k30}anh?
+Dialogue: 0,0:02:04.03,0:02:06.96,Default,,0000,0000,0000,,{\k49}Vaø {\k36}anh {\k47}muoán {\k27}noùi {\k35}heát {\k51}vôùi {\k48}em
+Dialogue: 0,0:02:07.39,0:02:10.57,Default,,0000,0000,0000,,{\k35}Maø {\k22}sao {\k27}khoâng {\k22}theå {\k32}truùt {\k34}heát {\k51}nhöõng {\k31}nghó {\k64}suy
+Dialogue: 0,0:02:11.14,0:02:13.92,Default,,0000,0000,0000,,{\k52}(Chôø {\k46}bao {\k36}laâu {\k31}giaác {\k44}mô {\k36}thieân {\k33}ñöôøng
+Dialogue: 0,0:02:14.66,0:02:17.86,Default,,0000,0000,0000,,{\k37}Cuøng {\k24}nhau {\k20}tay {\k25}trong {\k42}tay {\k23}vaø {\k24}ñeám {\k42}nhöõng {\k25}yeâu {\k58}thöông)
+Dialogue: 0,0:02:18.15,0:02:19.89,Default,,0000,0000,0000,,{\k25}Vaø {\k40}ngaøy {\k35}hoâm {\k74}nay
+Dialogue: 0,0:02:20.78,0:02:23.53,Default,,0000,0000,0000,,{\k18}Anh {\k32}seõ {\k22}coá {\k22}gaéng {\k22}noùi {\k22}heát {\k22}cho {\k28}duø {\k31}theá {\k56}naøo!
+Dialogue: 0,0:02:24.37,0:02:27.10,Default,,0000,0000,0000,,{\k14}Vaø {\k37}seõ {\k19}noùi {\k22}heát {\k22}nhöõng {\k21}khaùt {\k25}khao {\k23}trong {\k33}tim {\k57}mình
+Dialogue: 0,0:02:27.96,0:02:30.24,Default,,0000,0000,0000,,{\k24}Vaø {\k25}muoán {\k23}em {\k18}bieát {\k25}laâu {\k23}nay {\k25}anh {\k18}ñaõ {\k45}nhôù
+Dialogue: 0,0:02:30.24,0:02:33.91,Default,,0000,0000,0000,,{\k21}Vaø {\k23}ñaõ {\k25}thaàm {\k27}yeâu {\k38}em {\k39}baáy {\k194}laâu
+Dialogue: 0,0:02:34.71,0:02:35.65,Default,,0000,0000,0000,,{\k28}Ngöôøi {\k23}yeâu {\k43}ôi
+Dialogue: 0,0:02:36.28,0:02:39.24,Default,,0000,0000,0000,,{\k45}Giôø {\k25}anh {\k41}ñaõ {\k25}bieát {\k22}nhôù {\k18}vaø {\k27}nhôù {\k16}caøng {\k26}da {\k51}dieát
+Dialogue: 0,0:02:39.87,0:02:42.79,Default,,0000,0000,0000,,{\k40}Caàn {\k29}hôi {\k44}aám {\k20}tim {\k25}em {\k21}ñeå {\k23}bieát {\k18}mình {\k17}ñang {\k55}soáng
+Dialogue: 0,0:02:43.43,0:02:46.78,Default,,0000,0000,0000,,{\k23}Coù {\k22}em {\k21}trong {\k25}cuoäc {\k42}ñôøi {\k34}anh {\k37}seõ {\k19}khoâng {\k21}bao {\k26}giôø {\k46}rôøi {\k19}xa
+Dialogue: 0,0:02:46.82,0:02:48.61,Default,,0000,0000,0000,,{\k21}Nhöõng {\k26}phuùt {\k20}giaây {\k23}ñöôïc {\k43}beân {\k46}em
+Dialogue: 0,0:02:48.83,0:02:49.93,Default,,0000,0000,0000,,{\k42}Vaø {\k22}anh {\k46}höùa
+Dialogue: 0,0:02:49.93,0:02:51.47,Default,,0000,0000,0000,,{\k14}Seõ {\k11}khoâng {\k15}bao {\k22}giôø {\k30}khieán {\k23}em {\k39}buoàn
+Dialogue: 0,0:02:51.50,0:02:54.60,Default,,0000,0000,0000,,{\k25}Seõ {\k21}khoâng {\k19}bao {\k18}giôø {\k30}khieán {\k22}em {\k23}phaûi {\k86}lo {\k66}...aâu
+Dialogue: 0,0:02:55.09,0:02:57.31,Default,,0000,0000,0000,,{\k24}Seõ {\k21}coá {\k21}gaéng {\k24}ñeå {\k22}toát {\k23}hôn {\k23}töøng {\k64}ngaøy
+Dialogue: 0,0:02:57.78,0:02:58.94,Default,,0000,0000,0000,,{\k21}Seõ {\k24}yeâu {\k24}caøng {\k47}nhieàu
+Dialogue: 0,0:02:59.43,0:03:02.70,Default,,0000,0000,0000,,{\k31}Seõ {\k26}yeâu {\k21}vaø {\k136}chæ {\k25}yeâu {\k22}moãi {\k66}em
+Dialogue: 0,0:03:03.34,0:03:04.46,Default,,0000,0000,0000,,{\k25}Ngöôøi {\k24}yeâu {\k63}ôi
+Dialogue: 0,0:03:05.79,0:03:08.09,Default,,0000,0000,0000,,{\k25}Do {\k26}you {\k20}wan{\k21}na {\k25}mar{\k35}ry {\k78}me?
+Dialogue: 0,0:03:09.41,0:03:12.08,Default,,0000,0000,0000,,{\k23}Do {\k22}you {\k24}wan{\k19}na {\k26}mar{\k41}ry {\k112}me?
+Dialogue: 0,0:03:14.58,0:03:15.95,Default,,0000,0000,0000,,{\k17}I {\k28}can't {\k22}live {\k23}with{\k23}out {\k24}you
+Dialogue: 0,0:03:16.37,0:03:20.39,Default,,0000,0000,0000,,{\k20}I {\k23}can't {\k46}live {\k23}with{\k22}out {\k45}you {\k20}an{\k37}y {\k165}more {\k1}!
+Dialogue: 0,0:03:19.86,0:03:23.75,Default,,0000,0000,0000,,{\k28}I {\k25}can't {\k47}live {\k18}with{\k25}out {\k46}you {\k22}an{\k43}y {\k134}more {\k1}!
+Dialogue: 0,0:03:24.86,0:03:25.83,Default,,0000,0000,0000,,{\k27}Ngöôøi {\k27}yeâu {\k43}ôi
+Dialogue: 0,0:03:26.54,0:03:29.38,Default,,0000,0000,0000,,{\k34}Giôø {\k25}anh {\k43}ñaõ {\k18}bieát {\k29}nhôù {\k20}vaø {\k25}nhôù {\k16}caøng {\k27}da {\k47}dieát
+Dialogue: 0,0:03:30.20,0:03:32.99,Default,,0000,0000,0000,,{\k23}Caàn {\k29}hôi {\k44}aám {\k19}tim {\k23}em {\k22}ñeå {\k23}bieát {\k22}mình {\k24}ñang {\k50}soáng
+Dialogue: 0,0:03:33.59,0:03:36.96,Default,,0000,0000,0000,,{\k25}Coù {\k19}em {\k22}trong {\k24}cuoäc {\k46}ñôøi {\k30}anh {\k34}seõ {\k25}khoâng {\k18}bao {\k26}giôø {\k43}rôøi {\k28}xa
+Dialogue: 0,0:03:36.96,0:03:38.76,Default,,0000,0000,0000,,{\k24}Nhöõng {\k21}phuùt {\k25}giaây {\k22}ñöôïc {\k40}beân {\k47}em
+Dialogue: 0,0:03:39.20,0:03:40.08,Default,,0000,0000,0000,,{\k24}Ngöôøi {\k24}yeâu {\k40}ôi
+Dialogue: 0,0:03:39.89,0:03:41.53,Default,,0000,0000,0000,,{\k21}Seõ {\k23}khoâng {\k17}bao {\k22}giôø {\k28}khieán {\k21}em {\k32}buoàn
+Dialogue: 0,0:03:41.90,0:03:43.45,Default,,0000,0000,0000,,{\k12}Seõ {\k12}khoâng {\k20}bao {\k21}giôø {\k25}khieán {\k18}em {\k24}phaûi {\k22}lo
+Dialogue: 0,0:03:43.89,0:03:44.61,Default,,0000,0000,0000,,{\k26}Phaûi {\k46}lo
+Dialogue: 0,0:03:45.26,0:03:47.28,Default,,0000,0000,0000,,{\k22}Seõ {\k21}coá {\k21}gaéng {\k24}ñeå {\k23}toát {\k23}hôn {\k23}töøng {\k45}ngaøy
+Dialogue: 0,0:03:47.71,0:03:49.23,Default,,0000,0000,0000,,{\k44}Seõ {\k22}yeâu {\k23}thaät {\k63}nhieàu
+Dialogue: 0,0:03:49.49,0:03:52.85,Default,,0000,0000,0000,,{\k43}Seõ {\k24}yeâu {\k20}vaø {\k137}chæ {\k24}yeâu {\k23}moãi {\k65}em
+Dialogue: 0,0:03:53.53,0:03:54.43,Default,,0000,0000,0000,,{\k23}Ngöôøi {\k29}yeâu {\k38}ôi
+Dialogue: 0,0:03:55.95,0:03:58.21,Default,,0000,0000,0000,,{\k28}Do {\k22}you {\k22}wan{\k19}na {\k31}mar{\k42}ry {\k62}me?
+Dialogue: 0,0:03:59.55,0:04:02.25,Default,,0000,0000,0000,,{\k26}Do {\k21}you {\k26}wan{\k23}na {\k41}mar{\k25}ry {\k108}me?
+Dialogue: 0,0:04:04.71,0:04:06.29,Default,,0000,0000,0000,,{\k25}I {\k22}can't {\k24}live {\k22}with{\k22}out {\k43}you
+Dialogue: 0,0:04:06.52,0:04:10.56,Default,,0000,0000,0000,,{\k22}I {\k24}can't {\k45}live {\k22}with{\k21}out {\k45}you {\k18}an{\k50}y {\k145}more {\k12}!
+Dialogue: 0,0:04:15.02,0:04:16.01,Default,,0000,0000,0000,,{\k35}Ngöôøi {\k21}yeâu {\k43}ôi
+Dialogue: 0,0:04:16.01,0:04:18.01,Default,,0000,0000,0000,,

@@ -1,0 +1,56 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:12.08,0:01:15.62,Default,,0000,0000,0000,karaoke,{\k29}Möøng {\k21}ngaøy {\k24}sinh {\k24}nhaät {\k34}moät {\k32}tuoåi {\k44}môùi {\k45}an {\k101}laønh
+Comment: 0,0:01:19.18,0:01:22.71,Default,,0000,0000,0000,karaoke,{\k25}Möøng {\k17}ngaøy {\k21}sinh {\k30}nhaät {\k26}moät {\k30}tuoåi {\k41}môùi {\k40}troïn {\k23}nieàm {\k100}vui
+Comment: 0,0:01:26.37,0:01:29.49,Default,,0000,0000,0000,karaoke,{\k20}Tieáng {\k16}cöôøi {\k25}ngaát {\k34}ngaây {\k31}nieàm {\k19}vui {\k34}söôùng {\k31}ñang {\k25}ñong {\k77}ñaày
+Comment: 0,0:01:29.90,0:01:33.73,Default,,0000,0000,0000,karaoke,{\k28}Möøng {\k21}moät {\k19}tuoåi {\k25}môùi {\k53}chan {\k44}hoøa {\k35}tuyeät {\k42}vôøi {\k36}vôùi {\k31}lôøi {\k49}ca
+Comment: 0,0:01:34.15,0:01:37.71,Default,,0000,0000,0000,karaoke,{\k23}Happy {\k41}birthday {\k31}to {\k77}you {\k28}Happy {\k43}birthday {\k41}to {\k72}you
+Comment: 0,0:01:37.70,0:01:41.27,Default,,0000,0000,0000,karaoke,{\k35}Haùt {\k31}möøng {\k23}khuùc {\k27}ca {\k22}lôøi {\k34}chuùc {\k43}phuùc {\k32}luoân {\k22}ñaäm {\k88}ñaø
+Comment: 0,0:01:41.43,0:01:44.40,Default,,0000,0000,0000,karaoke,{\k22}Möøng {\k24}moät {\k22}tuoåi {\k46}môùi {\k27}khoâng {\k20}cay {\k66}ñaéng,khoâng {\k24}öu {\k46}phieàn
+Comment: 0,0:01:44.99,0:01:49.71,Default,,0000,0000,0000,karaoke,{\k25}Ngaøy {\k25}mai {\k23}töôi {\k132}saùng,tình {\k23}daâng {\k21}lai {\k24}laùng {\k41}nhö {\k22}naéng {\k46}mai {\k24}muøa {\k66}xuaân
+Comment: 0,0:01:50.13,0:01:53.67,Default,,0000,0000,0000,karaoke,{\k22}Happy {\k30}birthday {\k26}to {\k96}you {\k31}Happy {\k39}birthday {\k46}to {\k64}you
+Comment: 0,0:01:53.89,0:01:57.28,Default,,0000,0000,0000,karaoke,{\k24}Haùt {\k22}möøng {\k24}khuùc {\k43}ca {\k21}moät {\k27}tuoåi {\k35}môùi {\k26}bao {\k22}ngoïc {\k95}ngaø
+Comment: 0,0:01:57.44,0:02:00.61,Default,,0000,0000,0000,karaoke,{\k25}Naøo {\k26}baïn {\k20}cuøng {\k23}haùt {\k48}vôùi {\k57}toâi {\k32}khuùc {\k21}ca {\k65}vui.
+Comment: 0,0:02:01.01,0:02:05.50,Default,,0000,0000,0000,karaoke,{\k27}Chuùc {\k24}möøng {\k14}sinh {\k26}nhaät {\k91}Happy {\k35}birthday {\k44}to {\k188}you
+Comment: 0,0:02:55.20,0:02:58.69,Default,,0000,0000,0000,karaoke,{\k22}Möøng {\k22}ngaøy {\k30}sinh {\k28}nhaät {\k29}moät {\k35}tuoåi {\k56}môùi {\k30}an {\k97}laønh
+Comment: 0,0:03:02.31,0:03:05.74,Default,,0000,0000,0000,karaoke,{\k26}Möøng {\k20}ngaøy {\k27}sinh {\k25}nhaät {\k37}moät {\k28}tuoåi {\k36}môùi {\k27}troïn {\k28}nieàm {\k89}vui
+Comment: 0,0:03:09.48,0:03:12.61,Default,,0000,0000,0000,karaoke,{\k26}Tieáng {\k17}cöôøi {\k24}ngaát {\k33}ngaây {\k26}nieàm {\k23}vui {\k32}söôùng {\k34}ñang {\k34}ñong {\k64}ñaày
+Comment: 0,0:03:13.46,0:03:16.95,Default,,0000,0000,0000,karaoke,{\k0}Möøng {\k2}moät {\k13}tuoåi {\k48}môùi {\k50}chan {\k46}hoøa {\k23}tuyeät {\k40}vôøi {\k48}vôùi {\k22}lôøi {\k57}ca
+Comment: 0,0:03:17.24,0:03:20.75,Default,,0000,0000,0000,karaoke,{\k26}Happy {\k39}birthday {\k35}to {\k79}you {\k21}Happy {\k43}birthday {\k38}to {\k70}you
+Comment: 0,0:03:21.01,0:03:23.94,Default,,0000,0000,0000,karaoke,{\k22}Haùt {\k21}möøng {\k28}khuùc {\k36}ca {\k27}lôøi {\k17}chuùc {\k27}phuùc {\k31}luoân {\k36}ñaäm {\k48}ñaø
+Comment: 0,0:03:24.42,0:03:27.70,Default,,0000,0000,0000,karaoke,{\k18}Möøng {\k36}moät {\k25}tuoåi {\k43}môùi {\k32}khoâng {\k22}cay {\k67}ñaéng,khoâng {\k22}öu {\k63}phieàn
+Comment: 0,0:03:27.94,0:03:33.04,Default,,0000,0000,0000,karaoke,{\k32}Ngaøy {\k33}mai {\k22}töôi {\k136}saùng,tình {\k23}daâng {\k19}lai {\k25}laùng {\k41}nhö {\k26}naéng {\k51}mai {\k39}muøa {\k63}xuaân
+Comment: 0,0:03:33.27,0:03:36.83,Default,,0000,0000,0000,karaoke,{\k23}Happy {\k43}birthday {\k44}to {\k58}you {\k32}Happy {\k41}birthday {\k46}to {\k69}you
+Comment: 0,0:03:37.04,0:03:39.93,Default,,0000,0000,0000,karaoke,{\k24}Haùt {\k19}möøng {\k26}khuùc {\k38}ca {\k26}moät {\k22}tuoåi {\k33}môùi {\k37}bao {\k21}ngoïc {\k43}ngaø
+Comment: 0,0:03:40.39,0:03:43.69,Default,,0000,0000,0000,karaoke,{\k38}Naøo {\k27}baïn {\k22}cuøng {\k24}haùt {\k57}vôùi {\k54}toâi {\k23}khuùc {\k25}ca {\k60}vui.
+Comment: 0,0:03:43.96,0:03:47.93,Default,,0000,0000,0000,karaoke,{\k34}Chuùc {\k30}möøng {\k19}sinh {\k30}nhaät {\k84}Happy {\k43}birthday {\k48}to {\k109}you
+Comment: 0,0:03:50.15,0:03:53.00,Default,,0000,0000,0000,karaoke,{\k45}Naøo {\k15}cuøng {\k24}thoåi {\k36}neán {\k34}ñi {\k32}baïn {\k99}ôi
+Comment: 0,0:03:53.69,0:03:56.15,Default,,0000,0000,0000,karaoke,{\k22}Nguyeän {\k23}caàu {\k23}cho {\k30}töông {\k31}lai {\k28}maõi {\k23}raïng {\k66}ngôøi
+Comment: 0,0:03:57.21,0:03:59.88,Default,,0000,0000,0000,karaoke,{\k27}Nguyeän {\k24}caàu {\k1}cho {\k38}haïnh {\k29}phuùc {\k38}maõi {\k26}ñeïp {\k84}töôi
+Comment: 0,0:04:00.78,0:04:03.32,Default,,0000,0000,0000,karaoke,{\k15}Hoâm {\k28}nay {\k23}vaø {\k16}mai {\k47}sau {\k16}maõi{\k18}luoân {\k34}saùng {\k73}ngôøi
+Comment: 0,0:04:03.45,0:04:07.03,Default,,0000,0000,0000,karaoke,{\k23}Happy {\k43}birthday {\k40}to {\k71}you {\k27}Happy {\k38}birthday {\k50}to {\k66}you
+Comment: 0,0:04:07.24,0:04:10.27,Default,,0000,0000,0000,karaoke,{\k22}Haùt {\k24}möøng {\k23}khuùc {\k31}ca {\k27}lôøi {\k31}chuùc {\k19}phuùc {\k38}luoân {\k32}ñaäm {\k56}ñaø
+Comment: 0,0:04:10.71,0:04:14.21,Default,,0000,0000,0000,karaoke,{\k29}Möøng {\k18}moät {\k28}tuoåi {\k34}môùi {\k35}khoâng {\k24}cay {\k64}ñaéng,khoâng {\k25}öu {\k93}phieàn
+Comment: 0,0:04:14.27,0:04:19.27,Default,,0000,0000,0000,karaoke,{\k32}Ngaøy {\k23}mai {\k25}töôi {\k128}saùng,tình {\k19}daâng {\k24}lai {\k27}laùng {\k34}nhö {\k32}naéng {\k49}mai {\k30}muøa {\k77}xuaân
+Comment: 0,0:04:19.44,0:04:23.04,Default,,0000,0000,0000,karaoke,{\k27}Happy {\k39}birthday {\k46}to {\k71}you {\k22}Happy {\k38}birthday {\k36}to {\k81}you
+Comment: 0,0:04:23.23,0:04:26.55,Default,,0000,0000,0000,karaoke,{\k25}Haùt {\k21}möøng {\k22}khuùc {\k30}ca {\k23}moät {\k32}tuoåi {\k45}môùi {\k26}bao {\k26}ngoïc {\k82}ngaø
+Comment: 0,0:04:26.59,0:04:29.91,Default,,0000,0000,0000,karaoke,{\k42}Naøo {\k27}baïn {\k24}cuøng {\k22}haùt {\k55}vôùi {\k53}toâi {\k24}khuùc {\k23}ca {\k62}vui.
+Comment: 0,0:04:29.94,0:04:33.71,Default,,0000,0000,0000,karaoke,{\k58}Chuùc {\k29}möøng {\k21}sinh {\k25}nhaät {\k80}Happy {\k33}birthday {\k46}to {\k85}you
+Comment: 0,0:04:33.86,0:04:37.03,Default,,0000,0000,0000,karaoke,{\k27}Chuùc {\k27}möøng {\k21}sinh {\k61}nhaät {\k48}Happy {\k48}birthday {\k40}to {\k45}you
+Comment: 0,0:04:37.43,0:04:45.25,Default,,0000,0000,0000,karaoke,{\k26}Chuùc {\k16}möøng {\k31}sinh {\k172}nhaät {\k26}Happy {\k46}birthday {\k42}to {\k423}you
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

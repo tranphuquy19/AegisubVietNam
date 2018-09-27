@@ -1,0 +1,61 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: C:\Users\HK\Desktop\hon ca su quan tam 320 lyrics.mp3
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.07,0:00:25.01,Default,,0000,0000,0000,,Người ơi khi xa em anh thật lòng rất nhớ em
+Dialogue: 0,0:00:25.31,0:00:29.30,Default,,0000,0000,0000,,Từng cảm giác quan tâm bỗng ùa về nơi trái tim
+Dialogue: 0,0:00:29.30,0:00:33.24,Default,,0000,0000,0000,,Lời yêu thương trong em gửi đến anh nơi phương trời
+Dialogue: 0,0:00:33.58,0:00:37.71,Default,,0000,0000,0000,,Cùng giây phút nào em thôi nhớ đến người
+Dialogue: 0,0:00:37.71,0:00:41.58,Default,,0000,0000,0000,,Vì khi đã yêu nhau chỉ cần ta nghĩ đến nhau 
+Dialogue: 0,0:00:41.81,0:00:45.75,Default,,0000,0000,0000,,Dù xa cách cũng sẽ luôn một lòng tin đến nhau 
+Dialogue: 0,0:00:45.75,0:00:50.04,Default,,0000,0000,0000,,Dù thời gian trôi qua nhưng tiếng yêu ta đong đầy 
+Dialogue: 0,0:00:50.04,0:00:54.90,Default,,0000,0000,0000,,Tình yêu đó hơn cả sự quan tâm 
+Dialogue: 0,0:00:56.01,0:01:00.12,Default,,0000,0000,0000,,Nhìn gió đông về em lạnh không và có nhớ đến anh không  
+Dialogue: 0,0:01:00.12,0:01:04.82,Default,,0000,0000,0000,,Ở cuối phương trời anh thầm mong người anh yêu luôn bình yên 
+Dialogue: 0,0:01:04.38,0:01:08.39,Default,,0000,0000,0000,,Dẫu thế nào người hãy nhớ trái tim này em đã lỡ  
+Dialogue: 0,0:01:08.39,0:01:12.53,Default,,0000,0000,0000,,Dành tặng riêng anh không còn ai nữa đâu 
+Dialogue: 0,0:01:12.53,0:01:16.64,Default,,0000,0000,0000,,Rồi sẽ một ngày anh lại về ta sẽ lại yêu như lúc xưa 
+Dialogue: 0,0:01:16.64,0:01:21.04,Default,,0000,0000,0000,,Chờ nhé em yêu trong tim anh  em là người quan trọng nhất 
+Dialogue: 0,0:01:21.04,0:01:25.07,Default,,0000,0000,0000,,Nếu như còn một điều ước giữa cuộc đời nhiều sóng gió 
+Dialogue: 0,0:01:25.28,0:01:29.85,Default,,0000,0000,0000,,Em sẽ ước mình trọn đời bên nhau
+Dialogue: 0,0:01:50.01,0:01:53.97,Default,,0000,0000,0000,,Người ơi khi xa em anh thật lòng rất nhớ em
+Dialogue: 0,0:01:54.21,0:01:58.17,Default,,0000,0000,0000,,Từng cảm giác quan tâm bỗng ùa về nơi trái tim
+Dialogue: 0,0:01:58.26,0:02:02.20,Default,,0000,0000,0000,,Lời yêu thương trong em gửi đến anh nơi phương trời
+Dialogue: 0,0:02:02.50,0:02:06.51,Default,,0000,0000,0000,,Cùng giây phút nào em thôi nhớ đến người
+Dialogue: 0,0:02:06.65,0:02:10.50,Default,,0000,0000,0000,,Vì khi đã yêu nhau chỉ cần ta nghĩ đến nhau 
+Dialogue: 0,0:02:10.78,0:02:14.74,Default,,0000,0000,0000,,Dù xa cách cũng sẽ luôn một lòng tin đến nhau 
+Dialogue: 0,0:02:14.74,0:02:18.78,Default,,0000,0000,0000,,Dù thời gian trôi qua nhưng tiếng yêu ta đong đầy 
+Dialogue: 0,0:02:19.01,0:02:23.94,Default,,0000,0000,0000,,Tình yêu đó hơn cả sự quan tâm 
+Dialogue: 0,0:02:24.97,0:02:29.03,Default,,0000,0000,0000,,Nhìn gió đông về em lạnh không và có nhớ đến anh không  
+Dialogue: 0,0:02:29.14,0:02:33.29,Default,,0000,0000,0000,,Ở cuối phương trời anh thầm mong người anh yêu luôn bình yên 
+Dialogue: 0,0:02:33.29,0:02:37.33,Default,,0000,0000,0000,,Dẫu thế nào người hãy nhớ trái tim này em đã lỡ 
+Dialogue: 0,0:02:37.33,0:02:41.50,Default,,0000,0000,0000,,Dành tặng riêng anh không còn ai nữa đâu 
+Dialogue: 0,0:02:41.50,0:02:45.60,Default,,0000,0000,0000,,Rồi sẽ một ngày anh lại về ta sẽ lại yêu như lúc xưa 
+Dialogue: 0,0:02:45.60,0:02:50.01,Default,,0000,0000,0000,,Chờ nhé em yêu trong tim anh  em là người quan trọng nhất 
+Dialogue: 0,0:02:50.01,0:02:54.20,Default,,0000,0000,0000,,Nếu như còn một điều ước giữa cuộc đời nhiều sóng gió
+Dialogue: 0,0:02:54.20,0:02:58.25,Default,,0000,0000,0000,,Em sẽ ước mình trọn đời bên nhau
+Dialogue: 0,0:03:14.66,0:03:18.77,Default,,0000,0000,0000,,Nhìn gió đông về em lạnh không và có nhớ đến anh không  
+Dialogue: 0,0:03:18.77,0:03:23.44,Default,,0000,0000,0000,,Ở cuối phương trời anh thầm mong người anh yêu luôn bình yên 
+Dialogue: 0,0:03:22.99,0:03:27.04,Default,,0000,0000,0000,,Dẫu thế nào người hãy nhớ trái tim này em đã lỡ  
+Dialogue: 0,0:03:27.04,0:03:31.65,Default,,0000,0000,0000,,Dành tặng riêng anh không còn ai nữa đâu 
+Dialogue: 0,0:03:31.12,0:03:35.18,Default,,0000,0000,0000,,Rồi sẽ một ngày anh lại về ta sẽ lại yêu như lúc xưa 
+Dialogue: 0,0:03:35.18,0:03:39.99,Default,,0000,0000,0000,,Chờ nhé em yêu trong tim anh  em là người quan trọng nhất 
+Dialogue: 0,0:03:39.69,0:03:43.84,Default,,0000,0000,0000,,Nếu như còn một điều ước giữa cuộc đời nhiều sóng gió 
+Dialogue: 0,0:03:43.84,0:03:48.01,Default,,0000,0000,0000,,Em sẽ ước mình trọn đời bên nhau
+Dialogue: 0,0:03:48.01,0:03:52.12,Default,,0000,0000,0000,,Nếu như còn một điều ước giữa cuộc đời nhiều sóng gió 
+Dialogue: 0,0:03:52.12,0:03:56.82,Default,,0000,0000,0000,,Ta hãy ước mình trọn đời bên nhau
+Dialogue: 0,0:03:56.82,0:03:58.82,Default,,0000,0000,0000,,

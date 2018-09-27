@@ -1,0 +1,41 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: C:\Documents and Settings\Administrator\Desktop\ThoiGianSeTraLoi-TienCookie-BigDad_4gnq6_hq.mp3
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 2441
+Last Style Storage: Default
+Video File: ?dummy:23.976000:40000:1280:720:0:0:0:c
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,VNI-Duff,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:39.62,0:00:43.22,Default,,0000,0000,0000,,{\k16}Roài {\k16}cuõng {\k16}ñeán {\k34}luùc {\k33}em {\k22}ñoåi {\k41}khaùc {\k33}ñi {\k19}soi {\k17}göông {\k18}laâu {\k24}hôn {\k32}moãi {\k39}ngaøy
+Dialogue: 0,0:00:43.22,0:00:46.20,Default,,0000,0000,0000,,{\k36}Moät {\k20}nöûa {\k26}yeâu {\k23}thöông {\k23}trong {\k25}em {\k29}chaéc {\k50}ñaõ {\k26}thay {\k40}teân
+Dialogue: 0,0:00:47.98,0:00:54.80,Default,,0000,0000,0000,,{\k27}Khi {\k28}yeâu {\k24}ñöông {\k27}con {\k36}tim {\k37}voán {\k45}luoân {\k44}chaät {\k65}choäi {\k23}neân {\k24}em {\k24}ñaët {\k22}anh {\k18}ra {\k33}xa {\k29}loàng {\k21}ngöïc {\k53}daãu {\k50}ñaén {\k52}ño
+Dialogue: 0,0:00:55.25,0:00:59.28,Default,,0000,0000,0000,,{\k30}Nhieàu {\k23}hôn {\k26}ñoâi {\k21}möôi {\k26}ñeå {\k27}coù {\k25}theå {\k50}noùi {\k29}em {\k45}vaãn {\k30}ngaây {\k71}thô
+Dialogue: 0,0:01:00.01,0:01:03.24,Default,,0000,0000,0000,,{\k23}Ñeå {\k27}coù {\k27}theå {\k26}nhaém {\k47}maét {\k23}maø {\k55}yeâu {\k51}ñaém {\k44}ñuoái
+Dialogue: 0,0:01:03.24,0:01:07.27,Default,,0000,0000,0000,,{\k31}Vaø {\k22}boû {\k21}laïi {\k18}sau {\k34}löng {\k26}em {\k26}taát {\k52}caû {\k21}nhöõng {\k43}ñieàu {\k38}ngoït {\k24}ngaøo {\k47}nhaát
+Dialogue: 0,0:01:07.74,0:01:11.12,Default,,0000,0000,0000,,{\k29}Maø {\k22}ñoâi {\k23}tay {\k29}anh {\k23}naâng {\k30}niu {\k45}baáy {\k137}laâu
+Dialogue: 0,0:01:20.00,0:01:23.25,Default,,0000,0000,0000,,{\k28}Giöõa {\k24}boùng {\k20}toái {\k23}aùnh {\k32}sang {\k25}em {\k26}döùt {\k45}khoaùt {\k102}ñi
+Dialogue: 0,0:01:24.23,0:01:27.15,Default,,0000,0000,0000,,{\k29}Nôi {\k21}ñaâu {\k30}cho {\k25}em {\k21}thaät {\k27}söï {\k43}yeân {\k96}laønh
+Dialogue: 0,0:01:35.16,0:01:39.24,Default,,0000,0000,0000,,{\k37}Döøng {\k23}chaân {\k25}nôi {\k25}giöõa {\k23}boùng {\k18}toái {\k32}aùnh {\k30}saùng {\k22}em {\k25}döùt {\k37}khoaùt {\k111}ñi
+Dialogue: 0,0:01:40.19,0:01:43.80,Default,,0000,0000,0000,,{\k19}Nôi {\k35}ñaâu {\k29}cho {\k26}em {\k21}thaät {\k25}söï {\k50}yeân {\k156}laønh
+Dialogue: 0,0:02:24.01,0:02:27.07,Default,,0000,0000,0000,,{\k24}Giöõa {\k24}boùng {\k19}toái {\k29}aùnh {\k30}saùng {\k24}em {\k25}döùt {\k48}khoaùt {\k83}ñi
+Dialogue: 0,0:02:28.21,0:02:31.18,Default,,0000,0000,0000,,{\k30}Nôi {\k22}ñaâu {\k30}cho {\k25}em {\k23}thaät {\k25}söï {\k36}yeân {\k106}laønh
+Dialogue: 0,0:02:39.18,0:02:43.22,Default,,0000,0000,0000,,{\k32}Döøng {\k21}chaân {\k28}nôi {\k28}giöõa {\k22}boùng {\k18}toái {\k23}aùnh {\k39}saùng {\k24}em {\k22}döùt {\k49}khoaùt {\k98}ñi
+Dialogue: 0,0:02:44.25,0:02:46.97,Default,,0000,0000,0000,,{\k27}Nôi {\k22}ñaâu {\k22}cho {\k26}em {\k26}thaät {\k28}söï {\k47}yeân {\k74}laønh
+Dialogue: 0,0:03:12.28,0:03:14.16,Default,,0000,0000,0000,,{\k22}Nguoäi {\k27}laïnh {\k20}theo {\k18}hôi {\k32}aám {\k31}nhaït {\k38}maøu
+Dialogue: 0,0:03:31.91,0:03:35.16,Default,,0000,0000,0000,,{\k35}Giöõa {\k25}boùng {\k23}toái {\k20}aùnh {\k32}saùng {\k27}em {\k20}döùt {\k47}khoaùt {\k96}ñi
+Dialogue: 0,0:03:36.16,0:03:39.17,Default,,0000,0000,0000,,{\k28}Nôi {\k24}ñaâu {\k29}cho {\k29}em {\k13}thaät {\k34}söï {\k52}yeân {\k92}laønh
+Dialogue: 0,0:03:47.20,0:03:51.23,Default,,0000,0000,0000,,{\k31}Döøng {\k25}chaân {\k22}nôi {\k32}giöõa {\k21}boùng {\k26}toái {\k22}aùnh {\k29}saùng {\k24}em {\k25}döùt {\k39}khoaùt {\k107}ñi
+Dialogue: 0,0:03:52.21,0:03:55.77,Default,,0000,0000,0000,,{\k25}Nôi {\k31}ñaâu {\k23}cho {\k30}em {\k21}thaät {\k27}söï {\k48}yeân {\k151}laønh
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

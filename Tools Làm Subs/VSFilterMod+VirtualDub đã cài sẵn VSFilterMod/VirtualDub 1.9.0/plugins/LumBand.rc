@@ -1,0 +1,124 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_FILTER DIALOG DISCARDABLE  0, 0, 232, 196
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "LuminesceneBand"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,65,175,48,14,WS_GROUP
+    PUSHBUTTON      "Cancel",IDCANCEL,175,175,47,14
+    PUSHBUTTON      "Help",IDHELP,120,175,47,14
+    DEFPUSHBUTTON   "Show preview",IDPREVIEW,10,175,48,14,WS_GROUP
+    CONTROL         "Slider1",IDC_BANDS,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    WS_TABSTOP,15,40,156,14
+    PUSHBUTTON      "+",IDC_BANDSPLUS,179,39,8,9
+    PUSHBUTTON      "-",IDC_BANDSMINUS,179,48,8,9
+    EDITTEXT        IDC_EBANDS,195,43,19,12,ES_READONLY | NOT WS_BORDER
+    GROUPBOX        "LuminescenceBand parameters",IDC_STATIC,7,7,218,163
+    LTEXT           "Number of luminescence bands",IDC_STATIC,20,25,105,12
+    CONTROL         "Slider1",IDC_SAT,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    WS_TABSTOP,15,110,156,14
+    PUSHBUTTON      "+",IDC_DISPPLUS,179,72,8,9
+    PUSHBUTTON      "-",IDC_DISPMINUS,179,81,8,9
+    EDITTEXT        IDC_EDISP,195,76,19,12,ES_READONLY | NOT WS_BORDER
+    LTEXT           "Saturation boost",IDC_STATIC,20,95,120,12
+    CONTROL         "Slider1",IDC_DISP,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    WS_TABSTOP,15,75,156,14
+    PUSHBUTTON      "+",IDC_SATPLUS,180,105,8,9
+    PUSHBUTTON      "-",IDC_SATMINUS,180,115,8,9
+    EDITTEXT        IDC_ESAT,195,110,19,12,ES_READONLY | NOT WS_BORDER
+    LTEXT           "Hue displacement between bands",IDC_STATIC,20,60,120,12
+    CONTROL         "Slider1",IDC_LUM,"msctls_trackbar32",TBS_AUTOTICKS | 
+                    WS_TABSTOP,15,145,156,14
+    PUSHBUTTON      "+",IDC_LUMPLUS,180,140,8,9
+    PUSHBUTTON      "-",IDC_LUMMINUS,180,150,8,9
+    EDITTEXT        IDC_ELUM,195,145,19,12,ES_READONLY | NOT WS_BORDER
+    LTEXT           "Extremity clipping",IDC_STATIC,20,130,120,12
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_FILTER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 225
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 189
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

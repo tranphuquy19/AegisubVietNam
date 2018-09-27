@@ -1,0 +1,99 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: C:\Users\TamThanhTin\Music\04 - A-Teens - Firefly.mp3
+Video File: ..\Clip\;at lai ky uc.avi
+Video Aspect Ratio: 0
+Video Zoom: 3
+Video Position: 2352
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,VfFree24,40,&H00BEB323,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,100,1
+Style: hiệu,HP-Kids Heavy,50,&H002627C7,&H000000FF,&H00EDEDF8,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.97,0:00:22.53,Default,,0000,0000,0000,,{\k43}When {\k28}I {\k45}said {\k115}go {\k28}I {\k20}ne{\k39}ver {\k56}meant {\k37}a{\k45}way
+Dialogue: 0,0:00:23.85,0:00:29.12,Default,,0000,0000,0000,,{\k40}You {\k36}ought {\k38}to {\k112}know {\k26}the {\k42}frea{\k30}ky {\k33}games {\k43}we {\k127}play
+Dialogue: 0,0:00:29.61,0:00:34.42,Default,,0000,0000,0000,,{\k51}could {\k31}you {\k38}for{\k91}give {\k47}and {\k43}learn {\k40}how {\k36}to {\k35}for{\k69}get
+Dialogue: 0,0:00:35.27,0:00:39.27,Default,,0000,0000,0000,,{\k35}hear {\k29}me {\k36}as {\k41}I'm {\k37}cal{\k38}ling {\k33}out {\k34}your {\k117}name
+Dialogue: 0,0:00:40.96,0:00:43.76,Default,,0000,0000,0000,,{\k50}Fi{\k24}re{\k39}fly {\k45}come {\k35}back {\k32}to {\k55}me
+Dialogue: 0,0:00:43.95,0:00:46.51,Default,,0000,0000,0000,,{\k41}make {\k32}the {\k41}night {\k35}as {\k47}bright {\k30}as {\k29}day
+Dialogue: 0,0:00:46.85,0:00:49.37,Default,,0000,0000,0000,,{\k37}I'll {\k29}be {\k38}loo{\k40}king {\k29}out {\k27}for {\k52}you
+Dialogue: 0,0:00:49.75,0:00:52.39,Default,,0000,0000,0000,,{\k42}tell {\k41}me {\k39}that {\k35}your {\k37}lone{\k35}ly {\k35}too
+Dialogue: 0,0:00:52.64,0:00:55.34,Default,,0000,0000,0000,,{\k52}fi{\k41}re{\k35}fly {\k26}come {\k36}lead {\k49}me {\k31}on
+Dialogue: 0,0:00:55.64,0:00:58.17,Default,,0000,0000,0000,,{\k31}fol{\k43}low {\k50}you {\k25}in{\k42}to {\k29}the {\k33}sun
+Dialogue: 0,0:00:58.56,0:01:01.55,Default,,0000,0000,0000,,{\k31}that's {\k23}the {\k41}way {\k67}it {\k32}ought {\k34}to {\k71}be
+Dialogue: 0,0:01:01.60,0:01:04.54,Default,,0000,0000,0000,,{\k39}fir{\k27}e{\k36}fly {\k41}come {\k77}back {\k29}to {\k45}me
+Dialogue: 0,0:01:08.08,0:01:09.54,Default,,0000,0000,0000,,{\k48}You {\k36}and {\k62}me
+Dialogue: 0,0:01:09.94,0:01:12.34,Default,,0000,0000,0000,,{\k37}we {\k38}shared {\k37}a {\k37}my{\k40}ste{\k51}ry
+Dialogue: 0,0:01:13.63,0:01:15.43,Default,,0000,0000,0000,,{\k34}we {\k27}were {\k50}so {\k69}close
+Dialogue: 0,0:01:15.76,0:01:18.66,Default,,0000,0000,0000,,{\k35}like {\k47}ho{\k34}ney {\k40}to {\k34}the {\k37}be{\k63}e
+Dialogue: 0,0:01:19.52,0:01:24.17,Default,,0000,0000,0000,,{\k34}And {\k31}if {\k36}you {\k32}tell {\k43}me {\k37}how {\k33}to {\k45}make {\k35}you {\k28}un{\k40}de{\k2}r{\k69}stand
+Dialogue: 0,0:01:24.66,0:01:28.79,Default,,0000,0000,0000,,{\k33}I'm {\k35}mi{\k35}nor {\k40}in {\k24}a {\k41}ma{\k44}jor {\k34}kin{\k38}da {\k89}way
+Dialogue: 0,0:01:30.80,0:01:33.44,Default,,0000,0000,0000,,{\k37}Fir{\k33}e{\k43}fly {\k37}come {\k31}back {\k32}to {\k51}me
+Dialogue: 0,0:01:33.69,0:01:36.38,Default,,0000,0000,0000,,{\k39}make {\k38}the {\k38}night {\k36}as {\k40}bright {\k36}as {\k42}day
+Dialogue: 0,0:01:36.57,0:01:39.36,Default,,0000,0000,0000,,{\k38}I'll {\k39}be {\k41}loo{\k43}king {\k31}out {\k34}for {\k53}you
+Dialogue: 0,0:01:39.60,0:01:42.34,Default,,0000,0000,0000,,{\k35}tell {\k40}me {\k31}that {\k34}your {\k41}lone{\k30}ly {\k63}too
+Dialogue: 0,0:01:42.50,0:01:45.11,Default,,0000,0000,0000,,{\k46}fir{\k30}e{\k38}fly {\k28}come {\k40}lead {\k42}me {\k37}on
+Dialogue: 0,0:01:45.46,0:01:48.03,Default,,0000,0000,0000,,{\k31}fol{\k37}low {\k45}you {\k33}in{\k33}to {\k39}the {\k39}sun
+Dialogue: 0,0:01:48.26,0:01:51.28,Default,,0000,0000,0000,,{\k35}that's {\k25}the {\k25}way {\k75}it {\k39}ought {\k31}to {\k72}be
+Dialogue: 0,0:01:51.33,0:01:54.96,Default,,0000,0000,0000,,{\k34}fir{\k31}e{\k39}fly {\k38}come {\k75}back {\k32}to {\k114}me
+Dialogue: 0,0:01:54.99,0:01:57.82,Default,,0000,0000,0000,,{\k41}Fly {\k6}fir{\k37}e{\k42}fly {\k49}through {\k37}the {\k71}sky
+Dialogue: 0,0:01:57.86,0:02:00.83,Default,,0000,0000,0000,,{\k40}come {\k37}and {\k36}play {\k36}with {\k39}my {\k37}de{\k34}sir{\k38}e
+Dialogue: 0,0:02:00.84,0:02:03.61,Default,,0000,0000,0000,,{\k38}don't {\k29}be {\k77}long {\k35}don't {\k35}ask {\k63}why
+Dialogue: 0,0:02:03.70,0:02:08.71,Default,,0000,0000,0000,,{\k31}I {\k37}can't {\k44}wait {\k42}an{\k39}o{\k39}ther {\k175}night{\k32}tt{\k31}tt{\k31}tt
+Dialogue: 0,0:02:10.26,0:02:12.62,Default,,0000,0000,0000,,{\k44}wait {\k32}an{\k39}o{\k33}ther {\k88}night
+Dialogue: 0,0:02:17.76,0:02:20.31,Default,,0000,0000,0000,,{\k26}Fir{\k19}e{\k55}fly {\k31}come {\k33}back {\k32}to {\k59}me
+Dialogue: 0,0:02:20.41,0:02:23.11,Default,,0000,0000,0000,,{\k41}make {\k32}the {\k41}night {\k35}as {\k47}bright {\k30}as {\k29}day
+Dialogue: 0,0:02:23.51,0:02:26.08,Default,,0000,0000,0000,,{\k38}I'll {\k39}be {\k41}loo{\k43}king {\k31}out {\k34}for {\k53}you
+Dialogue: 0,0:02:26.27,0:02:29.06,Default,,0000,0000,0000,,{\k35}tell {\k40}me {\k31}that {\k34}your {\k41}lone{\k30}ly {\k63}too
+Dialogue: 0,0:02:29.27,0:02:32.17,Default,,0000,0000,0000,,{\k46}fir{\k30}e{\k38}fly {\k28}come {\k40}lead {\k42}me {\k37}on
+Dialogue: 0,0:02:32.17,0:02:34.99,Default,,0000,0000,0000,,{\k31}fol{\k37}low {\k45}you {\k33}in{\k33}to {\k39}the {\k39}sun
+Dialogue: 0,0:02:34.99,0:02:37.94,Default,,0000,0000,0000,,{\k35}that's {\k25}the {\k25}way {\k75}it {\k39}ought {\k31}to {\k72}be
+Dialogue: 0,0:02:38.20,0:02:40.17,Default,,0000,0000,0000,,{\k26}Fir{\k19}e{\k55}fly {\k31}come {\k33}back 
+Dialogue: 0,0:02:40.94,0:02:43.58,Default,,0000,0000,0000,,{\k26}Fir{\k19}e{\k55}fly {\k31}come {\k33}back {\k58}to {\k33}me
+Dialogue: 0,0:02:43.89,0:02:46.62,Default,,0000,0000,0000,,{\k41}make {\k32}the {\k41}night {\k35}as {\k47}bright {\k30}as {\k29}day
+Dialogue: 0,0:02:46.80,0:02:49.59,Default,,0000,0000,0000,,{\k38}I'll {\k39}be {\k41}loo{\k43}king {\k31}out {\k34}for {\k53}you
+Dialogue: 0,0:02:49.83,0:02:52.57,Default,,0000,0000,0000,,{\k35}tell {\k40}me {\k31}that {\k34}your {\k41}lone{\k30}ly {\k63}too
+Dialogue: 0,0:02:52.82,0:02:55.34,Default,,0000,0000,0000,,{\k46}fir{\k30}e{\k38}fly {\k28}come {\k40}lead {\k42}me {\k37}on
+Dialogue: 0,0:02:55.64,0:02:58.40,Default,,0000,0000,0000,,{\k31}fol{\k37}low {\k45}you {\k33}in{\k33}to {\k39}the {\k39}sun
+Dialogue: 0,0:02:58.51,0:03:01.43,Default,,0000,0000,0000,,{\k35}that's {\k25}the {\k25}way {\k75}it {\k39}ought {\k31}to {\k72}be
+Dialogue: 0,0:03:01.62,0:03:04.84,Default,,0000,0000,0000,,{\k26}Fir{\k26}e{\k48}fly {\k39}come {\k57}back {\k53}to {\k73}me
+Dialogue: 0,0:00:17.97,0:00:22.53,hiệu,,0000,0000,0000,,khi em baûo anh ñi em khoâng bao giôø coù nghó gi xa xoâi
+Dialogue: 0,0:00:23.85,0:00:29.12,hiệu,,0000,0000,0000,,anh neân hieåu chuùng ta ñang chôi 1 troø chôi thaät kyø laï
+Dialogue: 0,0:00:29.61,0:00:34.42,hiệu,,0000,0000,0000,,anh coù theå tha thöù vaø ñöøng ñeå buïng khoâng?
+Dialogue: 0,0:00:35.27,0:00:39.27,hiệu,,0000,0000,0000,,laéng nghe khi em goïi teân anh
+Dialogue: 0,0:00:40.96,0:00:43.76,hiệu,,0000,0000,0000,,ñom ñoùm ôi haõy quay veà beân em
+Dialogue: 0,0:00:43.95,0:00:46.51,hiệu,,0000,0000,0000,,khieán maø ñeâm raïng ngôøi nhö buoåi sôùm
+Dialogue: 0,0:00:46.85,0:00:49.37,hiệu,,0000,0000,0000,,em seõ maõi ñôïi chôø anh
+Dialogue: 0,0:00:49.75,0:00:52.39,hiệu,,0000,0000,0000,,haõy noùi em nghe raèng anh cuõng ñang coâ ñôn
+Dialogue: 0,0:00:52.64,0:00:55.34,hiệu,,0000,0000,0000,,ñom ñoùm ôi haõy ñeán laøm em vöõng tin
+Dialogue: 0,0:00:55.64,0:00:58.17,hiệu,,0000,0000,0000,,em seõ theo anh höôùng tôùi anh raïng ñoâng
+Dialogue: 0,0:00:58.56,0:01:01.55,hiệu,,0000,0000,0000,,ñoù laø con ñöôøng em vaãn mong chôø
+Dialogue: 0,0:01:01.60,0:01:04.54,hiệu,,0000,0000,0000,,ñom ñoùm ôi haõy veà beân em
+Dialogue: 0,0:01:08.08,0:01:09.54,hiệu,,0000,0000,0000,,anh vaø em
+Dialogue: 0,0:01:09.94,0:01:12.34,hiệu,,0000,0000,0000,,cuøng chia seõ nhöõng bí maät
+Dialogue: 0,0:01:13.63,0:01:15.43,hiệu,,0000,0000,0000,,vaø gaén boù vôùi nhau
+Dialogue: 0,0:01:15.76,0:01:18.66,hiệu,,0000,0000,0000,,nhö maät ngoït chaúng khi naøo rôøi xa
+Dialogue: 0,0:01:19.52,0:01:24.17,hiệu,,0000,0000,0000,,vaø neáu anh hoûi em laøm sao ñeå anh hieåu ñöôïc
+Dialogue: 0,0:01:24.66,0:01:28.79,hiệu,,0000,0000,0000,,em bieát noùi sao khi mình beù nhoû treân con ñöôøng roäng lôùn
+Dialogue: 0,0:01:30.80,0:01:33.44,hiệu,,0000,0000,0000,,ñom ñoùm ôi veà laïi beân em
+Dialogue: 0,0:01:33.69,0:01:36.38,hiệu,,0000,0000,0000,,toûa aùnh saùng xua ñi maøn ñeâm taêm toái
+Dialogue: 0,0:01:36.57,0:01:39.36,hiệu,,0000,0000,0000,,em seõ maõi ñôïi chôø anh
+Dialogue: 0,0:01:39.60,0:01:42.34,hiệu,,0000,0000,0000,,haõy noùi em nghe anh cuõng ñang coâ ñôn
+Dialogue: 0,0:01:42.50,0:01:45.11,hiệu,,0000,0000,0000,,ñom ñoùm ôi daãn loái cho em nheù
+Dialogue: 0,0:01:45.46,0:01:48.03,hiệu,,0000,0000,0000,,em seõ theo anh höôùng tôùi anh raïng ñoâng
+Dialogue: 0,0:01:48.26,0:01:51.28,hiệu,,0000,0000,0000,,ñoù laø con ñöông em vaãn haèng mong
+Dialogue: 0,0:01:51.33,0:01:54.96,hiệu,,0000,0000,0000,,ñom ñom ôi haõy trôû veà beân em
+Dialogue: 0,0:01:54.99,0:01:57.82,hiệu,,0000,0000,0000,,bay xuyeân qua baàu trôøi
+Dialogue: 0,0:01:57.86,0:02:00.83,hiệu,,0000,0000,0000,,ñeán ñeán beân embeen con tim ñam meâ
+Dialogue: 0,0:02:00.84,0:02:03.61,hiệu,,0000,0000,0000,,ñöøng chaäm vaø ñöøng hoûi taïi sao
+Dialogue: 0,0:02:03.70,0:02:08.71,hiệu,,0000,0000,0000,,em khoâng theå chôøi laâu hôn ñöôïc nöõa
+Dialogue: 0,0:02:08.71,0:02:10.71,hiệu,,0000,0000,0000,,

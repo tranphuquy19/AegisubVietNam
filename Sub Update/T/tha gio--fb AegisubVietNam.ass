@@ -1,0 +1,64 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Video Zoom Percent: 1
+Audio URI: ..\Downloads\ThaGio-LilS-2744378_hq.mp3
+Scroll Position: 30
+Active Line: 45
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:37.38,0:00:41.06,Default,,0,0,0,,Vẫn là tôi vẫn ngồi nơi đây trằn trọc mãi không ngủ
+Dialogue: 0,0:00:41.11,0:00:45.16,Default,,0,0,0,, Tự trách bản thân cố gắng bao nhiêu tất cả vãn không đủ
+Dialogue: 0,0:00:45.16,0:00:49.28,Default,,0,0,0,,Không thể níu lấy đôi bàn tay đó , sự thật không chối bỏ
+Dialogue: 0,0:00:49.35,0:00:53.28,Default,,0,0,0,,Cứ ung dung rồi tự tại , Thiên bình là em là cơn gió
+Dialogue: 0,0:00:53.36,0:00:56.88,Default,,0,0,0,,Gió không bao giờ dừng chân vì bât kì một ai cả
+Dialogue: 0,0:00:57.12,0:01:01.28,Default,,0,0,0,,Và gió có thể thổi tan bao nhiêu kí ức vụn vỡ trôi thật xa
+Dialogue: 0,0:01:01.34,0:01:05.09,Default,,0,0,0,,Gió hay cười Gió hay vui cùng những nỗi buồn ở trong lòng
+Dialogue: 0,0:01:05.14,0:01:09.15,Default,,0,0,0,,Gió phải chấp nhận vị trí cô đơn quanh quẩn đâu đó trong cuộc sống
+Dialogue: 0,0:01:09.15,0:01:12.83,Default,,0,0,0,,Hãy để tôi tan vào cơn gió , đi theo tiếng gọi của tim mình
+Dialogue: 0,0:01:13.26,0:01:17.00,Default,,0,0,0,,Nếu lần này tôi lại vấp ngã , ở đâu cho tôi được lòng tin
+Dialogue: 0,0:01:17.14,0:01:20.85,Default,,0,0,0,,Tôi nhớ nụ cười khuôn mặt đó dù chỉ gặp trong 1 lần
+Dialogue: 0,0:01:21.13,0:01:25.32,Default,,0,0,0,,Kể cả trong mơ đưa tay với tới tôi cũng chẳng mong dám lại gần
+Dialogue: 0,0:01:25.66,0:01:29.14,Default,,0,0,0,,Quá khứ chỉ để gọi tắt nói ngắn gọn mới hôm qua
+Dialogue: 0,0:01:29.14,0:01:33.09,Default,,0,0,0,,Trái tim vẫn còn lỗi nhịp phá bỏ rào cản khoảng cách khi yêu xa
+Dialogue: 0,0:01:33.13,0:01:36.82,Default,,0,0,0,,Nhưng mà giờ đây chỉ còn mình tôi , lang thang vẫn đi nhặt
+Dialogue: 0,0:01:37.10,0:01:41.26,Default,,0,0,0,,Nhặt từng lời hứa, từng mãnh vỡ , đang tan rã ngay trước mắt
+Dialogue: 0,0:01:41.36,0:01:45.31,Default,,0,0,0,,Buồn vì ai chứ buồn vì em , bao nhiêu đêm anh đếm xuể
+Dialogue: 0,0:01:45.36,0:01:49.24,Default,,0,0,0,,Giọt nước mắt mặn chat trên môi , chấp nhận buông tay đâu phải dễ
+Dialogue: 0,0:01:49.33,0:01:53.27,Default,,0,0,0,,Cứ mỗi đêm lại tràn khói thuốc , nơi lấp lánh ở biển xanh
+Dialogue: 0,0:01:53.30,0:01:57.28,Default,,0,0,0,,Hét thật to , khóc thật đã , cảm nhận ngực trái sau gió lạnh
+Dialogue: 0,0:01:57.34,0:02:01.26,Default,,0,0,0,,Thả tự do cho em rồi .. Muốn hỏi là em có vui không
+Dialogue: 0,0:02:01.31,0:02:05.29,Default,,0,0,0,,Không còn ai làm phiền mỗi ngày .. tự hỏi là anh có buồn không
+Dialogue: 0,0:02:05.34,0:02:09.24,Default,,0,0,0,,Dòng tin nhắn vẫn còn ở đó . tên danh bạ vẫn như cũ
+Dialogue: 0,0:02:09.30,0:02:13.25,Default,,0,0,0,,Là Yaso kèm thêm trái tim , tai sao không đổi hả thằng ngu
+Dialogue: 0,0:02:13.31,0:02:16.86,Default,,0,0,0,,Dòng status cứ dành cho ai , chắc không phải là mày
+Dialogue: 0,0:02:17.23,0:02:21.29,Default,,0,0,0,,Nếu hạnh phúc mà em đã chọn là đúng , thì anh chấp nhận đau
+Dialogue: 0,0:02:21.33,0:02:24.80,Default,,0,0,0,,Yêu làm chi một cơn gió , từng thổi ngang qua đời mình
+Dialogue: 0,0:02:25.12,0:02:29.58,Default,,0,0,0,,Chắc em sẽ khong muốn nghe anh hát nữa phải không hả mộc trinh?
+Dialogue: 0,0:02:34.82,0:02:41.34,Default,,0,0,0,,Tan trong cơn chiều mưa , giờ em đã theo ai kia mất rồi
+Dialogue: 0,0:02:41.78,0:02:50.24,Default,,0,0,0,,Còn mình anh ngồi đây , ngân lên bao khúc ca buồn
+Dialogue: 0,0:02:50.80,0:02:57.45,Default,,0,0,0,,Gió vẫn cứ lướt thật nhẹ , cùng bao kỉ niệm xưa kia vội vàng
+Dialogue: 0,0:02:57.73,0:03:06.62,Default,,0,0,0,,Nhìn vào bao điều thật ngọt ngào , em có biết anh nhớ em xiết bao
+Dialogue: 0,0:03:06.80,0:03:14.21,Default,,0,0,0,,Đi trên con đường khuya, mình anh đắm say trên cơn mưa bao nỗi đau
+Dialogue: 0,0:03:14.21,0:03:21.49,Default,,0,0,0,,Chờ đợi em bao nhiêu đêm nồng say , rồi cơn gió cuốn trôi hết đi
+Dialogue: 0,0:03:21.64,0:03:25.25,Default,,0,0,0,,Chờ em đó. Nơi đó
+Dialogue: 0,0:03:25.73,0:03:29.44,Default,,0,0,0,,Nhưng chờ trong vô vọng kia ..
+Dialogue: 0,0:03:29.70,0:03:38.06,Default,,0,0,0,,Vì sẽ không còn đâu ! Sẽ không còn những lúc ta chung đôi
+Dialogue: 0,0:03:38.06,0:03:42.04,Default,,0,0,0,,Vẫn chờ tin nhắn ai đó mỗi ngày dù chỉ xuất hiện ở trong mơ
+Dialogue: 0,0:03:42.04,0:03:46.04,Default,,0,0,0,,Vẫn đợi cơn gió sẽ quay trở về từng nhịp tim ta vẫn nhớ
+Dialogue: 0,0:03:46.09,0:03:49.98,Default,,0,0,0,,Vẫn chỉ là anh thằng khờ của em , như cái tên em đã đặt
+Dialogue: 0,0:03:50.01,0:03:54.19,Default,,0,0,0,,Vẫn đây bài hát in đậm tên em , còn nhớ không để anh nhắc
+Dialogue: 0,0:03:54.30,0:03:58.18,Default,,0,0,0,,Anh muốn ở bên cạnh em nhưng mà tất cả không cho phép
+Dialogue: 0,0:03:58.25,0:04:02.02,Default,,0,0,0,,Khi khoảng cách cùng với một người và gia đình nó hạn hẹp
+Dialogue: 0,0:04:02.05,0:04:05.96,Default,,0,0,0,,Chúc em hạnh phúc ở bên ai đó, vị hôn thê của người ta
+Dialogue: 0,0:04:06.01,0:04:10.24,Default,,0,0,0,,Thời gian ngắn ngũi nhưng mà thật sự anh cảm ơn em vì tất cả
+Dialogue: 0,0:04:12.56,0:04:16.27,Default,,0,0,0,,Cảm ơn em vì tất cả

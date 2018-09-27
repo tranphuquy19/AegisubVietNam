@@ -1,0 +1,123 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.00,0:00:19.20,That Is Love,,0,0,0,,{\k32}Look {\k102}into {\k31}your {\k37}dark {\k59}blue {\k59}eyes
+Dialogue: 0,0:00:20.00,0:00:22.70,That Is Love,,0,0,0,,{\k13}I {\k29}can {\k34}feel {\k19}you {\k87}searching {\k35}my {\k53}heart
+Dialogue: 0,0:00:23.45,0:00:26.30,That Is Love,,0,0,0,,{\k47}You’ll {\k94}find {\k19}there’s {\k18}no {\k34}need {\k17}to {\k56}hide
+Dialogue: 0,0:00:27.00,0:00:29.80,That Is Love,,0,0,0,,{\k47}We {\k94}know {\k20}that {\k64}is {\k55}love
+Dialogue: 0,0:00:30.60,0:00:33.10,That Is Love,,0,0,0,,{\k18}Now {\k24}I’m {\k71}looking {\k51}through {\k33}your {\k53}heart
+Dialogue: 0,0:00:34.10,0:00:37.00,That Is Love,,0,0,0,,{\k17}I {\k26}can {\k43}tell {\k38}you {\k24}that {\k14}it {\k24}is {\k51}true {\k53}love
+Dialogue: 0,0:00:37.50,0:00:40.70,That Is Love,,0,0,0,,{\k39}Thank {\k107}you {\k19}for {\k18}the {\k44}time {\k31}we {\k62}have
+Dialogue: 0,0:00:41.00,0:00:44.20,That Is Love,,0,0,0,,{\k61}We {\k93}know {\k21}that {\k62}is {\k83}love
+Dialogue: 0,0:00:44.30,0:00:47.60,That Is Love,,0,0,0,,{\k36}Don’t {\k47}tell {\k45}me {\k23}that {\k32}love’s {\k31}not {\k44}waiting {\k38}for {\k34}us
+Dialogue: 0,0:00:47.70,0:00:50.90,That Is Love,,0,0,0,,{\k23}If {\k29}we {\k44}really {\k31}want {\k57}to {\k42}we {\k37}can {\k57}try
+Dialogue: 0,0:00:51.20,0:00:54.80,That Is Love,,0,0,0,,{\k53}But {\k48}you {\k38}and {\k41}I {\k44}gotta {\k31}make {\k15}it {\k90}happen
+Dialogue: 0,0:00:55.20,0:00:57.90,That Is Love,,0,0,0,,{\k49}Since {\k49}we {\k40}know {\k23}that {\k53}is {\k56}love
+Dialogue: 0,0:00:58.30,0:01:01.60,That Is Love,,0,0,0,,{\k49}Don’t {\k46}tell {\k39}me {\k46}that {\k25}love’s {\k42}not {\k28}waiting {\k32}for {\k23}us
+Dialogue: 0,0:01:01.80,0:01:05.00,That Is Love,,0,0,0,,{\k31}If {\k18}we {\k48}really {\k40}want {\k47}to {\k45}we {\k43}can {\k48}try
+Dialogue: 0,0:01:05.30,0:01:06.70,That Is Love,,0,0,0,,{\k55}What {\k42}you’ve {\k43}done
+Dialogue: 0,0:01:07.50,0:01:12.00,That Is Love,,0,0,0,,{\k53}We {\k45}know {\k71}that {\k43}is {\k238}love
+Dialogue: 0,0:01:12.70,0:01:15.50,That Is Love,,0,0,0,,{\k108}Everytime {\k13}when {\k31}I {\k21}think {\k47}of {\k60}you
+Dialogue: 0,0:01:16.00,0:01:19.30,That Is Love,,0,0,0,,{\k35}It’s {\k50}always {\k44}thing {\k39}goes {\k50}into {\k46}my {\k66}mind
+Dialogue: 0,0:01:20.00,0:01:22.80,That Is Love,,0,0,0,,{\k35}I {\k94}just {\k17}want {\k13}to {\k15}hold {\k40}you {\k66}close
+Dialogue: 0,0:01:23.50,0:01:26.70,That Is Love,,0,0,0,,{\k42}We {\k92}know {\k41}that {\k47}is {\k98}love
+Dialogue: 0,0:01:55.30,0:01:58.00,That Is Love,,0,0,0,,{\k15}Yes {\k25}I {\k26}want {\k27}to {\k77}share {\k21}my {\k79}dream
+Dialogue: 0,0:01:58.60,0:02:01.80,That Is Love,,0,0,0,,{\k41}And {\k26}I {\k40}hope {\k44}that {\k62}you’ll {\k51}be {\k56}there
+Dialogue: 0,0:02:02.30,0:02:05.00,That Is Love,,0,0,0,,{\k45}Please {\k76}do {\k38}love {\k19}me {\k45}like {\k47}before
+Dialogue: 0,0:02:05.70,0:02:08.90,That Is Love,,0,0,0,,{\k57}We {\k92}know {\k44}that {\k44}is {\k83}love
+Dialogue: 0,0:02:09.40,0:02:12.00,That Is Love,,0,0,0,,{\k20}Now {\k23}I’m {\k88}looking {\k32}through {\k34}your {\k63}heart
+Dialogue: 0,0:02:12.70,0:02:15.90,That Is Love,,0,0,0,,{\k31}I {\k36}can {\k39}tell {\k20}you {\k26}that {\k38}it {\k38}is {\k44}true {\k48}love
+Dialogue: 0,0:02:16.40,0:02:19.30,That Is Love,,0,0,0,,{\k50}Thank {\k87}you {\k18}for {\k28}the {\k20}time {\k24}we {\k63}have
+Dialogue: 0,0:02:20.00,0:02:23.00,That Is Love,,0,0,0,,{\k40}We {\k91}know {\k43}that {\k43}is {\k83}love
+Dialogue: 0,0:02:23.05,0:02:26.30,That Is Love,,0,0,0,,{\k44}Don’t {\k46}tell {\k40}me {\k17}that {\k31}love’s {\k34}not {\k54}waiting {\k36}for {\k23}us
+Dialogue: 0,0:02:26.40,0:02:29.70,That Is Love,,0,0,0,,{\k27}If {\k38}we {\k40}really {\k52}want {\k44}to {\k43}we {\k44}can {\k42}try
+Dialogue: 0,0:02:30.00,0:02:33.60,That Is Love,,0,0,0,,{\k55}But {\k47}you {\k42}and {\k45}I {\k36}gotta {\k28}make {\k22}it {\k85}happen
+Dialogue: 0,0:02:34.10,0:02:36.65,That Is Love,,0,0,0,,{\k41}Since {\k52}we {\k41}know {\k21}that {\k43}is {\k57}love
+Dialogue: 0,0:02:37.00,0:02:40.40,That Is Love,,0,0,0,,{\k61}Don’t {\k47}tell {\k41}me {\k25}that {\k21}love’s {\k36}not {\k54}waiting {\k47}for {\k8}us
+Dialogue: 0,0:02:40.60,0:02:43.80,That Is Love,,0,0,0,,{\k31}If {\k25}we {\k41}really {\k45}want {\k41}to {\k49}we {\k43}can {\k45}try
+Dialogue: 0,0:02:44.10,0:02:45.50,That Is Love,,0,0,0,,{\k63}What {\k40}you’ve {\k37}done
+Dialogue: 0,0:02:46.50,0:02:50.50,That Is Love,,0,0,0,,{\k38}We {\k44}know {\k61}that {\k65}is {\k192}love
+Dialogue: 0,0:02:51.60,0:02:54.50,That Is Love,,0,0,0,,{\k25}Now {\k32}I’m {\k89}looking {\k44}through {\k24}your {\k76}heart
+Dialogue: 0,0:02:55.30,0:02:58.30,That Is Love,,0,0,0,,{\k17}I {\k23}can {\k32}tell {\k27}you {\k31}that {\k33}it {\k32}is {\k53}true {\k52}love
+Dialogue: 0,0:02:58.60,0:03:01.60,That Is Love,,0,0,0,,{\k64}Thank {\k88}you {\k22}for {\k24}the {\k22}time {\k20}we {\k60}have
+Dialogue: 0,0:03:02.35,0:03:05.30,That Is Love,,0,0,0,,{\k44}We {\k86}know {\k44}that {\k45}is {\k76}love
+Dialogue: 0,0:03:05.40,0:03:08.70,That Is Love,,0,0,0,,{\k45}Don’t {\k46}tell {\k34}me {\k54}that {\k29}love’s {\k35}not {\k24}waiting {\k44}for {\k19}us
+Dialogue: 0,0:03:08.90,0:03:12.00,That Is Love,,0,0,0,,{\k14}If {\k24}we {\k63}really {\k38}want {\k43}to {\k42}we {\k46}can {\k40}try
+Dialogue: 0,0:03:12.40,0:03:16.00,That Is Love,,0,0,0,,{\k50}But {\k44}you {\k44}and {\k45}I {\k19}gotta {\k31}make {\k40}it {\k87}happen
+Dialogue: 0,0:03:16.35,0:03:19.20,That Is Love,,0,0,0,,{\k30}Since {\k69}we {\k44}know {\k21}that {\k65}is {\k56}love
+Dialogue: 0,0:03:19.40,0:03:22.80,That Is Love,,0,0,0,,{\k58}Don’t {\k43}tell {\k48}me {\k31}that {\k27}love’s {\k29}not {\k43}waiting {\k41}for {\k20}us
+Dialogue: 0,0:03:22.94,0:03:26.10,That Is Love,,0,0,0,,{\k38}If {\k19}we {\k44}really {\k46}want {\k42}to {\k45}we {\k38}can {\k44}try
+Dialogue: 0,0:03:26.50,0:03:27.90,That Is Love,,0,0,0,,{\k53}What {\k45}you’ve {\k42}done
+Dialogue: 0,0:03:28.60,0:03:32.90,That Is Love,,0,0,0,,{\k60}We {\k49}know {\k58}that {\k77}is {\k186}love
+Dialogue: 0,0:03:34.20,0:03:36.90,That Is Love,,0,0,0,,{\k53}Everytime {\k37}when {\k26}I {\k42}think {\k45}of {\k67}you
+Dialogue: 0,0:03:37.40,0:03:40.30,That Is Love,,0,0,0,,{\k19}It’s {\k34}always {\k48}thing {\k46}goes {\k46}into {\k45}my {\k52}mind
+Dialogue: 0,0:03:41.10,0:03:43.90,That Is Love,,0,0,0,,{\k48}I {\k93}just {\k21}want {\k10}to {\k16}hold {\k34}you {\k58}close
+Dialogue: 0,0:03:44.80,0:03:48.10,That Is Love,,0,0,0,,{\k31}We {\k90}know {\k58}that {\k26}is {\k125}love
+Dialogue: 0,0:00:16.00,0:00:19.20,Default,,0,0,0,,Nhìn vào sâu thẳm đôi mắt em
+Dialogue: 0,0:00:20.00,0:00:22.70,Default,,0,0,0,,Anh có thể cảm thấy rằng em đang lo lắng
+Dialogue: 0,0:00:23.45,0:00:26.30,Default,,0,0,0,,Rồi em sẽ nhận ra rằng chẳng có gì phải giấu giếm nữa cả
+Dialogue: 0,0:00:27.00,0:00:29.80,Default,,0,0,0,,Chúng ta đều biết đó là tình yêu mà
+Dialogue: 0,0:00:30.60,0:00:33.10,Default,,0,0,0,,Giờ khi anh đang dần thấu hiểu lòng em
+Dialogue: 0,0:00:34.10,0:00:37.00,Default,,0,0,0,,Anh có thể nói với em rằng đó là một tình yêu chân thật
+Dialogue: 0,0:00:37.50,0:00:40.70,Default,,0,0,0,,Cảm ơn em vì khoảng thời gian chúng ta đã có bên nhau
+Dialogue: 0,0:00:41.00,0:00:44.20,Default,,0,0,0,,Chúng ta đều biết đó là tình yêu mà
+Dialogue: 0,0:00:44.30,0:00:47.60,Default,,0,0,0,,Đừng nói với anh rằng tình yêu không đợi chờ chúng ta
+Dialogue: 0,0:00:47.70,0:00:50.90,Default,,0,0,0,,Nếu chúng ta thực sự muốn chúng ta có thể chứ
+Dialogue: 0,0:00:51.20,0:00:54.80,Default,,0,0,0,,Đôi ta sẽ khiến tình yêu nảy nở
+Dialogue: 0,0:00:55.20,0:00:57.90,Default,,0,0,0,,Kể từ khi đôi ta biết rằng đó là tình yêu
+Dialogue: 0,0:00:58.30,0:01:01.60,Default,,0,0,0,,Đừng nói với anh rằng tình yêu không đợi chờ chúng ta
+Dialogue: 0,0:01:01.80,0:01:05.00,Default,,0,0,0,,Nếu chúng ta thực sự muốn chúng ta có thể thử
+Dialogue: 0,0:01:05.30,0:01:06.70,Default,,0,0,0,,Những gì em đã làm vì đôi ta
+Dialogue: 0,0:01:07.50,0:01:12.00,Default,,0,0,0,,Và chúng ta đều biết đó là tình yêu
+Dialogue: 0,0:01:12.70,0:01:15.50,Default,,0,0,0,,Mỗi khi anh nghĩ đến em
+Dialogue: 0,0:01:16.00,0:01:19.30,Default,,0,0,0,,Thì tình yêu đó mãi thổn thức trong lòng anh
+Dialogue: 0,0:01:20.00,0:01:22.80,Default,,0,0,0,,Anh muốn được ôm lấy em
+Dialogue: 0,0:01:23.50,0:01:26.70,Default,,0,0,0,,Và chúng ta đều biết đó là tình yêu
+Dialogue: 0,0:01:55.30,0:01:58.00,Default,,0,0,0,,Đúng vậy đó anh muốn sẻ chia những gì anh mơ ước
+Dialogue: 0,0:01:58.60,0:02:01.80,Default,,0,0,0,,Và anh hy vọng rằng em sẽ ở đó
+Dialogue: 0,0:02:02.30,0:02:05.00,Default,,0,0,0,,Và yêu anh nhiều như trước đây
+Dialogue: 0,0:02:05.70,0:02:08.90,Default,,0,0,0,,Và chúng ta đều biết đó là tình yêu
+Dialogue: 0,0:02:09.40,0:02:12.00,Default,,0,0,0,,Giờ khi anh đang dần thấu hiểu lòng em
+Dialogue: 0,0:02:12.70,0:02:15.90,Default,,0,0,0,,Anh có thể nói với em rằng đó là một tình yêu chân thật
+Dialogue: 0,0:02:16.40,0:02:19.30,Default,,0,0,0,,Cảm ơn em vì khoảng thời gian chúng ta đã có bên nhau
+Dialogue: 0,0:02:20.00,0:02:23.00,Default,,0,0,0,,Chúng ta đều biết đó là tình yêu mà
+Dialogue: 0,0:02:23.05,0:02:26.30,Default,,0,0,0,,Đừng nói với anh rằng tình yêu không đợi chờ chúng ta
+Dialogue: 0,0:02:26.40,0:02:29.70,Default,,0,0,0,,Nếu chúng ta thực sự muốn chúng ta có thể thử
+Dialogue: 0,0:02:30.00,0:02:33.60,Default,,0,0,0,,Đôi ta sẽ khiến tình yêu nảy nở
+Dialogue: 0,0:02:34.10,0:02:36.65,Default,,0,0,0,,Kể từ khi đôi ta biết rằng đó là tình yêu
+Dialogue: 0,0:02:37.00,0:02:40.40,Default,,0,0,0,,Đừng nói với anh rằng tình yêu không đợi chờ chúng ta
+Dialogue: 0,0:02:40.60,0:02:43.80,Default,,0,0,0,,Nếu chúng ta thực sự muốn chúng ta có thể thử
+Dialogue: 0,0:02:44.10,0:02:45.50,Default,,0,0,0,,Những gì em đã làm vì đôi ta
+Dialogue: 0,0:02:46.50,0:02:50.50,Default,,0,0,0,,Và chúng ta đều biết đó là tình yêu
+Dialogue: 0,0:02:51.60,0:02:54.50,Default,,0,0,0,,Giờ khi anh đang dần thấu hiểu lòng em
+Dialogue: 0,0:02:55.30,0:02:58.30,Default,,0,0,0,,Anh có thể nói với em rằng đó là một tình yêu chân thật
+Dialogue: 0,0:02:58.60,0:03:01.60,Default,,0,0,0,,Cảm ơn em vì khoảng thời gian chúng ta đã có bên nhau
+Dialogue: 0,0:03:02.35,0:03:05.30,Default,,0,0,0,,Chúng ta đều biết đó là tình yêu mà
+Dialogue: 0,0:03:05.40,0:03:08.70,Default,,0,0,0,,Đừng nói với anh rằng tình yêu không đợi chờ chúng ta
+Dialogue: 0,0:03:08.90,0:03:12.00,Default,,0,0,0,,Nếu chúng ta thực sự muốn chúng ta có thể thử
+Dialogue: 0,0:03:12.40,0:03:16.00,Default,,0,0,0,,Đôi ta sẽ khiến tình yêu nảy nở
+Dialogue: 0,0:03:16.35,0:03:19.20,Default,,0,0,0,,Kể từ khi đôi ta biết rằng đó là tình yêu
+Dialogue: 0,0:03:19.40,0:03:22.80,Default,,0,0,0,,Đừng nói với anh rằng tình yêu không đợi chờ chúng ta
+Dialogue: 0,0:03:22.94,0:03:26.10,Default,,0,0,0,,Nếu chúng ta thực sự muốn chúng ta có thể thử
+Dialogue: 0,0:03:26.50,0:03:27.90,Default,,0,0,0,,Những gì em đã làm vì đôi ta
+Dialogue: 0,0:03:28.60,0:03:32.90,Default,,0,0,0,,Và chúng ta đều biết đó là tình yêu
+Dialogue: 0,0:03:34.20,0:03:36.90,Default,,0,0,0,,Mỗi khi anh nghĩ đến em
+Dialogue: 0,0:03:37.40,0:03:40.30,Default,,0,0,0,,Thì tình yêu đó mãi thổn thức trong lòng anh
+Dialogue: 0,0:03:41.10,0:03:43.90,Default,,0,0,0,,Anh muốn được ôm lấy em
+Dialogue: 0,0:03:44.80,0:03:48.10,Default,,0,0,0,,Và chúng ta đều biết đó là tình yêu
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

@@ -1,0 +1,71 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:46.33,0:00:50.23,Default,,0000,0000,0000,karaoke,{\k50}Lặng {\k52}yên {\k33}nghe {\k102}tiếng {\k50}mưa {\k103}rơi,
+Comment: 0,0:00:50.65,0:00:54.93,Default,,0000,0000,0000,karaoke,{\k39}lặng {\k48}yên {\k32}để {\k106}thấy {\k47}đêm {\k156}trôi
+Comment: 0,0:00:54.93,0:00:58.87,Default,,0000,0000,0000,karaoke,{\k32}Lặng {\k53}yên {\k27}nghe {\k129}tiếng {\k47}thở {\k106}dài,
+Comment: 0,0:00:58.99,0:01:03.19,Default,,0000,0000,0000,karaoke,{\k46}lặng {\k54}yên {\k24}nghe {\k87}xót {\k43}xa {\k47}trong {\k119}tôi.
+Comment: 0,0:01:03.27,0:01:07.05,Default,,0000,0000,0000,karaoke,{\k43}Lặng {\k47}yên {\k25}khi {\k33}anh {\k98}nói {\k50}chia {\k82}tay,
+Comment: 0,0:01:07.51,0:01:11.49,Default,,0000,0000,0000,karaoke,{\k35}lặng {\k79}yên {\k30}nghe {\k98}nước {\k39}mắt {\k117}rơi.
+Comment: 0,0:01:11.70,0:01:15.73,Default,,0000,0000,0000,karaoke,{\k38}Lặng {\k50}yên {\k43}trong {\k98}cơn {\k65}mưa {\k109}buồn,
+Comment: 0,0:01:15.93,0:01:22.29,Default,,0000,0000,0000,karaoke,{\k39}lặng {\k50}yên {\k34}nghe {\k122}nỗi {\k80}cô {\k311}đơn.
+Comment: 0,0:01:22.29,0:01:26.11,Default,,0000,0000,0000,karaoke,{\k31}Thôi {\k67}đành {\k39}em {\k33}cất {\k38}bước {\k38}ra {\k136}đi,
+Comment: 0,0:01:26.40,0:01:30.47,Default,,0000,0000,0000,karaoke,{\k54}thôi {\k64}đành {\k27}để {\k81}xót {\k40}xa {\k44}riêng {\k97}em.
+Comment: 0,0:01:30.71,0:01:34.24,Default,,0000,0000,0000,karaoke,{\k60}Thôi {\k39}đành {\k29}giữa {\k62}phố {\k37}người {\k40}đông {\k86}vui.
+Comment: 0,0:01:34.66,0:01:36.69,Default,,0000,0000,0000,karaoke,{\k37}Lặng {\k27}nghe {\k46}tiếng {\k26}con {\k67}tim
+Comment: 0,0:01:36.98,0:01:42.67,Default,,0000,0000,0000,karaoke,{\k37}để {\k42}biết {\k29}anh {\k31}yêu {\k48}em {\k64}nhiều {\k318}hơn.
+Comment: 0,0:01:43.54,0:01:47.86,Default,,0000,0000,0000,karaoke,{\k88}Nhìn {\k80}anh {\k59}cất {\k78}bước {\k127}đi
+Comment: 0,0:01:47.95,0:01:51.76,Default,,0000,0000,0000,karaoke,{\k43}làm {\k32}tim {\k55}em {\k75}nhói {\k51}đau {\k21}không {\k104}thôi.
+Comment: 0,0:01:51.76,0:01:55.46,Default,,0000,0000,0000,karaoke,{\k21}Anh {\k63}xa {\k30}khuất {\k91}mờ {\k36}giữa {\k59}phố {\k70}người,
+Comment: 0,0:01:55.75,0:02:00.32,Default,,0000,0000,0000,karaoke,{\k35}chuyện {\k21}tình {\k45}yêu {\k39}chỉ {\k40}là {\k60}giấc {\k59}mơ {\k158}thôi.
+Comment: 0,0:02:00.57,0:02:04.14,Default,,0000,0000,0000,karaoke,{\k40}Từng {\k33}cơn {\k55}mưa {\k60}khẽ {\k169}rơi,
+Comment: 0,0:02:04.68,0:02:08.50,Default,,0000,0000,0000,karaoke,{\k39}từng {\k44}giọt {\k43}mưa {\k89}giá {\k49}buốt {\k31}tim {\k87}tôi.
+Comment: 0,0:02:08.75,0:02:12.44,Default,,0000,0000,0000,karaoke,{\k20}Yêu {\k38}anh {\k32}rất {\k81}nhiều {\k32}nhưng {\k26}em {\k45}đâu {\k30}có {\k65}ngờ.
+Comment: 0,0:02:12.65,0:02:16.18,Default,,0000,0000,0000,karaoke,{\k26}Để {\k23}mình {\k42}em {\k38}giờ {\k53}ôm {\k79}nỗi {\k92}đau,
+Comment: 0,0:02:16.39,0:02:24.19,Default,,0000,0000,0000,karaoke,{\k31}nỗi {\k36}đau {\k147}giữa {\k95}cô {\k471}đơn.
+Comment: 0,0:02:56.91,0:03:00.73,Default,,0000,0000,0000,karaoke,{\k40}Lặng {\k54}yên {\k29}nghe {\k74}tiếng {\k71}mưa {\k114}rơi,
+Comment: 0,0:03:01.23,0:03:05.17,Default,,0000,0000,0000,karaoke,{\k32}lặng {\k46}yên {\k32}để {\k106}thấy {\k51}đêm {\k127}trôi
+Comment: 0,0:03:05.42,0:03:09.41,Default,,0000,0000,0000,karaoke,{\k39}Lặng {\k47}yên {\k31}nghe {\k97}tiếng {\k53}thở {\k132}dài,
+Comment: 0,0:03:09.57,0:03:13.60,Default,,0000,0000,0000,karaoke,{\k40}lặng {\k41}yên {\k31}nghe {\k56}xót {\k45}xa {\k63}trong {\k127}tôi.
+Comment: 0,0:03:13.85,0:03:17.75,Default,,0000,0000,0000,karaoke,{\k33}Lặng {\k43}yên {\k29}khi {\k28}anh {\k104}nói {\k61}chia {\k92}tay,
+Comment: 0,0:03:18.12,0:03:22.03,Default,,0000,0000,0000,karaoke,{\k28}lặng {\k41}yên {\k43}nghe {\k89}nước {\k59}mắt {\k131}rơi.
+Comment: 0,0:03:22.32,0:03:26.30,Default,,0000,0000,0000,karaoke,{\k29}Lặng {\k45}yên {\k35}trong {\k90}cơn {\k73}mưa {\k126}buồn,
+Comment: 0,0:03:26.55,0:03:32.32,Default,,0000,0000,0000,karaoke,{\k30}lặng {\k49}yên {\k28}nghe {\k104}nỗi {\k101}cô {\k265}đơn.
+Comment: 0,0:03:32.62,0:03:36.56,Default,,0000,0000,0000,karaoke,{\k55}Thôi {\k73}đành {\k30}em {\k33}cất {\k36}bước {\k68}ra {\k99}đi,
+Comment: 0,0:03:37.02,0:03:41.04,Default,,0000,0000,0000,karaoke,{\k35}thôi {\k75}đành {\k21}để {\k68}xót {\k40}xa {\k40}riêng {\k123}em.
+Comment: 0,0:03:41.04,0:03:44.86,Default,,0000,0000,0000,karaoke,{\k83}Thôi {\k42}đành {\k25}giữa {\k62}phố {\k25}người {\k37}đông {\k108}vui.
+Comment: 0,0:03:45.15,0:03:47.52,Default,,0000,0000,0000,karaoke,{\k31}Lặng {\k33}nghe {\k69}tiếng {\k49}con {\k55}tim
+Comment: 0,0:03:47.52,0:03:52.79,Default,,0000,0000,0000,karaoke,{\k33}để {\k37}biết {\k34}anh {\k35}yêu {\k47}em {\k40}nhiều {\k301}hơn.
+Comment: 0,0:03:54.21,0:03:58.32,Default,,0000,0000,0000,karaoke,{\k74}Nhìn {\k80}anh {\k52}cất {\k88}bước {\k117}đi
+Comment: 0,0:03:58.32,0:04:02.01,Default,,0000,0000,0000,karaoke,{\k61}làm {\k26}tim {\k51}em {\k80}nhói {\k49}đau {\k29}không {\k73}thôi.
+Comment: 0,0:04:02.30,0:04:06.00,Default,,0000,0000,0000,karaoke,{\k18}Anh {\k64}xa {\k24}khuất {\k66}mờ {\k29}giữa {\k112}phố {\k57}người,
+Comment: 0,0:04:06.25,0:04:10.65,Default,,0000,0000,0000,karaoke,{\k32}chuyện {\k27}tình {\k40}yêu {\k38}chỉ {\k43}là {\k60}giấc {\k103}mơ {\k97}thôi.
+Comment: 0,0:04:10.98,0:04:14.84,Default,,0000,0000,0000,karaoke,{\k58}Từng {\k25}cơn {\k45}mưa {\k124}khẽ {\k134}rơi,
+Comment: 0,0:04:15.21,0:04:19.03,Default,,0000,0000,0000,karaoke,{\k42}từng {\k39}giọt {\k46}mưa {\k90}giá {\k48}buốt {\k27}tim {\k90}tôi.
+Comment: 0,0:04:19.24,0:04:22.94,Default,,0000,0000,0000,karaoke,{\k20}Yêu {\k39}anh {\k27}rất {\k90}nhiều {\k28}nhưng {\k27}em {\k46}đâu {\k28}có {\k65}ngờ.
+Comment: 0,0:04:23.23,0:04:26.63,Default,,0000,0000,0000,karaoke,{\k16}Để {\k29}mình {\k48}em {\k30}giờ {\k58}ôm {\k72}nỗi {\k87}đau,
+Comment: 0,0:04:26.84,0:04:30.20,Default,,0000,0000,0000,karaoke,{\k31}nỗi {\k63}đau {\k119}giữa {\k95}cô {\k28}đơn.
+Comment: 0,0:04:30.29,0:04:33.90,Default,,0000,0000,0000,karaoke,{\k44}Và {\k77}anh {\k62}cất {\k71}bước {\k107}đi
+Comment: 0,0:04:34.06,0:04:37.97,Default,,0000,0000,0000,karaoke,{\k65}làm {\k28}tim {\k45}em {\k79}nhói {\k34}đau {\k52}không {\k88}thôi.
+Comment: 0,0:04:38.13,0:04:41.87,Default,,0000,0000,0000,karaoke,{\k23}Anh {\k46}xa {\k35}khuất {\k88}mờ {\k43}giữa {\k81}phố {\k58}người,
+Comment: 0,0:04:42.04,0:04:46.52,Default,,0000,0000,0000,karaoke,{\k37}chuyện {\k29}tình {\k70}yêu {\k44}chỉ {\k30}là {\k57}giấc {\k86}mơ {\k95}thôi.
+Comment: 0,0:04:46.64,0:04:50.63,Default,,0000,0000,0000,karaoke,{\k63}Từng {\k37}cơn {\k48}mưa {\k77}khẽ {\k174}rơi,
+Comment: 0,0:04:50.96,0:04:54.82,Default,,0000,0000,0000,karaoke,{\k52}từng {\k31}giọt {\k63}mưa {\k72}giá {\k44}buốt {\k35}tim {\k89}tôi.
+Comment: 0,0:04:55.11,0:04:58.98,Default,,0000,0000,0000,karaoke,{\k14}Yêu {\k35}anh {\k34}rất {\k86}nhiều {\k26}nhưng {\k30}em {\k40}đâu {\k30}có {\k92}ngờ.
+Comment: 0,0:04:59.03,0:05:02.59,Default,,0000,0000,0000,karaoke,{\k14}Để {\k27}mình {\k47}em {\k35}giờ {\k50}ôm {\k79}nỗi {\k89}đau,
+Comment: 0,0:05:02.71,0:05:17.20,Default,,0000,0000,0000,karaoke,{\k93}nỗi {\k138}đau {\k183}giữa {\k203}cô {\k209}đơn...
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

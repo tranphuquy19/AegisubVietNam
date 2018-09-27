@@ -1,0 +1,54 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 0
+Active Line: 0
+Video Zoom Percent: 1
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.42,0:00:30.30,Default,,0,0,0,,{\k62}Ñeâm {\k136}nay {\k25}em {\k26}boãng {\k39}thaáy {\k40}mình {\k40}coâ {\k53}ñôn {\k52}trong {\k58}voøng {\k135}tay {\k52}thaân {\k170}quen
+Dialogue: 0,0:00:30.30,0:00:40.50,Default,,0,0,0,,{\k28}Sau {\k35}ñeâm {\k242}nay, {\k23}coù {\k20}leõ {\k50}em {\k50}seõ {\k55}phaûi {\k52}buoâng {\k50}nhöõng {\k68}giaác {\k100}mô {\k0} {\k37}nhöõng {\k30}laäp {\k180}lôø.
+Dialogue: 0,0:00:40.50,0:00:45.77,Default,,0,0,0,,{\k31}Coù {\k37}sai {\k28}khoâng {\k34}khi {\k38}trong {\k33}loøng {\k30}coøn {\k30}chuùt {\k32}yeâu {\k38}thöông {\k36}xöa {\k34}buoàn {\k126}vöông
+Dialogue: 0,0:00:45.82,0:00:50.05,Default,,0,0,0,,{\k10} {\k21}Thaät {\k28}taâm {\k29}em {\k30}khoâng {\k113}muoán {\k28}ñoâi {\k26}ta {\k23}xa {\k76}caùch {\k39}nhau.
+Dialogue: 0,0:00:50.55,0:00:55.57,Default,,0,0,0,,{\k25}Coù {\k29}sai {\k24}khoâng {\k26}khi {\k29}ñeâm {\k27}veà {\k41}em {\k33}vaãn {\k32}nghe {\k37}aâm {\k48}thanh {\k151}aáy.
+Dialogue: 0,0:00:56.17,0:01:00.00,Default,,0,0,0,,{\k74}Thoaùng {\k33}muøi {\k35}höông {\k60}cuõ {\k29}nhö {\k36}vöøa {\k73}môùi {\k43}ñaây.
+Dialogue: 0,0:01:00.00,0:01:09.50,Default,,0,0,0,,{\k40}Laø {\k48}do {\k52}em {\k45}coá {\k316}chaáp… {\k56}Cho {\k53}raèng {\k55}mình {\k285}ñuùng.
+Dialogue: 0,0:01:10.07,0:01:18.55,Default,,0,0,0,,{\k20}Em {\k25}cöù {\k31}ngôõ {\k33}naêm {\k67}thaùng {\k38}xoùa {\k193}heát {\k36}bao {\k30}nhieâu {\k30}kæ {\k30}nieäm {\k315}cuõ.
+Dialogue: 0,0:01:18.75,0:01:25.27,Default,,0,0,0,,{\k67}Raèng {\k40}em {\k37}khoâng {\k68}theå {\k26}löïa {\k124}choïn {\k31}cho {\k25}giaác {\k30}mô {\k86}moãi {\k118}ngöôøi.
+Dialogue: 0,0:01:25.27,0:01:28.85,Default,,0,0,0,,{\k22}Vì {\k92}em {\k73}cuõng {\k30}ñang {\k27}laïc {\k114}loái.
+Dialogue: 0,0:01:28.85,0:01:35.40,Default,,0,0,0,,{\k33}Vaø {\k122}anh {\k41}haõy {\k30}noùi {\k28}thaät {\k107}loøng, {\k23}anh {\k25}raát {\k31}thöông {\k38}raát {\k177}buoàn.
+Dialogue: 0,0:01:35.40,0:01:40.25,Default,,0,0,0,,{\k22}Chæ {\k27}caàn {\k29}anh {\k30}goïi {\k96}teân, {\k42}em {\k41}seõ {\k40}ñöùng {\k158}laïi.
+Dialogue: 0,0:01:40.57,0:01:46.67,Default,,0,0,0,,{\k32}Giöõ {\k29}em {\k36}ñi {\k56}vaø {\k71}noùi.. {\k98}yeâu {\k288}em.
+Dialogue: 0,0:01:49.25,0:01:57.60,Default,,0,0,0,,{\k67}Ñoâi {\k83}khi, {\k50}em {\k34}voâ {\k54}thöùc {\k52}goïi {\k43}teân {\k45}ai {\k41}daãu {\k46}keà {\k63}vai {\k46}beân {\k211}anh.
+Dialogue: 0,0:01:57.77,0:02:07.65,Default,,0,0,0,,{\k57}Coù {\k40}ñoâi {\k198}khi, {\k32}em {\k22}neùn {\k40}taâm {\k34}tö {\k27}moät {\k111}mình {\k20}ñeâm {\k32}traéng {\k122}ñeâm {\k56}trong {\k50}tuyeät {\k147}voïng.
+Dialogue: 0,0:02:07.72,0:02:13.32,Default,,0,0,0,,{\k27}Coù {\k36}sai {\k54}khoâng {\k36}khi {\k54}trong {\k45}loøng {\k36}coøn {\k45}chuùt {\k36}yeâu {\k31}thöông {\k26}xöa {\k32}buoàn {\k102}vöông
+Dialogue: 0,0:02:13.32,0:02:18.07,Default,,0,0,0,,{\k26}Thaät {\k46}taâm {\k32}em {\k46}khoâng {\k64}muoán {\k40}ñoâi {\k36}ta {\k42}xa {\k54}caùch {\k89}nhau
+Dialogue: 0,0:02:18.07,0:02:23.25,Default,,0,0,0,,{\k33}Coù {\k44}sai {\k40}khoâng {\k38}khi {\k38}ñeâm {\k38}veà {\k40}em {\k24}vaãn {\k28}nghe {\k32}aâm {\k26}thanh {\k137}aáy
+Dialogue: 0,0:02:23.25,0:02:27.17,Default,,0,0,0,,{\k29}Thoaùng {\k44}muøi {\k56}höông {\k44}cuõ {\k54}nhö {\k34}vöøa {\k34}môùi {\k97}ñaây
+Dialogue: 0,0:02:27.17,0:02:37.20,Default,,0,0,0,,{\k37}Laø {\k28}do {\k132}em {\k24}coá {\k306}chaáp... {\k48}cho {\k42}raèng {\k36}mình {\k350}ñuùng
+Dialogue: 0,0:02:37.20,0:02:46.15,Default,,0,0,0,,{\k56}Em {\k54}cöù {\k38}ngôõ {\k42}naêm {\k48}thaùng {\k44}xoùa {\k140}heát {\k82}bao {\k32}nhieâu {\k34}kæ {\k42}nieäm {\k283}cuõ.
+Dialogue: 0,0:02:46.15,0:02:52.80,Default,,0,0,0,,{\k69}Raèng {\k42}em {\k83}khoâng {\k55}theå {\k55}löïa {\k69}chon {\k56}cho {\k32}giaác {\k44}mô {\k42}moãi {\k118}ngöôøi
+Dialogue: 0,0:02:52.80,0:02:56.37,Default,,0,0,0,,{\k47}Vì {\k46}em {\k78}cuõng {\k67}ñang {\k40}laïc {\k79}loái
+Dialogue: 0,0:02:56.37,0:03:02.75,Default,,0,0,0,,{\k40}Vaø {\k53}anh {\k53}haõy {\k53}noùi {\k67}thaät {\k66}loøng {\k53}anh {\k53}raát {\k41}thöông {\k34}raát {\k125}buoàn
+Dialogue: 0,0:03:02.75,0:03:07.70,Default,,0,0,0,,{\k27}Chæ {\k40}caàn {\k36}anh {\k40}goïi {\k118}teân {\k36}em {\k26}seõ {\k38}ñöùng {\k134}laïi
+Dialogue: 0,0:03:08.07,0:03:14.97,Default,,0,0,0,,{\k43}Giöõ {\k44}em {\k38}ñi {\k52}vaø {\k44}noùi {\k0} {\k0} {\k0} {\k8} {\k46}Yeâu {\k415}em
+Dialogue: 0,0:03:16.07,0:03:22.92,Default,,0,0,0,,{\k79}Raèng {\k56}em {\k68}khoâng {\k50}theå {\k38}löïa {\k102}choïn {\k42}cho {\k46}giaác {\k38}mô {\k52}moãi {\k114}ngöôøi
+Dialogue: 0,0:03:22.92,0:03:26.05,Default,,0,0,0,,{\k41}Vì {\k41}em {\k38}cuõng {\k70}ñang {\k54}laïc {\k69}loái
+Dialogue: 0,0:03:26.22,0:03:32.77,Default,,0,0,0,,{\k70}Vaø {\k48}anh {\k36}haõy {\k51}noùi {\k68}thaät {\k101}loøng {\k22}anh {\k55}raát {\k95}thöông {\k22}raát {\k87}buoàn
+Dialogue: 0,0:03:32.77,0:03:37.75,Default,,0,0,0,,{\k35}Chæ {\k44}caàn {\k46}anh {\k42}goïi {\k331}teân {\k0}...
+Dialogue: 0,0:03:37.75,0:03:42.87,Default,,0,0,0,,{\k33}Raèng {\k34}em {\k36}khoâng {\k44}theå {\k52}löïa {\k44}choïn {\k38}cho {\k46}giaác {\k48}mô {\k52}moãi {\k85}ngöôøi
+Dialogue: 0,0:03:42.87,0:03:46.32,Default,,0,0,0,,{\k45}Vì {\k45}em {\k63}cuõng {\k58}ñang {\k54}laïc {\k80}loái
+Dialogue: 0,0:03:46.32,0:03:52.62,Default,,0,0,0,,{\k62}Vaø {\k42}anh {\k46}haõy {\k46}noùi {\k44}thaät {\k114}loøng {\k27}anh {\k69}raát {\k75}thöông {\k31}raát {\k74}buoàn
+Dialogue: 0,0:03:52.70,0:03:58.12,Default,,0,0,0,,{\k40}Chæ {\k54}caàn {\k32}anh {\k50}goïi {\k0} {\k86}teân {\k32}em {\k36}seõ {\k74}ñöùng {\k138}laïi {\k0}
+Dialogue: 0,0:03:58.12,0:04:04.15,Default,,0,0,0,,{\k30}Giöõ {\k32}em {\k38}ñi {\k52}vaø {\k46}noùi {\k18} {\k4} {\k20} {\k26}Yeâu {\k337}em
+Dialogue: 0,0:04:04.15,0:04:06.15,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

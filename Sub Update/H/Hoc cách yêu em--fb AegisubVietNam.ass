@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: Phương Thiên Hoàng –  Học Cách Yêu Em (1).mp3
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.99,0:00:30.95,Default,,0000,0000,0000,,{\k6}{\k29}Tình {\k34}yêu {\k33}của {\k63}anh {\k33}không {\k52}giống {\k20}như {\k33}người {\k93}ta
+Dialogue: 0,0:00:30.93,0:00:34.76,Default,,0000,0000,0000,,{\k43}Mua {\k35}sắm {\k32}xa {\k54}hoa {\k42}nhiều {\k38}món {\k32}quà {\k35}quý {\k72}giá
+Dialogue: 0,0:00:34.76,0:00:38.85,Default,,0000,0000,0000,,{\k30}{\k33}Tình {\k30}yêu {\k34}của {\k65}anh {\k34}có {\k56}trái {\k15}tim {\k33}thật {\k79}thà
+Dialogue: 0,0:00:38.85,0:00:47.34,Default,,0000,0000,0000,,{\k20}{\k32}Hứa {\k30}suốt {\k36}cuộc {\k58}đời {\k41}chỉ {\k49}yêu {\k18}có {\k28}mình {\k537}em
+Dialogue: 0,0:00:55.92,0:01:03.97,Default,,0000,0000,0000,,{\k75}Anh {\k23}đã {\k71}nói {\k41}rất {\k129}nhiều {\k40}rằng {\k33}không {\k61}có {\k39}ai {\k35}yêu {\k31}em {\k35}nhiều {\k69}như {\k123}anh
+Dialogue: 0,0:01:03.97,0:01:12.55,Default,,0000,0000,0000,,{\k10}{\k63}Anh {\k29}cũng {\k74}dám {\k41}nói {\k122}rằng {\k33}chỉ {\k38}có {\k98}anh {\k39}hy {\k24}sinh {\k42}cho {\k245}em
+Dialogue: 0,0:01:13.81,0:01:21.87,Default,,0000,0000,0000,,{\k20}{\k66}Nhưng {\k33}mà {\k71}anh {\k33}biết {\k127}rằng {\k41}không {\k31}thể {\k69}lo {\k32}tương {\k36}lai {\k34}em {\k63}giàu {\k150}sang
+Dialogue: 0,0:01:21.85,0:01:30.79,Default,,0000,0000,0000,,{\k67}Nhưng {\k48}mà {\k67}anh {\k37}có {\k132}thể {\k36}ở {\k32}bên {\k99}em {\k31}yêu {\k32}em {\k36}trọn {\k277}đời.
+Dialogue: 0,0:01:30.79,0:01:34.82,Default,,0000,0000,0000,,{\k27}{\k30}Tình {\k31}yêu {\k39}của {\k53}anh {\k44}không {\k38}giống {\k32}như {\k29}người {\k80}ta
+Dialogue: 0,0:01:34.82,0:01:38.82,Default,,0000,0000,0000,,{\k23}{\k32}Mua {\k23}sắm {\k43}xa {\k65}hoa {\k28}nhiều {\k36}món {\k38}quà {\k32}quý {\k80}giá
+Dialogue: 0,0:01:38.82,0:01:42.90,Default,,0000,0000,0000,,{\k21}{\k32}Tình {\k33}yêu {\k33}của {\k68}anh {\k33}có {\k48}trái {\k23}tim {\k27}thật {\k90}thà
+Dialogue: 0,0:01:42.90,0:01:48.93,Default,,0000,0000,0000,,{\k15}{\k29}Hứa {\k34}suốt {\k39}cuộc {\k53}đời {\k35}yêu {\k72}em {\k37}thiết {\k289}tha.
+Dialogue: 0,0:01:48.93,0:01:52.78,Default,,0000,0000,0000,,{\k8}{\k33}Dù {\k34}cho {\k33}ngày {\k63}sau {\k39}giông {\k43}tố {\k26}hay {\k35}khổ {\k71}đau
+Dialogue: 0,0:01:52.80,0:01:56.81,Default,,0000,0000,0000,,{\k10}{\k46}Dù {\k32}cho {\k33}ngày {\k61}sau {\k40}em {\k35}có {\k32}già {\k34}có {\k78}xấu
+Dialogue: 0,0:01:56.81,0:02:00.79,Default,,0000,0000,0000,,{\k23}{\k32}Thì {\k24}trong {\k29}lòng {\k72}anh {\k39}yêu {\k46}mãi {\k23}chỉ {\k29}một {\k81}người
+Dialogue: 0,0:02:00.79,0:02:07.02,Default,,0000,0000,0000,,{\k24}{\k30}Hứa {\k39}suốt {\k32}cuộc {\k62}đời {\k33}chỉ {\k50}yêu {\k21}có {\k26}mình {\k306}em.
+Dialogue: 0,0:02:26.02,0:02:33.97,Default,,0000,0000,0000,,{\k68}Nhưng {\k34}giờ {\k35}em {\k25}đã {\k38}quyết {\k139}định {\k32}em {\k31}ra {\k69}đi {\k35}lo {\k32}tương {\k35}lai {\k31}của {\k191}em
+Dialogue: 0,0:02:33.97,0:02:42.45,Default,,0000,0000,0000,,{\k9}{\k65}Anh {\k33}chỉ {\k64}biết {\k35}mỉm {\k127}cười {\k38}và {\k30}cầu {\k105}chúc {\k36}em {\k63}vui {\k65}bên {\k178}người.
+Dialogue: 0,0:02:42.45,0:02:46.83,Default,,0000,0000,0000,,{\k43}{\k46}Người {\k32}ta {\k37}cần {\k59}em {\k39}khi {\k45}nhan {\k16}sắc {\k40}xinh {\k81}tươi
+Dialogue: 0,0:02:46.83,0:02:50.81,Default,,0000,0000,0000,,{\k48}Người {\k35}ta {\k35}cần {\k66}em {\k36}như {\k32}món {\k31}đồ {\k39}trang {\k76}sức
+Dialogue: 0,0:02:50.81,0:02:54.82,Default,,0000,0000,0000,,{\k26}{\k29}Rồi {\k35}mai {\k29}này {\k69}em {\k32}nhan {\k68}sắc {\k34}phai {\k79}tàn
+Dialogue: 0,0:02:54.82,0:03:00.98,Default,,0000,0000,0000,,{\k21}{\k34}Người {\k31}ta {\k37}có {\k61}còn {\k38}yêu {\k60}em {\k37}nhiều {\k297}không.
+Dialogue: 0,0:03:00.98,0:03:04.92,Default,,0000,0000,0000,,{\k38}Còn {\k32}anh {\k33}thì {\k64}sao {\k36}anh {\k64}vẫn {\k38}như {\k89}xưa
+Dialogue: 0,0:03:04.92,0:03:08.82,Default,,0000,0000,0000,,{\k46}Dù {\k32}cho {\k30}rằng {\k64}em {\k39}có {\k34}lầm {\k35}đường {\k23}lạc {\k87}lối
+Dialogue: 0,0:03:08.82,0:03:12.80,Default,,0000,0000,0000,,{\k21}{\k35}Rồi {\k31}mai {\k34}này {\k80}đây {\k20}nếu {\k32}em {\k38}có {\k31}quay {\k76}về
+Dialogue: 0,0:03:12.80,0:03:18.96,Default,,0000,0000,0000,,{\k24}{\k36}Anh {\k29}vẫn {\k36}là {\k64}người {\k33}yêu {\k36}em {\k32}như {\k37}lúc {\k289}xưa.
+Dialogue: 0,0:03:26.95,0:03:31.02,Default,,0000,0000,0000,,{\k6}{\k38}Rồi {\k32}mai {\k35}này {\k51}em {\k40}nhan {\k72}sắc {\k32}phai {\k101}tàn
+Dialogue: 0,0:03:31.00,0:03:36.70,Default,,0000,0000,0000,,{\k55}Anh {\k21}sẽ {\k28}vẫn {\k65}còn {\k35}yêu {\k56}em {\k44}nữa {\k266}không
+Dialogue: 0,0:03:36.70,0:03:40.95,Default,,0000,0000,0000,,{\k20}{\k39}Dù {\k39}cho {\k32}ngày {\k58}sau {\k41}giông {\k42}tố {\k21}hay {\k34}khổ {\k99}đau
+Dialogue: 0,0:03:40.95,0:03:44.84,Default,,0000,0000,0000,,{\k43}Dù {\k28}cho {\k35}ngày {\k63}sau {\k37}em {\k35}có {\k32}già {\k34}có {\k82}xấu
+Dialogue: 0,0:03:44.84,0:03:48.81,Default,,0000,0000,0000,,{\k19}{\k32}Thì {\k32}trong {\k33}lòng {\k57}anh {\k39}yêu {\k46}mãi {\k27}chỉ {\k33}một {\k79}người
+Dialogue: 0,0:03:48.81,0:03:54.71,Default,,0000,0000,0000,,{\k22}{\k35}Hứa {\k29}suốt {\k37}cuộc {\k53}đời {\k42}chỉ {\k48}yêu {\k21}có {\k28}mình {\k275}em.
+Dialogue: 0,0:03:54.90,0:03:58.91,Default,,0000,0000,0000,,{\k49}Dù {\k35}cho {\k37}ngày {\k56}sau {\k44}dẫu {\k63}có {\k35}thế {\k82}nào
+Dialogue: 0,0:03:58.91,0:04:14.28,Default,,0000,0000,0000,,{\k43}Anh {\k30}vẫn {\k32}là {\k411}người {\k39}yêu {\k152}em {\k66}như {\k105}lúc {\k659}xưa
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

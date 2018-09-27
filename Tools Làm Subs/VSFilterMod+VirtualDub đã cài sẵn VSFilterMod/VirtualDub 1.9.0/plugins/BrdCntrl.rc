@@ -1,0 +1,232 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.K.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENG)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_FILTER DIALOG DISCARDABLE  0, 0, 212, 250
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Border Control"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_YTOPEDITBORDER,98,22,34,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_YTOPSPINBORDER,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,87,22,11,
+                    15
+    EDITTEXT        IDC_YTOPEDIT,98,51,36,14,ES_AUTOHSCROLL | ES_READONLY | 
+                    ES_NUMBER
+    CONTROL         "Spin1",IDC_YTOPSPIN,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_AUTOBUDDY | UDS_ARROWKEYS,87,51,11,15
+    EDITTEXT        IDC_YTOPEDITFADE,98,80,36,15,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_YTOPSPINFADE,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,87,80,11,
+                    15
+    EDITTEXT        IDC_STRETCHFACTORTOPEDIT,98,105,25,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_STRETCHFACTORTOPSPIN,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,88,105,
+                    11,15
+    EDITTEXT        IDC_YBOTEDITBORDER,98,148,35,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_YBOTSPINBORDER,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,86,147,
+                    11,15
+    EDITTEXT        IDC_YBOTEDIT,96,176,35,14,ES_AUTOHSCROLL | ES_READONLY | 
+                    ES_NUMBER
+    CONTROL         "Spin1",IDC_YBOTSPIN,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_AUTOBUDDY | UDS_ARROWKEYS,86,176,11,15
+    EDITTEXT        IDC_YBOTEDITFADE,96,203,35,15,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_YBOTSPINFADE,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,86,203,
+                    11,15
+    EDITTEXT        IDC_STRETCHFACTORBOTTOMEDIT,96,227,25,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_STRETCHFACTORBOTTOMSPIN,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,86,227,
+                    11,15
+    EDITTEXT        IDC_XRIGHTEDITBORDER,161,110,33,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_XRIGHTSPINBORDER,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,151,110,
+                    11,15
+    EDITTEXT        IDC_XRIGHTEDIT,161,137,34,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_XRIGHTSPIN,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_AUTOBUDDY | UDS_ARROWKEYS,151,137,11,15
+    EDITTEXT        IDC_XRIGHTEDITFADE,159,164,35,15,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_XRIGHTSPINFADE,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,149,164,
+                    11,15
+    EDITTEXT        IDC_STRETCHFACTORRIGHTEDIT,161,190,34,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_STRETCHFACTORRIGHTSPIN,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,151,190,
+                    11,15
+    EDITTEXT        IDC_XLEFTEDITBORDER,19,109,34,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_XLEFTSPINBORDER,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,9,109,11,
+                    15
+    EDITTEXT        IDC_XLEFTEDIT,19,138,34,14,ES_AUTOHSCROLL | ES_READONLY | 
+                    ES_NUMBER
+    CONTROL         "Spin1",IDC_XLEFTSPIN,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_AUTOBUDDY | UDS_ARROWKEYS,9,138,11,15
+    EDITTEXT        IDC_XLEFTEDITFADE,20,164,33,15,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_XLEFTSPINFADE,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,10,165,
+                    11,15
+    EDITTEXT        IDC_STRETCHFACTORLEFTEDIT,20,191,33,14,ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_NUMBER
+    CONTROL         "Spin1",IDC_STRETCHFACTORLEFTSPIN,"msctls_updown32",
+                    UDS_SETBUDDYINT | UDS_AUTOBUDDY | UDS_ARROWKEYS,10,191,
+                    11,15
+    EDITTEXT        IDC_EDIT1,20,28,30,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    ES_NUMBER
+    CONTROL         "Spin1",IDC_EDIT1SPIN,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNLEFT | UDS_AUTOBUDDY | UDS_ARROWKEYS,7,28,11,15
+    EDITTEXT        IDC_EDIT3,20,62,30,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    ES_NUMBER
+    CONTROL         "Spin1",IDC_EDIT3SPIN,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNLEFT | UDS_AUTOBUDDY | UDS_ARROWKEYS,8,62,11,15
+    EDITTEXT        IDC_EDIT2,20,44,30,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    ES_NUMBER
+    CONTROL         "Spin1",IDC_EDIT2SPIN,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNLEFT | UDS_AUTOBUDDY | UDS_ARROWKEYS,8,45,11,15
+    GROUPBOX        "Left Settings",IDC_STATICLEFT,3,89,64,120
+    DEFPUSHBUTTON   "OK",IDOK,145,8,50,14
+    DEFPUSHBUTTON   "Show Preview",IDPREVIEW,145,26,50,14
+    PUSHBUTTON      "Help",IDHELP,146,65,50,14,NOT WS_VISIBLE | WS_DISABLED
+    PUSHBUTTON      "Cancel",IDCANCEL,145,45,50,14
+    LTEXT           "Black Region",IDC_STATICYBOTBORDER2,9,98,45,10,
+                    SS_CENTERIMAGE
+    GROUPBOX        "Top Settings",IDC_STATICTOP,83,4,56,120
+    LTEXT           "Black Region",IDC_STATICYTOPBORDER,87,13,46,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Fade Region",IDC_STATICYTOPFADE,87,69,47,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Smear Region",IDC_STATICYTOP,87,39,46,10,SS_CENTERIMAGE
+    LTEXT           "Black Region",IDC_STATICYBOTBORDER,86,136,46,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Fade Region",IDC_STATICYBOTFADE,86,192,50,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Smear Region",IDC_STATICYBOT,86,165,50,10,
+                    SS_CENTERIMAGE
+    GROUPBOX        "Bottom Settings",IDC_STATICBOTTOM,83,126,55,119,BS_LEFT
+    LTEXT           "Fade Region",IDC_STATICYBOTFADE2,9,154,50,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Smear Region",IDC_STATICYBOT2,9,127,50,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Black Region",IDC_STATICYBOTBORDER3,151,94,46,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Fade Region",IDC_STATICYBOTFADE3,151,154,43,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Smear Region",IDC_STATICYBOT3,153,126,50,10,
+                    SS_CENTERIMAGE
+    GROUPBOX        "Right Settings",IDC_STATICRIGHT,142,86,61,122
+    LTEXT           "Strech Factor",IDC_STATICYTOPFADE2,89,96,47,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Strech Factor",IDC_STATICYTOPFADE3,10,183,43,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Strech Factor",IDC_STATICYTOPFADE4,151,180,47,10,
+                    SS_CENTERIMAGE
+    LTEXT           "Strech Factor",IDC_STATICYTOPFADE5,86,217,47,10,
+                    SS_CENTERIMAGE
+    CONTROL         "Process Top/Bottom before sides",IDC_CHECK1,"Button",
+                    BS_AUTOCHECKBOX | BS_MULTILINE | BS_NOTIFY | NOT 
+                    WS_VISIBLE | WS_DISABLED | WS_TABSTOP,18,212,51,26
+    CONTROL         "Red",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,
+                    51,28,24,10
+    CONTROL         "Green",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,
+                    53,44,26,10
+    CONTROL         "Blue",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,
+                    53,63,27,10
+    GROUPBOX        "Border Colour",IDC_STATIC,3,16,78,68
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_FILTER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 158
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 243
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.K.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

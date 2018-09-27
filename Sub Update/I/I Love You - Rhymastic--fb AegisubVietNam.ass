@@ -1,0 +1,186 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:17.92,0:00:21.61,Default,,0000,0000,0000,karaoke,Hôm nay là một ngày đặc biệt với anh để cho em biết
+Comment: 0,0:00:21.66,0:00:25.88,Default,,0000,0000,0000,karaoke,{\k19}The {\k17}e{\k44}mo{\k28}tion {\k37}I'm {\k37}hol{\k55}din' {\k18}I {\k33}want {\k28}you {\k46}to {\k4}k{\k56}now
+Comment: 0,0:00:21.66,0:00:25.88,Default,,0000,0000,0000,karaoke,Cảm xúc mà anh đang giấu kín, giờ anh muốn em biết
+Comment: 0,0:00:25.95,0:00:30.27,Default,,0000,0000,0000,karaoke,{\k44}It's {\k37}been {\k29}a {\k42}month {\k74}since {\k36}you {\k40}en{\k33}tered {\k35}my {\k62}world
+Comment: 0,0:00:25.95,0:00:30.27,Default,,0000,0000,0000,karaoke,Đã một tháng kể từ khi em bước vào thế giới của anh
+Comment: 0,0:00:30.37,0:00:34.71,Default,,0000,0000,0000,karaoke,{\k37}Fo{\k59}re{\k14}ver {\k21}ain't {\k16}e{\k73}nough {\k22}with {\k14}the {\k57}love {\k15}for {\k37}you {\k69}girl
+Comment: 0,0:00:30.37,0:00:34.71,Default,,0000,0000,0000,karaoke,Sẽ không bao giờ là đủ với tình yêu dành cho em, em yêu à
+Comment: 0,0:00:34.78,0:00:36.82,Default,,0000,0000,0000,karaoke,{\k35}Those {\k38}kis{\k33}ses {\k35}we {\k63}shared
+Comment: 0,0:00:34.78,0:00:36.82,Default,,0000,0000,0000,karaoke,Những nụ hôn chúng ta trao cho nhau
+Comment: 0,0:00:36.89,0:00:38.98,Default,,0000,0000,0000,karaoke,{\k41}All {\k36}mo{\k38}ments {\k34}we {\k7}s{\k53}pent
+Comment: 0,0:00:36.89,0:00:38.98,Default,,0000,0000,0000,karaoke,Tất cả những kỷ niệm mà ta dành cho nhau
+Comment: 0,0:00:39.10,0:00:43.42,Default,,0000,0000,0000,karaoke,{\k14}E{\k9}ve{\k15}ry {\k20}sing{\k17}le {\k36}word {\k36}you {\k74}say {\k19}you {\k18}know {\k35}I {\k36}al{\k31}way{\k7}s {\k65}care
+Comment: 0,0:00:39.10,0:00:43.42,Default,,0000,0000,0000,karaoke,Tất cả những từ em nói ra, em biết rằng anh luôn quan tâm mà
+Comment: 0,0:00:43.47,0:00:45.53,Default,,0000,0000,0000,karaoke,{\k38}This {\k59}song {\k14}for {\k36}you {\k35}ba{\k24}bie
+Comment: 0,0:00:43.47,0:00:45.53,Default,,0000,0000,0000,karaoke,Bài hát này dành cho em đấy, em yêu
+Comment: 0,0:00:45.76,0:00:47.84,Default,,0000,0000,0000,karaoke,{\k27}So {\k20}ma{\k19}ny {\k30}days {\k41}I've {\k39}wait{\k32}ed
+Comment: 0,0:00:45.76,0:00:47.84,Default,,0000,0000,0000,karaoke,Anh đã đợi rất nhiều ngày rồi
+Comment: 0,0:00:48.21,0:00:51.83,Default,,0000,0000,0000,karaoke,{\k4}S{\k19}tan{\k11}din' {\k40}here {\k36}with {\k72}you {\k21}all {\k16}I {\k41}wan{\k16}na {\k52}say {\k31}is {\k3}...
+Comment: 0,0:00:48.21,0:00:51.83,Default,,0000,0000,0000,karaoke,Đứng ở đây với em, tất cả những điều anh muốn nói là...
+Comment: 0,0:00:51.83,0:00:53.27,Default,,0000,0000,0000,karaoke,{\k38}Girl {\k36}I {\k42}love {\k28}you
+Comment: 0,0:00:51.83,0:00:53.27,Default,,0000,0000,0000,karaoke,Em à, anh yêu em
+Comment: 0,0:00:53.31,0:00:54.11,Default,,0000,0000,0000,karaoke,{\k36}I {\k37}love {\k7}you
+Comment: 0,0:00:53.31,0:00:54.11,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:00:54.11,0:00:55.44,Default,,0000,0000,0000,karaoke,{\k41}Yes {\k24}I {\k41}love {\k27}you
+Comment: 0,0:00:54.11,0:00:55.44,Default,,0000,0000,0000,karaoke,Ừ, anh yêu em
+Comment: 0,0:00:55.48,0:00:56.31,Default,,0000,0000,0000,karaoke,{\k37}I {\k40}love {\k6}you
+Comment: 0,0:00:55.48,0:00:56.31,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:00:56.33,0:00:57.64,Default,,0000,0000,0000,karaoke,{\k36}Girl {\k25}I {\k43}love {\k27}you
+Comment: 0,0:00:56.33,0:00:57.64,Default,,0000,0000,0000,karaoke,Em, anh yêu em
+Comment: 0,0:00:57.68,0:00:58.64,Default,,0000,0000,0000,karaoke,{\k35}I {\k50}love {\k11}you
+Comment: 0,0:00:57.68,0:00:58.64,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:00:58.69,0:01:01.96,Default,,0000,0000,0000,karaoke,{\k17}I {\k26}just {\k37}want {\k35}you {\k37}to {\k37}know {\k42}that {\k30}I {\k38}love {\k28}you
+Comment: 0,0:00:58.69,0:01:01.96,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em thôi
+Comment: 0,0:01:02.03,0:01:02.77,Default,,0000,0000,0000,karaoke,{\k36}I {\k32}love {\k6}you
+Comment: 0,0:01:02.03,0:01:02.77,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:02.78,0:01:04.10,Default,,0000,0000,0000,karaoke,{\k50}Yes {\k21}I {\k34}love {\k27}you
+Comment: 0,0:01:02.78,0:01:04.10,Default,,0000,0000,0000,karaoke,Đúng, anh yêu em
+Comment: 0,0:01:04.18,0:01:05.11,Default,,0000,0000,0000,karaoke,{\k40}I {\k47}love {\k6}you
+Comment: 0,0:01:04.18,0:01:05.11,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:05.16,0:01:06.35,Default,,0000,0000,0000,karaoke,{\k25}Girl {\k25}I {\k34}love {\k35}you
+Comment: 0,0:01:05.16,0:01:06.35,Default,,0000,0000,0000,karaoke,Em ơi, anh yêu em
+Comment: 0,0:01:06.39,0:01:07.21,Default,,0000,0000,0000,karaoke,{\k36}I {\k39}love {\k7}you
+Comment: 0,0:01:06.39,0:01:07.21,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:07.27,0:01:10.72,Default,,0000,0000,0000,karaoke,{\k21}I {\k37}just {\k35}want {\k29}you {\k44}to {\k37}know {\k36}that {\k36}I {\k42}love {\k28}you!
+Comment: 0,0:01:07.27,0:01:10.72,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em mà thôi!
+Comment: 0,0:01:10.76,0:01:11.78,Default,,0000,0000,0000,karaoke,{\k26}It'{\k10}s {\k66}true
+Comment: 0,0:01:10.76,0:01:11.78,Default,,0000,0000,0000,karaoke,Đúng đấy
+Comment: 0,0:01:11.81,0:01:14.00,Default,,0000,0000,0000,karaoke,{\k32}Wan{\k7}na {\k4}s{\k20}pend {\k18}my {\k32}life {\k36}with {\k70}you
+Comment: 0,0:01:11.81,0:01:14.00,Default,,0000,0000,0000,karaoke,Anh muốn dành trọn cuộc đời này chung sống cùng em
+Comment: 0,0:01:14.04,0:01:16.92,Default,,0000,0000,0000,karaoke,{\k36}Love {\k44}you {\k22}de{\k6}s{\k36}pite {\k35}all {\k34}the {\k11}s{\k31}trug{\k41}gle
+Comment: 0,0:01:17.00,0:01:18.19,Default,,0000,0000,0000,karaoke,{\k15}we {\k16}have {\k36}been {\k69}through
+Comment: 0,0:01:14.04,0:01:18.36,Default,,0000,0000,0000,karaoke,Yêu em, bất chấp những chông gai sóng gió mà ta sẽ phải vượt qua
+Comment: 0,0:01:18.39,0:01:20.54,Default,,0000,0000,0000,karaoke,{\k80}Just {\k29}hold {\k36}me {\k70}tight
+Comment: 0,0:01:18.39,0:01:20.54,Default,,0000,0000,0000,karaoke,Chỉ cần ôm anh thật chặt
+Comment: 0,0:01:20.57,0:01:22.73,Default,,0000,0000,0000,karaoke,{\k36}And {\k44}say {\k21}you{\k7}'ll {\k37}be {\k71}mine
+Comment: 0,0:01:20.57,0:01:22.73,Default,,0000,0000,0000,karaoke,Và nói rằng em sẽ là của anh
+Comment: 0,0:01:22.78,0:01:27.01,Default,,0000,0000,0000,karaoke,{\k18}I {\k17}don't {\k71}need {\k36}the {\k61}world {\k16}I {\k33}need {\k40}you {\k31}by {\k38}my {\k62}side
+Comment: 0,0:01:22.78,0:01:27.01,Default,,0000,0000,0000,karaoke,Anh không cần thế giới này, anh chỉ cần em bên anh thôi
+Comment: 0,0:01:27.11,0:01:29.52,Default,,0000,0000,0000,karaoke,{\k27}Cuz {\k10}you {\k36}mean {\k25}the {\k48}world {\k35}to {\k60}me
+Comment: 0,0:01:27.11,0:01:29.52,Default,,0000,0000,0000,karaoke,Bởi em là thế giới đối với anh
+Comment: 0,0:01:29.55,0:01:31.80,Default,,0000,0000,0000,karaoke,{\k12}It's {\k36}so {\k5}c{\k21}lear{\k9}ly {\k36}you {\k37}can {\k69}see
+Comment: 0,0:01:29.55,0:01:31.80,Default,,0000,0000,0000,karaoke,Em có thể thấy điều đó thật rõ ràng mà
+Comment: 0,0:01:31.84,0:01:33.48,Default,,0000,0000,0000,karaoke,{\k37}We're {\k37}born {\k19}for {\k16}each {\k36}o{\k38}ther,
+Comment: 0,0:01:33.64,0:01:35.84,Default,,0000,0000,0000,karaoke,{\k24}yes {\k12}we {\k38}were {\k31}meant {\k40}to {\k72}be
+Comment: 0,0:01:31.84,0:01:35.84,Default,,0000,0000,0000,karaoke,Chúng ta sinh ra là của nhau, ừ, chúng ta là của nhau
+Comment: 0,0:01:35.96,0:01:38.31,Default,,0000,0000,0000,karaoke,{\k26}So {\k28}this {\k44}song {\k18}for {\k18}you {\k38}ba{\k63}bie
+Comment: 0,0:01:35.96,0:01:38.31,Default,,0000,0000,0000,karaoke,Vì thế, bài hát này là dành cho em đó
+Comment: 0,0:01:38.39,0:01:40.46,Default,,0000,0000,0000,karaoke,{\k21}Ma{\k14}ny {\k37}days {\k38}I've {\k36}wait{\k61}ed
+Comment: 0,0:01:38.39,0:01:40.46,Default,,0000,0000,0000,karaoke,Anh đã đợi rất nhiều ngày rồi
+Comment: 0,0:01:40.57,0:01:44.13,Default,,0000,0000,0000,karaoke,{\k5}S{\k21}tan{\k16}din' {\k32}here {\k35}with {\k74}you {\k18}all {\k18}I {\k35}wan{\k34}na {\k40}say {\k28}is...
+Comment: 0,0:01:40.57,0:01:44.13,Default,,0000,0000,0000,karaoke,Đứng ở đây với em, tất cả những điều anh muốn nói là...
+Comment: 0,0:01:44.23,0:01:45.61,Default,,0000,0000,0000,karaoke,{\k36}Girl {\k33}I {\k36}love {\k33}you
+Comment: 0,0:01:44.23,0:01:45.61,Default,,0000,0000,0000,karaoke,Em à, anh yêu em
+Comment: 0,0:01:45.65,0:01:46.45,Default,,0000,0000,0000,karaoke,{\k38}I {\k36}love {\k6}you
+Comment: 0,0:01:45.65,0:01:46.45,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:46.47,0:01:47.80,Default,,0000,0000,0000,karaoke,{\k31}Yes {\k34}I {\k36}love {\k32}you
+Comment: 0,0:01:46.47,0:01:47.80,Default,,0000,0000,0000,karaoke,Ừ, anh yêu em
+Comment: 0,0:01:47.80,0:01:48.62,Default,,0000,0000,0000,karaoke,{\k39}I {\k35}love {\k8}you
+Comment: 0,0:01:47.80,0:01:48.62,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:48.62,0:01:49.99,Default,,0000,0000,0000,karaoke,{\k31}Girl {\k37}I {\k42}love {\k27}you
+Comment: 0,0:01:48.62,0:01:49.99,Default,,0000,0000,0000,karaoke,Em, anh yêu em
+Comment: 0,0:01:49.99,0:01:50.93,Default,,0000,0000,0000,karaoke,{\k39}I {\k36}love {\k19}you
+Comment: 0,0:01:49.99,0:01:50.93,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:50.95,0:01:54.35,Default,,0000,0000,0000,karaoke,{\k14}I {\k47}just {\k27}want {\k32}you {\k42}to {\k38}know {\k35}that {\k36}I {\k37}love {\k32}you
+Comment: 0,0:01:50.95,0:01:54.35,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em thôi
+Comment: 0,0:01:54.39,0:01:55.20,Default,,0000,0000,0000,karaoke,{\k35}I {\k29}love {\k17}you
+Comment: 0,0:01:54.39,0:01:55.20,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:55.21,0:01:56.49,Default,,0000,0000,0000,karaoke,{\k31}Yes {\k32}I {\k38}love {\k27}you
+Comment: 0,0:01:55.21,0:01:56.49,Default,,0000,0000,0000,karaoke,Đúng vậy, anh yêu em
+Comment: 0,0:01:56.53,0:01:57.42,Default,,0000,0000,0000,karaoke,{\k40}I {\k39}love {\k10}you
+Comment: 0,0:01:56.53,0:01:57.42,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:57.42,0:01:58.66,Default,,0000,0000,0000,karaoke,{\k25}Girl {\k35}I {\k38}love {\k26}you
+Comment: 0,0:01:57.42,0:01:58.66,Default,,0000,0000,0000,karaoke,Cô gái, anh yêu em
+Comment: 0,0:01:58.66,0:01:59.61,Default,,0000,0000,0000,karaoke,{\k45}I {\k38}love {\k12}you
+Comment: 0,0:01:58.66,0:01:59.61,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:01:59.65,0:02:03.08,Default,,0000,0000,0000,karaoke,{\k17}I {\k38}just {\k38}want {\k32}you {\k40}to {\k37}know {\k37}that {\k34}I {\k40}love {\k30}you!
+Comment: 0,0:01:59.65,0:02:03.08,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em thôi!
+Comment: 0,0:02:03.08,0:02:05.29,Default,,0000,0000,0000,karaoke,{\k40}And {\k33}ba{\k40}bie {\k36}you {\k72}know
+Comment: 0,0:02:03.08,0:02:05.29,Default,,0000,0000,0000,karaoke,Và em yêu à, em biết đấy
+Comment: 0,0:02:05.51,0:02:10.01,Default,,0000,0000,0000,karaoke,{\k25}That {\k29}I'll {\k34}be {\k36}with {\k33}you {\k40}whe{\k37}re{\k66}ver {\k43}you {\k107}go...
+Comment: 0,0:02:05.51,0:02:10.01,Default,,0000,0000,0000,karaoke,Rằng cho dù đi đến bất cứ nơi đâu, anh vẫn sẽ mãi bên em...
+Comment: 0,0:02:10.34,0:02:12.75,Default,,0000,0000,0000,karaoke,{\k14}Th{\k65}rough {\k72}days {\k36}and {\k54}nights
+Comment: 0,0:02:10.34,0:02:12.75,Default,,0000,0000,0000,karaoke,Qua ngày dài và đêm tối
+Comment: 0,0:02:13.01,0:02:19.00,Default,,0000,0000,0000,karaoke,{\k30}This {\k37}love {\k34}al{\k36}ways {\k75}comes {\k34}from {\k183}deep {\k37}in{\k133}side
+Comment: 0,0:02:13.01,0:02:19.00,Default,,0000,0000,0000,karaoke,Tình yêu này sẽ luôn luôn tới từ sâu thẳm trái tim anh
+Comment: 0,0:02:19.06,0:02:20.55,Default,,0000,0000,0000,karaoke,{\k55}Girl {\k25}I {\k35}love {\k34}you
+Comment: 0,0:02:19.06,0:02:20.55,Default,,0000,0000,0000,karaoke,Em à, anh yêu em
+Comment: 0,0:02:20.58,0:02:21.38,Default,,0000,0000,0000,karaoke,{\k35}I {\k37}love {\k8}you
+Comment: 0,0:02:20.58,0:02:21.38,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:02:21.38,0:02:22.73,Default,,0000,0000,0000,karaoke,{\k33}Yes {\k32}I {\k36}love {\k34}you
+Comment: 0,0:02:21.38,0:02:22.73,Default,,0000,0000,0000,karaoke,Ừ, anh yêu em
+Comment: 0,0:02:22.76,0:02:23.55,Default,,0000,0000,0000,karaoke,{\k36}I {\k35}love {\k8}you
+Comment: 0,0:02:22.76,0:02:23.55,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:02:23.55,0:02:24.93,Default,,0000,0000,0000,karaoke,{\k29}Girl {\k36}I {\k37}love {\k36}you
+Comment: 0,0:02:23.55,0:02:24.93,Default,,0000,0000,0000,karaoke,Em, anh yêu em
+Comment: 0,0:02:24.97,0:02:25.89,Default,,0000,0000,0000,karaoke,{\k32}I {\k36}love {\k24}you
+Comment: 0,0:02:24.97,0:02:25.89,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:02:25.89,0:02:29.26,Default,,0000,0000,0000,karaoke,{\k14}I {\k35}just {\k36}want {\k30}you {\k43}to {\k36}know {\k38}that {\k35}I {\k37}love {\k33}you
+Comment: 0,0:02:25.89,0:02:29.26,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em thôi
+Comment: 0,0:02:29.30,0:02:30.10,Default,,0000,0000,0000,karaoke,{\k35}I {\k31}love {\k14}you
+Comment: 0,0:02:29.30,0:02:30.10,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:02:30.12,0:02:31.45,Default,,0000,0000,0000,karaoke,{\k31}Yes {\k34}I {\k35}love {\k33}you
+Comment: 0,0:02:30.12,0:02:31.45,Default,,0000,0000,0000,karaoke,Đúng là thế, anh yêu em
+Comment: 0,0:02:31.45,0:02:32.29,Default,,0000,0000,0000,karaoke,{\k41}I {\k31}love {\k12}you
+Comment: 0,0:02:31.45,0:02:32.29,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:02:32.29,0:02:33.68,Default,,0000,0000,0000,karaoke,{\k34}Girl {\k31}I {\k38}love {\k36}you
+Comment: 0,0:02:32.29,0:02:33.68,Default,,0000,0000,0000,karaoke,BABY, anh yêu em
+Comment: 0,0:02:33.70,0:02:34.64,Default,,0000,0000,0000,karaoke,{\k32}I {\k52}love {\k10}you
+Comment: 0,0:02:33.70,0:02:34.64,Default,,0000,0000,0000,karaoke,(anh yêu em)
+Comment: 0,0:02:34.66,0:02:38.01,Default,,0000,0000,0000,karaoke,{\k21}I {\k25}just {\k33}want {\k35}you {\k41}to {\k35}know {\k37}that {\k37}I {\k34}love {\k37}you!
+Comment: 0,0:02:34.66,0:02:38.01,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em thôi!
+Comment: 0,0:02:38.04,0:02:39.89,Default,,0000,0000,0000,karaoke,Bài hát này dành cho em đó, tình yêu của anh
+Comment: 0,0:02:39.90,0:02:41.25,Default,,0000,0000,0000,karaoke,You know...
+Comment: 0,0:02:39.90,0:02:41.25,Default,,0000,0000,0000,karaoke,Em biết mà...
+Comment: 0,0:02:41.29,0:02:44.45,Default,,0000,0000,0000,karaoke,It's not easy for me to show all my emotion...
+Comment: 0,0:02:41.29,0:02:44.45,Default,,0000,0000,0000,karaoke,Thật không dễ gì cho anh để cho em biết tất cả những xúc cảm của anh...
+Comment: 0,0:02:44.53,0:02:47.26,Default,,0000,0000,0000,karaoke,So I have to put it into this song...
+Comment: 0,0:02:44.53,0:02:47.26,Default,,0000,0000,0000,karaoke,Vì thế anh đành phải gửi gắm chúng vào bài hát này...
+Comment: 0,0:02:47.30,0:02:50.29,Default,,0000,0000,0000,karaoke,I hope you can understand it
+Comment: 0,0:02:47.30,0:02:50.29,Default,,0000,0000,0000,karaoke,Anh hi vọng rằng em có thể hiểu
+Comment: 0,0:02:50.36,0:02:53.57,Default,,0000,0000,0000,karaoke,I love you so much!!!
+Comment: 0,0:02:50.36,0:02:53.57,Default,,0000,0000,0000,karaoke,Anh yêu em rất nhiều!!!
+Comment: 0,0:02:54.05,0:02:55.44,Default,,0000,0000,0000,karaoke,{\k35}Girl {\k33}I {\k34}love {\k37}you
+Comment: 0,0:02:54.05,0:02:55.44,Default,,0000,0000,0000,karaoke,Cô bé, anh yêu em
+Comment: 0,0:02:55.50,0:02:56.56,Default,,0000,0000,0000,karaoke,{\k35}I {\k36}LOVE {\k35}YOU...
+Comment: 0,0:02:55.50,0:02:56.56,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:02:56.56,0:02:57.65,Default,,0000,0000,0000,karaoke,{\k36}I {\k32}LOVE {\k41}YOU...
+Comment: 0,0:02:56.56,0:02:57.65,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:02:57.70,0:02:58.72,Default,,0000,0000,0000,karaoke,{\k30}I {\k39}LOVE {\k33}YOU...
+Comment: 0,0:02:57.70,0:02:58.72,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:02:58.76,0:02:59.81,Default,,0000,0000,0000,karaoke,{\k34}I {\k37}LOVE {\k34}YOU...
+Comment: 0,0:02:58.76,0:02:59.81,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:02:59.81,0:03:00.90,Default,,0000,0000,0000,karaoke,{\k38}I {\k33}LOVE {\k38}YOU...
+Comment: 0,0:02:59.81,0:03:00.90,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:03:00.97,0:03:04.17,Default,,0000,0000,0000,karaoke,{\k12}I {\k20}just {\k32}want {\k34}you {\k41}to {\k35}know {\k46}that {\k28}I {\k39}love {\k33}you!
+Comment: 0,0:03:00.97,0:03:04.17,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em thôi!
+Comment: 0,0:03:04.17,0:03:05.26,Default,,0000,0000,0000,karaoke,{\k38}I {\k38}LOVE {\k33}YOU...
+Comment: 0,0:03:04.17,0:03:05.26,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:03:05.28,0:03:06.35,Default,,0000,0000,0000,karaoke,{\k36}I {\k43}LOVE {\k28}YOU...
+Comment: 0,0:03:05.28,0:03:06.35,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:03:06.37,0:03:07.46,Default,,0000,0000,0000,karaoke,{\k35}I {\k40}LOVE {\k34}YOU...
+Comment: 0,0:03:06.37,0:03:07.46,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:03:07.49,0:03:08.55,Default,,0000,0000,0000,karaoke,{\k34}I {\k34}LOVE {\k38}YOU...
+Comment: 0,0:03:07.49,0:03:08.55,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:03:08.58,0:03:09.41,Default,,0000,0000,0000,karaoke,{\k33}I {\k33}LOVE {\k17}YOU...
+Comment: 0,0:03:08.58,0:03:09.41,Default,,0000,0000,0000,karaoke,ANH YÊU EM...
+Comment: 0,0:03:09.41,0:03:18.12,Default,,0000,0000,0000,karaoke,{\k25}I {\k35}just {\k30}want {\k35}you {\k44}to {\k36}know {\k40}that {\k34}I {\k34}love {\k558}you!
+Comment: 0,0:03:09.41,0:03:18.12,Default,,0000,0000,0000,karaoke,Anh chỉ muốn em biết rằng anh yêu em thôi!
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

@@ -1,0 +1,64 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:41.20,0:00:44.10,Default,,0000,0000,0000,karaoke,{\k7} {\k17}Ppa{\k27}jyeon{\k21}na{\k18}bwa {\k16}ppa{\k25}jyeon{\k20}na{\k17}bwa {\k42}Lovin’ {\k39}my {\k41}boy
+Comment: 0,0:00:44.45,0:00:47.35,Default,,0000,0000,0000,karaoke,{\k7} {\k16}Ppa{\k24}jil{\k18}geo{\k21}ya {\k20}ppa{\k22}jil{\k18}geo{\k18}ya {\k22}neo{\k21}ui {\k38}mam{\k45}do
+Comment: 0,0:00:47.65,0:00:53.25,Default,,0000,0000,0000,karaoke,{\k8} {\k15}O{\k26}neul{\k20}bam{\k18}do {\k16}na{\k27}eil{\k21}bam{\k19}do {\k16}man{\k22}nal {\k40}My {\k77}boy {\k25}baek {\k13}perc{\k25}ent {\k22}neun {\k21}a{\k39}nyeo{\k90}do
+Comment: 0,0:00:53.65,0:00:57.00,Default,,0000,0000,0000,karaoke,{\k8} {\k15}Ba{\k29}by {\k59}Oh~{\k41}#{\k38}#{\k82}#{\k63}#
+Comment: 0,0:00:57.35,0:00:59.80,Default,,0000,0000,0000,karaoke,{\k4} {\k16}Nae{\k25}kkeo {\k17}hae{\k23}jul{\k23}kkeo{\k39}ji {\k98}eung
+Comment: 0,0:01:00.15,0:01:03.45,Default,,0000,0000,0000,karaoke,{\k5} {\k17}Ba{\k24}by {\k58}Oh~{\k42}#{\k41}#{\k80}#{\k63}#
+Comment: 0,0:01:03.75,0:01:06.50,Default,,0000,0000,0000,karaoke,{\k7} {\k15}Bo{\k21}go {\k17}si{\k28}peun {\k18}nae{\k45}ni{\k124}ma
+Comment: 0,0:01:06.60,0:01:09.85,Default,,0000,0000,0000,karaoke,{\k4} {\k14}Ba{\k17}by {\k36}sha {\k38}sha {\k31}sha {\k16}o{\k13}na{\k28}ye {\k30}Shang{\k35}hai {\k63}love
+Comment: 0,0:01:10.20,0:01:12.65,Default,,0000,0000,0000,karaoke,{\k4} {\k16}Ja{\k28}kku {\k13}ja{\k26}kku {\k19}na{\k43}ta{\k96}na
+Comment: 0,0:01:13.05,0:01:16.35,Default,,0000,0000,0000,karaoke,{\k4} {\k19}Ba{\k10}by {\k32}sha {\k40}sha {\k60}sha {\k15}dae{\k25}che {\k14}neon {\k44}mwo{\k67}ya
+Comment: 0,0:01:16.60,0:01:19.55,Default,,0000,0000,0000,karaoke,{\k7} {\k22}Hul{\k23}jjeo {\k15}khul{\k19}jjeok {\k30}nal {\k41}ull{\k138}yeo
+Comment: 0,0:01:19.80,0:01:22.75,Default,,0000,0000,0000,karaoke,{\k6} {\k27}Sha {\k42}sha {\k56}sha {\k22}nae{\k23}mam {\k18}o{\k39}neul{\k62}do
+Comment: 0,0:01:23.10,0:01:25.55,Default,,0000,0000,0000,karaoke,{\k5} {\k20}Du{\k23}geun{\k19}du{\k20}geun {\k24}geo{\k38}ri{\k96}ge
+Comment: 0,0:01:25.90,0:01:32.40,Default,,0000,0000,0000,karaoke,{\k5} {\k22}Ba{\k10}by {\k35}sha {\k39}sha {\k40}sha {\k11}o{\k28}na{\k14}ye {\k25}Shang{\k40}hai {\k94}love {\k26}do{\k24}#{\k20}#{\k16}#{\k23}#{\k32}# {\k146}hae
+Comment: 0,0:01:32.80,0:01:35.75,Default,,0000,0000,0000,karaoke,{\k8} {\k11}Bi{\k27}haeng{\k24}gi{\k12}reul {\k27}ta{\k18}go{\k21}ga{\k14}ya {\k14}man{\k32}nal{\k42}ten{\k45}de
+Comment: 0,0:01:36.15,0:01:38.90,Default,,0000,0000,0000,karaoke,{\k6} {\k10}Man{\k8}man{\k27}chi{\k20}ga {\k17}a{\k20}na {\k21}a{\k17}na {\k24}ul{\k22}meok {\k34}ul{\k49}meok
+Comment: 0,0:01:39.20,0:01:42.10,Default,,0000,0000,0000,karaoke,{\k7} {\k17}Yang{\k26}jjeu{\k16}gang {\k22}eul {\k23}geon{\k17}neo {\k18}geon{\k22}neo {\k21}ga{\k21}go{\k41}pa{\k39}do
+Comment: 0,0:01:42.45,0:01:45.00,Default,,0000,0000,0000,karaoke,{\k5} {\k13}Do{\k24}ni {\k15}eop{\k29}seo {\k21}him{\k42}deu{\k106}reo
+Comment: 0,0:01:45.25,0:01:48.55,Default,,0000,0000,0000,karaoke,{\k6} {\k20}Ba{\k21}by {\k57}Oh~{\k42}#{\k40}#{\k82}#{\k62}#
+Comment: 0,0:01:48.85,0:01:51.35,Default,,0000,0000,0000,karaoke,{\k8} {\k20}Nae{\k17}kkeo {\k21}hae{\k23}jul{\k22}kkeo{\k40}ji {\k99}eung
+Comment: 0,0:01:51.70,0:01:55.00,Default,,0000,0000,0000,karaoke,{\k5} {\k19}Ba{\k21}by {\k60}Oh~{\k38}#{\k43}#{\k81}#{\k63}#
+Comment: 0,0:01:55.30,0:01:58.00,Default,,0000,0000,0000,karaoke,{\k5} {\k25}Bo{\k14}go {\k19}si{\k25}peun {\k22}nae{\k39}ni{\k121}ma
+Comment: 0,0:01:58.10,0:02:01.40,Default,,0000,0000,0000,karaoke,{\k7} {\k19}Ba{\k15}by {\k37}sha {\k34}sha {\k34}sha {\k13}o{\k26}na{\k17}ye {\k29}Shang{\k37}hai {\k62}love
+Comment: 0,0:02:01.75,0:02:04.25,Default,,0000,0000,0000,karaoke,{\k5} {\k17}Ja{\k25}kku {\k16}ja{\k25}kku {\k20}na{\k39}ta{\k103}na
+Comment: 0,0:02:04.55,0:02:07.90,Default,,0000,0000,0000,karaoke,{\k6} {\k24}Ba{\k11}by {\k32}sha {\k36}sha {\k60}sha {\k16}dae{\k25}che {\k18}neon {\k39}mwo{\k68}ya
+Comment: 0,0:02:08.15,0:02:11.10,Default,,0000,0000,0000,karaoke,{\k7} {\k18}Hul{\k29}jjeo {\k13}khul{\k18}jjeok {\k32}nal {\k39}ull{\k139}yeo
+Comment: 0,0:02:11.30,0:02:14.30,Default,,0000,0000,0000,karaoke,{\k8} {\k29}Sha {\k41}sha {\k59}sha {\k23}nae{\k21}mam {\k20}o{\k39}neul{\k60}do
+Comment: 0,0:02:14.65,0:02:17.15,Default,,0000,0000,0000,karaoke,{\k5}{\k20}Du{\k23}geun{\k20}du{\k19}geun {\k22}geo{\k40}ri{\k101}ge
+Comment: 0,0:02:17.40,0:02:24.00,Default,,0000,0000,0000,karaoke,{\k3} {\k29}Ba{\k12}by {\k34}sha {\k37}sha {\k41}sha {\k19}o{\k19}na{\k14}ye {\k28}Shang{\k39}hai {\k95}love {\k23}do{\k21}#{\k20}#{\k18}#{\k24}#{\k35}# {\k149}hae
+Comment: 0,0:02:24.25,0:02:26.95,Default,,0000,0000,0000,karaoke,{\k3} {\k47}Hey~ {\k20}geo{\k13}gi {\k25}su{\k24}teu {\k18}ip{\k13}eun {\k29}Shang{\k41}hai {\k37}Boy
+Comment: 0,0:02:26.95,0:02:30.20,Default,,0000,0000,0000,karaoke,{\k4} {\k17}Wae {\k22}nae{\k21}ga {\k19}nun{\k12}tteo{\k25}sseul {\k22}ttaen {\k22}bo {\k32}iji {\k25}an{\k46}neun{\k28}geo{\k30}ya
+Comment: 0,0:02:30.20,0:02:32.60,Default,,0000,0000,0000,karaoke,{\k3} {\k12}Amu {\k26}so{\k14}ri {\k18}eop{\k17}si {\k14}sa{\k18}ra{\k40}jin {\k19}neon {\k20}na{\k39}ppeo
+Comment: 0,0:02:32.60,0:02:35.45,Default,,0000,0000,0000,karaoke,{\k5} {\k11}Neo{\k25}neun {\k6}nae{\k15}ga {\k19}a{\k15}ma {\k19}cheo {\k31}eum {\k12}neu{\k17}kkin {\k31}sa{\k17}rang{\k16}il {\k46}kkeol
+Comment: 0,0:02:35.45,0:02:37.20,Default,,0000,0000,0000,karaoke,{\k4} {\k19}Kkum{\k12}i{\k12}ji{\k11}man {\k44}nan {\k25}ni{\k48}kkeo
+Comment: 0,0:02:37.55,0:02:42.70,Default,,0000,0000,0000,karaoke,{\k5} {\k52}A{\k42}mu{\k36}ri {\k40}bo{\k24}go{\k41}pa{\k47}do {\k47}keu{\k18}ge {\k45}jal {\k45}an{\k73}dwae
+Comment: 0,0:02:43.15,0:02:49.50,Default,,0000,0000,0000,karaoke,{\k6} {\k24}Eo{\k21}tteok {\k48}hae{\k23}ya {\k53}hae {\k33}nan {\k49}eo{\k20}tteo{\k63}ke {\k15}i{\k65}jeo{\k21}ya {\k41}ha{\k43}na {\k110}bwa
+Comment: 0,0:02:50.50,0:02:56.00,Default,,0000,0000,0000,karaoke,{\k5} {\k40}I{\k44}jeu{\k32}ryeo {\k46}no{\k22}ryeo{\k38}kae{\k59}do {\k41}keu{\k20}ge {\k43}jal {\k37}an{\k123}dwae
+Comment: 0,0:02:56.10,0:03:04.50,Default,,0000,0000,0000,karaoke,{\k5} {\k24}Ja{\k22}kku {\k38}na{\k42}ta{\k19}na {\k40}ja{\k137}na {\k45}kku{\k37}me {\k41}bo {\k22}i{\k39}ja{\k329}na
+Comment: 0,0:03:04.55,0:03:07.50,Default,,0000,0000,0000,karaoke,{\k5} {\k34}Sha {\k36}sha {\k37}sha {\k11}o{\k21}na{\k22}ye {\k23}Shang{\k35}hai {\k71}love
+Comment: 0,0:03:07.80,0:03:10.45,Default,,0000,0000,0000,karaoke,{\k3} {\k18}Ja{\k23}kku {\k22}ja{\k22}kku {\k20}na{\k42}ta{\k115}na
+Comment: 0,0:03:10.65,0:03:13.85,Default,,0000,0000,0000,karaoke,{\k4} {\k17}Ba{\k13}by {\k33}sha {\k40}sha {\k52}sha {\k19}dae{\k26}che {\k25}neon {\k32}mwo{\k59}ya
+Comment: 0,0:03:14.25,0:03:17.05,Default,,0000,0000,0000,karaoke,{\k4} {\k16}Hul{\k25}jjeo {\k17}khul{\k25}jjeok {\k23}nal {\k37}ull{\k133}yeo
+Comment: 0,0:03:17.40,0:03:20.35,Default,,0000,0000,0000,karaoke,{\k6} {\k32}Sha {\k35}sha {\k56}sha {\k23}nae{\k22}mam {\k21}o{\k39}neul{\k61}do
+Comment: 0,0:03:20.70,0:03:23.40,Default,,0000,0000,0000,karaoke,{\k5} {\k21}Du{\k17}geun{\k23}du{\k20}geun {\k24}geo{\k38}ri{\k122}ge
+Comment: 0,0:03:23.50,0:03:26.80,Default,,0000,0000,0000,karaoke,{\k4} {\k14}Ba{\k17}by {\k34}sha {\k42}sha {\k42}sha {\k14}o{\k18}na{\k19}ye {\k26}Shang{\k33}hai {\k67}love
+Comment: 0,0:03:27.15,0:03:30.00,Default,,0000,0000,0000,karaoke,{\k4} {\k20}Neo{\k21}mu{\k20}na{\k20}do {\k22}do{\k34}do{\k144}hae
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

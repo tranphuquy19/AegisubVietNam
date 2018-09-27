@@ -1,0 +1,87 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Audio File: ?video
+Video File: C:\Users\HK\Desktop\Dung Lam Anh Dau FUll.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 2221
+Last Style Storage: Default
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.333333,100,0,0,1,3,3,2,20,20,15,1
+Style: JT,VNI-Duff,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,,set the maximum spacing between objects(particles) to max_space (recommend:3 - 6)  fine but heavy < 3 4 5 6 > rough but light
+Comment: 0,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,code once,max_space = 2
+Comment: 0,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,code syl all,fxgroup.A = (math.mod(syl.i,2) == 0)
+Comment: 0,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,code syl all,fxgroup.B = (math.mod(syl.i,2) == 1)
+Comment: 0,0:00:03.00,0:00:03.00,JT,Get Scr Resolution,0000,0000,0000,code once,xres, yres = _G.aegisub.video_size() if xres == nil  then ratio = 1 else ratio = xres/1024 x_rat = ratio end if (xres and xres ~= meta.res_x) or (yres and yres ~= meta.res_y) then _G.aegisub.debug.out(2, "Warning: script resolution %dx%d does not match with loaded video resolution %dx%d resample script resolution", meta.res_x, meta.res_y, xres, yres) end
+Comment: 0,0:00:03.00,0:00:03.00,JT,Get Frame Dur,0000,0000,0000,code once,msa = _G.aegisub.ms_from_frame(1) msb = _G.aegisub.ms_from_frame(100) if msa == nil and msb == nil then _G.aegisub.debug.out(2, "Warning: Please load the video or use dummy video.Frame duration was provisionally set to 33 milliseconds. ") frame_dur = 33  else frame_dur = (msb-msa)/100 end
+Comment: 0,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,code once,function set_temp(ref,val) temp[ref] = val return val end
+Comment: 0,0:00:03.00,0:00:03.00,JT,shape,0000,0000,0000,code once,shape = {"m 5 0 b 2 0 0 2 0 5 b 0 8 2 10 5 10 b 8 10 10 8 10 5 b 10 2 8 0 5 0","m 30 23 b 24 23 24 33 30 33 b 36 33 37 23 30 23 m 35 27 l 61 28 l 35 29 m 26 27 l 0 28 l 26 29 m 29 23 l 30 0 l 31 23 m 29 33 l 30 57 l 31 33","m 5 0 b -2 0 -2 10 5 10 b 12 10 12 0 5 0 {\1c&HFFFFFF&\3c&HFFFFFF&} m 2 0 b 9 0 9 10 2 10 b -5 10 -5 0 2 0 "}
+Comment: 0,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,code once,x = {} y = {} temp = {}
+Comment: 0,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,code syl all,t = 0 pos_x = syl.center pos_y = line.middle
+Comment: 0,0:00:00.00,0:00:00.00,JT,,0000,0000,0000,code once,function shape2() return string.format("{\\alpha&HFF&\\t(%d,%d,\\alpha&H00&\\3a&HA0&\\bord%f} m 30 23 b 24 23 24 33 30 33 b 36 33 37 23 30 23 m 35 27 l 61 28 l 35 29 m 26 27 l 0 28 l 26 29 m 29 23 l 30 0 l 31 23 m 29 33 l 30 57 l 31 33 {\\alpha&H00&\\t(%d,%d,\\alpha&HFF&} m -31 -23 b -38 -23 -38 -13 -31 -13 b -24 -13 -24 -23 -31 -23",dur-dur*t,dur-dur*t+1,1*ratio,dur-dur*t,dur-dur*t+1) end
+Comment: 0,0:00:03.00,0:00:03.00,JT,Glitter Effects Function,0000,0000,0000,code once,function glitter(dur)  if (dur > 800) then tag =  string.format("\\t(%d,%d,\\fscx%d\\fscy%d)\\t(%d,%d,\\fscx%d\\fscy%d)\\t(%d,%d,\\fscx%d\\fscy%d)\\t(%d,%d,\\fscx%d\\fscy%d)",set_temp("time",math.random(800-800*t,dur)),temp.time+1,set_temp("size",math.random(50,100)*ratio),temp.size,temp.time+2,temp.time+100,25*ratio,25*ratio,temp.time+101,temp.time+102,set_temp("size",math.random(50,100)*ratio),temp.size,temp.time+103,temp.time+200,25*ratio,25*ratio) return tag else return "" end end
+Comment: 0,0:00:03.00,0:00:03.00,JT,Bezier Effects Function,0000,0000,0000,code once,function Bezier_Move(s_time,e_time,aftimg_dur,x_blur,y_blur,acl,...) a = {...} if (j == 1) then t1 = s_time t2 = e_time dur = t2-t1 accel = acl n = #a/2 for i = 1,n*2-1,2 do x[(i+1)/2] = a[i] end for i = 2, n*2,2 do y[i/2] = a[i] end c_t = 0 maxloop(2) f_t = 1/(dur/frame_dur) end afterimage_dur = aftimg_dur if (afterimage_dur < 0 ) then afterimage_dur = 0 end pos_x, pos_y = Bezier(n,x,y,c_t) n_t = c_t + f_t n_x, n_y = Bezier(n,x,y,n_t) dist = math.sqrt(math.abs(n_x-pos_x)^2+math.abs(n_y-pos_y)^2) a_t =f_t*(max_space/dist) if (a_t > f_t) then a_t = f_t end n_t = c_t + a_t if (n_t < 1) then maxj = j + 1 end retime("presyl",t1+dur*(c_t^accel),t1+dur*(n_t^accel)+afterimage_dur) t = c_t c_t = n_t return string.format("\\move(%f,%f,%f,%f,%f,%f)",pos_x,pos_y,pos_x+x_blur,pos_y+y_blur,dur-dur*t,dur-dur*t+afterimage_dur) end
+Comment: 0,0:00:03.00,0:00:03.00,JT,Bezier Effects Function,0000,0000,0000,code once,function Bezier(n,x,y,t) p_x = 0 p_y = 0 for i = 1, n, 1 do p_y = p_y + y[i] * set_temp("bern",bernstein(i-1,n-1,t)) p_x = p_x + x[i] * temp.bern  end return p_x, p_y end
+Comment: 0,0:00:03.00,0:00:03.00,JT,Bezier Effects Function,0000,0000,0000,code once,function bernstein(i,n,t) return (factk(n) / (factk(i)*factk(n-i))) * (t^i) * ((1-t)^(n-i)) end
+Comment: 0,0:00:03.00,0:00:03.00,JT,Bezier Effects Function,0000,0000,0000,code once,function factk(n) k = 1 if (n > 1) then for i = 2, n, 1 do k = k * i end end return k end
+Comment: 1,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,template,!retime("start2syl",-1000+syl.i*60,0)!{\fad(1000,0)\blur3\an5\pos($center,$middle)\shad0\bord2\1a&HFF&\3c&HFFFFFF&\fscx100\fscy100}
+Comment: 2,0:00:03.00,0:00:03.00,JT,,0000,0000,0000,template multi,!retime("syl",0,300)!{\an5\pos($center,$middle)\bord2\blur3\t(0,33,\fscx120\fscy120\3c&HFFFFFF&\1c&HFFFFFF&)\t(33,$dur,\fscx100\fscy100)\fad(0,300)}
+Comment: 0,0:00:03.00,0:00:03.00,JT,Bezier Curve Glitter,0000,0000,0000,template noblank notext fxgroup A,{!Bezier_Move(-800,0,syl.duration*t*2,math.random(-50,50)*ratio,math.random(-50,50)*ratio,1,$center+((j == 1) and set_temp("X1",math.random(30,50)*ratio*1.5) or temp.X1),$middle+(math.random(20,50)*ratio*1.5),$center+temp.X1+(math.random(-300,300)*ratio*1.5),$middle+(math.random(-80,80)*ratio*1.5),$center-temp.X1+(math.random(-300,300)*ratio*1.5),$middle+(-80*ratio*1.5),$center,$middle)!\an5\fscx!50*x_rat!\fscy!50*x_rat!\1c&HFFFFFF&\3c!_G.ass_color(_G.HSV_to_RGB(360*(syl.i/$syln)*t,1,1))!\shad0\blur!3*x_rat!\t(\3c&HFFFFFF&)\fad(0,300)\fr45\bord!1*ratio!!glitter(line.duration)!\p1}!shape2()!
+Comment: 0,0:00:03.00,0:00:03.00,JT,Bezier Curve Glitter,0000,0000,0000,template noblank notext fxgroup B,{!Bezier_Move(-800,0,syl.duration*t*2,math.random(-50,50)*ratio,math.random(-50,50)*ratio,1,$center-((j == 1) and set_temp("X1",math.random(30,50)*ratio*1.5) or temp.X1),$middle-(math.random(20,50)*ratio*1.5),$center+temp.X1+(math.random(-300,300)*ratio*1.5),$middle+(math.random(-80,80)*ratio*1.5),$center-temp.X1+(math.random(-300,300)*ratio*1.5),$middle+(80*ratio*1.5),$center,$middle)!\an5\fscx!50*x_rat!\fscy!50*x_rat!\1c&HFFFFFF&\3c!_G.ass_color(_G.HSV_to_RGB(360*(syl.i/$syln)*t,1,1))!\shad0\blur!3*x_rat!\t(\3c&HFFFFFF&)\fad(0,300)\fr45\bord!1*ratio!!glitter(line.duration)!\p1}!shape2()!
+Dialogue: 0,0:00:37.36,0:00:41.34,JT,,0000,0000,0000,karaoke,{\k56} {\k34}Ñöøng {\k78}nhìn {\k34}anh {\k23}baèng {\k37}aùnh {\k46}maét {\k72}xa {\k18}laï.
+Dialogue: 0,0:00:41.34,0:00:45.84,JT,,0000,0000,0000,karaoke,{\k50}Xin {\k30}ñöøng {\k50}nhìn {\k76}anh {\k34}baèng {\k28}aùnh {\k22}maét {\k58}voâ {\k102}tình.
+Dialogue: 0,0:00:45.84,0:00:50.22,JT,,0000,0000,0000,karaoke,{\k44}Ñaõ {\k26}bao {\k50}ngaøy {\k60}qua, {\k26}em {\k20}cöù {\k30}laïnh {\k26}luøng {\k32}troán {\k26}traùnh {\k98}anh.
+Dialogue: 0,0:00:50.22,0:00:54.72,JT,,0000,0000,0000,karaoke,{\k28}Roài {\k40}khi {\k34}gaëp {\k62}nhau {\k48}sao {\k20}em {\k32}hôø {\k28}höõng {\k52}voâ {\k106}taâm.
+Dialogue: 0,0:00:54.72,0:00:59.14,JT,,0000,0000,0000,karaoke,{\k22}Coù {\k34}phaûi {\k58}em {\k52}ñaõ {\k32}khoâng {\k26}coøn {\k20}yeâu {\k34}anh {\k30}nhö {\k28}ngaøy {\k106}naøo.
+Dialogue: 0,0:00:59.14,0:01:03.18,JT,,0000,0000,0000,karaoke,{\k20}Coù {\k32}phaûi {\k36}em {\k98}ñaõ {\k36}yeâu {\k20}moät {\k44}ngöôøi {\k40}hôn {\k78}anh.
+Dialogue: 0,0:01:03.16,0:01:07.98,JT,,0000,0000,0000,karaoke,{\k40}Sao {\k30}em {\k28}nôõ {\k40}löøa {\k68}doái {\k22}ñaùnh {\k28}maát {\k32}tình {\k24}caûm {\k24}hai {\k34}chuùng {\k112}ta.
+Dialogue: 0,0:01:08.00,0:01:16.18,JT,,0000,0000,0000,karaoke,{\k18}Ñeå {\k32}khi {\k28}anh {\k28}nhaän {\k84}ra {\k20}thì {\k34}söï {\k56}thaät {\k28}ñaõ {\k114}quaù {\k76}ñau {\k300}loøng.
+Dialogue: 0,0:01:16.18,0:01:20.86,JT,,0000,0000,0000,karaoke,{\k32}Vì {\k28}ngaøy {\k28}hoâm {\k26}qua {\k26}anh {\k30}ñaõ {\k26}nhìn {\k30}thaáy {\k52}em {\k26}oâm {\k30}hoân {\k48}moät {\k86}ngöôøi.
+Dialogue: 0,0:01:20.86,0:01:25.02,JT,,0000,0000,0000,karaoke,{\k32}Loøng {\k22}ñau {\k30}xoùt {\k40}khi {\k14}anh {\k22}nhaän {\k30}ra {\k32}söï {\k32}thaät {\k18}sao {\k32}quaù {\k48}traùi {\k64}ngang.
+Dialogue: 0,0:01:24.98,0:01:29.46,JT,,0000,0000,0000,karaoke,{\k34}Anh {\k24}ñaõ {\k30}thaån {\k32}thôø {\k26}vaø {\k20}guïc {\k54}ngaõ {\k52}tröôùc {\k38}noãi {\k30}ñau {\k48}voâ {\k60}bôø.
+Dialogue: 0,0:01:29.46,0:01:33.86,JT,,0000,0000,0000,karaoke,{\k26}Nhö {\k30}muoán {\k20}caøo {\k60}xeù {\k28}tan {\k48}naùt {\k32}traùi {\k30}tim {\k166}anh.
+Dialogue: 0,0:01:33.86,0:01:38.40,JT,,0000,0000,0000,karaoke,{\k26}Töøng {\k28}gioït {\k22}nöôùc {\k30}maét {\k30}cuõng {\k28}khoâng {\k22}theå {\k34}xoùa {\k20}ñöôïc {\k26}heát {\k38}nhöõng {\k30}noãi {\k54}ñau {\k66}naøy.
+Dialogue: 0,0:01:38.40,0:01:42.56,JT,,0000,0000,0000,karaoke,{\k32}Chaúng {\k40}leõ {\k22}em {\k22}xem {\k32}nhö {\k32}tình {\k22}yeâu {\k32}chæ {\k22}laø {\k26}troø {\k38}chôi {\k48}ñaéng {\k48}cay.
+Dialogue: 0,0:01:42.56,0:01:45.34,JT,,0000,0000,0000,karaoke,{\k38}Seõ {\k28}coù {\k18}moät {\k42}ngaøy {\k32}em {\k14}nhaän {\k106}ra.
+Dialogue: 0,0:01:45.34,0:01:51.14,JT,,0000,0000,0000,karaoke,{\k24}Chaúng {\k8}coù {\k26}ai {\k28}yeâu {\k26}em {\k22}thaät {\k36}loøng {\k56}nhö {\k354}anh
+Dialogue: 0,0:02:09.84,0:02:13.82,JT,,0000,0000,0000,karaoke,{\k56}Ñöøng {\k28}nhìn {\k84}anh {\k30}baèng {\k28}aùnh {\k30}maét {\k48}xa {\k94}laï.
+Dialogue: 0,0:02:13.82,0:02:18.46,JT,,0000,0000,0000,karaoke,{\k50}Xin {\k22}ñöøng {\k56}nhìn {\k84}anh {\k24}baèng {\k28}aùnh {\k32}maét {\k54}voâ {\k114}tình.
+Dialogue: 0,0:02:18.40,0:02:22.58,JT,,0000,0000,0000,karaoke,{\k32}Ñaõ {\k29}bao {\k46}ngaøy {\k62}qua, {\k30}em {\k24}cöù {\k28}laïnh {\k26}luøng {\k26}troán {\k28}traùnh {\k88}anh.
+Dialogue: 0,0:02:22.58,0:02:27.22,JT,,0000,0000,0000,karaoke,{\k46}Roài {\k34}khi {\k46}gaëp {\k50}nhau {\k38}sao {\k34}em {\k28}hôø {\k22}höõng {\k58}voâ {\k108}taâm.
+Dialogue: 0,0:02:27.22,0:02:31.60,JT,,0000,0000,0000,karaoke,{\k14}Coù {\k54}phaûi {\k34}em {\k54}ñaõ {\k43}khoâng {\k20}coøn {\k26}yeâu {\k34}anh {\k26}nhö {\k30}ngaøy {\k104}naøo.
+Dialogue: 0,0:02:31.60,0:02:35.58,JT,,0000,0000,0000,karaoke,{\k30}Coù {\k28}phaûi {\k60}em {\k80}ñaõ {\k24}yeâu {\k24}moät {\k46}ngöôøi {\k42}hôn {\k64}anh.
+Dialogue: 0,0:02:35.58,0:02:40.46,JT,,0000,0000,0000,karaoke,{\k48}Sao {\k24}em {\k36}nôõ {\k36}löøa {\k74}doái {\k16}ñaùnh {\k30}maát {\k28}tình {\k28}caûm {\k26}hai {\k32}chuùng {\k110}ta.
+Dialogue: 0,0:02:40.46,0:02:48.66,JT,,0000,0000,0000,karaoke,{\k24}Ñeå {\k30}khi {\k24}anh {\k28}nhaän {\k88}ra {\k34}thì {\k20}söï {\k56}thaät {\k26}ñaõ {\k120}quaù {\k74}ñau {\k296}loøng.
+Dialogue: 0,0:02:48.66,0:02:53.30,JT,,0000,0000,0000,karaoke,{\k32}Vì {\k26}ngaøy {\k30}hoâm {\k20}qua {\k34}anh {\k26}ñaõ {\k30}nhìn {\k32}thaáy {\k48}em {\k28}oâm {\k26}hoân {\k42}moät {\k90}ngöôøi.
+Dialogue: 0,0:02:53.30,0:02:57.46,JT,,0000,0000,0000,karaoke,{\k40}Loøng {\k16}ñau {\k36}xoùt {\k26}khi {\k24}anh {\k32}nhaän {\k20}ra {\k30}söï {\k30}thaät {\k22}sao {\k34}quaù {\k50}traùi {\k56}ngang.
+Dialogue: 0,0:02:57.46,0:03:01.94,JT,,0000,0000,0000,karaoke,{\k32}Anh {\k29}ñaõ {\k24}thaån {\k36}thôø {\k22}vaø {\k20}guïc {\k62}ngaõ {\k50}tröôùc {\k34}noãi {\k30}ñau {\k50}voâ {\k60}bôø.
+Dialogue: 0,0:03:01.94,0:03:06.30,JT,,0000,0000,0000,karaoke,{\k26}Nhö {\k26}muoán {\k18}caøo {\k62}xeù {\k30}tan {\k42}naùt {\k44}traùi {\k26}tim {\k162}anh.
+Dialogue: 0,0:03:06.30,0:03:10.92,JT,,0000,0000,0000,karaoke,{\k22}Töøng {\k28}gioït {\k26}nöôùc {\k30}maét {\k30}cuõng {\k30}khoâng {\k24}theå {\k34}xoùa {\k26}ñöôïc {\k22}heát {\k34}nhöõng {\k32}noãi {\k50}ñau {\k74}naøy.
+Dialogue: 0,0:03:10.92,0:03:14.98,JT,,0000,0000,0000,karaoke,{\k24}Chaúng {\k42}leõ {\k16}em {\k36}xem {\k26}nhö {\k22}tình {\k32}yeâu {\k30}chæ {\k24}laø {\k26}troø {\k36}chôi {\k52}ñaéng {\k26}cay.
+Dialogue: 0,0:03:14.84,0:03:17.78,JT,,0000,0000,0000,karaoke,{\k52}Seõ {\k36}coù {\k20}moät {\k24}ngaøy {\k30}em {\k30}nhaän {\k102}ra.
+Dialogue: 0,0:03:17.78,0:03:23.64,JT,,0000,0000,0000,karaoke,{\k26}Chaúng {\k14}coù {\k24}ai {\k30}yeâu {\k18}em {\k26}thaät {\k34}loøng {\k58}nhö {\k356}anh
+Dialogue: 0,0:03:23.64,0:03:28.46,JT,,0000,0000,0000,karaoke,{\k58}Vi {\k32}ngaøy {\k21}hoâm {\k23}qua {\k26}anh {\k34}ñaõ {\k26}nhìn {\k28}thaáy {\k48}em {\k32}oâm {\k30}hoân {\k34}moät {\k90}ngöôøi.
+Dialogue: 0,0:03:28.46,0:03:32.76,JT,,0000,0000,0000,karaoke,{\k46}Loøng {\k18}ñau {\k32}xoùt {\k30}khi {\k22}anh {\k26}nhaän {\k38}ra {\k20}söï {\k30}thaät {\k24}sao {\k26}quaù {\k54}traùi {\k38}ngang.
+Dialogue: 0,0:03:32.78,0:03:37.10,JT,,0000,0000,0000,karaoke,{\k22}Anh {\k28}ñaõ {\k24}thaån {\k32}thôø {\k32}vaø {\k20}guïc {\k50}ngaõ {\k50}tröôùc {\k40}noãi {\k28}ñau {\k46}voâ {\k60}bôø.
+Dialogue: 0,0:03:37.12,0:03:41.54,JT,,0000,0000,0000,karaoke,{\k28}Nhö {\k26}muoán {\k24}caøo {\k56}xeù {\k32}tan {\k46}naùt {\k34}traùi {\k28}tim {\k168}anh.
+Dialogue: 0,0:03:41.54,0:03:46.06,JT,,0000,0000,0000,karaoke,{\k28}Vì {\k22}ngaøy {\k34}hoâm {\k30}qua {\k26}anh {\k30}ñaõ {\k24}nhìn {\k30}thaáy {\k44}em {\k36}say {\k28}ñaém {\k36}beân {\k84}ai.
+Dialogue: 0,0:03:46.06,0:03:50.30,JT,,0000,0000,0000,karaoke,{\k44}Loøng {\k23}ñau {\k34}xoùt {\k43}khi {\k14}anh {\k22}nhaän {\k24}ra {\k26}söï {\k24}thaät {\k32}sao {\k28}quaù {\k50}traùi {\k60}ngang.
+Dialogue: 0,0:03:50.30,0:03:54.74,JT,,0000,0000,0000,karaoke,{\k32}Anh {\k22}ñaõ {\k28}thaån {\k36}thôø {\k26}vaø {\k26}guïc {\k50}ngaõ {\k50}tröôùc {\k40}noãi {\k30}ñau {\k50}voâ {\k54}bôø.
+Dialogue: 0,0:03:54.74,0:03:59.08,JT,,0000,0000,0000,karaoke,{\k28}Nhö {\k28}muoán {\k18}caøo {\k62}xeù {\k32}tan {\k46}naùt {\k34}traùi {\k30}tim {\k156}anh.
+Dialogue: 0,0:03:59.08,0:04:03.80,JT,,0000,0000,0000,karaoke,{\k22}Töøng {\k34}gioït {\k30}nöôùc {\k26}maét {\k28}cuõng {\k28}khoâng {\k24}theå {\k36}xoùa {\k22}ñöôïc {\k30}heát {\k28}nhöõng {\k34}noãi {\k50}ñau {\k80}naøy.
+Dialogue: 0,0:04:03.80,0:04:07.88,JT,,0000,0000,0000,karaoke,{\k28}Chaúng {\k30}leõ {\k18}em {\k34}xem {\k32}nhö {\k18}tình {\k30}yeâu {\k32}chæ {\k24}laø {\k26}troø {\k36}chôi {\k46}ñaéng {\k54}cay.
+Dialogue: 0,0:04:07.88,0:04:10.64,JT,,0000,0000,0000,karaoke,{\k36}Seõ {\k26}coù {\k32}moät {\k18}ngaøy {\k34}em {\k22}nhaän {\k108}ra.
+Dialogue: 0,0:04:10.64,0:04:16.70,JT,,0000,0000,0000,karaoke,{\k30}Chaúng {\k8}coù {\k30}ai {\k24}yeâu {\k26}em {\k26}thaät {\k28}loøng {\k58}nhö {\k350}anh
+Dialogue: 0,0:04:16.70,0:04:19.44,JT,,0000,0000,0000,karaoke,{\k32}Seõ {\k30}coù {\k24}moät {\k34}ngaøy {\k30}em {\k24}nhaän {\k100}ra.
+Dialogue: 0,0:04:19.44,0:04:30.80,JT,,0000,0000,0000,karaoke,{\k28}Chaúng {\k22}coù {\k24}ai {\k30}yeâu {\k26}em {\k26}thaät {\k310}loøng {\k228}nhö {\k442}anh...

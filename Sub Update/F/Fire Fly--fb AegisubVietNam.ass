@@ -1,0 +1,71 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: Fire Fly.mp3
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 4355
+Last Style Storage: Default
+Video File: ?dummy:23.976000:40000:640:480:0:0:0:
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hatbe,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.49,0:00:05.55,Default,,0000,0000,0000,,{\k18} {\k144}Fire... {\k39}Fire{\k105}fly.
+Dialogue: 0,0:00:17.50,0:00:22.84,Default,,0000,0000,0000,,{\k61} {\k34}When {\k22}I {\k52}said {\k109}go, {\k37}I {\k37}ne{\k37}ver {\k34}meant {\k38}a{\k73}way
+Dialogue: 0,0:00:23.50,0:00:29.42,Default,,0000,0000,0000,,{\k40} {\k42}You {\k32}ought {\k42}to {\k109}know {\k34}the {\k38}frea{\k39}ky {\k44}games {\k27}we {\k145}play...
+Dialogue: 0,0:00:29.42,0:00:34.75,Default,,0000,0000,0000,,{\k35} {\k40}Could {\k35}you {\k40}for{\k109}give {\k36}and {\k36}learn {\k33}how {\k40}to {\k36}for{\k93}get.
+Dialogue: 0,0:00:34.75,0:00:39.80,Default,,0000,0000,0000,,{\k55} {\k43}Hear {\k27}me {\k35}as {\k38}I'm {\k46}call{\k30}ing {\k32}out {\k42}your {\k157}name.
+Dialogue: 0,0:00:40.59,0:00:43.88,Default,,0000,0000,0000,,{\k56} {\k66}Fire{\k40}fly {\k40}come {\k32}back {\k41}to {\k54}me
+Dialogue: 0,0:00:43.88,0:00:46.85,Default,,0000,0000,0000,,{\k14} {\k41}make {\k36}the {\k39}night {\k35}as {\k38}bright {\k37}as {\k57}day.
+Dialogue: 0,0:00:46.85,0:00:49.77,Default,,0000,0000,0000,,{\k15} {\k37}I'll {\k32}be {\k40}look{\k38}ing {\k35}out {\k32}for {\k63}you
+Dialogue: 0,0:00:49.77,0:00:52.73,Default,,0000,0000,0000,,{\k9} {\k42}tell {\k38}me {\k28}that {\k45}you're {\k39}lone{\k29}ly {\k66}too.
+Dialogue: 0,0:00:52.73,0:00:55.59,Default,,0000,0000,0000,,{\k12} {\k66}Fire{\k42}fly {\k32}come {\k39}lead {\k41}me {\k54}on
+Dialogue: 0,0:00:55.59,0:00:58.49,Default,,0000,0000,0000,,{\k12} {\k44}fo{\k37}llow {\k45}you {\k64}into {\k36}the {\k52}sun.
+Dialogue: 0,0:00:58.49,0:01:01.59,Default,,0000,0000,0000,,{\k21} {\k37}That's {\k35}the {\k31}way {\k42}it {\k39}ought {\k36}to {\k69}be
+Dialogue: 0,0:01:01.59,0:01:04.91,Default,,0000,0000,0000,,{\k0} {\k69}fire{\k47}fly {\k35}come {\k62}back {\k46}to {\k73}me.
+Dialogue: 0,0:01:07.71,0:01:12.60,Default,,0000,0000,0000,,{\k40} {\k49}You {\k27}and {\k114}me, {\k40}we {\k38}shared {\k36}a {\k37}my{\k38}ste{\k70}ry.
+Dialogue: 0,0:01:13.33,0:01:19.02,Default,,0000,0000,0000,,{\k30} {\k45}We {\k31}were {\k42}so {\k101}close, {\k41}like {\k41}ho{\k35}ney {\k39}to {\k37}the {\k38}be{\k89}e.
+Dialogue: 0,0:01:19.02,0:01:24.30,Default,,0000,0000,0000,,{\k54} {\k37}And {\k28}if {\k40}you {\k39}tell {\k38}me {\k34}how {\k33}to {\k44}make {\k37}you {\k36}un{\k38}der{\k70}stand.
+Dialogue: 0,0:01:24.30,0:01:29.08,Default,,0000,0000,0000,,{\k39} {\k36}I'm {\k36}mi{\k36}nor {\k37}in {\k35}a {\k38}ma{\k32}jor {\k43}kin{\k35}da {\k111}way.
+Dialogue: 0,0:01:30.28,0:01:33.58,Default,,0000,0000,0000,,{\k60} {\k69}Fire{\k41}fly {\k36}come {\k34}back {\k40}to {\k50}me
+Dialogue: 0,0:01:33.58,0:01:36.58,Default,,0000,0000,0000,,{\k19} {\k42}make {\k35}the {\k39}night {\k38}as {\k35}bright {\k36}as {\k56}day.
+Dialogue: 0,0:01:36.58,0:01:39.49,Default,,0000,0000,0000,,{\k16} {\k39}I'll {\k27}be {\k43}look{\k39}ing {\k37}out {\k29}for {\k61}you
+Dialogue: 0,0:01:39.49,0:01:42.43,Default,,0000,0000,0000,,{\k13} {\k42}tell {\k36}me {\k28}that {\k44}you're {\k41}lone{\k30}ly {\k60}too.
+Dialogue: 0,0:01:42.43,0:01:45.33,Default,,0000,0000,0000,,{\k16} {\k70}Fire{\k42}fly {\k30}come {\k40}lead {\k40}me {\k52}on
+Dialogue: 0,0:01:45.33,0:01:48.27,Default,,0000,0000,0000,,{\k20} {\k38}fo{\k32}llow {\k40}you {\k32}in{\k42}to {\k34}the {\k56}sun.
+Dialogue: 0,0:01:48.27,0:01:51.32,Default,,0000,0000,0000,,{\k16} {\k40}That's {\k36}the {\k37}way {\k36}it {\k37}ought {\k37}to {\k66}be
+Dialogue: 0,0:01:51.32,0:01:55.27,Default,,0000,0000,0000,,{\k3} {\k77}fire{\k36}fly {\k38}come {\k72}back {\k39}to {\k130}me.
+Dialogue: 0,0:01:54.25,0:01:58.20,Hatbe,,0000,0000,0000,,{\k4} {\k75}Fly {\k74}fire{\k73}fly {\k38}through {\k40}the {\k91}sky
+Dialogue: 0,0:01:57.85,0:02:01.97,Default,,0000,0000,0000,,{\k10} {\k40}come {\k36}and {\k38}play {\k37}with {\k35}my {\k41}de{\k175}sire.
+Dialogue: 0,0:02:00.73,0:02:03.87,Hatbe,,0000,0000,0000,,{\k15} {\k40}Don't {\k35}be {\k73}long {\k39}don't {\k36}ask {\k76}why
+Dialogue: 0,0:02:03.68,0:02:08.20,Default,,0000,0000,0000,,{\k6} {\k39}I {\k31}can't {\k55}wait {\k28}an{\k43}o{\k30}ther {\k220}night.
+Dialogue: 0,0:02:05.87,0:02:09.71,Hatbe,,0000,0000,0000,,{\k1} {\k74}Fly {\k87}fire{\k69}fly {\k41}through {\k37}the {\k75}sky
+Dialogue: 0,0:02:09.84,0:02:14.50,Default,,0000,0000,0000,,{\k54} {\k44}wait {\k31}an{\k39}o{\k36}ther {\k262}night...
+Dialogue: 0,0:02:12.26,0:02:16.48,Hatbe,,0000,0000,0000,,{\k31} {\k41}Don't {\k33}be {\k124}long... {\k105}Fire... {\k88}fire...
+Dialogue: 0,0:02:15.96,0:02:18.44,Default,,0000,0000,0000,,{\k33} {\k68}fire{\k147}fly...
+Dialogue: 0,0:02:17.38,0:02:20.63,Default,,0000,0000,0000,,{\k37} {\k67}Fire{\k40}fly {\k36}come {\k32}back {\k42}to {\k71}me
+Dialogue: 0,0:02:20.63,0:02:23.42,Default,,0000,0000,0000,,{\k4} {\k35}make {\k35}the {\k39}night {\k35}as {\k38}bright {\k36}as {\k57}day.
+Dialogue: 0,0:02:23.42,0:02:26.33,Default,,0000,0000,0000,,{\k16} {\k36}I'll {\k28}be {\k46}look{\k36}ing {\k36}out {\k31}for {\k62}you
+Dialogue: 0,0:02:26.33,0:02:29.28,Default,,0000,0000,0000,,{\k15} {\k37}tell {\k39}me {\k25}that {\k54}you're {\k32}lone{\k33}ly {\k60}too.
+Dialogue: 0,0:02:29.28,0:02:32.11,Default,,0000,0000,0000,,{\k12} {\k70}Fire{\k41}fly {\k34}come {\k39}lead {\k40}me {\k47}on
+Dialogue: 0,0:02:32.11,0:02:35.11,Default,,0000,0000,0000,,{\k26} {\k33}fo{\k38}llow {\k40}you {\k30}in{\k42}to {\k32}the {\k59}sun.
+Dialogue: 0,0:02:35.11,0:02:38.20,Default,,0000,0000,0000,,{\k16} {\k39}That's {\k37}the {\k36}way {\k36}it {\k34}ought {\k40}to {\k71}be
+Dialogue: 0,0:02:38.20,0:02:40.39,Default,,0000,0000,0000,,{\k1} {\k64}fire{\k44}fly {\k38}come {\k72}back...
+Dialogue: 0,0:02:40.84,0:02:43.83,Default,,0000,0000,0000,,{\k26} {\k75}Fire {\k35}fly {\k40}come {\k34}back {\k33}to {\k56}me
+Dialogue: 0,0:02:43.83,0:02:46.80,Default,,0000,0000,0000,,{\k20} {\k36}make {\k35}the {\k43}night {\k35}as {\k39}bright {\k35}as {\k54}day.
+Dialogue: 0,0:02:46.80,0:02:49.72,Default,,0000,0000,0000,,{\k19} {\k35}I'll {\k35}be {\k39}look{\k38}ing {\k36}out {\k29}for {\k61}you
+Dialogue: 0,0:02:49.72,0:02:52.79,Default,,0000,0000,0000,,{\k12} {\k46}tell {\k35}me {\k26}that {\k38}you're {\k46}lone{\k35}ly {\k69}too.
+Dialogue: 0,0:02:52.79,0:02:55.54,Default,,0000,0000,0000,,{\k2} {\k76}Fire{\k36}fly {\k33}come {\k40}lead {\k39}me {\k49}on
+Dialogue: 0,0:02:55.54,0:02:58.49,Default,,0000,0000,0000,,{\k21} {\k40}fo{\k36}llow {\k38}you {\k30}in{\k42}to {\k34}the {\k54}sun.
+Dialogue: 0,0:02:58.49,0:03:01.60,Default,,0000,0000,0000,,{\k17} {\k41}That's {\k36}the {\k37}way {\k35}it {\k38}ought {\k37}to {\k70}be
+Dialogue: 0,0:03:01.60,0:03:05.01,Default,,0000,0000,0000,,{\k0} {\k57}fire{\k56}fly {\k37}come {\k63}back {\k40}to {\k88}me.
+Dialogue: 0,0:03:05.01,0:03:07.01,Default,,0000,0000,0000,,
