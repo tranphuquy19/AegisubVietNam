@@ -1,0 +1,89 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\BooDi – de -em-noi-binh-yen-khac.avi
+Scroll Position: 57
+Active Line: 67
+Video Zoom Percent: 0.25
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.66,0:00:21.12,Default,,0,0,0,,Để em nơi bình yên khác
+Dialogue: 0,0:00:21.30,0:00:24.94,Default,,0,0,0,,Để em nơi vòng tay khác
+Dialogue: 0,0:00:24.94,0:00:28.44,Default,,0,0,0,,Để anh chôn vùi thân xác
+Dialogue: 0,0:00:32.24,0:00:35.64,Default,,0,0,0,,Để em nơi bình yên khác
+Dialogue: 0,0:00:35.96,0:00:39.72,Default,,0,0,0,,Để em nơi vòng tay khác
+Dialogue: 0,0:00:39.72,0:00:43.26,Default,,0,0,0,,Để anh chôn vùi thân xác
+Dialogue: 0,0:00:47.82,0:00:51.54,Default,,0,0,0,,Bờ vai em ở nơi bình yên khác
+Dialogue: 0,0:00:51.54,0:00:54.60,Default,,0,0,0,,Lặng giữ anh không cần gì
+Dialogue: 0,0:00:54.84,0:00:58.52,Default,,0,0,0,,Bờ môi em nhòe đi vì nước mắt
+Dialogue: 0,0:00:58.52,0:01:02.78,Default,,0,0,0,,Nhận ra trong anh tình yêu đã cũ
+Dialogue: 0,0:01:02.78,0:01:06.46,Default,,0,0,0,,Thời gian mơ màng thêm cùng năm tháng
+Dialogue: 0,0:01:06.46,0:01:10.06,Default,,0,0,0,,Còn tiếng yêu thương thở dài
+Dialogue: 0,0:01:10.06,0:01:13.76,Default,,0,0,0,,Lặng yên trong khoảnh khắc từng hạnh phúc
+Dialogue: 0,0:01:13.76,0:01:17.62,Default,,0,0,0,,Hình dung giờ đây em đang bên ai
+Dialogue: 0,0:01:17.62,0:01:20.30,Default,,0,0,0,,Có chăng nơi niềm tin
+Dialogue: 0,0:01:20.30,0:01:24.02,Default,,0,0,0,,Tình yêu là thế nên con tim quặn đau
+Dialogue: 0,0:01:24.52,0:01:26.82,Default,,0,0,0,,Bình yên nơi khác
+Dialogue: 0,0:01:26.82,0:01:28.46,Default,,0,0,0,,Cần cảm giác
+Dialogue: 0,0:01:28.46,0:01:31.40,Default,,0,0,0,,Nước mắt thôi rơi thật lâu
+Dialogue: 0,0:01:32.24,0:01:35.02,Default,,0,0,0,,Có chăng em về đây
+Dialogue: 0,0:01:35.02,0:01:38.54,Default,,0,0,0,,Là anh đã cố quên nhưng không thể quên
+Dialogue: 0,0:01:39.00,0:01:41.62,Default,,0,0,0,,Là anh đã có
+Dialogue: 0,0:01:41.62,0:01:43.40,Default,,0,0,0,,Từng cơn gió
+Dialogue: 0,0:01:43.40,0:01:46.20,Default,,0,0,0,,Vụt qua
+Dialogue: 0,0:01:46.20,0:01:49.56,Default,,0,0,0,,Để em nơi bình yên khác
+Dialogue: 0,0:01:49.88,0:01:53.14,Default,,0,0,0,,Để em nơi vòng tay khác
+Dialogue: 0,0:01:53.54,0:01:57.26,Default,,0,0,0,,Để anh chôn vùi thân xác
+Dialogue: 0,0:02:00.88,0:02:04.32,Default,,0,0,0,,Để em nơi bình yên khác
+Dialogue: 0,0:02:04.64,0:02:08.28,Default,,0,0,0,,Để em nơi vòng tay khác
+Dialogue: 0,0:02:08.56,0:02:12.42,Default,,0,0,0,,Để anh chôn vùi thân xác
+Dialogue: 0,0:02:16.26,0:02:18.26,Default,,0,0,0,,Bàn tay đang vịn nấc cầu thang
+Dialogue: 0,0:02:18.26,0:02:20.02,Default,,0,0,0,,Có gì khó hiểu trong giây phút mơ màng
+Dialogue: 0,0:02:20.02,0:02:21.56,Default,,0,0,0,,Phác họa đôi môi em anh mải miết
+Dialogue: 0,0:02:21.56,0:02:23.56,Default,,0,0,0,,Chẳng cần tưởng tượng mà vẫn rất tự nhiên
+Dialogue: 0,0:02:23.56,0:02:25.56,Default,,0,0,0,,Thói xấu của anh anh tự biết
+Dialogue: 0,0:02:25.56,0:02:27.08,Default,,0,0,0,,Nhưng em cứ vui vì anh chẳng làm phiền
+Dialogue: 0,0:02:27.08,0:02:29.08,Default,,0,0,0,,Anh đã từng coi tình yêu là bất diệt
+Dialogue: 0,0:02:29.08,0:02:31.74,Default,,0,0,0,,Giờ thì gói gém lại không cần đến cái triết lí
+Dialogue: 0,0:02:31.74,0:02:33.20,Default,,0,0,0,,Em có tin vào thị phi ?
+Dialogue: 0,0:02:33.20,0:02:34.92,Default,,0,0,0,,Họ nói anh bị nhục sao nhìn vẫn vui nhỉ ?
+Dialogue: 0,0:02:34.92,0:02:36.54,Default,,0,0,0,,Nhưng đâu anh hiểu anh yêu bằng lý trí
+Dialogue: 0,0:02:36.54,0:02:38.54,Default,,0,0,0,,Một khi đã mất thì thôi quan trọng gì
+Dialogue: 0,0:02:38.54,0:02:40.54,Default,,0,0,0,,Cứ bên họ nếu em cảm thấy vui
+Dialogue: 0,0:02:40.54,0:02:42.12,Default,,0,0,0,,Ngọn lửa trong đêm đã tàn lụi
+Dialogue: 0,0:02:42.12,0:02:43.60,Default,,0,0,0,,Cặm cụi lau khô vệt máu trong tim
+Dialogue: 0,0:02:43.60,0:02:46.44,Default,,0,0,0,,Chỉ mong có ai đó quăng cho cái phao để anh không bị chìm
+Dialogue: 0,0:02:46.44,0:02:48.98,Default,,0,0,0,,Có chăng nơi niềm tin
+Dialogue: 0,0:02:48.98,0:02:52.60,Default,,0,0,0,,Tình yêu là thế nên con tim quặn đau
+Dialogue: 0,0:02:52.60,0:02:55.32,Default,,0,0,0,,Bình yên nơi khác
+Dialogue: 0,0:02:55.32,0:02:57.32,Default,,0,0,0,,Cần cảm giác
+Dialogue: 0,0:02:57.32,0:03:00.54,Default,,0,0,0,,Nước mắt thôi rơi thật lâu
+Dialogue: 0,0:03:01.02,0:03:03.60,Default,,0,0,0,,Có chăng em về đây
+Dialogue: 0,0:03:03.60,0:03:07.16,Default,,0,0,0,,Là anh đã cố quên nhưng không thể quên
+Dialogue: 0,0:03:07.58,0:03:10.08,Default,,0,0,0,,Rằng anh đã có
+Dialogue: 0,0:03:10.08,0:03:12.08,Default,,0,0,0,,Từng cơn gió
+Dialogue: 0,0:03:12.08,0:03:14.58,Default,,0,0,0,,Vụt qua
+Dialogue: 0,0:03:14.88,0:03:18.40,Default,,0,0,0,,Để em nơi bình yên khác
+Dialogue: 0,0:03:18.60,0:03:22.26,Default,,0,0,0,,Để em nơi vòng tay khác
+Dialogue: 0,0:03:22.26,0:03:25.72,Default,,0,0,0,,Để anh chôn vùi thân xác
+Dialogue: 0,0:03:29.46,0:03:31.62,Default,,0,0,0,,Để em nơi bình yên khác
+Dialogue: 0,0:03:33.20,0:03:36.78,Default,,0,0,0,,Để em nơi vòng tay khác
+Dialogue: 0,0:03:36.78,0:03:40.60,Default,,0,0,0,,Để anh chôn vùi thân xác
+Dialogue: 0,0:03:44.32,0:03:48.06,Default,,0,0,0,,Để em nơi bình yên khác
+Dialogue: 0,0:03:48.06,0:03:51.74,Default,,0,0,0,,Để em nơi vòng tay khác
+Dialogue: 0,0:03:51.74,0:03:55.64,Default,,0,0,0,,Để anh chôn vùi thân xác
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,

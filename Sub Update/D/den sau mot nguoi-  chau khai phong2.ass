@@ -1,0 +1,61 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 0.5
+Scroll Position: 27
+Active Line: 39
+Audio URI: New folder\den sau mot nguoi.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:32.52,0:00:37.77,Default,,0,0,0,,Đã có bao giờ em thử nhìn lại về phía sau
+Dialogue: 0,0:00:38.80,0:00:44.72,Default,,0,0,0,,Xem ai ngày qua đã luôn bên em khi úa màu
+Dialogue: 0,0:00:45.25,0:00:50.05,Default,,0,0,0,,Để thấy một người đã không ngần ngại và cố gắng
+Dialogue: 0,0:00:50.35,0:00:56.42,Default,,0,0,0,,Làm tất cả những gì để em thấy luôn được vui
+Dialogue: 0,0:00:57.17,0:01:03.47,Default,,0,0,0,,Dù biết là tình yêu không giống như anh mong đợi
+Dialogue: 0,0:01:03.47,0:01:09.60,Default,,0,0,0,,Dù biết là trái tim em giờ thuộc về ai thôi
+Dialogue: 0,0:01:09.60,0:01:16.05,Default,,0,0,0,,Nào muốn rằng mình là người đến sau ai như vậy
+Dialogue: 0,0:01:16.05,0:01:22.00,Default,,0,0,0,,Nhưng tình yêu mà vì em anh chấp nhận
+Dialogue: 0,0:01:24.77,0:01:31.00,Default,,0,0,0,,Bao ngày qua nhung nhớ thương ấy cứ chảy trong lòng bấy lâu
+Dialogue: 0,0:01:31.15,0:01:37.52,Default,,0,0,0,,Mà sao anh chẳng thể ôm chặt em nói những u sầu
+Dialogue: 0,0:01:37.52,0:01:44.77,Default,,0,0,0,,Cứ đơn phương mình anh thôi yêu thương sao quá xa vời
+Dialogue: 0,0:01:44.77,0:01:50.20,Default,,0,0,0,,Vì anh nhớ anh gặp em vẫn sau một người
+Dialogue: 0,0:01:50.20,0:01:56.65,Default,,0,0,0,,Yêu là đôi khi chỉ cần thấy người ấy bên ai sống vui
+Dialogue: 0,0:01:56.65,0:02:03.02,Default,,0,0,0,,Dẫu trong lòng luôn có nỗi buồn như áng mây trôi
+Dialogue: 0,0:02:03.17,0:02:09.95,Default,,0,0,0,,Vẫn mong em sẽ vui bên người quên em đi dẫu yêu một thời
+Dialogue: 0,0:02:09.95,0:02:19.32,Default,,0,0,0,,Vì tìm được em nhưng anh đến sau nên đành thôi
+Dialogue: 0,0:02:45.65,0:02:52.40,Default,,0,0,0,,Dù biết là tình yêu không giống như anh mong đợi
+Dialogue: 0,0:02:52.40,0:02:58.90,Default,,0,0,0,,Dù biết là trái tim em giờ thuộc về ai thôi
+Dialogue: 0,0:02:58.90,0:03:04.75,Default,,0,0,0,,Nào muốn rằng mình là người đến sau ai như vậy
+Dialogue: 0,0:03:04.75,0:03:09.92,Default,,0,0,0,,Nhưng tình yêu mà vì em anh chấp nhận
+Dialogue: 0,0:03:10.30,0:03:16.65,Default,,0,0,0,,Bao ngày qua nhung nhớ thương ấy cứ chảy trong lòng bấy lâu
+Dialogue: 0,0:03:16.82,0:03:23.15,Default,,0,0,0,,Mà sao anh chẳng thể ôm chặt em nói những u sầu
+Dialogue: 0,0:03:23.15,0:03:30.25,Default,,0,0,0,,Cứ đơn phương mình anh thôi yêu thương sao quá xa vời
+Dialogue: 0,0:03:30.40,0:03:35.77,Default,,0,0,0,,Vì anh nhớ anh gặp em vẫn sau một người
+Dialogue: 0,0:03:35.97,0:03:42.27,Default,,0,0,0,,Yêu là đôi khi chỉ cần thấy người ấy bên ai sống vui
+Dialogue: 0,0:03:42.27,0:03:48.65,Default,,0,0,0,,Dẫu trong lòng luôn có nỗi buồn như áng mây trôi
+Dialogue: 0,0:03:48.65,0:03:55.72,Default,,0,0,0,,Vẫn mong em sẽ vui bên người quên em đi dẫu yêu một thời
+Dialogue: 0,0:03:55.72,0:04:03.52,Default,,0,0,0,,Vì tìm được em nhưng anh đến sau nên đành thôi
+Dialogue: 0,0:04:07.82,0:04:14.37,Default,,0,0,0,,Bao ngày qua nhung nhớ thương ấy cứ chảy trong lòng bấy lâu
+Dialogue: 0,0:04:14.37,0:04:20.77,Default,,0,0,0,,Mà sao anh chẳng thể ôm chặt em nói những u sầu
+Dialogue: 0,0:04:20.77,0:04:27.40,Default,,0,0,0,,Cứ đơn phương mình anh thôi yêu thương sao quá xa vời
+Dialogue: 0,0:04:28.02,0:04:33.62,Default,,0,0,0,,Vì anh nhớ anh gặp em vẫn sau một người
+Dialogue: 0,0:04:33.62,0:04:39.85,Default,,0,0,0,,Yêu là đôi khi chỉ cần thấy người ấy bên ai sống vui
+Dialogue: 0,0:04:39.95,0:04:46.32,Default,,0,0,0,,Dẫu trong lòng luôn có nỗi buồn như áng mây trôi
+Dialogue: 0,0:04:46.32,0:04:52.92,Default,,0,0,0,,Vẫn mong em sẽ vui bên người quên em đi dẫu yêu một thời
+Dialogue: 0,0:04:52.92,0:05:00.22,Default,,0,0,0,,Vì tìm được em nhưng anh đến sau nên đành thôi
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

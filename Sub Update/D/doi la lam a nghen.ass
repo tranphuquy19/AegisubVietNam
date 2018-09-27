@@ -1,0 +1,74 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\doi la lam a nghen de choat.avi
+Scroll Position: 40
+Active Line: 53
+Video Zoom Percent: 0.25
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.97,0:00:18.40,Default,,0,0,0,,Đời , đời này vui à nghen , đời lạ lắm à nghen
+Dialogue: 0,0:00:18.40,0:00:21.62,Default,,0,0,0,,Đừng bon chen rùm ben coi chừng ăn dép là đen
+Dialogue: 0,0:00:21.62,0:00:25.15,Default,,0,0,0,,Đừng tùm lum từa lưa , đừng lúc nắng rồi mưa
+Dialogue: 0,0:00:25.15,0:00:28.45,Default,,0,0,0,,Đừng quan tâm thị phi đôi khi ta biết dư thừa
+Dialogue: 0,0:00:28.45,0:00:30.92,Default,,0,0,0,,Tầm này là sống độc thân tư tưởng độc lập là sống tự do
+Dialogue: 0,0:00:30.92,0:00:33.97,Default,,0,0,0,,Yêu làm gì để nhiều suy nghĩ yêu bản thân mình là phải tự lo
+Dialogue: 0,0:00:33.97,0:00:37.72,Default,,0,0,0,,Sống ở đời mà quá tầm thường , chắc có lẽ không ai dòm ngó
+Dialogue: 0,0:00:37.72,0:00:41.00,Default,,0,0,0,,Mà nếu muốn có bạn đời trung thành thì cần học cách nuôi 1 con chó
+Dialogue: 0,0:00:41.00,0:00:44.70,Default,,0,0,0,,Khi có tiền đi đây đi đó , đi để thấy trái đất này to
+Dialogue: 0,0:00:44.70,0:00:48.05,Default,,0,0,0,,Đi để thấy rằng mình bé nhỏ giữa cả tỉ người vứt hết phiền lo
+Dialogue: 0,0:00:48.05,0:00:51.35,Default,,0,0,0,,Học đạo lí để học làm người chứ không phải là phán xét người ta
+Dialogue: 0,0:00:51.35,0:00:54.55,Default,,0,0,0,,Có những điều mà mình chưa biết nếu không tiếp xúc 1 vài người lạ
+Dialogue: 0,0:00:54.55,0:00:58.40,Default,,0,0,0,,Bạn là bạn , tui là tui , hổng chơi được thì bo xì bo
+Dialogue: 0,0:00:58.40,0:01:01.45,Default,,0,0,0,,Hổng chơi được mà đi nói xấu , chắc cũng bởi vì bạn không bằng tui
+Dialogue: 0,0:01:01.45,0:01:05.17,Default,,0,0,0,,Nói như vậy có nhiều đứa nhột , nhột thì nhột mình nhây thì nhây
+Dialogue: 0,0:01:05.17,0:01:08.70,Default,,0,0,0,,Người thực tế là người sống thật , 1 là 1 mà 2 là 2
+Dialogue: 0,0:01:08.70,0:01:09.60,Default,,0,0,0,,Dô nà
+Dialogue: 0,0:01:09.60,0:01:13.07,Default,,0,0,0,,Đời , đời này vui à nghen , đời lạ lắm à nghen
+Dialogue: 0,0:01:13.07,0:01:16.50,Default,,0,0,0,,Đừng bon chen rùm ben coi chừng ăn dép là đen
+Dialogue: 0,0:01:16.50,0:01:19.85,Default,,0,0,0,,Đừng tùm lum từa lưa , đừng lúc nắng rồi mưa
+Dialogue: 0,0:01:19.85,0:01:23.25,Default,,0,0,0,,Đừng quan tâm thị phi đôi khi ta biết chữ đời
+Dialogue: 0,0:01:23.25,0:01:26.70,Default,,0,0,0,,Đời , đời này vui à nghen , đời lạ lắm à nghen
+Dialogue: 0,0:01:26.70,0:01:30.22,Default,,0,0,0,,Đừng bon chen rùm ben coi chừng ăn dép là đen
+Dialogue: 0,0:01:30.22,0:01:33.60,Default,,0,0,0,,Đừng tùm lum từa lưa , đừng lúc nắng rồi mưa
+Dialogue: 0,0:01:33.60,0:01:36.80,Default,,0,0,0,,Đừng quan tâm thị phi đôi khi ta biết dư thừa
+Dialogue: 0,0:01:36.80,0:01:39.17,Default,,0,0,0,,Uống đi cho say quýnh bi cho bay tối nay đi overnight
+Dialogue: 0,0:01:39.17,0:01:42.50,Default,,0,0,0,,Có cô em xinh dáng như minh tinh mấy anh tưng tưng lên ngay
+Dialogue: 0,0:01:42.50,0:01:45.92,Default,,0,0,0,,Nếu như mai đây tui rap không hay như lời họ nói tui không quan tâm
+Dialogue: 0,0:01:45.92,0:01:49.30,Default,,0,0,0,,Sống cho đam mê chứ không ganh đua ai hờn ai dỗi không quan tâm
+Dialogue: 0,0:01:49.30,0:01:54.42,Default,,0,0,0,,Á ha , thích hát thích ca nên hay bị bà má la
+Dialogue: 0,0:01:54.42,0:01:57.55,Default,,0,0,0,,Nhạc của tui vẫn đậm cái thói sự đời nè há ba
+Dialogue: 0,0:01:57.55,0:02:01.12,Default,,0,0,0,,Thôi cứ vui lên đi buồn làm chi tui lâu la
+Dialogue: 0,0:02:01.12,0:02:04.20,Default,,0,0,0,,Đen vâu bảo dối lòng sẽ bị quạ bắt diều hâu tha
+Dialogue: 0,0:02:04.20,0:02:05.80,Default,,0,0,0,,Nghe tui rap là trúng tim
+Dialogue: 0,0:02:05.80,0:02:09.47,Default,,0,0,0,,Mấy đứa triết lí thừa sống như * mà nó diễn tuồng thì đúng phim
+Dialogue: 0,0:02:09.47,0:02:12.90,Default,,0,0,0,,Cuộc đời này có là bao , quan trọng mình sống làm sao
+Dialogue: 0,0:02:12.90,0:02:18.07,Default,,0,0,0,,Nụ cười bằng 10 thang thuốc bổ mấy thằng nổ nổ thì cứ trừ hao nó ra đi nào
+Dialogue: 0,0:02:18.07,0:02:19.87,Default,,0,0,0,,Sống cho ngày mai
+Dialogue: 0,0:02:19.87,0:02:21.57,Default,,0,0,0,,Sống cho riêng mình
+Dialogue: 0,0:02:21.57,0:02:25.00,Default,,0,0,0,,Sống cho tự do nên phải sống cho thân tình
+Dialogue: 0,0:02:25.00,0:02:26.70,Default,,0,0,0,,Sống cho niềm vui
+Dialogue: 0,0:02:26.70,0:02:28.42,Default,,0,0,0,,Sống cho gia đình
+Dialogue: 0,0:02:28.42,0:02:29.82,Default,,0,0,0,,Sống cho bình yên
+Dialogue: 0,0:02:29.82,0:02:31.82,Default,,0,0,0,,Sống nhưng không quên mình
+Dialogue: 0,0:02:31.82,0:02:35.27,Default,,0,0,0,,Đời , đời này vui à nghen , đời lạ lắm à nghen
+Dialogue: 0,0:02:35.27,0:02:38.82,Default,,0,0,0,,Đừng bon chen rùm ben coi chừng ăn dép là đen
+Dialogue: 0,0:02:38.82,0:02:42.25,Default,,0,0,0,,Đừng tùm lum từa lưa , đừng lúc nắng rồi mưa
+Dialogue: 0,0:02:42.25,0:02:45.60,Default,,0,0,0,,Đừng quan tâm thị phi đôi khi ta biết chữ đời
+Dialogue: 0,0:02:45.60,0:02:49.00,Default,,0,0,0,,Đời , đời này vui à nghen , đời lạ lắm à nghen
+Dialogue: 0,0:02:49.00,0:02:52.42,Default,,0,0,0,,Đừng bon chen rùm ben coi chừng ăn dép là đen
+Dialogue: 0,0:02:52.42,0:02:55.97,Default,,0,0,0,,Đừng tùm lum từa lưa , đừng lúc nắng rồi mưa
+Dialogue: 0,0:02:55.97,0:02:59.45,Default,,0,0,0,,Đừng quan tâm thị phi đôi khi ta biết dư thừa
+Dialogue: 0,0:03:00.97,0:03:03.10,Default,,0,0,0,,đôi khi ta biết dư thừa
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

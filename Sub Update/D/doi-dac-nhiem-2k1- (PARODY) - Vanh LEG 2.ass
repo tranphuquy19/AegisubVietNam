@@ -1,0 +1,209 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: doi-dac-nhiem-2k1- (PARODY) - Vanh LEG (Audio).avi
+Scroll Position: 60
+Active Line: 187
+Video Zoom Percent: 0.25
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.42,0:00:24.57,Default,,0,0,0,,Chỉ với 5000 đồng quý vị được một turn.
+Dialogue: 0,0:00:24.57,0:00:28.51,Default,,0,0,0,,Nếu trúng vào đây có ngay 1 triệu
+Dialogue: 0,0:00:28.51,0:00:30.33,Default,,0,0,0,,Chú Này lộn sào
+Dialogue: 0,0:00:30.33,0:00:32.33,Default,,0,0,0,,Tao lộn kệ mẹ tao
+Dialogue: 0,0:00:32.33,0:00:34.11,Default,,0,0,0,,Chỗ tao làm ăn.
+Dialogue: 0,0:00:34.11,0:00:36.24,Default,,0,0,0,,Cút ra ngoài kia
+Dialogue: 0,0:00:36.86,0:00:39.11,Default,,0,0,0,,Hmm
+Dialogue: 0,0:00:39.11,0:00:40.51,Default,,0,0,0,,Muốn chơi phải không
+Dialogue: 0,0:00:40.51,0:00:44.35,Default,,0,0,0,,Nếu mà muốn chơi móc 5.000 ra chú cho mày chơi
+Dialogue: 0,0:00:44.35,0:00:46.35,Default,,0,0,0,,Noo
+Dialogue: 0,0:00:46.35,0:00:48.57,Default,,0,0,0,,4000 thì chơi
+Dialogue: 0,0:00:48.57,0:00:53.08,Default,,0,0,0,,Con mời bố chơi có 1.000 thôi cũng phải cò quai
+Dialogue: 0,0:01:09.31,0:01:11.26,Default,,0,0,0,,50 lần chẳng trúng phát nào
+Dialogue: 0,0:01:11.26,0:01:13.22,Default,,0,0,0,,Chú khuyến mãi lần nữa xem nào
+Dialogue: 0,0:01:13.22,0:01:17.02,Default,,0,0,0,,Nốt phát này mà nó không vào có thêm tiền thì cũng xin chào
+Dialogue: 0,0:01:17.02,0:01:20.88,Default,,0,0,0,,Ba tiếng rồi Mày cho tao về tao xin tặng mày con Đôn trề
+Dialogue: 0,0:01:20.88,0:01:22.86,Default,,0,0,0,,Cho tao về con tao chờ
+Dialogue: 0,0:01:22.86,0:01:25.35,Default,,0,0,0,,Tao còn phải đón con ở trường
+Dialogue: 0,0:01:25.71,0:01:26.77,Default,,0,0,0,,Chết mẹ
+Dialogue: 0,0:01:26.77,0:01:28.44,Default,,0,0,0,,Thằng e tôi
+Dialogue: 0,0:01:28.44,0:01:32.28,Default,,0,0,0,,Phê chưa phê chưa chưa phải hay phê nói một lời
+Dialogue: 0,0:01:32.28,0:01:33.57,Default,,0,0,0,,Chưa phê anh ơi
+Dialogue: 0,0:01:33.57,0:01:34.82,Default,,0,0,0,,Ô fucking shit
+Dialogue: 0,0:01:34.82,0:01:36.46,Default,,0,0,0,,Thế uống cái này đi
+Dialogue: 0,0:01:36.46,0:01:41.51,Default,,0,0,0,,#$&$@%--$##&-#@-((+%
+Dialogue: 0,0:01:41.51,0:01:42.57,Default,,0,0,0,,Mày ngất đi thiếp đi
+Dialogue: 0,0:01:42.57,0:01:43.22,Default,,0,0,0,,Ngã đi
+Dialogue: 0,0:01:43.22,0:01:45.22,Default,,0,0,0,,Chuẩn rồi
+Dialogue: 0,0:01:51.51,0:01:55.82,Default,,0,0,0,,Xong rồi xếp đang ngủ say
+Dialogue: 0,0:01:55.82,0:01:58.80,Default,,0,0,0,,Mang về ngay cho tôi
+Dialogue: 0,0:01:58.80,0:02:03.84,Default,,0,0,0,,Ối em của tôi có ai thấy em của tôi tóc nó rẽ ngôi
+Dialogue: 0,0:02:03.84,0:02:06.44,Default,,0,0,0,,Mặt hơi lồi chân nó có mùi hôi
+Dialogue: 0,0:02:06.44,0:02:10.40,Default,,0,0,0,,Nãy ông còn thấy cách đây vài giây
+Dialogue: 0,0:02:10.40,0:02:11.42,Default,,0,0,0,,Nó ngồi gốc cây
+Dialogue: 0,0:02:11.42,0:02:14.62,Default,,0,0,0,,Nó chơi nhảy dây với 2 thằng Tây
+Dialogue: 0,0:02:14.62,0:02:18.57,Default,,0,0,0,,Giờ mày phải Cứu tao bố mẹ sẽ giết tao
+Dialogue: 0,0:02:18.57,0:02:22.20,Default,,0,0,0,,Hay là đi Báo Công An
+Dialogue: 0,0:02:22.20,0:02:24.17,Default,,0,0,0,,Từ từ tao tính cho
+Dialogue: 0,0:02:24.17,0:02:26.68,Default,,0,0,0,,Vụ này tao sẽ lo
+Dialogue: 0,0:02:26.68,0:02:31.48,Default,,0,0,0,,Bây giờ phải khám hiện trường theo
+Dialogue: 0,0:02:32.93,0:02:35.17,Default,,0,0,0,,Những dấu vết hiện tại
+Dialogue: 0,0:02:35.17,0:02:38.22,Default,,0,0,0,,Theo như nhân dân đã kể lại
+Dialogue: 0,0:02:38.22,0:02:40.71,Default,,0,0,0,,Thế nào Nói đi
+Dialogue: 0,0:02:40.71,0:02:42.71,Default,,0,0,0,,Tao chưa suy ra được gì
+Dialogue: 0,0:02:42.71,0:02:45.77,Default,,0,0,0,,Ô Fucking shit  Thế thì quỳ
+Dialogue: 0,0:02:45.77,0:02:48.08,Default,,0,0,0,,Bố tao sẽ giết tao
+Dialogue: 0,0:02:48.08,0:02:48.75,Default,,0,0,0,,Bọn mày ơi
+Dialogue: 0,0:02:48.75,0:02:50.04,Default,,0,0,0,,Đến đây ngay
+Dialogue: 0,0:02:50.04,0:02:52.04,Default,,0,0,0,,Tao thấy cái này
+Dialogue: 0,0:02:52.04,0:02:56.00,Default,,0,0,0,,Ô Trông hay hay mang về mà quay tay
+Dialogue: 0,0:02:56.00,0:02:58.15,Default,,0,0,0,,Thôi Thôi tao xin bọn mày
+Dialogue: 0,0:02:58.15,0:03:01.13,Default,,0,0,0,,Quay tay quay chân cái đ** gì
+Dialogue: 0,0:03:01.13,0:03:03.51,Default,,0,0,0,,Ối giời cứu em tao
+Dialogue: 0,0:03:03.51,0:03:07.82,Default,,0,0,0,,Chân 20 phân 2 kg 50 tính cả dây
+Dialogue: 0,0:03:07.82,0:03:09.08,Default,,0,0,0,,Chân tôi ông ơi
+Dialogue: 0,0:03:09.08,0:03:11.91,Default,,0,0,0,,Lại được cả ngày cũng ngáo như bọn nó
+Dialogue: 0,0:03:11.91,0:03:13.91,Default,,0,0,0,,Tôi kêu ông lo cho tôi mà ông Toàn làm 
+Dialogue: 0,0:03:13.91,0:03:19.71,Default,,0,0,0,, những điều xàm nho có lẽ nó bị bán đi thật rồi
+Dialogue: 0,0:03:26.73,0:03:31.40,Default,,0,0,0,,Em của tôi đang ở đâu
+Dialogue: 0,0:03:32.73,0:03:35.28,Default,,0,0,0,,Tớ nghe thấy có tiếng chuông điện thoại
+Dialogue: 0,0:03:38.60,0:03:42.97,Default,,0,0,0,,Một em có chuyện này rất quan trọng muốn nhờ anh
+Dialogue: 0,0:03:42.97,0:03:46.75,Default,,0,0,0,,Rất vinh dự Nếu anh trợ giúp em
+Dialogue: 0,0:03:46.75,0:03:53.48,Default,,0,0,0,,Biết tên tuổi của anh đã lâu thằng bạn em nó rất hâm mộ anh
+Dialogue: 0,0:03:53.80,0:03:57.73,Default,,0,0,0,,Mày đã thấy tác hại của việc làm phiền tao
+Dialogue: 0,0:03:57.73,0:04:01.17,Default,,0,0,0,,nó bây giờ điên điên ngáo ngáo
+Dialogue: 0,0:04:01.17,0:04:09.57,Default,,0,0,0,,Giúp em định vị một số phone bọn em sẽ trả phí
+Dialogue: 0,0:04:10.00,0:04:11.28,Default,,0,0,0,,500 thì chơi
+Dialogue: 0,0:04:11.28,0:04:11.93,Default,,0,0,0,,500 ?
+Dialogue: 0,0:04:11.93,0:04:13.06,Default,,0,0,0,,200 được không
+Dialogue: 0,0:04:13.06,0:04:13.97,Default,,0,0,0,,200 ?
+Dialogue: 0,0:04:13.97,0:04:16.55,Default,,0,0,0,,400 đường lăng nhăng với tao
+Dialogue: 0,0:04:17.04,0:04:19.11,Default,,0,0,0,,Đắt vãi lìn ra
+Dialogue: 0,0:04:19.11,0:04:20.33,Default,,0,0,0,,Không chơi thì cút
+Dialogue: 0,0:04:20.33,0:04:21.22,Default,,0,0,0,,Nigga
+Dialogue: 0,0:04:21.44,0:04:25.04,Default,,0,0,0,,Bọn em ra đây hội ý một tẹo
+Dialogue: 0,0:04:25.17,0:04:28.08,Default,,0,0,0,,Tao đ** có tiền đ** có tiền
+Dialogue: 0,0:04:28.08,0:04:29.20,Default,,0,0,0,,tao cho mày vay
+Dialogue: 0,0:04:29.20,0:04:31.73,Default,,0,0,0,,400.000 chát vê lờ
+Dialogue: 0,0:04:31.73,0:04:35.17,Default,,0,0,0,,Thôi ông đừng tiếc tính mạng thằng bé mới quan trọng
+Dialogue: 0,0:04:35.17,0:04:36.68,Default,,0,0,0,,Đây money đi anh
+Dialogue: 0,0:04:36.68,0:04:39.08,Default,,0,0,0,,400000 cũng lèo nhèo
+Dialogue: 0,0:05:02.97,0:05:05.02,Default,,0,0,0,,Đúng chỗ chưa
+Dialogue: 0,0:05:05.02,0:05:06.80,Default,,0,0,0,,Nhầm thì sao
+Dialogue: 0,0:05:06.80,0:05:10.55,Default,,0,0,0,,Trình độ anh tao thì nhầm lẫn thế đ** nào
+Dialogue: 0,0:05:10.55,0:05:14.64,Default,,0,0,0,,Sw150
+Dialogue: 0,0:05:14.64,0:05:17.97,Default,,0,0,0,,Mùi chân thối sao quen quá ta
+Dialogue: 0,0:05:17.97,0:05:20.00,Default,,0,0,0,,Tàn nhẫn quá
+Dialogue: 0,0:05:20.00,0:05:22.00,Default,,0,0,0,,Nhìn mà Xót Xa
+Dialogue: 0,0:05:22.00,0:05:25.00,Default,,0,0,0,,Thật là đáng thương
+Dialogue: 0,0:05:25.00,0:05:27.00,Default,,0,0,0,, cờ lờ gờ tê
+Dialogue: 0,0:05:27.00,0:05:29.00,Default,,0,0,0,,Mày nhìn xem đê
+Dialogue: 0,0:05:29.00,0:05:31.00,Default,,0,0,0,,Chính là thằng bé rồi
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:20.42,0:00:24.57,Default,,0,0,0,,{\k43}Chỉ {\k43}với {\k53}5000 {\k53}đồng {\k43}quý {\k32}vị {\k53}được {\k43}một {\k53}turn.
+Dialogue: 0,0:00:24.57,0:00:28.51,Default,,0,0,0,,{\k48}Nếu {\k72}trúng {\k48}vào {\k48}đây {\k36}có {\k60}ngay {\k24}1 {\k60}triệu
+Dialogue: 0,0:00:28.51,0:00:30.33,Default,,0,0,0,,{\k49}Chú {\k49}Này {\k49}lộn {\k36}sào
+Dialogue: 0,0:00:30.33,0:00:32.33,Default,,0,0,0,,{\k47}Tao {\k47}lộn {\k35}kệ {\k35}mẹ {\k35}tao
+Dialogue: 0,0:00:32.33,0:00:34.11,Default,,0,0,0,,{\k48}Chỗ {\k48}tao {\k48}làm {\k36}ăn.
+Dialogue: 0,0:00:34.11,0:00:36.24,Default,,0,0,0,,{\k53}Cút {\k40}ra {\k80}ngoài {\k40}kia
+Dialogue: 0,0:00:36.86,0:00:39.11,Default,,0,0,0,,{\k225}Hmm
+Dialogue: 0,0:00:39.11,0:00:40.51,Default,,0,0,0,,{\k35}Muốn {\k35}chơi {\k35}phải {\k35}không
+Dialogue: 0,0:00:40.51,0:00:44.35,Default,,0,0,0,,{\k33}Nếu {\k25}mà {\k42}muốn {\k42}chơi {\k33}móc {\k50}5.000 {\k25}ra {\k33}chú {\k33}cho {\k33}mày {\k33}chơi
+Dialogue: 0,0:00:44.35,0:00:46.35,Default,,0,0,0,,{\k200}Noo
+Dialogue: 0,0:00:46.35,0:00:48.57,Default,,0,0,0,,{\k85}4000 {\k68}thì {\k68}chơi
+Dialogue: 0,0:00:48.57,0:00:53.08,Default,,0,0,0,,{\k38}Con {\k38}mời {\k29}bố {\k48}chơi {\k29}có {\k58}1.000 {\k48}thôi {\k48}cũng {\k48}phải {\k29}cò {\k38}quai
+Dialogue: 0,0:01:09.31,0:01:11.26,Default,,0,0,0,,{\k22}50 {\k29}lần {\k43}chẳng {\k43}trúng {\k36}phát {\k22}nào
+Dialogue: 0,0:01:11.26,0:01:13.22,Default,,0,0,0,,{\k26}Chú {\k46}khuyến {\k26}mãi {\k26}lần {\k26}nữa {\k26}xem {\k20}nào
+Dialogue: 0,0:01:13.22,0:01:17.02,Default,,0,0,0,,{\k26}Nốt {\k32}phát {\k26}này {\k19}mà {\k19}nó {\k39}không {\k26}vào {\k19}có {\k32}thêm {\k32}tiền {\k26}thì {\k32}cũng {\k26}xin {\k26}chào
+Dialogue: 0,0:01:17.02,0:01:20.88,Default,,0,0,0,,{\k21}Ba {\k41}tiếng {\k28}rồi {\k28}Mày {\k28}cho {\k28}tao {\k21}về {\k28}tao {\k28}xin {\k34}tặng {\k28}mày {\k28}con {\k28}Đôn {\k21}trề
+Dialogue: 0,0:01:20.88,0:01:22.86,Default,,0,0,0,,{\k36}Cho {\k36}tao {\k27}về {\k36}con {\k36}tao {\k27}chờ
+Dialogue: 0,0:01:22.86,0:01:25.35,Default,,0,0,0,,{\k34}Tao {\k34}còn {\k43}phải {\k34}đón {\k34}con {\k17}ở {\k51}trường
+Dialogue: 0,0:01:25.71,0:01:26.77,Default,,0,0,0,,{\k76}Chết {\k30}mẹ
+Dialogue: 0,0:01:26.77,0:01:28.44,Default,,0,0,0,,{\k91}Thằng {\k30}e {\k46}tôi
+Dialogue: 0,0:01:28.44,0:01:32.28,Default,,0,0,0,,{\k33}Phê {\k41}chưa {\k33}phê {\k41}chưa {\k41}chưa {\k41}phải {\k33}hay {\k33}phê {\k33}nói {\k33}một {\k24}lời
+Dialogue: 0,0:01:32.28,0:01:33.57,Default,,0,0,0,,{\k43}Chưa {\k34}phê {\k34}anh {\k17}ơi
+Dialogue: 0,0:01:33.57,0:01:34.82,Default,,0,0,0,,{\k18}Ô {\k71}fucking {\k36}shit
+Dialogue: 0,0:01:34.82,0:01:36.46,Default,,0,0,0,,{\k35}Thế {\k43}uống {\k35}cái {\k35}này {\k17}đi
+Dialogue: 0,0:01:36.46,0:01:41.51,Default,,0,0,0,,{\k505}#$&$@%--$##&-#@-((+%
+Dialogue: 0,0:01:41.51,0:01:42.57,Default,,0,0,0,,{\k21}Mày {\k27}ngất {\k16}đi {\k32}thiếp {\k11}đi
+Dialogue: 0,0:01:42.57,0:01:43.22,Default,,0,0,0,,{\k43}Ngã {\k22}đi
+Dialogue: 0,0:01:43.22,0:01:45.22,Default,,0,0,0,,{\k133}Chuẩn {\k67}rồi
+Dialogue: 0,0:01:51.51,0:01:55.82,Default,,0,0,0,,{\k86}Xong {\k69}rồi {\k69}xếp {\k86}đang {\k69}ngủ {\k52}say
+Dialogue: 0,0:01:55.82,0:01:58.80,Default,,0,0,0,,{\k75}Mang {\k45}về {\k75}ngay {\k60}cho {\k45}tôi
+Dialogue: 0,0:01:58.80,0:02:03.84,Default,,0,0,0,,{\k30}Ối {\k30}em {\k40}của {\k40}tôi {\k30}có {\k30}ai {\k50}thấy {\k30}em {\k40}của {\k40}tôi {\k40}tóc {\k30}nó {\k30}rẽ {\k40}ngôi
+Dialogue: 0,0:02:03.84,0:02:06.44,Default,,0,0,0,,{\k35}Mặt {\k35}hơi {\k35}lồi {\k43}chân {\k26}nó {\k26}có {\k35}mùi {\k26}hôi
+Dialogue: 0,0:02:06.44,0:02:10.40,Default,,0,0,0,,{\k47}Nãy {\k47}ông {\k47}còn {\k58}thấy {\k58}cách {\k47}đây {\k47}vài {\k47}giây
+Dialogue: 0,0:02:10.40,0:02:11.42,Default,,0,0,0,,{\k20}Nó {\k34}ngồi {\k27}gốc {\k20}cây
+Dialogue: 0,0:02:11.42,0:02:14.62,Default,,0,0,0,,{\k30}Nó {\k50}chơi {\k50}nhảy {\k40}dây {\k40}với {\k20}2 {\k60}thằng {\k30}Tây
+Dialogue: 0,0:02:14.62,0:02:18.57,Default,,0,0,0,,{\k42}Giờ {\k42}mày {\k52}phải {\k42}Cứu {\k42}tao {\k31}bố {\k31}mẹ {\k31}sẽ {\k52}giết {\k31}tao
+Dialogue: 0,0:02:18.57,0:02:22.20,Default,,0,0,0,,{\k69}Hay {\k52}là {\k52}đi {\k69}Báo {\k86}Công {\k35}An
+Dialogue: 0,0:02:22.20,0:02:24.17,Default,,0,0,0,,{\k33}Từ {\k33}từ {\k44}tao {\k55}tính {\k33}cho
+Dialogue: 0,0:02:24.17,0:02:26.68,Default,,0,0,0,,{\k47}Vụ {\k63}này {\k63}tao {\k47}sẽ {\k31}lo
+Dialogue: 0,0:02:26.68,0:02:31.48,Default,,0,0,0,,{\k57}Bây {\k57}giờ {\k71}phải {\k71}khám {\k71}hiện {\k99}trường {\k56}theo
+Dialogue: 0,0:02:32.93,0:02:35.17,Default,,0,0,0,,{\k61}Những {\k41}dấu {\k41}vết {\k51}hiện {\k31}tại
+Dialogue: 0,0:02:35.17,0:02:38.22,Default,,0,0,0,,{\k57}Theo {\k45}như {\k57}nhân {\k45}dân {\k34}đã {\k34}kể {\k34}lại
+Dialogue: 0,0:02:38.22,0:02:40.71,Default,,0,0,0,,{\k71}Thế {\k71}nào {\k71}Nói {\k36}đi
+Dialogue: 0,0:02:40.71,0:02:42.71,Default,,0,0,0,,{\k35}Tao {\k44}chưa {\k35}suy {\k26}ra {\k44}được {\k17}gì
+Dialogue: 0,0:02:42.71,0:02:45.77,Default,,0,0,0,,{\k23}Ô {\k91}Fucking {\k57}shit {\k11} {\k45}Thế {\k45}thì {\k34}quỳ
+Dialogue: 0,0:02:45.77,0:02:48.08,Default,,0,0,0,,{\k39}Bố {\k51}tao {\k39}sẽ {\k64}giết {\k38}tao
+Dialogue: 0,0:02:48.08,0:02:48.75,Default,,0,0,0,,{\k27}Bọn {\k27}mày {\k13}ơi
+Dialogue: 0,0:02:48.75,0:02:50.04,Default,,0,0,0,,{\k43}Đến {\k43}đây {\k43}ngay
+Dialogue: 0,0:02:50.04,0:02:52.04,Default,,0,0,0,,{\k50}Tao {\k63}thấy {\k50}cái {\k38}này
+Dialogue: 0,0:02:52.04,0:02:56.00,Default,,0,0,0,,{\k23}Ô {\k68}Trông {\k45}hay {\k45}hay {\k57}mang {\k34}về {\k34}mà {\k57}quay {\k34}tay
+Dialogue: 0,0:02:56.00,0:02:58.15,Default,,0,0,0,,{\k43}Thôi {\k43}Thôi {\k34}tao {\k34}xin {\k34}bọn {\k26}mày
+Dialogue: 0,0:02:58.15,0:03:01.13,Default,,0,0,0,,{\k51}Quay {\k41}tay {\k51}quay {\k51}chân {\k41}cái {\k41}đ** {\k21}gì
+Dialogue: 0,0:03:01.13,0:03:03.51,Default,,0,0,0,,{\k40}Ối {\k66}giời {\k53}cứu {\k40}em {\k40}tao
+Dialogue: 0,0:03:03.51,0:03:07.82,Default,,0,0,0,,{\k67}Chân {\k40}20 {\k67}phân {\k27}2 {\k40}kg {\k40}50 {\k67}tính {\k40}cả {\k40}dây
+Dialogue: 0,0:03:07.82,0:03:09.08,Default,,0,0,0,,{\k42}Chân {\k34}tôi {\k34}ông {\k17}ơi
+Dialogue: 0,0:03:09.08,0:03:11.91,Default,,0,0,0,,{\k31}Lại {\k38}được {\k23}cả {\k38}ngày {\k38}cũng {\k38}ngáo {\k31}như {\k31}bọn {\k15}nó
+Dialogue: 0,0:03:11.91,0:03:13.91,Default,,0,0,0,,{\k21}Tôi {\k21}kêu {\k21}ông {\k16}lo {\k21}cho {\k21}tôi {\k16}mà {\k21}ông {\k26}Toàn {\k16}làm
+Dialogue: 0,0:03:13.91,0:03:19.71,Default,,0,0,0,,{\k12} {\k74}những {\k62}điều {\k49}xàm {\k49}nho {\k37}có {\k37}lẽ {\k37}nó {\k37}bị {\k49}bán {\k37}đi {\k62}thật {\k37}rồi
+Dialogue: 0,0:03:26.73,0:03:31.40,Default,,0,0,0,,{\k67}Em {\k89}của {\k89}tôi {\k111}đang {\k45}ở {\k67}đâu
+Dialogue: 0,0:03:32.73,0:03:35.28,Default,,0,0,0,,{\k20}Tớ {\k33}nghe {\k33}thấy {\k20}có {\k39}tiếng {\k46}chuông {\k33}điện {\k33}thoại
+Dialogue: 0,0:03:38.60,0:03:42.97,Default,,0,0,0,,{\k37}Một {\k27}em {\k27}có {\k64}chuyện {\k36}này {\k36}rất {\k46}quan {\k55}trọng {\k46}muốn {\k36}nhờ {\k27}anh
+Dialogue: 0,0:03:42.97,0:03:46.75,Default,,0,0,0,,{\k49}Rất {\k61}vinh {\k37}dự {\k49}Nếu {\k49}anh {\k49}trợ {\k61}giúp {\k24}em
+Dialogue: 0,0:03:46.75,0:03:53.48,Default,,0,0,0,,{\k57}Biết {\k46}tên {\k57}tuổi {\k46}của {\k46}anh {\k34}đã {\k46}lâu {\k68}thằng {\k46}bạn {\k34}em {\k34}nó {\k46}rất {\k46}hâm {\k34}mộ {\k34}anh
+Dialogue: 0,0:03:53.80,0:03:57.73,Default,,0,0,0,,{\k38}Mày {\k28}đã {\k47}thấy {\k38}tác {\k37}hại {\k37}của {\k47}việc {\k37}làm {\k56}phiền {\k28}tao
+Dialogue: 0,0:03:57.73,0:04:01.17,Default,,0,0,0,,{\k34}nó {\k46}bây {\k46}giờ {\k57}điên {\k57}điên {\k57}ngáo {\k46}ngáo
+Dialogue: 0,0:04:01.17,0:04:09.57,Default,,0,0,0,,{\k91}Giúp {\k55}em {\k91}định {\k55}vị {\k73}một {\k55}số {\k110}phone {\k73}bọn {\k55}em {\k55}sẽ {\k73}trả {\k55}phí
+Dialogue: 0,0:04:10.00,0:04:11.28,Default,,0,0,0,,{\k43}500 {\k43}thì {\k43}chơi
+Dialogue: 0,0:04:11.28,0:04:11.93,Default,,0,0,0,,{\k52}500 {\k13}?
+Dialogue: 0,0:04:11.93,0:04:13.06,Default,,0,0,0,,{\k32}200 {\k40}được {\k40}không
+Dialogue: 0,0:04:13.06,0:04:13.97,Default,,0,0,0,,{\k73}200 {\k18}?
+Dialogue: 0,0:04:13.97,0:04:16.55,Default,,0,0,0,,{\k37}400 {\k55}đường {\k46}lăng {\k55}nhăng {\k37}với {\k28}tao
+Dialogue: 0,0:04:17.04,0:04:19.11,Default,,0,0,0,,{\k59}Đắt {\k59}vãi {\k59}lìn {\k30}ra
+Dialogue: 0,0:04:19.11,0:04:20.33,Default,,0,0,0,,{\k41}Không {\k34}chơi {\k27}thì {\k20}cút
+Dialogue: 0,0:04:20.33,0:04:21.22,Default,,0,0,0,,{\k89}Nigga
+Dialogue: 0,0:04:21.44,0:04:25.04,Default,,0,0,0,,{\k53}Bọn {\k40}em {\k40}ra {\k53}đây {\k53}hội {\k27}ý {\k53}một {\k40}tẹo
+Dialogue: 0,0:04:25.17,0:04:28.08,Default,,0,0,0,,{\k43}Tao {\k43}đ** {\k32}có {\k54}tiền {\k43}đ** {\k32}có {\k43}tiền
+Dialogue: 0,0:04:28.08,0:04:29.20,Default,,0,0,0,,{\k30}tao {\k30}cho {\k30}mày {\k22}vay
+Dialogue: 0,0:04:29.20,0:04:31.73,Default,,0,0,0,,{\k113}400.000 {\k70}chát {\k42}vê {\k28}lờ
+Dialogue: 0,0:04:31.73,0:04:35.17,Default,,0,0,0,,{\k33}Thôi {\k27}ông {\k33}đừng {\k33}tiếc {\k33}tính {\k33}mạng {\k40}thằng {\k20}bé {\k26}mới {\k33}quan {\k33}trọng
+Dialogue: 0,0:04:35.17,0:04:36.68,Default,,0,0,0,,{\k38}Đây {\k57}money {\k28}đi {\k28}anh
+Dialogue: 0,0:04:36.68,0:04:39.08,Default,,0,0,0,,{\k84}400000 {\k60}cũng {\k48}lèo {\k48}nhèo
+Dialogue: 0,0:05:02.97,0:05:05.02,Default,,0,0,0,,{\k79}Đúng {\k63}chỗ {\k63}chưa
+Dialogue: 0,0:05:05.02,0:05:06.80,Default,,0,0,0,,{\k74}Nhầm {\k59}thì {\k44}sao
+Dialogue: 0,0:05:06.80,0:05:10.55,Default,,0,0,0,,{\k55}Trình {\k28}độ {\k37}anh {\k37}tao {\k37}thì {\k46}nhầm {\k37}lẫn {\k37}thế {\k37}đ** {\k27}nào
+Dialogue: 0,0:05:10.55,0:05:14.64,Default,,0,0,0,,{\k409}Sw150
+Dialogue: 0,0:05:14.64,0:05:17.97,Default,,0,0,0,,{\k46}Mùi {\k57}chân {\k57}thối {\k46}sao {\k57}quen {\k46}quá {\k23}ta
+Dialogue: 0,0:05:17.97,0:05:20.00,Default,,0,0,0,,{\k68}Tàn {\k85}nhẫn {\k51}quá
+Dialogue: 0,0:05:20.00,0:05:22.00,Default,,0,0,0,,{\k72}Nhìn {\k43}mà {\k57}Xót {\k29}Xa
+Dialogue: 0,0:05:22.00,0:05:25.00,Default,,0,0,0,,{\k79}Thật {\k47}là {\k79}đáng {\k95}thương
+Dialogue: 0,0:05:25.00,0:05:27.00,Default,,0,0,0,,{\k17} {\k50}cờ {\k50}lờ {\k50}gờ {\k33}tê
+Dialogue: 0,0:05:27.00,0:05:29.00,Default,,0,0,0,,{\k53}Mày {\k67}nhìn {\k53}xem {\k27}đê
+Dialogue: 0,0:05:29.00,0:05:31.00,Default,,0,0,0,,{\k57}Chính {\k29}là {\k57}thằng {\k29}bé {\k29}rồi
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
