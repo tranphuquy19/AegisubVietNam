@@ -1,0 +1,59 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\van-su-do-duyen-andy.avi
+Video Zoom Percent: 0.25
+Scroll Position: 25
+Active Line: 37
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.77,0:00:27.45,Default,,0,0,0,,Nhân duyên ta gặp gỡ người cùng lúc có mấy khi
+Dialogue: 0,0:00:27.45,0:00:29.82,Default,,0,0,0,,Họ đến rồi vội đi vương giọt buồn nặng khóe mi
+Dialogue: 0,0:00:29.82,0:00:32.25,Default,,0,0,0,,Nhớ cách ta gặp em vào một đêm mưa mùa hạ
+Dialogue: 0,0:00:32.25,0:00:35.00,Default,,0,0,0,,Người lạ vừa gặp gỡ nhưng bỗng hoá quen thuộc với ta
+Dialogue: 0,0:00:35.00,0:00:37.72,Default,,0,0,0,,Họ bảo đó gọi là yêu từ cái nhìn đầu tiên
+Dialogue: 0,0:00:37.72,0:00:41.45,Default,,0,0,0,,Nhưng anh nghĩ , vạn sự là do duyên
+Dialogue: 0,0:00:41.45,0:00:45.02,Default,,0,0,0,,Vạn sự là do duyên
+Dialogue: 0,0:00:45.45,0:00:48.00,Default,,0,0,0,,Thời gian ta biết nhau chưa đủ để gọi là yêu
+Dialogue: 0,0:00:48.00,0:00:50.25,Default,,0,0,0,,Nhưng nào có ai biết nỗi nhớ về em ngày càng nhiều
+Dialogue: 0,0:00:50.25,0:00:53.02,Default,,0,0,0,,Anh chỉ là chàng trai mang yêu thương gửi vào nhạc
+Dialogue: 0,0:00:53.02,0:00:55.52,Default,,0,0,0,,Chẳng dám suy nghĩ nhiều nên tương tư người vừa quen
+Dialogue: 0,0:00:55.52,0:00:58.00,Default,,0,0,0,,Anh ước nhắm mắt lại mở mắt ra là hôm đó
+Dialogue: 0,0:00:58.00,0:01:00.70,Default,,0,0,0,,Anh ước có thể gửi nỗi buồn em vào trong gió
+Dialogue: 0,0:01:00.70,0:01:03.47,Default,,0,0,0,,Anh ước được một lần thấy nụ cười trên môi em
+Dialogue: 0,0:01:03.47,0:01:05.85,Default,,0,0,0,,Người như anh chẳng say rượu nhưng bây giờ lại say em
+Dialogue: 0,0:01:05.85,0:01:08.65,Default,,0,0,0,,Anh còn đến 3 vạn 6 nghìn ngày để yêu em
+Dialogue: 0,0:01:08.65,0:01:11.40,Default,,0,0,0,,Mỗi đêm trước khi ngủ anh đều mong mai sẽ có em
+Dialogue: 0,0:01:11.40,0:01:14.15,Default,,0,0,0,,Anh chẳng dám hứa suôn sẽ yêu em đến mãi mãi
+Dialogue: 0,0:01:14.70,0:01:16.27,Default,,0,0,0,,anh chắc anh sẽ yêu em đến ngày mai
+Dialogue: 0,0:01:16.27,0:01:18.70,Default,,0,0,0,,Ngày anh chờ đêm anh đợi em đến như mưa mùa hạ
+Dialogue: 0,0:01:18.70,0:01:21.35,Default,,0,0,0,,Mang theo những mầm hoa phũ kín ngát cả cánh đồi xanh
+Dialogue: 0,0:01:21.35,0:01:23.90,Default,,0,0,0,,Bài tình ca anh viết dành cho em luôn ấm áp
+Dialogue: 0,0:01:23.90,0:01:27.87,Default,,0,0,0,,Anh yêu em là như vậy không biết em có yêu anh ?
+Dialogue: 0,0:01:27.87,0:01:30.32,Default,,0,0,0,,Không biết em có yêu anh ?
+Dialogue: 0,0:02:15.57,0:02:18.22,Default,,0,0,0,,Anh không đợi ngày nắng hạ mới biết tình gần thêm
+Dialogue: 0,0:02:18.22,0:02:20.82,Default,,0,0,0,,Cũng chẳng chờ đến lúc xa nhau mới biết ta cần em
+Dialogue: 0,0:02:20.82,0:02:23.32,Default,,0,0,0,,Ta sẽ yêu người như thể lo sợ mai ta lạc mất
+Dialogue: 0,0:02:23.32,0:02:25.97,Default,,0,0,0,,Nhân gian quá rộng lớn để tìm người mà ta yêu
+Dialogue: 0,0:02:25.97,0:02:28.67,Default,,0,0,0,,Rồi cứ thế từng đêm dài ta thẩn thờ theo gió
+Dialogue: 0,0:02:28.67,0:02:31.07,Default,,0,0,0,,Chẳng biết gió về đâu nhắn gửi giúp ta vơi giọt sầu
+Dialogue: 0,0:02:31.07,0:02:33.62,Default,,0,0,0,,Tương tư là căn bệnh mà ta nguyện sẽ mắc phải
+Dialogue: 0,0:02:33.62,0:02:36.45,Default,,0,0,0,,Vạn sự là tùy duyên sẽ yêu em đến ngày mai
+Dialogue: 0,0:02:37.32,0:02:40.47,Default,,0,0,0,,Anh sẽ yêu em đến ngày mai
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:11.00,0:00:13.00,Default,,0,0,0,,{\k200}

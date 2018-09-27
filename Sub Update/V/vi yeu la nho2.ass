@@ -1,0 +1,81 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 47
+Active Line: 59
+Video Zoom Percent: 0.25
+Audio URI: New folder\vi yeu la nho].avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.65,0:00:17.02,Default,,0,0,0,,Anh
+Dialogue: 0,0:00:17.02,0:00:20.88,Default,,0,0,0,,Tựa ánh dương và mây xanh
+Dialogue: 0,0:00:20.88,0:00:24.88,Default,,0,0,0,,Đến đây xoá tan giá lạnh
+Dialogue: 0,0:00:24.88,0:00:28.17,Default,,0,0,0,,Ở tận sâu trong trái tim này
+Dialogue: 0,0:00:31.37,0:00:33.51,Default,,0,0,0,,Anh
+Dialogue: 0,0:00:33.51,0:00:36.88,Default,,0,0,0,,Tựa ly cà phê sớm mai
+Dialogue: 0,0:00:36.88,0:00:42.85,Default,,0,0,0,,Cho ngày nhẹ trôi mỗi khi em nhấp môi
+Dialogue: 0,0:00:42.85,0:00:49.65,Default,,0,0,0,,Một nụ hôn ta trao về nhau, một đời mãi không phai
+Dialogue: 0,0:00:50.91,0:00:53.17,Default,,0,0,0,,Vì yêu là nhớ
+Dialogue: 0,0:00:53.17,0:00:55.17,Default,,0,0,0,,Vì yêu là mơ
+Dialogue: 0,0:00:55.17,0:00:59.14,Default,,0,0,0,,Một lần gặp gỡ đã thấy đắm say cả một đời
+Dialogue: 0,0:00:59.14,0:01:03.28,Default,,0,0,0,,Nhiều năm trôi qua, cũng sẽ không phôi pha.
+Dialogue: 0,0:01:03.28,0:01:07.37,Default,,0,0,0,,Nguyện cầu hạnh phúc mãi bên đôi ta
+Dialogue: 0,0:01:07.37,0:01:09.37,Default,,0,0,0,,Tình yêu là thế
+Dialogue: 0,0:01:09.37,0:01:11.37,Default,,0,0,0,,Tình yêu lạ thế
+Dialogue: 0,0:01:11.37,0:01:15.40,Default,,0,0,0,,Nhiều lần buồn bã đã khiến trái tim ta nghi ngờ,
+Dialogue: 0,0:01:15.40,0:01:19.65,Default,,0,0,0,,Đừng vội yêu nhau vội đến rồi đi,
+Dialogue: 0,0:01:19.65,0:01:23.80,Default,,0,0,0,,Thế gian còn nhiều tương tư,
+Dialogue: 0,0:01:23.80,0:01:27.51,Default,,0,0,0,,Thế nhưng lại chờ mong mỗi anh thôi.
+Dialogue: 0,0:01:27.51,0:01:30.68,Default,,0,0,0,,Yêu anh.
+Dialogue: 0,0:01:45.40,0:01:47.31,Default,,0,0,0,,Anh
+Dialogue: 0,0:01:47.31,0:01:51.42,Default,,0,0,0,,Tựa ánh dương và mây xanh
+Dialogue: 0,0:01:51.42,0:01:55.17,Default,,0,0,0,,Đến đây xoá tan giá lạnh
+Dialogue: 0,0:01:55.17,0:01:58.51,Default,,0,0,0,,Ở tận sâu trong trái tim này
+Dialogue: 0,0:02:01.22,0:02:03.40,Default,,0,0,0,,Anh
+Dialogue: 0,0:02:03.40,0:02:07.37,Default,,0,0,0,,Tựa ly cà phê sớm mai
+Dialogue: 0,0:02:07.37,0:02:13.14,Default,,0,0,0,,Cho ngày nhẹ trôi mỗi khi em nhấp môi
+Dialogue: 0,0:02:13.14,0:02:20.94,Default,,0,0,0,,Một nụ hôn ta trao về nhau, một đời mãi không phai
+Dialogue: 0,0:02:20.94,0:02:23.28,Default,,0,0,0,,Vì yêu là nhớ
+Dialogue: 0,0:02:23.28,0:02:25.28,Default,,0,0,0,,Vì yêu là mơ
+Dialogue: 0,0:02:25.28,0:02:29.51,Default,,0,0,0,,Một lần gặp gỡ đã thấy đắm say cả một đời
+Dialogue: 0,0:02:29.51,0:02:33.42,Default,,0,0,0,,Nhiều năm trôi qua, cũng sẽ không phôi pha.
+Dialogue: 0,0:02:33.42,0:02:37.71,Default,,0,0,0,,Nguyện cầu hạnh phúc mãi bên đôi ta
+Dialogue: 0,0:02:37.71,0:02:39.71,Default,,0,0,0,,Tình yêu là thế
+Dialogue: 0,0:02:39.71,0:02:41.71,Default,,0,0,0,,Tình yêu lạ thế
+Dialogue: 0,0:02:41.71,0:02:45.88,Default,,0,0,0,,Nhiều lần buồn bã đã khiến trái tim ta nghi ngờ,
+Dialogue: 0,0:02:45.88,0:02:49.85,Default,,0,0,0,,Đừng vội yêu nhau vội đến rồi đi,
+Dialogue: 0,0:02:49.85,0:02:53.74,Default,,0,0,0,,Thế gian còn nhiều tương tư,
+Dialogue: 0,0:02:53.74,0:02:58.02,Default,,0,0,0,,Thế nhưng lại chờ mong mỗi anh thôi.
+Dialogue: 0,0:02:58.02,0:03:00.02,Default,,0,0,0,,Vì yêu là nhớ
+Dialogue: 0,0:03:00.02,0:03:02.02,Default,,0,0,0,,Vì yêu là mơ
+Dialogue: 0,0:03:02.02,0:03:06.25,Default,,0,0,0,,Một lần gặp gỡ đã thấy đắm say cả một đời
+Dialogue: 0,0:03:06.25,0:03:10.14,Default,,0,0,0,,Nhiều năm trôi qua, cũng sẽ không phôi pha.
+Dialogue: 0,0:03:10.14,0:03:15.51,Default,,0,0,0,,Nguyện cầu hạnh phúc mãi bên đôi ta
+Dialogue: 0,0:03:16.65,0:03:18.54,Default,,0,0,0,,Vì yêu là nhớ
+Dialogue: 0,0:03:18.54,0:03:20.77,Default,,0,0,0,,Vì yêu là mơ
+Dialogue: 0,0:03:20.77,0:03:24.80,Default,,0,0,0,,Một lần gặp gỡ đã thấy đắm say cả một đời
+Dialogue: 0,0:03:24.80,0:03:28.71,Default,,0,0,0,,Nhiều năm trôi qua, cũng sẽ không phôi pha.
+Dialogue: 0,0:03:28.71,0:03:33.05,Default,,0,0,0,,Nguyện cầu hạnh phúc mãi bên đôi ta
+Dialogue: 0,0:03:33.05,0:03:37.17,Default,,0,0,0,,Tình yêu lạ thế
+Dialogue: 0,0:03:37.17,0:03:41.40,Default,,0,0,0,,Nhiều lần buồn bã đã khiến trái tim ta nghi ngờ,
+Dialogue: 0,0:03:41.40,0:03:45.25,Default,,0,0,0,,Đừng vội yêu nhau vội đến rồi đi,
+Dialogue: 0,0:03:45.25,0:03:48.80,Default,,0,0,0,,Thế gian còn nhiều tương tư,
+Dialogue: 0,0:03:48.80,0:03:53.42,Default,,0,0,0,,Thế nhưng lại chờ mong mỗi anh thôi.
+Dialogue: 0,0:03:53.42,0:03:57.60,Default,,0,0,0,,Vi Yêu anh.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:11.00,0:00:13.00,Default,,0,0,0,,

@@ -1,0 +1,85 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\viet nam  di hon va yeu - pham hong phuoc.avi
+Scroll Position: 51
+Active Line: 63
+Video Zoom Percent: 0.25
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.90,0:00:10.60,Default,,0,0,0,,Đứng giữa cao nguyên thông reo mình cùng cầm tay hát to
+Dialogue: 0,0:00:10.60,0:00:12.42,Default,,0,0,0,,Nhấm nháp cây kem tan nhanh
+Dialogue: 0,0:00:12.42,0:00:14.90,Default,,0,0,0,,chiều hè ở trên biển vắng xanh
+Dialogue: 0,0:00:14.90,0:00:17.12,Default,,0,0,0,,Tình ta trẻ ta mơ mộng
+Dialogue: 0,0:00:17.12,0:00:19.75,Default,,0,0,0,,Mình đi khám phá
+Dialogue: 0,0:00:19.75,0:00:24.90,Default,,0,0,0,,Bức phá lên em để thấy yêu thương đời thêm
+Dialogue: 0,0:00:28.25,0:00:31.02,Default,,0,0,0,,Mọi sáng thức dậy đi loanh quanh
+Dialogue: 0,0:00:31.02,0:00:32.90,Default,,0,0,0,,Từ nhà qua công ty
+Dialogue: 0,0:00:32.90,0:00:35.37,Default,,0,0,0,,Những sắp giấy tờ, chơ vơ
+Dialogue: 0,0:00:35.37,0:00:37.62,Default,,0,0,0,,Bàn làm việc vẫn thế
+Dialogue: 0,0:00:37.62,0:00:39.72,Default,,0,0,0,,Anh thấy chán chường
+Dialogue: 0,0:00:39.72,0:00:42.85,Default,,0,0,0,,Anh thấy mỏi mệt cuộc sống
+Dialogue: 0,0:00:42.85,0:00:46.65,Default,,0,0,0,,Thời tiết thật nóng tại sao không đến nơi nắng trong
+Dialogue: 0,0:00:46.65,0:00:49.32,Default,,0,0,0,,Đất nước của mình xanh tươi
+Dialogue: 0,0:00:49.32,0:00:51.32,Default,,0,0,0,,Và đẹp như tranh
+Dialogue: 0,0:00:51.32,0:00:54.12,Default,,0,0,0,,Anh muốn đưa em đi đâu xa
+Dialogue: 0,0:00:54.12,0:00:55.92,Default,,0,0,0,,Rồi mình khám phá
+Dialogue: 0,0:00:55.92,0:00:58.20,Default,,0,0,0,,Em thích Nha Trang không nào?
+Dialogue: 0,0:00:58.20,0:01:01.32,Default,,0,0,0,,Em thích Sapa thanh bình quá
+Dialogue: 0,0:01:01.32,0:01:07.80,Default,,0,0,0,,Lại đây anh hôn nhẹ lên trán em rồi mình đi.
+Dialogue: 0,0:01:08.25,0:01:12.77,Default,,0,0,0,,Chẳng có ai thương và quan tâm giống anh
+Dialogue: 0,0:01:12.77,0:01:17.40,Default,,0,0,0,,Thích đến nơi đâu và ăn những món chi
+Dialogue: 0,0:01:17.40,0:01:19.70,Default,,0,0,0,,Từng đêm góc quán nào
+Dialogue: 0,0:01:19.70,0:01:22.20,Default,,0,0,0,,Ngồi ở chiếc bàn nào, và
+Dialogue: 0,0:01:22.20,0:01:26.92,Default,,0,0,0,,Việt nam mình đi mọi nơi hình chữ S nhớ mong
+Dialogue: 0,0:01:26.92,0:01:31.37,Default,,0,0,0,,Đứng giữa cao nguyên thông reo mình cùng cầm tay hát to
+Dialogue: 0,0:01:31.37,0:01:35.77,Default,,0,0,0,,Nhấm nháp cây kem tan nhanh chiều hè ở trên bến vắng xanh
+Dialogue: 0,0:01:35.77,0:01:38.32,Default,,0,0,0,,Tình ta trẻ ta mơ mộng
+Dialogue: 0,0:01:38.32,0:01:40.32,Default,,0,0,0,,Đừng sợ ngày mai
+Dialogue: 0,0:01:40.32,0:01:42.65,Default,,0,0,0,,Cùng ngoắc nghéo tay anh
+Dialogue: 0,0:01:42.65,0:01:48.90,Default,,0,0,0,,Mình đi hết mọi miền nước việt
+Dialogue: 0,0:01:51.25,0:01:52.97,Default,,0,0,0,,Nghiêm túc đi nào
+Dialogue: 0,0:01:52.97,0:01:55.97,Default,,0,0,0,,Anh nghĩ mình phải hẹn hò nhau
+Dialogue: 0,0:01:55.97,0:01:57.55,Default,,0,0,0,,Đi đến nơi đâu
+Dialogue: 0,0:01:57.55,0:02:00.60,Default,,0,0,0,,Yêu đương cuồng nhiệt đắm đuối
+Dialogue: 0,0:02:00.60,0:02:02.80,Default,,0,0,0,,Thành phố đông người, chật chội
+Dialogue: 0,0:02:02.80,0:02:06.00,Default,,0,0,0,,Quên hết âu lo bực bội nhé.
+Dialogue: 0,0:02:06.00,0:02:12.80,Default,,0,0,0,,Quên hết những thứ phiền tối nguyên tắc thường ngày.
+Dialogue: 0,0:02:12.80,0:02:17.40,Default,,0,0,0,,Chẳng có ai yêu và hiểu em giống anh
+Dialogue: 0,0:02:17.40,0:02:21.85,Default,,0,0,0,,Rất thích Selfie bên nhau vào chiều hoàng hôn đồng lúa thơm
+Dialogue: 0,0:02:21.85,0:02:24.45,Default,,0,0,0,,Mọi khi đến nới xa nào
+Dialogue: 0,0:02:24.45,0:02:26.75,Default,,0,0,0,,Mình rạng hỏi vui bao người
+Dialogue: 0,0:02:26.75,0:02:28.85,Default,,0,0,0,,Cô ấy người yêu của con
+Dialogue: 0,0:02:28.85,0:02:31.45,Default,,0,0,0,,Cô thấy xinh không?
+Dialogue: 0,0:02:31.45,0:02:36.00,Default,,0,0,0,,Đứng giữa cao nguyên thông reo mình cung cầm tay hát to
+Dialogue: 0,0:02:36.00,0:02:40.30,Default,,0,0,0,,Nhấm nháp cây kem tan nhanh chiều hè ở trên bến vắng xanh
+Dialogue: 0,0:02:40.30,0:02:42.97,Default,,0,0,0,,Tình ta trẻ ta mơ mộng
+Dialogue: 0,0:02:42.97,0:02:44.97,Default,,0,0,0,,Đừng sợ ngày mài
+Dialogue: 0,0:02:44.97,0:02:47.22,Default,,0,0,0,,Bình yên giữa thiên nhiên
+Dialogue: 0,0:02:47.22,0:02:52.77,Default,,0,0,0,,Mình đi hết mọi miền nước việt.
+Dialogue: 0,0:03:27.15,0:03:31.12,Default,,0,0,0,,Chẳng có ai thương và quan tâm giống anh
+Dialogue: 0,0:03:31.12,0:03:35.75,Default,,0,0,0,,Thích đến nơi đâu và ăn những món chi
+Dialogue: 0,0:03:35.75,0:03:37.87,Default,,0,0,0,,Từng đêm góc quán nào
+Dialogue: 0,0:03:37.87,0:03:40.45,Default,,0,0,0,,Ngồi ở chiếc bàn nào,và
+Dialogue: 0,0:03:40.45,0:03:45.15,Default,,0,0,0,,Việt Nam mình đi mọi nơi hình chữ S nhớ mong
+Dialogue: 0,0:03:45.15,0:03:49.90,Default,,0,0,0,,Đứng giữa cao nguyên thông reo mình cùng cầm tay hát to
+Dialogue: 0,0:03:49.90,0:03:54.37,Default,,0,0,0,,Nhấm nháp cây kem tan nhanh chiều hè ở trên bến vắng xanh
+Dialogue: 0,0:03:54.37,0:03:56.72,Default,,0,0,0,,Tình ta trẻ ta mơ mộng
+Dialogue: 0,0:03:56.72,0:03:59.05,Default,,0,0,0,,Đừng sợ ngày mai
+Dialogue: 0,0:03:59.05,0:04:01.02,Default,,0,0,0,,Cùng ngoắc nghéo tay anh
+Dialogue: 0,0:04:01.02,0:04:06.77,Default,,0,0,0,,Mình đi hết mọi miền nước Việt
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,

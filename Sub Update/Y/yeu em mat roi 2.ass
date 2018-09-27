@@ -1,0 +1,114 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 22
+Active Line: 26
+Video Zoom Percent: 0.5
+Audio URI: New folder\yeu-em-mat-roi-ho-phong-an.avi
+Last Style Storage: Default
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,UTM Androgyne,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.37,0:00:17.13,Default,,0,0,0,,Bao lần thấy em đi ngang nơi đây,
+Dialogue: 0,0:00:17.13,0:00:19.71,Default,,0,0,0,,Để mình anh ngồi ngóng trông em
+Dialogue: 0,0:00:19.71,0:00:22.17,Default,,0,0,0,,qua bao nhiêu ngày đêm
+Dialogue: 0,0:00:22.17,0:00:23.80,Default,,0,0,0,,Cứ âm thầm nhìn theo,
+Dialogue: 0,0:00:23.80,0:00:27.40,Default,,0,0,0,,anh cứ vô hình đằng sau tình yêu
+Dialogue: 0,0:00:27.40,0:00:30.08,Default,,0,0,0,,Anh lặng lẽ giấu chon bao nhiêu suy tư
+Dialogue: 0,0:00:30.08,0:00:32.09,Default,,0,0,0,,Rồi một ngày anh chợt thấy xuyến
+Dialogue: 0,0:00:32.09,0:00:34.84,Default,,0,0,0,,sao khi đôi mắt ta chạm nhau
+Dialogue: 0,0:00:34.84,0:00:37.12,Default,,0,0,0,,Anh cứ ngỡ rằng từ bấy lâu,
+Dialogue: 0,0:00:37.12,0:00:39.58,Default,,0,0,0,,mình sinh ra là để đợi chờ nhau
+Dialogue: 0,0:00:39.58,0:00:41.05,Default,,0,0,0,, Muốn nói với em nhiều thế
+Dialogue: 0,0:00:41.05,0:00:42.78,Default,,0,0,0,,mà tại sao anh cứ im lặng thế
+Dialogue: 0,0:00:42.78,0:00:44.20,Default,,0,0,0,,Muốn hát em nghe một khúc ca
+Dialogue: 0,0:00:44.20,0:00:46.17,Default,,0,0,0,,anh tự viết ra mối duyên tình ta
+Dialogue: 0,0:00:46.17,0:00:47.68,Default,,0,0,0,,Nỗi nhớ anh mang bao tháng ngày
+Dialogue: 0,0:00:47.68,0:00:49.34,Default,,0,0,0,,Để chất chứa tâm tư sầu lắng này
+Dialogue: 0,0:00:49.34,0:00:50.52,Default,,0,0,0,,Bóng dáng ấy bao ngày qua
+Dialogue: 0,0:00:50.52,0:00:52.75,Default,,0,0,0,,cứ mãi trong long anh đắm say
+Dialogue: 0,0:00:52.75,0:00:54.06,Default,,0,0,0,,Về đây với anh người nhé
+Dialogue: 0,0:00:54.06,0:00:55.79,Default,,0,0,0,,Dựng xây giấc mơ nhõ bé
+Dialogue: 0,0:00:55.79,0:00:57.31,Default,,0,0,0,,Cùng nhau nắm tay mình sẽ đưa nhau
+Dialogue: 0,0:00:57.31,0:00:59.07,Default,,0,0,0,,đi qua bao tháng ngày bình yên
+Dialogue: 0,0:00:59.07,0:01:01.07,Default,,0,0,0,,Dù cho lúc sau này có bao nhiêu âu lo
+Dialogue: 0,0:01:01.07,0:01:02.83,Default,,0,0,0,,anh xin nhận gánh hết ưu phiền
+Dialogue: 0,0:01:02.83,0:01:05.31,Default,,0,0,0,,Chỉ cần thấy em vui trên môi luôn cười tươi
+Dialogue: 0,0:01:05.31,0:01:07.23,Default,,0,0,0,,Với anh thế đủ rồi.
+Dialogue: 0,0:01:07.23,0:01:09.64,Default,,0,0,0,,Một Ngày Đẹp Trời Vô Tình Gặp Em Bị Cuốn Vào Nụ Cười
+Dialogue: 0,0:01:09.64,0:01:12.88,Default,,0,0,0,,Sét Đánh Thật Rồi Chắc Phải Tìm Cách Biến Em Thành Bạn Đời. EY
+Dialogue: 0,0:01:12.88,0:01:15.68,Default,,0,0,0,,Bao Năm Anh Ở Nơi Đây Có Lẽ Là Duyên Đã Khiến Anh Chờ Đợi .
+Dialogue: 0,0:01:15.68,0:01:19.36,Default,,0,0,0,,Nên Em Chỉ Cần Đưa Đôi Tay Bình Yên Cứ Để Anh Mang Tới, Bởi Vì
+Dialogue: 0,0:01:19.36,0:01:20.36,Default,,0,0,0,,Anh đang mang trong tim mình say mê
+Dialogue: 0,0:01:20.36,0:01:22.54,Default,,0,0,0,,tương tư lâu ngày khi không có em ở cạnh bên.
+Dialogue: 0,0:01:22.54,0:01:23.47,Default,,0,0,0,,Cơn mưa bao đêm dài,
+Dialogue: 0,0:01:23.47,0:01:25.53,Default,,0,0,0,,nơi giấu trong anh đến khi thức giấc còn gọi tên
+Dialogue: 0,0:01:25.53,0:01:28.75,Default,,0,0,0,,Với anh em chính là thế giới chẳng cần gì khác trong cuộc đời
+Dialogue: 0,0:01:28.75,0:01:30.40,Default,,0,0,0,,Baby babe tháng năm còn lại
+Dialogue: 0,0:01:30.40,0:01:32.40,Default,,0,0,0,,anh chỉ dành riêng cho mình em thôi
+Dialogue: 0,0:01:32.52,0:01:35.15,Default,,0,0,0,,Anh lặng lẽ giấu chon bao nhiêu suy tư
+Dialogue: 0,0:01:35.15,0:01:37.04,Default,,0,0,0,,Rồi một ngày anh chợt thấy xuyến
+Dialogue: 0,0:01:37.04,0:01:39.76,Default,,0,0,0,,sao khi đôi mắt ta chạm nhau
+Dialogue: 0,0:01:39.76,0:01:41.95,Default,,0,0,0,,Anh cứ ngỡ rằng từ bấy lâu,
+Dialogue: 0,0:01:41.95,0:01:44.32,Default,,0,0,0,,mình sinh ra là để đợi chờ nhau
+Dialogue: 0,0:01:44.32,0:01:45.76,Default,,0,0,0,,Muốn nói với em nhiều thế
+Dialogue: 0,0:01:45.76,0:01:47.52,Default,,0,0,0,,mà tại sao anh cứ im lặng thế
+Dialogue: 0,0:01:47.52,0:01:49.12,Default,,0,0,0,,Muốn hát em nghe một khúc ca
+Dialogue: 0,0:01:49.12,0:01:50.86,Default,,0,0,0,,anh tự viết ra mối duyên tình ta
+Dialogue: 0,0:01:50.86,0:01:52.38,Default,,0,0,0,,Nỗi nhớ anh mang bao tháng ngày
+Dialogue: 0,0:01:52.38,0:01:54.17,Default,,0,0,0,,Để chất chứa tâm tư sầu lắng này
+Dialogue: 0,0:01:54.17,0:01:55.32,Default,,0,0,0,,Bóng dáng ấy bao ngày qua
+Dialogue: 0,0:01:55.32,0:01:57.63,Default,,0,0,0,,cứ mãi trong long anh đắm say
+Dialogue: 0,0:01:57.63,0:01:58.94,Default,,0,0,0,,Về đây với anh người nhé
+Dialogue: 0,0:01:58.94,0:02:00.57,Default,,0,0,0,,Dựng xây giấc mơ nhõ bé
+Dialogue: 0,0:02:00.57,0:02:02.40,Default,,0,0,0,,Cùng nhau nắm tay mình sẽ đưa nhau
+Dialogue: 0,0:02:02.40,0:02:04.00,Default,,0,0,0,,đi qua bao tháng ngày bình yên
+Dialogue: 0,0:02:04.00,0:02:05.93,Default,,0,0,0,,Dù cho lúc sau này có bao nhiêu âu lo
+Dialogue: 0,0:02:05.93,0:02:07.69,Default,,0,0,0,,anh xin nhận gánh hết ưu phiền
+Dialogue: 0,0:02:07.69,0:02:10.24,Default,,0,0,0,,Chỉ cần thấy em vui trên môi luôn cười tươi
+Dialogue: 0,0:02:10.24,0:02:13.55,Default,,0,0,0,,Với anh thế đủ rồi.
+Dialogue: 0,0:02:13.55,0:02:16.88,Default,,0,0,0,,Muốn nói với em nhiều thế
+Dialogue: 0,0:02:16.88,0:02:20.03,Default,,0,0,0,,Muốn hát em nghe một khúc ca
+Dialogue: 0,0:02:20.06,0:02:21.76,Default,,0,0,0,,Nỗi nhớ anh mang bao tháng ngày
+Dialogue: 0,0:02:21.76,0:02:23.34,Default,,0,0,0,,Để chất chứa tâm tư sầu lắng này
+Dialogue: 0,0:02:23.34,0:02:24.49,Default,,0,0,0,,Bóng dáng ấy bao ngày qua
+Dialogue: 0,0:02:24.49,0:02:26.73,Default,,0,0,0,,cứ mãi trong long anh đắm say
+Dialogue: 0,0:02:26.73,0:02:28.20,Default,,0,0,0,,Về đây với anh người nhé
+Dialogue: 0,0:02:28.20,0:02:29.82,Default,,0,0,0,,Dựng xây giấc mơ nhõ bé
+Dialogue: 0,0:02:29.82,0:02:31.36,Default,,0,0,0,,Cùng nhau nắm tay mình sẽ đưa nhau
+Dialogue: 0,0:02:31.36,0:02:32.92,Default,,0,0,0,,đi qua bao tháng ngày bình yên
+Dialogue: 0,0:02:32.92,0:02:35.05,Default,,0,0,0,,Dù cho lúc sau này có bao nhiêu âu lo
+Dialogue: 0,0:02:35.05,0:02:36.73,Default,,0,0,0,,anh xin nhận gánh hết ưu phiền
+Dialogue: 0,0:02:36.73,0:02:39.50,Default,,0,0,0,,Chỉ cần thấy em vui trên môi luôn cười tươi
+Dialogue: 0,0:02:39.50,0:02:40.80,Default,,0,0,0,,Với anh thế đủ rồi.
+Dialogue: 0,0:02:40.80,0:02:42.09,Default,,0,0,0,,Sáng sớm bước dưới ánh nắng
+Dialogue: 0,0:02:42.09,0:02:43.66,Default,,0,0,0,,Chiếu ngang đi trên con đường
+Dialogue: 0,0:02:43.66,0:02:45.12,Default,,0,0,0,,Lật đật chạy theo em
+Dialogue: 0,0:02:45.12,0:02:46.75,Default,,0,0,0,,Đi ngang qua bao phố phường
+Dialogue: 0,0:02:46.75,0:02:48.27,Default,,0,0,0,,Dại khờ từ lâu lắm
+Dialogue: 0,0:02:48.27,0:02:49.92,Default,,0,0,0,,Anh đã trót vấn vương
+Dialogue: 0,0:02:49.92,0:02:51.88,Default,,0,0,0,,Vậy mà người thờ ơ cứ mãi
+Dialogue: 0,0:02:51.88,0:02:53.61,Default,,0,0,0,,Lạc đường yêu đương
+Dialogue: 0,0:02:53.61,0:02:54.46,Default,,0,0,0,,Rồi một ngày đoạn đường
+Dialogue: 0,0:02:54.46,0:02:55.85,Default,,0,0,0,,Về trời chợt mưa rơi rơi
+Dialogue: 0,0:02:55.85,0:02:57.55,Default,,0,0,0,,Long ngập ngừng một hồi
+Dialogue: 0,0:02:57.55,0:02:59.55,Default,,0,0,0,,Chân anh vội vã bước tới
+Dialogue: 0,0:02:59.55,0:03:01.23,Default,,0,0,0,,Kéo em sát gần lại
+Dialogue: 0,0:03:01.23,0:03:02.86,Default,,0,0,0,,Ân cần khẽ nói
+Dialogue: 0,0:03:02.86,0:03:04.20,Default,,0,0,0,,Từ lâu cho con tim anh
+Dialogue: 0,0:03:04.20,0:03:06.36,Default,,0,0,0,,Lạc đường lỡ bước em rồi
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

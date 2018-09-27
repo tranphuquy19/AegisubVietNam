@@ -1,0 +1,128 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 0.5
+Audio URI: New folder\toi-muon-quen-em-phan-manh-quynh-ld-mv.avi
+Scroll Position: 54
+Active Line: 55
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.73,0:00:21.62,Default,,0,0,0,,.Rồi hoàng hôn lại tới,
+Dialogue: 0,0:00:21.62,0:00:23.80,Default,,0,0,0,,Nhìn mây về núi,
+Dialogue: 0,0:00:23.80,0:00:27.68,Default,,0,0,0,,Cảm giác cô đơn thêm 1 lần nữa ghé thăm.
+Dialogue: 0,0:00:27.68,0:00:29.68,Default,,0,0,0,,Ngày nắng đã tắt,
+Dialogue: 0,0:00:29.68,0:00:31.68,Default,,0,0,0,,Từng hạt nắng dần tan
+Dialogue: 0,0:00:31.68,0:00:35.82,Default,,0,0,0,,Nhường ưu tư cho đêm êm đềm.
+Dialogue: 0,0:00:35.82,0:00:39.95,Default,,0,0,0,,Từng nỗi nhớ nối nhau hóa những ánh sao
+Dialogue: 0,0:00:40.15,0:00:44.02,Default,,0,0,0,,Miên man trôi mãi trên nền trời,
+Dialogue: 0,0:00:44.02,0:00:48.11,Default,,0,0,0,, Dánh thức nỗi đau ngỡ đã khuất sâu
+Dialogue: 0,0:00:48.11,0:00:52.95,Default,,0,0,0,,Không mong muốn bất giác quayvề…
+Dialogue: 0,0:00:53.68,0:00:55.75,Default,,0,0,0,,Tôi muốn quên em đi,
+Dialogue: 0,0:00:55.75,0:00:57.75,Default,,0,0,0,,Rất muốn quên em đi
+Dialogue: 0,0:00:57.75,0:01:01.53,Default,,0,0,0,,Để tìm lại niềm vui để sống thiết tha hơn.
+Dialogue: 0,0:01:01.53,0:01:03.53,Default,,0,0,0,,Thôi những đêm bâng khuâng,
+Dialogue: 0,0:01:03.53,0:01:09.66,Default,,0,0,0,,Thôi những giọt nước mắt cố nén mà nhớ đôi khi vẫn rơi.
+Dialogue: 0,0:01:09.66,0:01:11.62,Default,,0,0,0,,Lại nhìn về đôi tay điệu
+Dialogue: 0,0:01:11.62,0:01:13.62,Default,,0,0,0,,Nhạc hòa tâm can,
+Dialogue: 0,0:01:13.62,0:01:17.55,Default,,0,0,0,,Nhẹ nhàng hòa cơn gió khác hơn trong lòng,
+Dialogue: 0,0:01:17.55,0:01:19.55,Default,,0,0,0,,Chờ ngày bớt cô đơn,
+Dialogue: 0,0:01:21.73,0:01:25.08,Default,,0,0,0,,Tôi muốn quên em đi…
+Dialogue: 0,0:01:41.68,0:01:45.57,Default,,0,0,0,,Lại là hai hướng nghĩ khác khi ta nhìn đời ta,
+Dialogue: 0,0:01:45.57,0:01:49.62,Default,,0,0,0,,ưh tôi sẽ mãi còn thích lênh đênh,
+Dialogue: 0,0:01:49.62,0:01:53.64,Default,,0,0,0,,Và em tất nhiên chẳng muốn như vậy
+Dialogue: 0,0:01:53.64,0:01:58.08,Default,,0,0,0,,Vì đời sẽ luôn bấp bênh ghập ghềnh.
+Dialogue: 0,0:01:58.28,0:02:00.42,Default,,0,0,0,,Đã biết thế rồi,
+Dialogue: 0,0:02:00.42,0:02:03.84,Default,,0,0,0,,vẫn biết vô vọng nhưng xin giữ riêng
+Dialogue: 0,0:02:03.84,0:02:06.11,Default,,0,0,0,,em trong đời.
+Dialogue: 0,0:02:06.11,0:02:09.68,Default,,0,0,0,,Biết đến bao giờ ánh mắt nụ cười
+Dialogue: 0,0:02:09.68,0:02:13.53,Default,,0,0,0,,tôi yêu đương sẽ mới phai nhòa.
+Dialogue: 0,0:02:13.53,0:02:15.73,Default,,0,0,0,,Tôi muốn quên em đi,
+Dialogue: 0,0:02:15.73,0:02:17.51,Default,,0,0,0,,rất muốn quên em đi
+Dialogue: 0,0:02:17.51,0:02:21.55,Default,,0,0,0,,Để tìm lại niềm vui để sống thiết tha hơn.
+Dialogue: 0,0:02:21.55,0:02:23.55,Default,,0,0,0,,hôi những đêm bâng khuâng,
+Dialogue: 0,0:02:23.55,0:02:29.44,Default,,0,0,0,,thôi những giọt nước mắt cố nén mà nhớ đôi khi vẫn rơi.
+Dialogue: 0,0:02:29.44,0:02:31.57,Default,,0,0,0,,Lại nhìn về đôi tay điệu
+Dialogue: 0,0:02:31.57,0:02:33.57,Default,,0,0,0,,nhạc hòa tâm can,
+Dialogue: 0,0:02:33.57,0:02:37.60,Default,,0,0,0,,nhẹ nhàng hòa cơn gió khác hơn trong lòng,
+Dialogue: 0,0:02:37.60,0:02:40.44,Default,,0,0,0,,chờ ngày bớt cô đơn,
+Dialogue: 0,0:02:41.77,0:02:43.64,Default,,0,0,0,,tôi muốn quên em đi…
+Dialogue: 0,0:02:43.64,0:02:45.60,Default,,0,0,0,,rất muốn quên em đi
+Dialogue: 0,0:02:45.60,0:02:49.64,Default,,0,0,0,,Để tìm lại niềm vui để sống thiết tha hơn.
+Dialogue: 0,0:02:49.64,0:02:51.53,Default,,0,0,0,,hôi những đêm bâng khuâng,
+Dialogue: 0,0:02:51.53,0:02:57.51,Default,,0,0,0,,thôi những giọt nước mắt cố nén mà nhớ đôi khi vẫn rơi.
+Dialogue: 0,0:02:57.51,0:02:59.73,Default,,0,0,0,,Lại nhìn về đôi tay điệu
+Dialogue: 0,0:02:59.73,0:03:01.71,Default,,0,0,0,,nhạc hòa tâm can,
+Dialogue: 0,0:03:01.71,0:03:05.57,Default,,0,0,0,,nhẹ nhàng hòa cơn gió khác hơn trong lòng,
+Dialogue: 0,0:03:05.57,0:03:08.04,Default,,0,0,0,,chờ ngày bớt cô đơn,
+Dialogue: 0,0:03:09.53,0:03:11.64,Default,,0,0,0,,tôi muốn quên em đi…
+Dialogue: 0,0:03:11.64,0:03:15.51,Default,,0,0,0,,Tình giờ như chiếc lá bay bay khi gió về,
+Dialogue: 0,0:03:15.51,0:03:19.71,Default,,0,0,0,,Buồn như phiến đá ung dung nghe tiếng đàn,
+Dialogue: 0,0:03:19.71,0:03:31.48,Default,,0,0,0,,Chẳng biết bao lâu tôi mới quên em đi.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
+Dialogue: 0,0:00:19.73,0:00:21.62,Default,,0,0,0,,{\k41}.Roài {\k49}hoaøng {\k33}hoân {\k33}laïi {\k33}tôùi,
+Dialogue: 0,0:00:21.62,0:00:23.80,Default,,0,0,0,,{\k68}Nhìn {\k55}maây {\k41}veà {\k54}nuùi,
+Dialogue: 0,0:00:23.80,0:00:27.68,Default,,0,0,0,,{\k39}Caûm {\k49}giaùc {\k29}coâ {\k39}ñôn {\k49}theâm {\k19}1 {\k39}laàn {\k39}nöõa {\k39}gheù {\k49}thaêm.
+Dialogue: 0,0:00:27.68,0:00:29.68,Default,,0,0,0,,{\k59}Ngaøy {\k59}naéng {\k35}ñaõ {\k47}taét,
+Dialogue: 0,0:00:29.68,0:00:31.68,Default,,0,0,0,,{\k48}Töøng {\k38}haït {\k48}naéng {\k38}daàn {\k29}tan
+Dialogue: 0,0:00:31.68,0:00:35.82,Default,,0,0,0,,{\k104}Nhöôøng {\k44}öu {\k44}tö {\k59}cho {\k59}ñeâm {\k44}eâm {\k59}ñeàm.
+Dialogue: 0,0:00:35.82,0:00:39.95,Default,,0,0,0,,{\k53}Töøng {\k42}noãi {\k42}nhôù {\k42}noái {\k53}nhau {\k42}hoùa {\k64}nhöõng {\k42}aùnh {\k32}sao
+Dialogue: 0,0:00:40.15,0:00:44.02,Default,,0,0,0,,{\k61}Mieân {\k48}man {\k61}troâi {\k48}maõi {\k61}treân {\k48}neàn {\k60}trôøi,
+Dialogue: 0,0:00:44.02,0:00:48.11,Default,,0,0,0,,{\k12} {\k59}Daùnh {\k59}thöùc {\k47}noãi {\k47}ñau {\k47}ngôõ {\k35}ñaõ {\k70}khuaát {\k35}saâu
+Dialogue: 0,0:00:48.11,0:00:52.95,Default,,0,0,0,,{\k91}Khoâng {\k76}mong {\k76}muoán {\k61}baát {\k76}giaùc {\k106}quayveà…
+Dialogue: 0,0:00:53.68,0:00:55.75,Default,,0,0,0,,{\k41}Toâi {\k52}muoán {\k52}queân {\k31}em {\k31}ñi,
+Dialogue: 0,0:00:55.75,0:00:57.75,Default,,0,0,0,,{\k42}Raát {\k53}muoán {\k53}queân {\k32}em {\k21}ñi
+Dialogue: 0,0:00:57.75,0:01:01.53,Default,,0,0,0,,{\k27}Ñeå {\k36}tìm {\k36}laïi {\k45}nieàm {\k36}vui {\k27}ñeå {\k45}soáng {\k54}thieát {\k36}tha {\k36}hôn.
+Dialogue: 0,0:01:01.53,0:01:03.53,Default,,0,0,0,,{\k37}Thoâi {\k45}nhöõng {\k30}ñeâm {\k37}baâng {\k52}khuaâng,
+Dialogue: 0,0:01:03.53,0:01:09.66,Default,,0,0,0,,{\k56}Thoâi {\k67}nhöõng {\k56}gioït {\k56}nöôùc {\k45}maét {\k34}coá {\k45}neùn {\k33}maø {\k45}nhôù {\k45}ñoâi {\k45}khi {\k45}vaãn {\k45}rôi.
+Dialogue: 0,0:01:09.66,0:01:11.62,Default,,0,0,0,,{\k33}Laïi {\k41}nhìn {\k25}veà {\k33}ñoâi {\k33}tay {\k33}ñieäu
+Dialogue: 0,0:01:11.62,0:01:13.62,Default,,0,0,0,,{\k59}Nhaïc {\k47}hoøa {\k47}taâm {\k47}can,
+Dialogue: 0,0:01:13.62,0:01:17.55,Default,,0,0,0,,{\k38}Nheï {\k56}nhaøng {\k38}hoøa {\k37}côn {\k37}gioù {\k47}khaùc {\k37}hôn {\k56}trong {\k47}loøng,
+Dialogue: 0,0:01:17.55,0:01:19.55,Default,,0,0,0,,{\k40}Chôø {\k50}ngaøy {\k40}bôùt {\k30}coâ {\k40}ñôn,
+Dialogue: 0,0:01:21.73,0:01:25.08,Default,,0,0,0,,{\k67}Toâi {\k84}muoán {\k84}queân {\k50}em {\k50}ñi…
+Dialogue: 0,0:01:41.68,0:01:45.57,Default,,0,0,0,,{\k34}Laïi {\k25}laø {\k34}hai {\k51}höôùng {\k42}nghó {\k42}khaùc {\k34}khi {\k25}ta {\k42}nhìn {\k34}ñôøi {\k25}ta,
+Dialogue: 0,0:01:45.57,0:01:49.62,Default,,0,0,0,,{\k36}öh {\k48}toâi {\k36}seõ {\k48}maõi {\k48}coøn {\k71}thích {\k60}leânh {\k60}ñeânh,
+Dialogue: 0,0:01:49.62,0:01:53.64,Default,,0,0,0,,{\k36}Vaø {\k36}em {\k47}taát {\k71}nhieân {\k71}chaúng {\k59}muoán {\k47}nhö {\k35}vaäy
+Dialogue: 0,0:01:53.64,0:01:58.08,Default,,0,0,0,,{\k38}Vì {\k51}ñôøi {\k38}seõ {\k63}luoân {\k51}baáp {\k63}beânh {\k63}ghaäp {\k76}gheành.
+Dialogue: 0,0:01:58.28,0:02:00.42,Default,,0,0,0,,{\k40}Ñaõ {\k67}bieát {\k54}theá {\k53}roài,
+Dialogue: 0,0:02:00.42,0:02:03.84,Default,,0,0,0,,{\k38}vaãn {\k48}bieát {\k29}voâ {\k48}voïng {\k57}nhöng {\k38}xin {\k38}giöõ {\k48}rieâng
+Dialogue: 0,0:02:03.84,0:02:06.11,Default,,0,0,0,,{\k52}em {\k105}trong {\k70}ñôøi.
+Dialogue: 0,0:02:06.11,0:02:09.68,Default,,0,0,0,,{\k56}Bieát {\k45}ñeán {\k45}bao {\k45}giôø {\k45}aùnh {\k45}maét {\k34}nuï {\k45}cöôøi
+Dialogue: 0,0:02:09.68,0:02:13.53,Default,,0,0,0,,{\k50}toâi {\k50}yeâu {\k75}ñöông {\k37}seõ {\k50}môùi {\k62}phai {\k62}nhoøa.
+Dialogue: 0,0:02:13.53,0:02:15.73,Default,,0,0,0,,{\k44}Toâi {\k55}muoán {\k55}queân {\k33}em {\k33}ñi,
+Dialogue: 0,0:02:15.73,0:02:17.51,Default,,0,0,0,,{\k38}raát {\k47}muoán {\k47}queân {\k28}em {\k19}ñi
+Dialogue: 0,0:02:17.51,0:02:21.55,Default,,0,0,0,,{\k29}Ñeå {\k39}tìm {\k39}laïi {\k48}nieàm {\k39}vui {\k29}ñeå {\k48}soáng {\k58}thieát {\k38}tha {\k38}hôn.
+Dialogue: 0,0:02:21.55,0:02:23.55,Default,,0,0,0,,{\k31}hoâi {\k46}nhöõng {\k31}ñeâm {\k39}baâng {\k54}khuaâng,
+Dialogue: 0,0:02:23.55,0:02:29.44,Default,,0,0,0,,{\k54}thoâi {\k64}nhöõng {\k54}gioït {\k54}nöôùc {\k43}maét {\k32}coá {\k43}neùn {\k32}maø {\k43}nhôù {\k43}ñoâi {\k43}khi {\k43}vaãn {\k43}rôi.
+Dialogue: 0,0:02:29.44,0:02:31.57,Default,,0,0,0,,{\k36}Laïi {\k44}nhìn {\k27}veà {\k36}ñoâi {\k36}tay {\k35}ñieäu
+Dialogue: 0,0:02:31.57,0:02:33.57,Default,,0,0,0,,{\k59}nhaïc {\k47}hoøa {\k47}taâm {\k47}can,
+Dialogue: 0,0:02:33.57,0:02:37.60,Default,,0,0,0,,{\k38}nheï {\k58}nhaøng {\k38}hoøa {\k38}côn {\k38}gioù {\k48}khaùc {\k38}hôn {\k58}trong {\k48}loøng,
+Dialogue: 0,0:02:37.60,0:02:40.44,Default,,0,0,0,,{\k57}chôø {\k71}ngaøy {\k57}bôùt {\k43}coâ {\k57}ñôn,
+Dialogue: 0,0:02:41.77,0:02:43.64,Default,,0,0,0,,{\k37}toâi {\k47}muoán {\k47}queân {\k28}em {\k28}ñi…
+Dialogue: 0,0:02:43.64,0:02:45.60,Default,,0,0,0,,{\k41}raát {\k52}muoán {\k52}queân {\k31}em {\k21}ñi
+Dialogue: 0,0:02:45.60,0:02:49.64,Default,,0,0,0,,{\k29}Ñeå {\k39}tìm {\k39}laïi {\k48}nieàm {\k39}vui {\k29}ñeå {\k48}soáng {\k58}thieát {\k38}tha {\k38}hôn.
+Dialogue: 0,0:02:49.64,0:02:51.53,Default,,0,0,0,,{\k29}hoâi {\k44}nhöõng {\k29}ñeâm {\k36}baâng {\k51}khuaâng,
+Dialogue: 0,0:02:51.53,0:02:57.51,Default,,0,0,0,,{\k54}thoâi {\k65}nhöõng {\k54}gioït {\k54}nöôùc {\k44}maét {\k33}coá {\k44}neùn {\k33}maø {\k44}nhôù {\k44}ñoâi {\k44}khi {\k43}vaãn {\k43}rôi.
+Dialogue: 0,0:02:57.51,0:02:59.73,Default,,0,0,0,,{\k37}Laïi {\k46}nhìn {\k28}veà {\k37}ñoâi {\k37}tay {\k37}ñieäu
+Dialogue: 0,0:02:59.73,0:03:01.71,Default,,0,0,0,,{\k58}nhaïc {\k47}hoøa {\k47}taâm {\k47}can,
+Dialogue: 0,0:03:01.71,0:03:05.57,Default,,0,0,0,,{\k37}nheï {\k55}nhaøng {\k37}hoøa {\k37}côn {\k37}gioù {\k46}khaùc {\k37}hôn {\k55}trong {\k46}loøng,
+Dialogue: 0,0:03:05.57,0:03:08.04,Default,,0,0,0,,{\k49}chôø {\k62}ngaøy {\k49}bôùt {\k37}coâ {\k49}ñôn,
+Dialogue: 0,0:03:09.53,0:03:11.64,Default,,0,0,0,,{\k42}toâi {\k53}muoán {\k53}queân {\k32}em {\k32}ñi…
+Dialogue: 0,0:03:11.64,0:03:15.51,Default,,0,0,0,,{\k47}Tình {\k38}giôø {\k38}nhö {\k57}chieác {\k28}laù {\k38}bay {\k38}bay {\k38}khi {\k38}gioù {\k28}veà,
+Dialogue: 0,0:03:15.51,0:03:19.71,Default,,0,0,0,,{\k50}Buoàn {\k40}nhö {\k60}phieán {\k30}ñaù {\k40}ung {\k50}dung {\k50}nghe {\k60}tieáng {\k40}ñaøn,
+Dialogue: 0,0:03:19.71,0:03:31.48,Default,,0,0,0,,{\k186}Chaúng {\k155}bieát {\k124}bao {\k124}laâu {\k124}toâi {\k124}môùi {\k155}queân {\k93}em {\k93}ñi.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:11.00,0:00:13.00,Default,,0,0,0,,

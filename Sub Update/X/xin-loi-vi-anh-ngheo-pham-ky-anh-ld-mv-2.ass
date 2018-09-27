@@ -1,0 +1,101 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\xin-loi-vi-anh-ngheo-pham-ky-anh.avi
+Scroll Position: 51
+Active Line: 58
+Video Zoom Percent: 0.25
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:40.00,0:00:45.88,Default,,0,0,0,,Từng hạt mưa rơi để lại với bao nỗi buồn
+Dialogue: 0,0:00:46.35,0:00:52.08,Default,,0,0,0,,Tình cờ gặp nhau vương vấn trong đôi mắt sầu
+Dialogue: 0,0:00:52.75,0:00:58.33,Default,,0,0,0,,Anh biết vị trí ấy ở đâu trong em
+Dialogue: 0,0:00:58.95,0:01:04.97,Default,,0,0,0,,Bên cạnh nỗi đau và đằng sau hạnh phúc
+Dialogue: 0,0:01:05.46,0:01:11.31,Default,,0,0,0,,Yêu một người em chấp nhận đánh đổi tất cả
+Dialogue: 0,0:01:12.08,0:01:17.88,Default,,0,0,0,,Hạnh phúc đôi khi chỉ giản đơn như vậy thôi
+Dialogue: 0,0:01:18.42,0:01:23.95,Default,,0,0,0,,Chọn đúng người để trao yêu thương em tin vào
+Dialogue: 0,0:01:24.60,0:01:30.33,Default,,0,0,0,,Và cùng nhau đi đến hết chặng đường dài
+Dialogue: 0,0:01:31.24,0:01:36.37,Default,,0,0,0,,Em yêu anh chẳng cần bận tâm đến điều gì
+Dialogue: 0,0:01:37.64,0:01:42.71,Default,,0,0,0,,Yêu anh chỉ cần ở bên anh như thế thôi
+Dialogue: 0,0:01:42.71,0:01:46.17,Default,,0,0,0,,Một mình trong đêm quặn đau
+Dialogue: 0,0:01:46.17,0:01:51.22,Default,,0,0,0,,Vì nỗi nhớ người em có hiểu
+Dialogue: 0,0:01:53.42,0:01:59.91,Default,,0,0,0,,Nhưng anh không thể cho em bình yên như bao người
+Dialogue: 0,0:01:59.91,0:02:05.17,Default,,0,0,0,,Yêu anh không mang cho em được nhiều niềm hạnh phúc
+Dialogue: 0,0:02:05.17,0:02:08.93,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:02:08.93,0:02:14.00,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:02:38.31,0:02:44.93,Default,,0,0,0,,Yêu một người em chấp nhận đánh đổi tất cả
+Dialogue: 0,0:02:44.93,0:02:50.88,Default,,0,0,0,,Hạnh phúc đôi khi chỉ giản đơn như vậy thôi
+Dialogue: 0,0:02:51.17,0:02:57.17,Default,,0,0,0,,Chọn đúng người để trao yêu thương em tin vào
+Dialogue: 0,0:02:57.57,0:03:03.08,Default,,0,0,0,,Và cùng nhau đi đến hết chặng đường dài
+Dialogue: 0,0:03:03.91,0:03:09.33,Default,,0,0,0,,Em yêu anh chẳng cần bận tâm đến điều gì
+Dialogue: 0,0:03:10.33,0:03:15.48,Default,,0,0,0,,Yêu anh chỉ cần ở bên anh như thế thôi
+Dialogue: 0,0:03:15.48,0:03:19.13,Default,,0,0,0,,Một mình trong đêm quặn đau
+Dialogue: 0,0:03:19.13,0:03:24.66,Default,,0,0,0,,Vì nỗi nhớ người em có hiểu
+Dialogue: 0,0:03:26.31,0:03:32.84,Default,,0,0,0,,Nhưng anh không thể cho em bình yên như bao người
+Dialogue: 0,0:03:32.84,0:03:37.95,Default,,0,0,0,,Yêu anh không mang cho em được nhiều niềm hạnh phúc
+Dialogue: 0,0:03:37.95,0:03:41.64,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:03:41.64,0:03:45.57,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:03:45.57,0:03:51.33,Default,,0,0,0,,Em yêu anh chẳng cần bận tâm đến điều gì
+Dialogue: 0,0:03:52.02,0:03:57.15,Default,,0,0,0,,Yêu anh chỉ cần ở bên anh như thế thôi
+Dialogue: 0,0:03:57.15,0:04:00.73,Default,,0,0,0,,Một mình trong đêm quặn đau
+Dialogue: 0,0:04:00.73,0:04:07.15,Default,,0,0,0,,Vì nỗi nhớ người em có hiểu
+Dialogue: 0,0:04:08.00,0:04:14.40,Default,,0,0,0,,Nhưng anh không thể cho em bình yên như bao người
+Dialogue: 0,0:04:14.40,0:04:19.51,Default,,0,0,0,,Yêu anh không mang cho em được nhiều niềm hạnh phúc
+Dialogue: 0,0:04:19.51,0:04:23.33,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:04:23.33,0:04:27.60,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:04:27.60,0:04:32.31,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:04:33.77,0:04:41.02,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:40.00,0:00:45.88,Default,,0,0,0,,Từng hạt mưa rơi để lại với bao nỗi buồn
+Dialogue: 0,0:00:46.35,0:00:52.08,Default,,0,0,0,,Tình cờ gặp nhau vương vấn trong đôi mắt sầu
+Dialogue: 0,0:00:52.75,0:00:58.33,Default,,0,0,0,,Anh biết vị trí ấy ở đâu trong em
+Dialogue: 0,0:00:58.95,0:01:04.97,Default,,0,0,0,,Bên cạnh nỗi đau và đằng sau hạnh phúc
+Dialogue: 0,0:01:05.46,0:01:11.31,Default,,0,0,0,,Yêu một người em chấp nhận đánh đổi tất cả
+Dialogue: 0,0:01:12.08,0:01:17.88,Default,,0,0,0,,Hạnh phúc đôi khi chỉ giản đơn như vậy thôi
+Dialogue: 0,0:01:18.42,0:01:23.95,Default,,0,0,0,,Chọn đúng người để trao yêu thương em tin vào
+Dialogue: 0,0:01:24.60,0:01:30.33,Default,,0,0,0,,Và cùng nhau đi đến hết chặng đường dài
+Dialogue: 0,0:01:31.24,0:01:36.37,Default,,0,0,0,,Em yêu anh chẳng cần bận tâm đến điều gì
+Dialogue: 0,0:01:37.64,0:01:42.71,Default,,0,0,0,,Yêu anh chỉ cần ở bên anh như thế thôi
+Dialogue: 0,0:01:42.71,0:01:46.17,Default,,0,0,0,,Một mình trong đêm quặn đau
+Dialogue: 0,0:01:46.17,0:01:51.22,Default,,0,0,0,,Vì nỗi nhớ người em có hiểu
+Dialogue: 0,0:01:53.42,0:01:59.91,Default,,0,0,0,,Nhưng anh không thể cho em bình yên như bao người
+Dialogue: 0,0:01:59.91,0:02:05.17,Default,,0,0,0,,Yêu anh không mang cho em được nhiều niềm hạnh phúc
+Dialogue: 0,0:02:05.17,0:02:08.93,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:02:08.93,0:02:14.00,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:02:38.31,0:02:44.93,Default,,0,0,0,,Yêu một người em chấp nhận đánh đổi tất cả
+Dialogue: 0,0:02:44.93,0:02:50.88,Default,,0,0,0,,Hạnh phúc đôi khi chỉ giản đơn như vậy thôi
+Dialogue: 0,0:02:51.17,0:02:57.17,Default,,0,0,0,,Chọn đúng người để trao yêu thương em tin vào
+Dialogue: 0,0:02:57.57,0:03:03.08,Default,,0,0,0,,Và cùng nhau đi đến hết chặng đường dài
+Dialogue: 0,0:03:03.91,0:03:09.33,Default,,0,0,0,,Em yêu anh chẳng cần bận tâm đến điều gì
+Dialogue: 0,0:03:10.33,0:03:15.48,Default,,0,0,0,,Yêu anh chỉ cần ở bên anh như thế thôi
+Dialogue: 0,0:03:15.48,0:03:19.13,Default,,0,0,0,,Một mình trong đêm quặn đau
+Dialogue: 0,0:03:19.13,0:03:24.66,Default,,0,0,0,,Vì nỗi nhớ người em có hiểu
+Dialogue: 0,0:03:26.31,0:03:32.84,Default,,0,0,0,,Nhưng anh không thể cho em bình yên như bao người
+Dialogue: 0,0:03:32.84,0:03:37.95,Default,,0,0,0,,Yêu anh không mang cho em được nhiều niềm hạnh phúc
+Dialogue: 0,0:03:37.95,0:03:41.64,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:03:41.64,0:03:45.57,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:03:45.57,0:03:51.33,Default,,0,0,0,,Em yêu anh chẳng cần bận tâm đến điều gì
+Dialogue: 0,0:03:52.02,0:03:57.15,Default,,0,0,0,,Yêu anh chỉ cần ở bên anh như thế thôi
+Dialogue: 0,0:03:57.15,0:04:00.73,Default,,0,0,0,,Một mình trong đêm quặn đau
+Dialogue: 0,0:04:00.73,0:04:07.15,Default,,0,0,0,,Vì nỗi nhớ người em có hiểu
+Dialogue: 0,0:04:08.00,0:04:14.40,Default,,0,0,0,,Nhưng anh không thể cho em bình yên như bao người
+Dialogue: 0,0:04:14.40,0:04:19.51,Default,,0,0,0,,Yêu anh không mang cho em được nhiều niềm hạnh phúc
+Dialogue: 0,0:04:19.51,0:04:23.33,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:04:23.33,0:04:27.60,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:04:27.60,0:04:32.31,Default,,0,0,0,,Làm sao giấu nước mắt em
+Dialogue: 0,0:04:33.77,0:04:41.02,Default,,0,0,0,,Chất chứa trong bao tổn thương
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

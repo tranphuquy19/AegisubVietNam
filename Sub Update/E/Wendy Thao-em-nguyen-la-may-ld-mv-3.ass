@@ -1,0 +1,80 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\Wendy Thao-em-nguyen-la-may.avi
+Video Zoom Percent: 0.25
+Scroll Position: 44
+Active Line: 58
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:30.37,0:00:34.02,Default,,0,0,0,,Chuyện tình yêu ai biết đâu ...
+Dialogue: 0,0:00:34.02,0:00:37.77,Default,,0,0,0,,sau này sẽ mất nhau khi nào.
+Dialogue: 0,0:00:37.77,0:00:45.15,Default,,0,0,0,,Chỉ cần biết khi có nhau, chớ làm nhau đau.
+Dialogue: 0,0:00:45.15,0:00:48.88,Default,,0,0,0,,Tìm được nhau quá khó khăn,
+Dialogue: 0,0:00:48.88,0:00:52.48,Default,,0,0,0,,nhưng buông bỏ thì dễ dàng.
+Dialogue: 0,0:00:52.48,0:00:56.26,Default,,0,0,0,,Không vì nhau, không hiểu nhau ..
+Dialogue: 0,0:00:56.26,0:00:59.97,Default,,0,0,0,,. cũng chẳng bền lâu.
+Dialogue: 0,0:00:59.97,0:01:03.55,Default,,0,0,0,,Giận hờn rồi cũng sẽ qua,
+Dialogue: 0,0:01:03.55,0:01:07.26,Default,,0,0,0,,khi mà biết thứ tha cho nhau.
+Dialogue: 0,0:01:07.26,0:01:11.06,Default,,0,0,0,,Muộn phiền cũng sẽ biến tan,
+Dialogue: 0,0:01:11.06,0:01:14.48,Default,,0,0,0,,khi cùng sẻ san.
+Dialogue: 0,0:01:14.71,0:01:18.37,Default,,0,0,0,,Dù đôi khi phải cách xa,
+Dialogue: 0,0:01:18.37,0:01:22.08,Default,,0,0,0,,nhưng trong tim mình thật thà.
+Dialogue: 0,0:01:22.08,0:01:25.66,Default,,0,0,0,,Chỉ cần ta nghĩ về nhau,
+Dialogue: 0,0:01:25.66,0:01:29.68,Default,,0,0,0,,vững tin vào nhau.
+Dialogue: 0,0:01:29.68,0:01:33.17,Default,,0,0,0,,Nếu anh là ngọn núi cao
+Dialogue: 0,0:01:33.17,0:01:36.77,Default,,0,0,0,,Em xin nguyện là những đám mây
+Dialogue: 0,0:01:36.77,0:01:40.33,Default,,0,0,0,,Để một đời được ở bên,
+Dialogue: 0,0:01:40.33,0:01:44.13,Default,,0,0,0,,che chở cho anh.
+Dialogue: 0,0:01:44.13,0:01:48.00,Default,,0,0,0,,Em có thể chịu được bão giông,
+Dialogue: 0,0:01:48.00,0:01:51.57,Default,,0,0,0,,nhưng không chịu được sự nhớ mong.
+Dialogue: 0,0:01:51.57,0:01:58.80,Default,,0,0,0,,Chỉ cần mỗi ngày nhìn thấy anh yên vui mà thôi.
+Dialogue: 0,0:01:58.80,0:02:02.66,Default,,0,0,0,,Nếu một ngày chẳng cần đến em
+Dialogue: 0,0:02:02.66,0:02:06.15,Default,,0,0,0,,Em sẽ tự lùi về phía sau
+Dialogue: 0,0:02:06.15,0:02:13.68,Default,,0,0,0,,Anh không phải bận lòng nghĩ suy em sẽ ra sao.
+Dialogue: 0,0:02:13.68,0:02:17.26,Default,,0,0,0,,Em chấp nhận mọi chuyện chúng ta.
+Dialogue: 0,0:02:17.26,0:02:21.08,Default,,0,0,0,,Em chấp nhận làm người đứng xa.
+Dialogue: 0,0:02:21.08,0:02:23.88,Default,,0,0,0,,Chỉ cần người được hạnh phúc,
+Dialogue: 0,0:02:23.88,0:02:28.93,Default,,0,0,0,,em đã thấy yên lòng.
+Dialogue: 0,0:02:43.42,0:02:46.95,Default,,0,0,0,,Giận hờn rồi cũng sẽ qua,
+Dialogue: 0,0:02:46.95,0:02:50.71,Default,,0,0,0,,khi mà biết thứ tha cho nhau.
+Dialogue: 0,0:02:50.71,0:02:54.40,Default,,0,0,0,,Muộn phiền cũng sẽ biến tan,
+Dialogue: 0,0:02:54.40,0:02:58.02,Default,,0,0,0,,khi cùng sẻ san.
+Dialogue: 0,0:02:58.02,0:03:01.77,Default,,0,0,0,,Dù đôi khi phải cách xa,
+Dialogue: 0,0:03:01.77,0:03:05.40,Default,,0,0,0,,nhưng trong tim mình thật thà.
+Dialogue: 0,0:03:05.40,0:03:09.06,Default,,0,0,0,,Chỉ cần ta nghĩ về nhau,
+Dialogue: 0,0:03:09.06,0:03:12.77,Default,,0,0,0,,vững tin vào nhau.
+Dialogue: 0,0:03:12.77,0:03:16.51,Default,,0,0,0,,Nếu anh là ngọn núi cao
+Dialogue: 0,0:03:16.51,0:03:20.20,Default,,0,0,0,,Em xin nguyện là những đám mây
+Dialogue: 0,0:03:20.20,0:03:23.91,Default,,0,0,0,,Để một đời được ở bên,
+Dialogue: 0,0:03:23.91,0:03:27.60,Default,,0,0,0,,che chở cho anh.
+Dialogue: 0,0:03:27.60,0:03:31.26,Default,,0,0,0,,Em có thể chịu được bão giông,
+Dialogue: 0,0:03:31.26,0:03:35.00,Default,,0,0,0,,nhưng không chịu được sự nhớ mong.
+Dialogue: 0,0:03:35.00,0:03:42.33,Default,,0,0,0,,Chỉ cần mỗi ngày nhìn thấy anh yên vui mà thôi.
+Dialogue: 0,0:03:42.33,0:03:45.93,Default,,0,0,0,,Nếu một ngày chẳng cần đến em
+Dialogue: 0,0:03:45.93,0:03:49.86,Default,,0,0,0,,Em sẽ tự lùi về phía sau
+Dialogue: 0,0:03:49.86,0:03:57.11,Default,,0,0,0,,Anh không phải bận lòng nghĩ suy em sẽ ra sao.
+Dialogue: 0,0:03:57.35,0:04:00.88,Default,,0,0,0,,Em chấp nhận mọi chuyện chúng ta.
+Dialogue: 0,0:04:00.88,0:04:04.62,Default,,0,0,0,,Em chấp nhận làm người đứng xa.
+Dialogue: 0,0:04:04.62,0:04:07.28,Default,,0,0,0,,Chỉ cần người được hạnh phúc,
+Dialogue: 0,0:04:07.28,0:04:11.42,Default,,0,0,0,,em đã thấy yên lòng.
+Dialogue: 0,0:04:11.93,0:04:15.66,Default,,0,0,0,,Nếu anh là ngọn núi cao
+Dialogue: 0,0:04:15.66,0:04:19.42,Default,,0,0,0,,Em xin nguyện là những đám mây
+Dialogue: 0,0:04:19.42,0:04:22.88,Default,,0,0,0,,Để một đời được ở bên,
+Dialogue: 0,0:04:22.88,0:04:24.88,Default,,0,0,0,,che chở cho anh.
+Dialogue: 0,0:04:26.62,0:04:28.88,Default,,0,0,0,,Em có thể chịu được bão giông,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
