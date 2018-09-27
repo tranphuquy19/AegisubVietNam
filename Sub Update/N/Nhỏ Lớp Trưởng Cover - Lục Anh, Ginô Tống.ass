@@ -1,0 +1,151 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 116
+Active Line: 129
+Video Zoom Percent: 0.5
+Audio URI: New folder\nho lop truong cover.avi
+Last Style Storage: Default
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SVN-Shintia Script,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.05,0:00:03.48,Default,,0,0,0,,Năm học mới đã tới,
+Dialogue: 0,0:00:03.48,0:00:04.77,Default,,0,0,0,,chợt nghe lòng phơi phới,
+Dialogue: 0,0:00:04.77,0:00:07.08,Default,,0,0,0,,Trường mới, bạn mới và tất cả đều mới.
+Dialogue: 0,0:00:07.08,0:00:09.68,Default,,0,0,0,,Những chiếc áo dài thướt tha, lướt qua.
+Dialogue: 0,0:00:09.68,0:00:12.31,Default,,0,0,0,,Ôi thật là xinh quá, dzui quá (khà khà).
+Dialogue: 0,0:00:12.31,0:00:14.62,Default,,0,0,0,,Lớp mà nam còn ít hơn là nữ.
+Dialogue: 0,0:00:14.62,0:00:15.97,Default,,0,0,0,,Mà mấy bà còn hung dữ,
+Dialogue: 0,0:00:15.97,0:00:19.00,Default,,0,0,0,,Nhưng được cái lại rất xinh và cũng rất nhiệt tình,
+Dialogue: 0,0:00:19.00,0:00:20.14,Default,,0,0,0,,Nên chúng mình mới khổ,
+Dialogue: 0,0:00:20.14,0:00:22.80,Default,,0,0,0,,Bị đè đầu cưỡi cổ, bị sai vặt tùm lum.
+Dialogue: 0,0:00:22.80,0:00:25.20,Default,,0,0,0,,Nhất là nhỏ lớp trưởng cứ bắt mình làm gương.
+Dialogue: 0,0:00:25.20,0:00:27.65,Default,,0,0,0,,Cứ kiểm tra bài tập, cứ không làm thì méc cô.
+Dialogue: 0,0:00:27.65,0:00:30.25,Default,,0,0,0,,Nhiều lúc ăn zero, còn nhỏ thì cười hô hô.
+Dialogue: 0,0:00:30.25,0:00:33.02,Default,,0,0,0,,Chỉ biết trách cái số cho gặp nhỏ chưa bồ.
+Dialogue: 0,0:00:33.02,0:00:35.65,Default,,0,0,0,,Đến 1 ngày chịu không nổi, ăn gối xôi cũng không dzô,
+Dialogue: 0,0:00:35.65,0:00:36.77,Default,,0,0,0,,Cầm quyển tập chọi lên tường,
+Dialogue: 0,0:00:36.77,0:00:38.25,Default,,0,0,0,,Nhỏ lớp trưởng chỉ nín câm
+Dialogue: 0,0:00:38.25,0:00:39.51,Default,,0,0,0,,Rồi âm thầm quay bước đi,
+Dialogue: 0,0:00:39.51,0:00:41.00,Default,,0,0,0,,Nghe thiên hạ đã đồn rắng:
+Dialogue: 0,0:00:41.00,0:00:43.00,Default,,0,0,0,,Nước mắt nhỏ đã nghẹn ngào tuôn rơi
+Dialogue: 0,0:00:43.00,0:00:44.28,Default,,0,0,0,,Kể từ ngày hôm đó,
+Dialogue: 0,0:00:44.28,0:00:46.77,Default,,0,0,0,,Nhỏ cũng không la ló và cũng không thèm ngó,
+Dialogue: 0,0:00:46.77,0:00:50.68,Default,,0,0,0,,Để mình qua 1 xó, chẳng còn ai chăm lo, và mình tìm thấy tư do,
+Dialogue: 0,0:00:50.68,0:00:54.08,Default,,0,0,0,,Nhưng lại thiếu cái gì, khiến cho mình lại khó chịu.
+Dialogue: 0,0:00:54.08,0:00:56.65,Default,,0,0,0,,Nắng lấp lánh trên cao bầy chim hót.
+Dialogue: 0,0:00:56.65,0:00:59.11,Default,,0,0,0,,Khẽ tiếng nói em yêu anh rồi.
+Dialogue: 0,0:00:59.11,0:01:01.65,Default,,0,0,0,,Vì anh ngốc anh đâu biết được.
+Dialogue: 0,0:01:01.65,0:01:04.40,Default,,0,0,0,,Thì em cứ ngu ngơ thế thôi.
+Dialogue: 0,0:01:04.40,0:01:06.85,Default,,0,0,0,,Cứ lóc chóc trêu anh vậy thôi đó.
+Dialogue: 0,0:01:06.85,0:01:09.37,Default,,0,0,0,,Và em ước mong sẽ có ngày
+Dialogue: 0,0:01:09.37,0:01:14.00,Default,,0,0,0,,Được nghe tiếng anh yêu nói rằng:" I LOVE U"
+Dialogue: 0,0:01:14.00,0:01:16.25,Default,,0,0,0,,Thôi thì làm con trai đã có lỗi thì xin lỗi
+Dialogue: 0,0:01:16.25,0:01:17.37,Default,,0,0,0,,"bạn đừng giận mình nữa nha,
+Dialogue: 0,0:01:17.37,0:01:18.77,Default,,0,0,0,,Mình biết lỗi rồi mà,
+Dialogue: 0,0:01:18.77,0:01:21.22,Default,,0,0,0,,Mình xin hứa về sau sẽ không hay nổi cáu,
+Dialogue: 0,0:01:21.22,0:01:23.85,Default,,0,0,0,,ngoan ngoãn mà lắng nghe những gì bạn sai bảo"
+Dialogue: 0,0:01:23.85,0:01:26.20,Default,,0,0,0,,Thông minh thường xuyên tự nhiên ngu đột xuất.
+Dialogue: 0,0:01:26.20,0:01:28.65,Default,,0,0,0,,Nói ra 1 câu hứa đến bây giờ còn thấy hố.
+Dialogue: 0,0:01:28.65,0:01:31.20,Default,,0,0,0,,Trở thành 1 thằng ngố, giống như là tì nô,
+Dialogue: 0,0:01:31.20,0:01:34.45,Default,,0,0,0,,Còn nhỏ là phú hộ, thoã sức mà đô hộ.
+Dialogue: 0,0:01:34.45,0:01:36.34,Default,,0,0,0,,Mua bánh tráng, mua nước ngọt, xách đôi giày,
+Dialogue: 0,0:01:36.34,0:01:38.00,Default,,0,0,0,,Xách cái cặp, cái gì mình cũng gặp.
+Dialogue: 0,0:01:38.00,0:01:40.65,Default,,0,0,0,,Ôi thật là mất mặt trước cái lũ con trai,
+Dialogue: 0,0:01:40.65,0:01:43.08,Default,,0,0,0,,Chúng nó cứ đùa dai, nhỏ thì cứ ra oai,
+Dialogue: 0,0:01:43.08,0:01:44.71,Default,,0,0,0,,Thật tội nghiệp đời trai của mình.
+Dialogue: 0,0:01:44.71,0:01:47.08,Default,,0,0,0,,Vậy mà bây giờ còn nảy sinh cái trò mới.
+Dialogue: 0,0:01:47.08,0:01:49.51,Default,,0,0,0,,Phát cho mình cái Sphone, xái cái SIM Couples,
+Dialogue: 0,0:01:49.51,0:01:51.88,Default,,0,0,0,,Bắt mình làm xe ôm những lúc khi nhỏ chán,
+Dialogue: 0,0:01:51.88,0:01:54.25,Default,,0,0,0,,không thì làm ông tám, ngồi thâu đêm suốt sáng.
+Dialogue: 0,0:01:54.25,0:01:58.25,Default,,0,0,0,,Nhưng mà...1 thời gian tiếp xúc..1 thời gian bị hành hạ...
+Dialogue: 0,0:01:58.25,0:02:01.00,Default,,0,0,0,,Và mình đã nhận ra, đắng sau cái ác ma.
+Dialogue: 0,0:02:01.00,0:02:03.57,Default,,0,0,0,,Nhỏ thật là tốt bụng và thật là đáng yêu..
+Dialogue: 0,0:02:03.57,0:02:05.57,Default,,0,0,0,,Giống như 1 thiên thần..^^
+Dialogue: 0,0:02:05.57,0:02:08.14,Default,,0,0,0,,Nắng lấp lánh trên cao bầy chim hót.
+Dialogue: 0,0:02:08.14,0:02:10.51,Default,,0,0,0,,Khẽ tiếng nói em yêu anh rồi.
+Dialogue: 0,0:02:10.51,0:02:13.14,Default,,0,0,0,,Vì anh ngốc anh đâu biết được.
+Dialogue: 0,0:02:13.14,0:02:15.62,Default,,0,0,0,,Thì em cứ ngu ngơ thế thôi.
+Dialogue: 0,0:02:15.62,0:02:18.31,Default,,0,0,0,,Cứ lóc chóc trêu anh vậy thôi đó.
+Dialogue: 0,0:02:18.31,0:02:20.60,Default,,0,0,0,,Và em ước mong sẽ có ngày
+Dialogue: 0,0:02:20.60,0:02:25.57,Default,,0,0,0,,Được nghe tiếng anh yêu nói rằng:" I LOVE U"
+Dialogue: 0,0:02:25.57,0:02:27.85,Default,,0,0,0,,Bắt đầu biết vuốt gel...Bắt đầu biết style.
+Dialogue: 0,0:02:27.85,0:02:30.37,Default,,0,0,0,,Bắt đầu thích novou và bắt đầu thích đô hơn.
+Dialogue: 0,0:02:30.37,0:02:33.00,Default,,0,0,0,,Bắt đầu nghĩ vu vơ...Bắt đầu biết mộng mơ.
+Dialogue: 0,0:02:33.00,0:02:35.22,Default,,0,0,0,,Bắt đầu thích làm thơ rồi bắt đầu làm rapper.
+Dialogue: 0,0:02:35.22,0:02:37.77,Default,,0,0,0,,Kể từ ngày hôm đó và con mắt cứ hay nhòm ngó,
+Dialogue: 0,0:02:37.77,0:02:39.02,Default,,0,0,0,,Về những nơi có nhỏ.
+Dialogue: 0,0:02:39.02,0:02:41.60,Default,,0,0,0,,Rồi từng bước chăm lo đến đám bạn thân của nhỏ..
+Dialogue: 0,0:02:41.60,0:02:45.68,Default,,0,0,0,,Để mọi đều chưa rõ về nhỏ giờ sẽ được sáng tỏ.
+Dialogue: 0,0:02:45.68,0:02:48.00,Default,,0,0,0,,Và khi màn đêm buông xuống, có 1 bóng đèn hiu hắt,
+Dialogue: 0,0:02:48.00,0:02:50.40,Default,,0,0,0,,1 bóng người đang cậm cụi học bài.
+Dialogue: 0,0:02:50.40,0:02:53.00,Default,,0,0,0,,Vì tương lai ngày mai, và vì 1 người con gái.
+Dialogue: 0,0:02:53.00,0:02:56.11,Default,,0,0,0,,Không 1 ai chê bai, vì mình trai tài gái sắc
+Dialogue: 0,0:02:56.11,0:02:57.14,Default,,0,0,0,,[Nam] Ê! Nhỏ lớp trưởng
+Dialogue: 0,0:02:57.14,0:02:58.20,Default,,0,0,0,,[Nữ] Có chuyện gì hông nhóc!
+Dialogue: 0,0:02:58.20,0:03:01.05,Default,,0,0,0,,[Nam] Tối thứ bảy tuần này bà có bận cái gì hông?
+Dialogue: 0,0:03:01.05,0:03:03.51,Default,,0,0,0,,[Nữ] Cũng hông biết nữa..có gì hok nè?
+Dialogue: 0,0:03:03.51,0:03:05.62,Default,,0,0,0,,[Nam] Thì tui có 2 tấm vé..được người ta cho free..
+Dialogue: 0,0:03:05.62,0:03:07.91,Default,,0,0,0,,.nếu bà rãnh thì cùng đi...sao hã??
+Dialogue: 0,0:03:07.91,0:03:10.51,Default,,0,0,0,,[Nữ] Tự nhiên tốt quá ha?Có ý đồ gì hok dzạ?
+Dialogue: 0,0:03:10.51,0:03:11.77,Default,,0,0,0,,[Nam] Hông có gì hết mà...
+Dialogue: 0,0:03:11.77,0:03:13.40,Default,,0,0,0,,Quyết định dzậy nha..
+Dialogue: 0,0:03:13.40,0:03:16.20,Default,,0,0,0,,Đúng 7h tối ở GALAXY...không gặp không về..^^
+Dialogue: 0,0:03:16.20,0:03:18.88,Default,,0,0,0,,Chải chuốt vuốt gel...điệu gần 3 tiếng đồng hồ,
+Dialogue: 0,0:03:18.88,0:03:21.25,Default,,0,0,0,,Cả chục bộ đồ mà chẳng cái nào vừa ý.
+Dialogue: 0,0:03:21.25,0:03:25.28,Default,,0,0,0,,Mang giày allstar cộng thêm cái áo Lacoste và cái quần Levi's,
+Dialogue: 0,0:03:25.28,0:03:26.62,Default,,0,0,0,,Trông mình cũng bảnh trai.
+Dialogue: 0,0:03:26.62,0:03:29.08,Default,,0,0,0,,Đi ngang tiệm hoa, mua cho nàng 1 bó,
+Dialogue: 0,0:03:29.08,0:03:31.45,Default,,0,0,0,,xinh xinh nhỏ nhỏ thêm ngày hoa hồng.
+Dialogue: 0,0:03:31.45,0:03:33.97,Default,,0,0,0,,Vì hôm nay là ngày quan trọng bấy lâu nay mình chờ mong.
+Dialogue: 0,0:03:33.97,0:03:36.80,Default,,0,0,0,,Lời tỏ tình đầu lòng cầu mong sẽ thành công.
+Dialogue: 0,0:03:36.80,0:03:39.08,Default,,0,0,0,,1 phút..2 phút còn gần cả 100 phút.
+Dialogue: 0,0:03:39.08,0:03:41.71,Default,,0,0,0,,Biết nói gì mơ mộng cho nhỏ sẽ rung động.
+Dialogue: 0,0:03:41.71,0:03:44.11,Default,,0,0,0,,1 giọt...2 giọt...rồi cơn mưa ào tới,
+Dialogue: 0,0:03:44.11,0:03:46.94,Default,,0,0,0,,Cuốn trôi niềm phấn khởi, những hy vọng dần vơi.
+Dialogue: 0,0:03:46.94,0:03:48.37,Default,,0,0,0,,Chờ 1 tiếng rồi 2 tiếng...
+Dialogue: 0,0:03:48.37,0:03:49.48,Default,,0,0,0,,nhìn dòng người ra vào,
+Dialogue: 0,0:03:49.48,0:03:51.71,Default,,0,0,0,,tay trong tay cười nói,chỉ riêng mình thấy nhói.
+Dialogue: 0,0:03:51.71,0:03:54.05,Default,,0,0,0,,Rồi nghe tiếng bàn tán, có 1 vụ tai nạn,
+Dialogue: 0,0:03:54.05,0:03:56.97,Default,,0,0,0,,Là 1 cô gái trẻ, trên người đầy máu me.
+Dialogue: 0,0:03:56.97,0:03:59.74,Default,,0,0,0,,Chạy khắp nơi tìm kiếm, cầu mong xin đừng là nhỏ nha,
+Dialogue: 0,0:03:59.74,0:04:02.05,Default,,0,0,0,,cầu mong nhỏ đừng tới, mình chờ đợi cũng không sao.
+Dialogue: 0,0:04:02.05,0:04:04.42,Default,,0,0,0,,Nhưng mà đến hiện trường nhìn thấy người đang bị thương,
+Dialogue: 0,0:04:04.42,0:04:07.20,Default,,0,0,0,,đúng là nhỏ lớp trưởng, cái người mà tui đang thương
+Dialogue: 0,0:04:07.20,0:04:08.42,Default,,0,0,0,,Ôm chặt nhỏ vào lòng,
+Dialogue: 0,0:04:08.42,0:04:09.62,Default,,0,0,0,,thật xót xa thật ra rứt.
+Dialogue: 0,0:04:09.62,0:04:12.37,Default,,0,0,0,,Đừng có gì nha ấy, vì mình chưa kịp cho ấy biết
+Dialogue: 0,0:04:12.37,0:04:15.02,Default,,0,0,0,," Mình thích ấy biết mấy, mình muốn được bên ấy,
+Dialogue: 0,0:04:15.02,0:04:19.62,Default,,0,0,0,,quan tâm chăm sóc và bảo vệ cho ấy suốt đời".
+Dialogue: 0,0:04:19.62,0:04:23.94,Default,,0,0,0,,Ngốc ơi là ngốc, tui đâu có bị gì đâu mà ông ngồi đó than khóc
+Dialogue: 0,0:04:23.94,0:04:25.20,Default,,0,0,0,,.Mới trật chân nên đi không được.
+Dialogue: 0,0:04:25.20,0:04:27.80,Default,,0,0,0,,Tại trời mưa như trút nước nên tui không đến sớm được
+Dialogue: 0,0:04:27.80,0:04:30.11,Default,,0,0,0,,còn không biết mà đỡ tui dậy, làm gì mà ngồi đấy.
+Dialogue: 0,0:04:30.11,0:04:33.34,Default,,0,0,0,,Mà sao.... ngốc quá dzậy chờ hoài mà ko thấy,
+Dialogue: 0,0:04:33.34,0:04:35.94,Default,,0,0,0,,thích tắm mưa ở đây lắm sao.Rồi ngày mai ông bệnh...
+Dialogue: 0,0:04:35.94,0:04:38.51,Default,,0,0,0,,ai làm osin cho tui...còn ai để tui bắt nạt...
+Dialogue: 0,0:04:38.51,0:04:41.17,Default,,0,0,0,,còn ai cùng tui đi chơi.Thiệt là ngốc quá trời!
+Dialogue: 0,0:04:41.17,0:04:43.17,Default,,0,0,0,,Trời ơi trời...dzậy là hổng có sao à.
+Dialogue: 0,0:04:43.17,0:04:45.71,Default,,0,0,0,,Trời ơi trời...dzậy là hổng có gì à.
+Dialogue: 0,0:04:45.71,0:04:50.80,Default,,0,0,0,,Trời ơi trời...dzậy là tui bị hố tập 2 nữa hã trời..Chết tui rồi...T_T
+Dialogue: 0,0:04:50.80,0:04:52.62,Default,,0,0,0,,Đừng có quên những lời ban nãy ông đã nói.
+Dialogue: 0,0:04:52.62,0:04:54.62,Default,,0,0,0,,Có biết gì không?
+Dialogue: 0,0:04:54.62,0:04:55.82,Default,,0,0,0,,Những ngày qua tui chờ mong...
+Dialogue: 0,0:04:55.82,0:04:58.05,Default,,0,0,0,,Mà ông để tui ngóng trông.đúng là.
+Dialogue: 0,0:04:59.48,0:05:01.51,Default,,0,0,0,,Đồ ngốc chứ gì
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:11.00,0:00:13.00,Default,,0,0,0,,

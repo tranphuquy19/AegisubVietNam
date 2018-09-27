@@ -1,0 +1,66 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\tap-co-don-le-bao-binh.avi
+Scroll Position: 32
+Active Line: 44
+Video Zoom Percent: 0.5
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:34.88,0:00:38.82,Default,,0,0,0,,Trong cuộc sống đâu có ai là không
+Dialogue: 0,0:00:38.82,0:00:42.12,Default,,0,0,0,,Phải rơi những giọt lệ
+Dialogue: 0,0:00:42.86,0:00:46.94,Default,,0,0,0,,Đâu có ai là không có lúc mắc sai lầm
+Dialogue: 0,0:00:47.30,0:00:52.68,Default,,0,0,0,,Và đánh mất đi người mình yêu
+Dialogue: 0,0:00:55.32,0:00:59.84,Default,,0,0,0,,Ngày xưa tôi cũng thế, chỉ vì những đam mê
+Dialogue: 0,0:00:59.84,0:01:03.72,Default,,0,0,0,,Đánh mất đi người tôi đã yêu
+Dialogue: 0,0:01:03.72,0:01:08.34,Default,,0,0,0,,Giờ đây ôm nuối tiếc, nhiều khi muốn thét lên
+Dialogue: 0,0:01:08.34,0:01:14.52,Default,,0,0,0,,Giá như ngày ấy, có thể quay lại với tôi.
+Dialogue: 0,0:01:15.84,0:01:20.16,Default,,0,0,0,,Tôi đã cố tập sống, một cuộc sống cô đơn
+Dialogue: 0,0:01:20.16,0:01:22.24,Default,,0,0,0,,Và học cách một mình
+Dialogue: 0,0:01:22.24,0:01:26.32,Default,,0,0,0,,Để bước qua những nỗi đau thực tại
+Dialogue: 0,0:01:26.32,0:01:29.80,Default,,0,0,0,,Sau những vấp ngã tôi gây ra
+Dialogue: 0,0:01:29.80,0:01:33.00,Default,,0,0,0,,Làm hai ta cách xa
+Dialogue: 0,0:01:33.00,0:01:36.94,Default,,0,0,0,,Tôi đã cố tập quên, những quá khứ đau thương
+Dialogue: 0,0:01:36.94,0:01:41.10,Default,,0,0,0,,Cho dù ngày ấy, cũng đã xa xôi
+Dialogue: 0,0:01:41.10,0:01:45.00,Default,,0,0,0,,Không biết liệu tôi, có thể đứng lên
+Dialogue: 0,0:01:45.00,0:01:51.64,Default,,0,0,0,,Và mạnh mẽ vượt qua, nỗi đau mà tôi đã gây ra
+Dialogue: 0,0:02:28.44,0:02:32.70,Default,,0,0,0,,Trong cuộc sống đâu có ai là không
+Dialogue: 0,0:02:32.70,0:02:36.12,Default,,0,0,0,,Phải rơi những giọt lệ
+Dialogue: 0,0:02:36.88,0:02:40.86,Default,,0,0,0,,Đâu có ai là không có lúc mắc sai lầm
+Dialogue: 0,0:02:41.22,0:02:47.74,Default,,0,0,0,,Và đánh mất đi người mình yêu
+Dialogue: 0,0:02:49.46,0:02:53.78,Default,,0,0,0,,Ngày xưa tôi cũng thế, chỉ vì những đam mê
+Dialogue: 0,0:02:53.84,0:02:57.66,Default,,0,0,0,,Đánh mất đi người tôi đã yêu
+Dialogue: 0,0:02:57.66,0:03:01.98,Default,,0,0,0,,Giờ đây ôm nuối tiếc, nhiều khi muốn thét lên
+Dialogue: 0,0:03:01.98,0:03:08.12,Default,,0,0,0,,Giá như ngày ấy, có thể quay lại với tôi.
+Dialogue: 0,0:03:09.56,0:03:13.98,Default,,0,0,0,,Tôi đã cố tập sống, một cuộc sống cô đơn
+Dialogue: 0,0:03:13.98,0:03:16.14,Default,,0,0,0,,Và học cách một mình
+Dialogue: 0,0:03:16.14,0:03:20.52,Default,,0,0,0,,Để bước qua những nỗi đau thực tại
+Dialogue: 0,0:03:20.52,0:03:23.48,Default,,0,0,0,,Sau những vấp ngã tôi gây ra
+Dialogue: 0,0:03:23.48,0:03:26.52,Default,,0,0,0,,Làm hai ta cách xa
+Dialogue: 0,0:03:26.52,0:03:30.54,Default,,0,0,0,,Tôi đã cố tập quên, những quá khứ đau thương
+Dialogue: 0,0:03:30.54,0:03:34.88,Default,,0,0,0,,Cho dù ngày ấy, cũng đã xa xôi
+Dialogue: 0,0:03:34.88,0:03:38.90,Default,,0,0,0,,Không biết liệu tôi, có thể đứng lên
+Dialogue: 0,0:03:38.90,0:03:45.80,Default,,0,0,0,,Và mạnh mẽ vượt qua, nỗi đau mà tôi đã gây ra
+Dialogue: 0,0:03:51.10,0:03:55.64,Default,,0,0,0,,Tôi đã cố tập sống, một cuộc sống cô đơn
+Dialogue: 0,0:03:55.64,0:03:57.50,Default,,0,0,0,,Và học cách một mình
+Dialogue: 0,0:03:57.50,0:04:01.70,Default,,0,0,0,,Để bước qua những nỗi đau thực tại
+Dialogue: 0,0:04:01.70,0:04:04.94,Default,,0,0,0,,Sau những vấp ngã tôi gây ra
+Dialogue: 0,0:04:04.94,0:04:07.96,Default,,0,0,0,,Làm hai ta cách xa
+Dialogue: 0,0:04:07.96,0:04:12.06,Default,,0,0,0,,Tôi đã cố tập quên, những quá khứ đau thương
+Dialogue: 0,0:04:12.06,0:04:16.42,Default,,0,0,0,,Cho dù ngày ấy, cũng đã xa xôi
+Dialogue: 0,0:04:16.42,0:04:20.08,Default,,0,0,0,,Không biết liệu tôi, có thể đứng lên
+Dialogue: 0,0:04:20.08,0:04:27.36,Default,,0,0,0,,Và mạnh mẽ vượt qua, nỗi đau mà tôi đã gây ra
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
