@@ -1,0 +1,56 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Audio URI: Nguoi - theo-doi - Only T.avi
+Scroll Position: 0
+Active Line: 0
+Video Zoom Percent: 0.5
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:30.16,0:00:34.50,Default,,0,0,0,,Vẫn cứ là anh vẫn dõi theo bước chân em từng ngày
+Dialogue: 0,0:00:34.50,0:00:38.52,Default,,0,0,0,,Vẫn cứ theo dõi những dòng status mỗi lúc em onl face
+Dialogue: 0,0:00:38.52,0:00:42.56,Default,,0,0,0,,Và anh chẳng biết từ bao lâu bắt đầu một thói quen
+Dialogue: 0,0:00:42.56,0:00:46.24,Default,,0,0,0,,Vẫn cứ Bấm like đặt bàn tay lên trán, cảm thấy lòng rất nghẹn.
+Dialogue: 0,0:00:46.24,0:00:47.70,Default,,0,0,0,,Anh vẫn thế thôi
+Dialogue: 0,0:00:47.70,0:00:50.24,Default,,0,0,0,,Vẫn nhìn theo cuộc sống em từng phút
+Dialogue: 0,0:00:50.24,0:00:54.42,Default,,0,0,0,,Sẽ luôn quan tâm và thầm lặng phía sau, cùng em ở mọi lúc
+Dialogue: 0,0:00:54.42,0:00:58.58,Default,,0,0,0,,Anh sẽ là gió vẫn cứ lay, nhẹ nhàng sau làn mây
+Dialogue: 0,0:00:58.58,0:01:02.34,Default,,0,0,0,,Nhiều lúc thấy nhói khi người đó bên em, cảm xúc đành che đậy
+Dialogue: 0,0:01:02.34,0:01:06.36,Default,,0,0,0,,Và anh thấy ai đó làm em bật khóc, anh đây muốn chạy đến
+Dialogue: 0,0:01:06.36,0:01:10.32,Default,,0,0,0,,Nhưng mà thôi dừng lại chỉ là người theo dõi, em còn chưa biết tên
+Dialogue: 0,0:01:10.32,0:01:14.22,Default,,0,0,0,,Tư cách gì để có em khi list friend anh chưa thể là bạn
+Dialogue: 0,0:01:14.22,0:01:18.40,Default,,0,0,0,,Chỉ là người theo dõi trong một danh sách, con số đó lên hàng ngàn
+Dialogue: 0,0:01:18.40,0:01:22.26,Default,,0,0,0,,Và anh cũng biết anh là ai, tự nhủ chẳng trèo cao
+Dialogue: 0,0:01:22.26,0:01:26.36,Default,,0,0,0,,Nhưng mà con tim anh thật sự thích em, anh biết phải làm sao
+Dialogue: 0,0:01:26.36,0:01:30.36,Default,,0,0,0,,Nhiều đêm cô đơn anh tự hỏi lý trí và con tim
+Dialogue: 0,0:01:30.36,0:01:34.46,Default,,0,0,0,,Tại vì sao đường tình trước mắt đâu phải cứ mãi chạy đi tìm
+Dialogue: 0,0:01:34.46,0:01:36.24,Default,,0,0,0,,Tìm nơi đâu không điểm dừng
+Dialogue: 0,0:01:36.24,0:01:38.24,Default,,0,0,0,,Khi hai khoảng cách là song song
+Dialogue: 0,0:01:38.24,0:01:42.48,Default,,0,0,0,,Và vẫn cứ như thế, thời gian cứ trôi, anh sống trong buộc lòng
+Dialogue: 0,0:01:42.48,0:01:46.16,Default,,0,0,0,,Và anh vẫn thế thôi, vẫn yêu em, bắt đầu không kết thúc
+Dialogue: 0,0:01:46.16,0:01:47.96,Default,,0,0,0,,Vì đơn giản anh chỉ là: Yêu đơn phương
+Dialogue: 0,0:01:47.96,0:01:50.36,Default,,0,0,0,,Vẫn thế, vẫn yêu, vẫn tiếp tục
+Dialogue: 0,0:01:50.36,0:01:54.16,Default,,0,0,0,,Anh không cho phép mình dừng lại, dẫu biết anh đang sai
+Dialogue: 0,0:01:54.16,0:01:58.20,Default,,0,0,0,,Khi mà anh yêu em, em không hề biết làm sao có ngày mai
+Dialogue: 0,0:01:58.20,0:02:02.18,Default,,0,0,0,,Nhưng mà thôi, mặc kệ, kệ tương lai ngày mai có ra sao
+Dialogue: 0,0:02:02.18,0:02:06.32,Default,,0,0,0,,Anh vẫn là thằng ngốc, vẫn dõi theo em, vẫn thế như ngày nào.
+Dialogue: 0,0:02:06.32,0:02:10.26,Default,,0,0,0,,Anh vẫn cứ thế, vẫn dõi theo bước chân em từng ngày
+Dialogue: 0,0:02:10.26,0:02:14.40,Default,,0,0,0,,Vẫn cứ theo dõi những dòng status mỗi lúc em onl face
+Dialogue: 0,0:02:14.40,0:02:18.20,Default,,0,0,0,,Và anh chẳng biết từ bao lâu, bất đầu một thói quen
+Dialogue: 0,0:02:18.20,0:02:23.72,Default,,0,0,0,,Vẫn cứ Bấm like đặt bàn tay lên trán, cảm thấy lòng rất nghẹn
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,{\k200}

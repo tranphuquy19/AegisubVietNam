@@ -1,0 +1,91 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 47
+Active Line: 69
+Video Zoom Percent: 0.5
+Audio URI: New folder\KenTee – Ngưoi-cu-con-vuong.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:53.95,0:00:57.53,Default,,0,0,0,,Anh vẫn chưa ngủ.. (ha)..Chất chứa trong đầu nhiều suy nghĩ,
+Dialogue: 0,0:00:57.53,0:01:00.67,Default,,0,0,0,,Người yêu thương nhất giờ cũng đã mất chỉ còn màn đêm là chi kỉ.
+Dialogue: 0,0:01:00.67,0:01:03.80,Default,,0,0,0,,Đã bao nhiêu lần nhủ lòng phải xóa hình ảnh của em trong tiềm thức,
+Dialogue: 0,0:01:03.80,0:01:06.97,Default,,0,0,0,,Nhưng trái tim vẫn cố chấp giữ lại rồi tự biến mình thành phiền phức.
+Dialogue: 0,0:01:06.97,0:01:10.22,Default,,0,0,0,,Và sau tất cả, mọi cố gắng anh chỉ là kẻ không danh phận,
+Dialogue: 0,0:01:10.22,0:01:13.50,Default,,0,0,0,,Mang lại cho em biết bao niềm vui còn những lỗi đau kia anh nhận
+Dialogue: 0,0:01:13.50,0:01:16.60,Default,,0,0,0,,Thôi đành trả lại cho em nụ cười vui vẻ như là lúc trước kia,
+Dialogue: 0,0:01:16.60,0:01:19.80,Default,,0,0,0,,Còn anh gửi gắm lỗi buồn vào đêm rồi tự nhủ lòng đừng thức khuya
+Dialogue: 0,0:01:19.80,0:01:22.82,Default,,0,0,0,,Ừ thì đôi ta cũng đã từng hạnh phúc nhưng mà bây giờ thì cũng đã kết thúc
+Dialogue: 0,0:01:22.82,0:01:26.10,Default,,0,0,0,,Buông tay em ra dù lòng hơi lạnh chút nhưng chẳng thể níu vì đã cố hết sức
+Dialogue: 0,0:01:26.10,0:01:29.37,Default,,0,0,0,,Yêu thương thật lòng giờ người thay lòng còn anh là kẻ nhận bại,
+Dialogue: 0,0:01:29.37,0:01:32.55,Default,,0,0,0,,Người ở nơi ấy hạnh phúc bên ai còn riêng lỗi đau ta cất lại
+Dialogue: 0,0:01:32.55,0:01:35.62,Default,,0,0,0,,Và người từng thương,người từng nhớ thì giờ chỉ còn là người dưng,
+Dialogue: 0,0:01:35.62,0:01:38.85,Default,,0,0,0,,Vị trí bên em giờ có người đứng nên thôi anh đành phải lùi chân
+Dialogue: 0,0:01:38.85,0:01:42.10,Default,,0,0,0,,Đành trả lại em bầu trời tự do em cứ vui vẻ bên ai cười,
+Dialogue: 0,0:01:42.10,0:01:45.22,Default,,0,0,0,,Vị trí người dưng a chỉ có thể đứng đó chúc phúc cho 2 người
+Dialogue: 0,0:01:45.22,0:01:48.62,Default,,0,0,0,,Người cũ đau lắm vì chẳng ai hiểu cảm giác của kẻ đứng đằng sau
+Dialogue: 0,0:01:51.75,0:01:54.85,Default,,0,0,0,,Anh chẳng thể nói vì trái tim em giờ đây đã thuộc về người ta
+Dialogue: 0,0:01:54.85,0:01:58.05,Default,,0,0,0,,Vị trí bên em giờ có người đứng nên thôi anh đành phải lùi ra
+Dialogue: 0,0:01:58.05,0:02:01.65,Default,,0,0,0,,Người cũ đau lắm vì chẳng ai hiểu cảm giác của kẻ đứng đằng sau
+Dialogue: 0,0:02:01.65,0:02:04.60,Default,,0,0,0,,Những lúc họ vui những lúc họ buồn thì mình phải lặng lẽ nhận đau
+Dialogue: 0,0:02:04.60,0:02:07.72,Default,,0,0,0,,Anh chẳng thể nói vì trái tim em giờ đây đã thuộc về người ta
+Dialogue: 0,0:02:07.72,0:02:10.90,Default,,0,0,0,,Vị trí bên em giờ có người đứng nên thôi anh đành phải lùi ra
+Dialogue: 0,0:02:10.90,0:02:13.87,Default,,0,0,0,,Và rồi bao nhiêu kỉ niệm giờ chỉ còn một mình anh nhớ,
+Dialogue: 0,0:02:13.87,0:02:17.17,Default,,0,0,0,,Người vội vàng bước sang ngang,bỏ lại đây chuyện tình dang dở
+Dialogue: 0,0:02:17.17,0:02:20.55,Default,,0,0,0,,Vẫn như thường lệ anh lại tự kỉ gói ghém nỗi buồn vào dòng nhạc buồn bã
+Dialogue: 0,0:02:20.55,0:02:22.32,Default,,0,0,0,,Hạnh phúc bên em anh chẳng thể giữ được
+Dialogue: 0,0:02:22.32,0:02:23.75,Default,,0,0,0,,Thì sự tự do của em anh xin nhường trả
+Dialogue: 0,0:02:23.75,0:02:25.40,Default,,0,0,0,,Như một thói quen bỏ lại dòng ibox
+Dialogue: 0,0:02:25.40,0:02:27.20,Default,,0,0,0,,Làm cho trái tim này càng thêm nhói
+Dialogue: 0,0:02:27.20,0:02:30.17,Default,,0,0,0,,Những dòng tin nhắn vẫn luôn nơi đó, tất cả những lời mà em nói
+Dialogue: 0,0:02:30.17,0:02:31.77,Default,,0,0,0,,Một lời xin lỗi kèm lời chúc phúc (ha)
+Dialogue: 0,0:02:31.77,0:02:33.42,Default,,0,0,0,,Thật sự trong lòng chẳng vui đâu!
+Dialogue: 0,0:02:33.42,0:02:36.80,Default,,0,0,0,,Ai mà muốn người mình yêu thương nhất đến bên cạnh người yêu mới đâu
+Dialogue: 0,0:02:36.80,0:02:39.77,Default,,0,0,0,,Từng là người thương,nhưng giờ chỉ còn là người lạ,
+Dialogue: 0,0:02:39.77,0:02:43.02,Default,,0,0,0,,Rồi gặp lại nhau chẳng biết nói chi chỉ khẽ lờ đi giữa dòng người qua
+Dialogue: 0,0:02:43.02,0:02:46.22,Default,,0,0,0,,Người đã đi khuất thì tình cảm chỉ còn là hư không
+Dialogue: 0,0:02:46.22,0:02:49.55,Default,,0,0,0,,Thôi đành chấp nhận.. là con đường tình vẫn tươi đẹp như mông
+Dialogue: 0,0:02:49.55,0:02:52.47,Default,,0,0,0,,Nhiều lúc muốn quan tâm, nhưng với tư cách là gì đây,
+Dialogue: 0,0:02:52.47,0:02:55.77,Default,,0,0,0,,Chỉ có thể nhìn em cười vui bên nó rồi lại cảm nhận khóe mi cay
+Dialogue: 0,0:02:55.77,0:02:58.80,Default,,0,0,0,,Thôi đành lùi lại phía sau, chúc em hạnh phúc bên người,
+Dialogue: 0,0:02:58.80,0:03:02.25,Default,,0,0,0,,Nhớ em 1 lần này nữa thôi để giờ đây ta xóa cái tên người
+Dialogue: 0,0:03:02.25,0:03:05.20,Default,,0,0,0,,Người cũ đau lắm vì chẳng ai hiểu cảm giác của kẻ đứng đằng sau
+Dialogue: 0,0:03:05.20,0:03:08.62,Default,,0,0,0,,Những lúc họ vui những lúc họ buồn thì mình phải lặng lẽ nhận đau
+Dialogue: 0,0:03:08.62,0:03:11.70,Default,,0,0,0,,Anh chẳng thể nói vì trái tim em giờ đây đã thuộc về người ta
+Dialogue: 0,0:03:11.70,0:03:14.92,Default,,0,0,0,,Vị trí bên em giờ có người đứng nên thôi anh đành phải lùi ra
+Dialogue: 0,0:03:14.92,0:03:18.02,Default,,0,0,0,,Người cũ đau lắm vì chẳng ai hiểu cảm giác của kẻ đứng đằng sau
+Dialogue: 0,0:03:18.02,0:03:21.30,Default,,0,0,0,,Những lúc họ vui những lúc họ buồn thì mình phải lặng lẽ nhận đau
+Dialogue: 0,0:03:21.30,0:03:24.67,Default,,0,0,0,,Anh chẳng thể nói vì trái tim em giờ đây đã thuộc về người ta
+Dialogue: 0,0:03:24.67,0:03:27.57,Default,,0,0,0,,Vị trí bên em giờ có người đứng nên thôi anh đành phải lùi ra
+Dialogue: 0,0:03:27.77,0:03:31.02,Default,,0,0,0,,Chỉ là quá khứ,  là chuyện cũ nhưng sao trong lòng chẳng thể quên,
+Dialogue: 0,0:03:31.02,0:03:34.15,Default,,0,0,0,,Chỉ là một người con gái đã phụ mà sao trái tim còn nhớ đến,
+Dialogue: 0,0:03:34.15,0:03:37.50,Default,,0,0,0,,Chỉ là trong lòng anh vẫn còn thương vẫn còn vương về quá khứ,
+Dialogue: 0,0:03:37.50,0:03:40.72,Default,,0,0,0,,Chỉ là một lần ta chung hạnh phúc nhưng giờ phải nói là giá như.
+Dialogue: 0,0:03:40.72,0:03:43.85,Default,,0,0,0,,Chỉ là quá khứ,  là chuyện cũ nhưng sao trong lòng chẳng thể quên,
+Dialogue: 0,0:03:43.85,0:03:47.02,Default,,0,0,0,,Chỉ là một người con gái đã phụ mà sao trái tim còn nhớ đến,
+Dialogue: 0,0:03:47.02,0:03:50.12,Default,,0,0,0,,Chỉ là trong lòng anh vẫn còn thương vẫn còn vương về quá khứ,
+Dialogue: 0,0:03:50.12,0:03:53.47,Default,,0,0,0,,Chỉ là một lần ta chung hạnh phúc nhưng giờ phải nói là giá như.
+Dialogue: 0,0:03:53.47,0:03:56.45,Default,,0,0,0,,Người cũ đau lắm vì chẳng ai hiểu cảm giác của kẻ đứng đằng sau
+Dialogue: 0,0:03:56.45,0:03:59.75,Default,,0,0,0,,Những lúc họ vui những lúc họ buồn thì mình phải lặng lẽ nhận đau
+Dialogue: 0,0:03:59.75,0:04:02.80,Default,,0,0,0,,Anh chẳng thể nói vì trái tim em giờ đây đã thuộc về người ta
+Dialogue: 0,0:04:02.80,0:04:05.92,Default,,0,0,0,,Vị trí bên em giờ có người đứng nên thôi anh đành phải lùi ra
+Dialogue: 0,0:04:05.92,0:04:09.15,Default,,0,0,0,,Người cũ đau lắm vì chẳng ai hiểu cảm giác của kẻ đứng đằng sau
+Dialogue: 0,0:04:09.15,0:04:12.57,Default,,0,0,0,,Những lúc họ vui những lúc họ buồn thì mình phải lặng lẽ nhận đau
+Dialogue: 0,0:04:12.57,0:04:15.87,Default,,0,0,0,,Anh chẳng thể nói vì trái tim em giờ đây đã thuộc về người ta
+Dialogue: 0,0:04:15.87,0:04:20.52,Default,,0,0,0,,Vị trí bên em giờ có người đứng nên thôi anh đành phải lùi ra
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

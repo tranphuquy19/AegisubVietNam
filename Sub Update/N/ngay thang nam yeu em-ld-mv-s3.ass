@@ -1,0 +1,96 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 62
+Active Line: 74
+Video Zoom Percent: 0.25
+Audio URI: New folder\ngay thang nam yeu em.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.54,0:00:05.00,Default,,0,0,0,,Em à !
+Dialogue: 0,0:00:05.00,0:00:07.85,Default,,0,0,0,,Em có biết anh nhớ em đến mức nào ko !
+Dialogue: 0,0:00:07.85,0:00:11.02,Default,,0,0,0,,Em co biết a phiền muộn đến mức nào ko
+Dialogue: 0,0:00:11.62,0:00:13.17,Default,,0,0,0,,Em ko cần biết đâu!
+Dialogue: 0,0:00:13.17,0:00:16.08,Default,,0,0,0,,Vì những điều này cứ để a chịu đựng !
+Dialogue: 0,0:00:16.08,0:00:20.25,Default,,0,0,0,,A chỉ cần trong lòng e có anh , chỉ có anh thôi ! Ahihi
+Dialogue: 0,0:00:20.25,0:00:24.34,Default,,0,0,0,,Còn lại tất cả, e cứ bàn giao lại cho anh ghánh vác
+Dialogue: 0,0:00:25.91,0:00:29.60,Default,,0,0,0,,Hôm nay mưa to hơn mọi ngày,tự dưng a chợt nhớ em
+Dialogue: 0,0:00:29.60,0:00:32.60,Default,,0,0,0,,Giống như những vì sao sáng ,mong trời tối vì nhớ đêm
+Dialogue: 0,0:00:32.60,0:00:35.25,Default,,0,0,0,,A ko phải là lãng tử như trong truyện tranh
+Dialogue: 0,0:00:35.25,0:00:38.34,Default,,0,0,0,,Sẽ nói yêu e mỗi sáng,ko nhất thuyết phải luyện thanh
+Dialogue: 0,0:00:38.34,0:00:41.34,Default,,0,0,0,,A thích giọng nói, khi e kề kề bên tai nhõng nhẽo
+Dialogue: 0,0:00:41.34,0:00:44.42,Default,,0,0,0,,Thích luôn tật xấu ,mỗi khi bên cạnh ngủ chõng queo
+Dialogue: 0,0:00:44.42,0:00:47.00,Default,,0,0,0,,Là vì yêu, thói quen của nhau phải cần biết
+Dialogue: 0,0:00:47.00,0:00:50.42,Default,,0,0,0,,Đôi khi đâm ra khó tính khiến e nóng và giận thiệt
+Dialogue: 0,0:00:50.42,0:00:52.82,Default,,0,0,0,,A xin lỗi, vì những lúc  tính a cũng hay trẻ con
+Dialogue: 0,0:00:52.82,0:00:56.17,Default,,0,0,0,,Bắt e đi đâu cũng phải báo,đi về  bắt máy liền gọi phone
+Dialogue: 0,0:00:56.17,0:00:58.45,Default,,0,0,0,,Nhưng e à ! là vì A quá yêu,
+Dialogue: 0,0:00:58.45,0:01:01.37,Default,,0,0,0,,Không phải a khó chịu, chỉ mong e hỉu 1 điều là
+Dialogue: 0,0:01:01.37,0:01:04.45,Default,,0,0,0,,Trái đất này trên 7 tỷ người ,ko ai có thể thay thế
+Dialogue: 0,0:01:04.45,0:01:07.34,Default,,0,0,0,,Vì kíp trước phận là phu thuê, nên chốn trần dương ta tìm về
+Dialogue: 0,0:01:07.34,0:01:10.68,Default,,0,0,0,,Em mà làm trái ý ông trời  ,bõ a đi cưới người khác
+Dialogue: 0,0:01:10.68,0:01:13.94,Default,,0,0,0,,Diêm vương sai quỉ xe tăng ,bắt e đó, đừng hỏi sao ác nhaaa
+Dialogue: 0,0:01:13.94,0:01:16.77,Default,,0,0,0,,Đêm qua nằm mơ, có 1 vị thần nói với anh là như vầy
+Dialogue: 0,0:01:16.77,0:01:19.54,Default,,0,0,0,,Cẩn thận giữ e có mấy thằng trai đẹp rình mò bao vay !
+Dialogue: 0,0:01:19.54,0:01:22.45,Default,,0,0,0,,Ổng kêu  “mày phải nhất định cưới ngay và liền trong năm nay”
+Dialogue: 0,0:01:22.45,0:01:25.20,Default,,0,0,0,,Em ơi ! e có vậy không ? có muốn bên a sống trọn đời này
+Dialogue: 0,0:01:25.20,0:01:27.82,Default,,0,0,0,,Chỉ có 2 lựa chọn ,1 là làm zk anh,vui buồn cùng chia sẽ
+Dialogue: 0,0:01:27.82,0:01:30.71,Default,,0,0,0,,2 là làm con dâu mẹ anh,nhập hộ khẩu bắt cóc ko chia rẽ
+Dialogue: 0,0:01:30.71,0:01:33.65,Default,,0,0,0,,Em suy nghĩ đi rồi trả lời ! không có lựa chọn thứ 3 đâu nhé
+Dialogue: 0,0:01:33.65,0:01:37.54,Default,,0,0,0,,Nhắc lại lần nữa, e mà trái ý ông trời ! quỉ xe tăng ko tha e đâu nhee
+Dialogue: 0,0:01:37.54,0:01:40.45,Default,,0,0,0,,Đêm qua nằm mơ, có 1 vị thần nói với anh là như vầy
+Dialogue: 0,0:01:40.45,0:01:43.40,Default,,0,0,0,,Cẩn thận giữ e có mấy thằng trai đẹp rình mò bao vay !
+Dialogue: 0,0:01:43.40,0:01:46.11,Default,,0,0,0,,Ổng kêu  “mày phải nhất định cưới ngay và liền trong năm nay”
+Dialogue: 0,0:01:46.11,0:01:48.97,Default,,0,0,0,,Em ơi ! e có vậy không ? có muốn bên a sống trọn đời này
+Dialogue: 0,0:01:48.97,0:01:51.57,Default,,0,0,0,,Chỉ có 2 lựa chọn ,1 là làm zk anh,vui buồn cùng chia sẽ
+Dialogue: 0,0:01:51.57,0:01:54.17,Default,,0,0,0,,2 là làm con dâu mẹ anh,nhập hộ khẩu bắt cóc ko chia rẽ
+Dialogue: 0,0:01:54.17,0:01:57.31,Default,,0,0,0,,Em suy nghĩ đi rồi trả lời ! không có lựa chọn thứ 3 đâu nhé
+Dialogue: 0,0:01:57.31,0:02:01.34,Default,,0,0,0,,Nhắc lại lần nữa, e mà trái ý ông trời ! quỉ xe tăng ko tha e đâu nhee
+Dialogue: 0,0:02:01.34,0:02:04.08,Default,,0,0,0,,Làn da ngâm đen, bởi vì nụ cười tỏa sáng của em khiến ngất ngây
+Dialogue: 0,0:02:04.08,0:02:07.31,Default,,0,0,0,,Đôi môi đỏ hồng, bàn tay ấm áp, bên e khiến anh ôm chặt lấy
+Dialogue: 0,0:02:07.31,0:02:10.22,Default,,0,0,0,,E là niềm vui, là tương lai, hành trình cùng anh sánh bước
+Dialogue: 0,0:02:10.22,0:02:12.85,Default,,0,0,0,,Thiếu đi em, phía trước bóng tối làm s a dám đánh cược !
+Dialogue: 0,0:02:12.85,0:02:16.25,Default,,0,0,0,,Ánh trăng sáng k muốn lẽ lôi 1 mình thiếu đi những vì sao
+Dialogue: 0,0:02:16.25,0:02:18.80,Default,,0,0,0,,Anh ko muốn vắng e ,để  rồi tương lai anh mù màu
+Dialogue: 0,0:02:18.80,0:02:21.48,Default,,0,0,0,,Yêu em quan tâm mỗi ngày,vì e mọi thứ không cần nhận thù lao
+Dialogue: 0,0:02:21.48,0:02:25.11,Default,,0,0,0,,Vì đối với anh e là duy nhất, là tất cả ! ko cần những thứ nào
+Dialogue: 0,0:02:25.11,0:02:28.34,Default,,0,0,0,,Yêu em anh ko ngại điều chi (ngại điều chi)
+Dialogue: 0,0:02:28.34,0:02:31.25,Default,,0,0,0,,Yêu em anh ko ngại điều gì (ngại điều gì )
+Dialogue: 0,0:02:31.25,0:02:33.25,Default,,0,0,0,,Yêu em a chỉ biết là vì
+Dialogue: 0,0:02:33.25,0:02:36.77,Default,,0,0,0,,Là vì em phải làm mẹ của những đứa nhõ,còn anh sẽ gánh hết phần lo
+Dialogue: 0,0:02:36.77,0:02:39.65,Default,,0,0,0,,Ta xây 1 mái nhà nhỏ , ta tô 1 hạnh phúc to,
+Dialogue: 0,0:02:39.65,0:02:42.57,Default,,0,0,0,,Niềm vui a đem chất đầy ,cùng tiếng cười ở trong đó
+Dialogue: 0,0:02:42.57,0:02:45.42,Default,,0,0,0,,A mong chỉ được như thế thôi ,mỗi tối quay sang chúc nhau ngủ
+Dialogue: 0,0:02:45.42,0:02:48.94,Default,,0,0,0,,Mỗi sáng cùng nhau ăn cơm ,cùng   nhau đi làm .hạnh phúc như thế thôi là đủ
+Dialogue: 0,0:02:48.94,0:02:51.51,Default,,0,0,0,,Đêm qua nằm mơ, có 1 vị thần nói với anh là như vầy
+Dialogue: 0,0:02:51.51,0:02:54.48,Default,,0,0,0,,Cẩn thận giữ e có mấy thằng trai đẹp rình mò bao vay !
+Dialogue: 0,0:02:54.48,0:02:57.17,Default,,0,0,0,,Ổng kêu  “mày phải nhất định cưới ngay và liền trong năm nay”
+Dialogue: 0,0:02:57.17,0:02:59.91,Default,,0,0,0,,Em ơi ! e có vậy không ? có muốn bên a sống trọn đời này
+Dialogue: 0,0:02:59.91,0:03:02.62,Default,,0,0,0,,Chỉ có 2 lựa chọn ,1 là làm zk anh,vui buồn cùng chia sẽ
+Dialogue: 0,0:03:02.62,0:03:05.34,Default,,0,0,0,,2 là làm con dâu mẹ anh,nhập hộ khẩu bắt cóc ko chia rẽ
+Dialogue: 0,0:03:05.34,0:03:08.65,Default,,0,0,0,,Em suy nghĩ đi rồi trả lời ! không có lựa chọn thứ 3 đâu nhé
+Dialogue: 0,0:03:08.65,0:03:12.40,Default,,0,0,0,,Nhắc lại lần nữa, e mà trái ý ông trời ! quỉ xe tăng ko tha e đâu nhee
+Dialogue: 0,0:03:12.40,0:03:15.14,Default,,0,0,0,,Đêm qua nằm mơ, có 1 vị thần nói với anh là như vầy
+Dialogue: 0,0:03:15.14,0:03:18.08,Default,,0,0,0,,Cẩn thận giữ e có mấy thằng trai đẹp rình mò bao vay !
+Dialogue: 0,0:03:18.08,0:03:20.77,Default,,0,0,0,,Ổng kêu  “mày phải nhất định cưới ngay và liền trong năm nay”
+Dialogue: 0,0:03:20.77,0:03:23.71,Default,,0,0,0,,Em ơi ! e có vậy không ? có muốn bên a sống trọn đời này
+Dialogue: 0,0:03:23.71,0:03:26.54,Default,,0,0,0,,Chỉ có 2 lựa chọn ,1 là làm zk anh,vui buồn cùng chia sẽ
+Dialogue: 0,0:03:26.54,0:03:29.11,Default,,0,0,0,,2 là làm con dâu mẹ anh,nhập hộ khẩu bắt cóc ko chia rẽ
+Dialogue: 0,0:03:29.11,0:03:32.20,Default,,0,0,0,,Em suy nghĩ đi rồi trả lời ! không có lựa chọn thứ 3 đâu nhé
+Dialogue: 0,0:03:32.20,0:03:36.45,Default,,0,0,0,,Nhắc lại lần nữa, e mà trái ý ông trời ! quỉ xe tăng ko tha e đâu nhee
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,{\k200}

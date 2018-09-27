@@ -1,0 +1,77 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 43
+Active Line: 55
+Video Zoom Percent: 0.25
+Audio URI: New folder\Cao Nam Thanh-nguoi-doi-thay-ld-mv.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.42,0:00:30.75,Default,,0,0,0,,Ngày em cất bước ra đi
+Dialogue: 0,0:00:32.35,0:00:35.55,Default,,0,0,0,,Con tim anh dường như khép lại
+Dialogue: 0,0:00:37.71,0:00:40.73,Default,,0,0,0,,Và anh chẳng dám yêu ai
+Dialogue: 0,0:00:42.37,0:00:46.44,Default,,0,0,0,,Vì anh mang bao vết đau chưa tàn phai.
+Dialogue: 0,0:00:47.57,0:00:50.42,Default,,0,0,0,,Anh không hiểu tại vì sao
+Dialogue: 0,0:00:50.42,0:00:52.64,Default,,0,0,0,,Anh không hiểu từ lúc nào
+Dialogue: 0,0:00:52.75,0:00:56.62,Default,,0,0,0,,Em lại thay đổi
+Dialogue: 0,0:00:57.73,0:01:00.53,Default,,0,0,0,,Anh đã vừa không bận tâm
+Dialogue: 0,0:01:00.53,0:01:02.75,Default,,0,0,0,,Anh đã cố gắng gượng cười
+Dialogue: 0,0:01:02.75,0:01:08.08,Default,,0,0,0,,Che giấu đi bao ánh nhìn.
+Dialogue: 0,0:01:08.80,0:01:10.91,Default,,0,0,0,,Đừng bắt anh phải nhìn em
+Dialogue: 0,0:01:10.91,0:01:13.66,Default,,0,0,0,,đang cùng ai vui tay trong tay
+Dialogue: 0,0:01:13.66,0:01:18.64,Default,,0,0,0,,Hạnh phúc em đã đổi lại đôi mi cay em có hay
+Dialogue: 0,0:01:18.73,0:01:21.04,Default,,0,0,0,,Chẳng lẽ bao nhiêu thời gian
+Dialogue: 0,0:01:21.04,0:01:24.91,Default,,0,0,0,,ta yêu nhau thay tất cả bằng niềm đau
+Dialogue: 0,0:01:24.91,0:01:29.17,Default,,0,0,0,,Rồi em nói em muốn kết thúc như vậy sao.
+Dialogue: 0,0:01:29.37,0:01:33.86,Default,,0,0,0,,Em nay đã thay đổi thay cả tính cách yêu xưa
+Dialogue: 0,0:01:33.86,0:01:36.26,Default,,0,0,0,,Em quên đi bao câu hứa
+Dialogue: 0,0:01:36.26,0:01:39.24,Default,,0,0,0,,từng chiều nào anh đón đưa
+Dialogue: 0,0:01:39.24,0:01:41.80,Default,,0,0,0,,Em thay luôn người yêu mới
+Dialogue: 0,0:01:41.80,0:01:45.02,Default,,0,0,0,,em vội quên anh mất rồi
+Dialogue: 0,0:01:45.02,0:01:50.71,Default,,0,0,0,,Người đã đổi thay cách yêu.
+Dialogue: 0,0:02:13.68,0:02:16.31,Default,,0,0,0,,Anh không hiểu tại vì sao
+Dialogue: 0,0:02:16.31,0:02:18.60,Default,,0,0,0,,Anh không hiểu từ lúc nào
+Dialogue: 0,0:02:18.60,0:02:23.13,Default,,0,0,0,,Em lại thay đổi
+Dialogue: 0,0:02:23.73,0:02:26.48,Default,,0,0,0,,Anh đã vừa không bận tâm
+Dialogue: 0,0:02:26.48,0:02:28.62,Default,,0,0,0,,Anh đã cố gắng gượng cười
+Dialogue: 0,0:02:28.62,0:02:33.11,Default,,0,0,0,,Che giấu đi bao ánh nhìn.
+Dialogue: 0,0:02:34.86,0:02:36.82,Default,,0,0,0,,Đừng bắt anh phải nhìn em
+Dialogue: 0,0:02:36.82,0:02:39.64,Default,,0,0,0,,đang cùng ai vui tay trong tay
+Dialogue: 0,0:02:39.64,0:02:44.66,Default,,0,0,0,,Hạnh phúc em đã đổi lại đôi mi cay em có hay
+Dialogue: 0,0:02:44.86,0:02:46.88,Default,,0,0,0,,Chẳng lẽ bao nhiêu thời gian
+Dialogue: 0,0:02:46.88,0:02:50.62,Default,,0,0,0,,ta yêu nhau thay tất cả bằng niềm đau
+Dialogue: 0,0:02:50.62,0:02:55.15,Default,,0,0,0,,Rồi em nói em muốn kết thúc như vậy sao.
+Dialogue: 0,0:02:55.15,0:02:59.71,Default,,0,0,0,,Em nay đã thay đổi thay cả tính cách yêu xưa
+Dialogue: 0,0:02:59.71,0:03:02.20,Default,,0,0,0,,Em quên đi bao câu hứa
+Dialogue: 0,0:03:02.20,0:03:04.62,Default,,0,0,0,,từng chiều nào anh đón đưa
+Dialogue: 0,0:03:05.00,0:03:07.20,Default,,0,0,0,,Em thay luôn người yêu mới
+Dialogue: 0,0:03:07.20,0:03:10.33,Default,,0,0,0,,em vội quên anh mất rồi
+Dialogue: 0,0:03:10.77,0:03:15.13,Default,,0,0,0,,Người đã đổi thay cách yêu.
+Dialogue: 0,0:03:17.57,0:03:19.71,Default,,0,0,0,,Đừng bắt anh phải nhìn em
+Dialogue: 0,0:03:19.71,0:03:22.71,Default,,0,0,0,,đang cùng ai vui tay trong tay
+Dialogue: 0,0:03:22.71,0:03:27.60,Default,,0,0,0,,Hạnh phúc em đã đổi lại đôi mi cay em có hay
+Dialogue: 0,0:03:27.60,0:03:29.80,Default,,0,0,0,,Chẳng lẽ bao nhiêu thời gian
+Dialogue: 0,0:03:29.80,0:03:33.60,Default,,0,0,0,,ta yêu nhau thay tất cả bằng niềm đau
+Dialogue: 0,0:03:33.60,0:03:38.04,Default,,0,0,0,,Rồi em nói em muốn kết thúc như vậy sao.
+Dialogue: 0,0:03:38.04,0:03:42.88,Default,,0,0,0,,Em nay đã thay đổi thay cả tính cách yêu xưa
+Dialogue: 0,0:03:42.88,0:03:45.04,Default,,0,0,0,,Em quên đi bao câu hứa
+Dialogue: 0,0:03:45.04,0:03:47.84,Default,,0,0,0,,từng chiều nào anh đón đưa
+Dialogue: 0,0:03:47.84,0:03:49.93,Default,,0,0,0,,Em thay luôn người yêu mới
+Dialogue: 0,0:03:49.93,0:03:53.75,Default,,0,0,0,,em vội quên anh mất rồi
+Dialogue: 0,0:03:53.75,0:03:59.11,Default,,0,0,0,,Người đã đổi thay cách yêu.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

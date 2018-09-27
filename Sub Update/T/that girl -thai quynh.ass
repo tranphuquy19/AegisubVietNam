@@ -1,0 +1,126 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 81
+Active Line: 106
+Video Zoom Percent: 0.25
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.86,0:00:07.17,Default,,0,0,0,,Người tôi yêu , bây giờ cũng đã chẳng còn
+Dialogue: 0,0:00:07.22,0:00:12.28,Default,,0,0,0,,Là do tôi, cái tôi nó đã gây ra
+Dialogue: 0,0:00:12.51,0:00:17.51,Default,,0,0,0,,Giờ níu keu . cũng đã chẳng còn gì để thứ tha
+Dialogue: 0,0:00:18.08,0:00:22.75,Default,,0,0,0,,Vì tất cả lỗi lầm tôi đã gây ra
+Dialogue: 0,0:00:22.75,0:00:25.64,Default,,0,0,0,,Chắc do tôi dại khờ ớ
+Dialogue: 0,0:00:25.64,0:00:28.15,Default,,0,0,0,,Nên tôi không thể làm được em vui
+Dialogue: 0,0:00:28.15,0:00:30.84,Default,,0,0,0,,Chắc do tôi dại khờ ớ
+Dialogue: 0,0:00:30.84,0:00:33.84,Default,,0,0,0,,Nên em giờ đã cũng dần lạnh nhạt
+Dialogue: 0,0:00:33.84,0:00:35.06,Default,,0,0,0,,Giờ tôi biết phải làm gì....
+Dialogue: 0,0:00:35.06,0:00:40.84,Default,,0,0,0,,Cố gắng thật nhiều biết hi sinh để cô ấy trở về bên tôi
+Dialogue: 0,0:00:40.84,0:00:43.24,Default,,0,0,0,,Không để mọi chuyện cứ thế này
+Dialogue: 0,0:00:43.24,0:00:45.66,Default,,0,0,0,,Tôi không thể chịu được cảm giác này
+Dialogue: 0,0:00:45.66,0:00:48.53,Default,,0,0,0,,Không không không không
+Dialogue: 0,0:00:48.64,0:00:51.28,Default,,0,0,0,,Không làm gì nếu đã không còn
+Dialogue: 0,0:00:51.28,0:00:54.04,Default,,0,0,0,,Không không không không
+Dialogue: 0,0:00:54.04,0:00:56.68,Default,,0,0,0,,Không thể làm lại nếu đã hết yêu
+Dialogue: 0,0:00:56.68,0:01:01.00,Default,,0,0,0,,Người tôi yêu , bây giờ cũng đã chẳng còn
+Dialogue: 0,0:01:01.00,0:01:06.35,Default,,0,0,0,,Là do tôi, cái tôi nó đã gây ra
+Dialogue: 0,0:01:06.46,0:01:11.84,Default,,0,0,0,,Giờ níu keu . cũng đã chẳng còn gì để thứ tha
+Dialogue: 0,0:01:11.84,0:01:16.57,Default,,0,0,0,,Vì tất cả lỗi lầm tôi đã gây ra
+Dialogue: 0,0:01:16.57,0:01:19.44,Default,,0,0,0,,Chắc do tôi dại khờ ớ
+Dialogue: 0,0:01:19.44,0:01:22.06,Default,,0,0,0,,Nên tôi không thể làm được em vui
+Dialogue: 0,0:01:22.06,0:01:24.51,Default,,0,0,0,,Chắc do tôi dại khờ ớ
+Dialogue: 0,0:01:24.84,0:01:27.84,Default,,0,0,0,,Nên em giờ đã cũng dần lạnh nhạt
+Dialogue: 0,0:01:27.84,0:01:29.42,Default,,0,0,0,,Giờ tôi biết phải làm gì....
+Dialogue: 0,0:01:29.42,0:01:34.31,Default,,0,0,0,,Cố gắng thật nhiều biết hi sinh để cô ấy trở về bên tôi
+Dialogue: 0,0:01:34.31,0:01:37.26,Default,,0,0,0,,Không để mọi chuyện cứ thế này
+Dialogue: 0,0:01:37.26,0:01:39.73,Default,,0,0,0,,Tôi không thể chịu được cảm giác này
+Dialogue: 0,0:01:39.73,0:01:42.46,Default,,0,0,0,,Không không không không
+Dialogue: 0,0:01:42.46,0:01:45.20,Default,,0,0,0,,Không làm gì nếu đã không còn
+Dialogue: 0,0:01:45.20,0:01:47.91,Default,,0,0,0,,Không không không không
+Dialogue: 0,0:01:47.91,0:01:50.31,Default,,0,0,0,,Không thể làm lại nếu đã hết yêu
+Dialogue: 0,0:01:50.31,0:01:54.97,Default,,0,0,0,,Người tôi yêu , bây giờ cũng đã chẳng còn
+Dialogue: 0,0:01:54.97,0:02:00.31,Default,,0,0,0,,Là do tôi, cái tôi nó đã gây ra
+Dialogue: 0,0:02:00.31,0:02:05.77,Default,,0,0,0,,Giờ níu keu . cũng đã chẳng còn gì để thứ tha
+Dialogue: 0,0:02:05.97,0:02:10.64,Default,,0,0,0,,Vì tất cả lỗi lầm tôi đã gây ra
+Dialogue: 0,0:02:10.64,0:02:13.22,Default,,0,0,0,,Chắc do tôi dại khờ ớ
+Dialogue: 0,0:02:13.22,0:02:15.93,Default,,0,0,0,,Nên tôi không thể làm được em vui
+Dialogue: 0,0:02:15.93,0:02:18.66,Default,,0,0,0,,Chắc do tôi dại khờ ớ
+Dialogue: 0,0:02:18.66,0:02:21.71,Default,,0,0,0,,Nên em giờ đã cũng dần lạnh nhạt
+Dialogue: 0,0:02:21.71,0:02:23.13,Default,,0,0,0,,Giờ tôi biết phải làm gì....
+Dialogue: 0,0:02:23.13,0:02:28.53,Default,,0,0,0,,Cố gắng thật nhiều biết hi sinh để cô ấy trở về bên tôi
+Dialogue: 0,0:02:28.53,0:02:31.26,Default,,0,0,0,,Không để mọi chuyện cứ thế này
+Dialogue: 0,0:02:31.26,0:02:33.77,Default,,0,0,0,,Tôi không thể chịu được cảm giác này
+Dialogue: 0,0:02:33.77,0:02:36.44,Default,,0,0,0,,Không không không không
+Dialogue: 0,0:02:36.44,0:02:39.17,Default,,0,0,0,,Không làm gì nếu đã không còn
+Dialogue: 0,0:02:39.17,0:02:41.75,Default,,0,0,0,,Không không không không
+Dialogue: 0,0:02:41.75,0:02:44.62,Default,,0,0,0,,Không thể làm lại nếu đã hết yêu
+Dialogue: 0,0:02:44.62,0:02:47.11,Default,,0,0,0,,Không không không không
+Dialogue: 0,0:02:47.11,0:02:49.88,Default,,0,0,0,,Không làm gì nếu đã không còn
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
+Dialogue: 0,0:00:11.00,0:00:13.00,Default,,0,0,0,,
+Dialogue: 0,0:00:13.00,0:00:15.00,Default,,0,0,0,,
+Dialogue: 0,0:00:01.86,0:00:07.17,Default,,0,0,0,,There's a girl but I let her get away 
+Dialogue: 0,0:00:07.22,0:00:12.28,Default,,0,0,0,,It's all my fault cause pride got in the way 
+Dialogue: 0,0:00:12.51,0:00:17.51,Default,,0,0,0,,And I'd be lying if I said I was ok 
+Dialogue: 0,0:00:18.08,0:00:22.75,Default,,0,0,0,,About that girl the one I let get away
+Dialogue: 0,0:00:22.75,0:00:25.64,Default,,0,0,0,,I keep saying no 
+Dialogue: 0,0:00:25.64,0:00:28.15,Default,,0,0,0,,This can't be the way we're supposed to be 
+Dialogue: 0,0:00:28.15,0:00:30.84,Default,,0,0,0,,I keep saying no 
+Dialogue: 0,0:00:30.84,0:00:33.84,Default,,0,0,0,,There's gotta be a way to get you close to me 
+Dialogue: 0,0:00:33.84,0:00:35.06,Default,,0,0,0,,Now I know you gotta 
+Dialogue: 0,0:00:35.06,0:00:40.84,Default,,0,0,0,,Speak up if you want somebody 
+Dialogue: 0,0:00:40.84,0:00:43.24,Default,,0,0,0,,Can't let him get away, oh no 
+Dialogue: 0,0:00:43.24,0:00:45.66,Default,,0,0,0,,You don't wanna end up sorry 
+Dialogue: 0,0:00:45.66,0:00:48.53,Default,,0,0,0,,No no no no 
+Dialogue: 0,0:00:48.64,0:00:51.28,Default,,0,0,0,,There's no hope for the broken heart
+Dialogue: 0,0:00:51.28,0:00:54.04,Default,,0,0,0,,No no no no 
+Dialogue: 0,0:00:54.04,0:00:56.68,Default,,0,0,0,,There's no hope for the broken 
+Dialogue: 0,0:00:56.68,0:01:01.00,Default,,0,0,0,,There's a girl but I let her get away 
+Dialogue: 0,0:01:01.00,0:01:06.35,Default,,0,0,0,,It's all my fault cause pride got in the way 
+Dialogue: 0,0:01:06.46,0:01:11.84,Default,,0,0,0,,And I'd be lying if I said I was ok 
+Dialogue: 0,0:01:11.84,0:01:16.57,Default,,0,0,0,,About that girl the one I let get away
+Dialogue: 0,0:01:16.57,0:01:19.44,Default,,0,0,0,,I keep saying no 
+Dialogue: 0,0:01:19.44,0:01:22.06,Default,,0,0,0,,This can't be the way we're supposed to be 
+Dialogue: 0,0:01:22.06,0:01:24.51,Default,,0,0,0,,I keep saying no 
+Dialogue: 0,0:01:24.84,0:01:27.84,Default,,0,0,0,,There's gotta be a way to get you close to me 
+Dialogue: 0,0:01:27.84,0:01:29.42,Default,,0,0,0,,Now I know you gotta 
+Dialogue: 0,0:01:29.42,0:01:34.31,Default,,0,0,0,,Speak up if you want somebody 
+Dialogue: 0,0:01:34.31,0:01:37.26,Default,,0,0,0,,Can't let him get away, oh no 
+Dialogue: 0,0:01:37.26,0:01:39.73,Default,,0,0,0,,You don't wanna end up sorry 
+Dialogue: 0,0:01:39.73,0:01:42.46,Default,,0,0,0,,No no no no 
+Dialogue: 0,0:01:42.46,0:01:45.20,Default,,0,0,0,,There's no hope for the broken heart
+Dialogue: 0,0:01:45.20,0:01:47.91,Default,,0,0,0,,No no no no 
+Dialogue: 0,0:01:47.91,0:01:50.31,Default,,0,0,0,,There's no hope for the broken 
+Dialogue: 0,0:01:50.31,0:01:54.97,Default,,0,0,0,,There's a girl but I let her get away 
+Dialogue: 0,0:01:54.97,0:02:00.31,Default,,0,0,0,,It's all my fault cause pride got in the way 
+Dialogue: 0,0:02:00.31,0:02:05.77,Default,,0,0,0,,And I'd be lying if I said I was ok 
+Dialogue: 0,0:02:05.97,0:02:10.64,Default,,0,0,0,,About that girl the one I let get away
+Dialogue: 0,0:02:10.64,0:02:13.22,Default,,0,0,0,,I keep saying no 
+Dialogue: 0,0:02:13.22,0:02:15.93,Default,,0,0,0,,This can't be the way we're supposed to be 
+Dialogue: 0,0:02:15.93,0:02:18.66,Default,,0,0,0,,I keep saying no 
+Dialogue: 0,0:02:18.66,0:02:21.71,Default,,0,0,0,,There's gotta be a way to get you close to me 
+Dialogue: 0,0:02:21.71,0:02:23.13,Default,,0,0,0,,Now I know you gotta 
+Dialogue: 0,0:02:23.13,0:02:28.53,Default,,0,0,0,,Speak up if you want somebody 
+Dialogue: 0,0:02:28.53,0:02:31.26,Default,,0,0,0,,Can't let him get away, oh no 
+Dialogue: 0,0:02:31.26,0:02:33.77,Default,,0,0,0,,You don't wanna end up sorry 
+Dialogue: 0,0:02:33.77,0:02:36.44,Default,,0,0,0,,No no no no 
+Dialogue: 0,0:02:36.44,0:02:39.17,Default,,0,0,0,,There's no hope for the broken heart
+Dialogue: 0,0:02:39.17,0:02:41.75,Default,,0,0,0,,No no no no 
+Dialogue: 0,0:02:41.75,0:02:44.62,Default,,0,0,0,,There's no hope for the broken 
+Dialogue: 0,0:02:44.62,0:02:47.11,Default,,0,0,0,,No no no no 
+Dialogue: 0,0:02:47.11,0:02:49.88,Default,,0,0,0,,There's no hope for the broken heart
+Dialogue: 0,0:00:15.00,0:00:17.00,Default,,0,0,0,,

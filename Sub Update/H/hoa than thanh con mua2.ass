@@ -1,0 +1,66 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\hoa than thanh con muaw.avi
+Video Zoom Percent: 0.25
+Scroll Position: 32
+Active Line: 45
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.96,0:00:21.96,Default,,0,0,0,,Có khi nào em nhớ về những ngày tháng đã qua
+Dialogue: 0,0:00:22.40,0:00:30.16,Default,,0,0,0,,Có một người đã đến và lau đi giọt nước mắt
+Dialogue: 0,0:00:30.76,0:00:37.92,Default,,0,0,0,,Ở trên mi người anh thương 
+Dialogue: 0,0:00:30.76,0:00:37.92,Default,,0,0,0,,Như cơn mưa kia nặng hạt
+Dialogue: 0,0:00:37.92,0:00:43.72,Default,,0,0,0,,Chăm sóc em lau đi giọt nước mắt rơi
+Dialogue: 0,0:00:44.44,0:00:51.96,Default,,0,0,0,,Có khi nào em tiếc về những điều đã xảy ra chưa
+Dialogue: 0,0:00:51.96,0:00:58.16,Default,,0,0,0,,Em bước về phía ấy rời xa khỏi vòng tay anh
+Dialogue: 0,0:00:59.88,0:01:07.32,Default,,0,0,0,,Bỏ quên lời thì thầm của mưa
+Dialogue: 0,0:00:59.88,0:01:07.32,Default,,0,0,0,,Bước đến nơi ánh nắng vàng
+Dialogue: 0,0:01:07.44,0:01:14.64,Default,,0,0,0,,Để lại phía sau , Ngày mưa em đã từng yêu
+Dialogue: 0,0:01:14.64,0:01:22.24,Default,,0,0,0,,Vì anh không thể bên em 
+Dialogue: 0,0:01:14.64,0:01:22.24,Default,,0,0,0,,Sẽ tan biến khi em hạnh phúc
+Dialogue: 0,0:01:22.24,0:01:29.24,Default,,0,0,0,,Liệu rằng em còn nhớ đến anh một cơn mưa qua
+Dialogue: 0,0:01:29.28,0:01:32.96,Default,,0,0,0,,Hóa thân thành cơn mưa 
+Dialogue: 0,0:01:36.12,0:01:39.00,Default,,0,0,0,,Hóa thân thành cơn mưa
+Dialogue: 0,0:01:43.68,0:01:46.44,Default,,0,0,0,,Hóa thân thành cơn mưa
+Dialogue: 0,0:01:50.84,0:01:53.80,Default,,0,0,0,,Hóa thân thành cơn mưa
+Dialogue: 0,0:01:58.92,0:02:00.92,Default,,0,0,0,,Có khi nào em chợt nhìn thấy mưa
+Dialogue: 0,0:02:00.92,0:02:02.52,Default,,0,0,0,,Rưng rung như đang rơi giọt lệ
+Dialogue: 0,0:02:02.52,0:02:04.60,Default,,0,0,0,,Có bao giờ em khóc khi đấy chưa
+Dialogue: 0,0:02:04.60,0:02:06.60,Default,,0,0,0,,Vì mưa đã nhiều lần khóc như thế
+Dialogue: 0,0:02:06.60,0:02:08.24,Default,,0,0,0,,Ai đón đưa em đi trên lối về
+Dialogue: 0,0:02:08.24,0:02:09.80,Default,,0,0,0,,Khi em khóc và che đi nước mắt
+Dialogue: 0,0:02:09.80,0:02:11.52,Default,,0,0,0,,Khi em buồn vì ai quên câu thề
+Dialogue: 0,0:02:11.52,0:02:13.52,Default,,0,0,0,,Thì mưa xóa nhòa nghịch cảnh ngay trước mắt
+Dialogue: 0,0:02:13.52,0:02:15.52,Default,,0,0,0,,Nhưng ánh nắng tới rồi em quên mau
+Dialogue: 0,0:02:15.52,0:02:17.52,Default,,0,0,0,,Những âu yếm tháng ngày ta bên nhau
+Dialogue: 0,0:02:17.52,0:02:19.00,Default,,0,0,0,,Em bước đến hào quang và quên mau
+Dialogue: 0,0:02:19.00,0:02:21.00,Default,,0,0,0,,Cơn mưa ngày nào cùng em qua thương đau
+Dialogue: 0,0:02:21.00,0:02:22.48,Default,,0,0,0,,Nhưng không trách đâu ,
+Dialogue: 0,0:02:22.48,0:02:24.04,Default,,0,0,0,,Ánh nắng vàng tới mưa tan biến mau
+Dialogue: 0,0:02:24.04,0:02:26.04,Default,,0,0,0,,Nỗi đau này mưa xin sẽ khắc sâu
+Dialogue: 0,0:02:26.04,0:02:28.92,Default,,0,0,0,,Cơn mưa hóa thành thương đau nhưng em có biết đâu
+Dialogue: 0,0:02:28.92,0:02:34.96,Default,,0,0,0,,Hóa thân thành cơn mưa để lau nước mắt rơi mỗi khi em đau
+Dialogue: 0,0:02:35.36,0:02:42.44,Default,,0,0,0,,Anh hóa thân thành cơn mưa để đến với em khi em buồn
+Dialogue: 0,0:02:43.72,0:02:50.60,Default,,0,0,0,,Dù sao cũng chỉ là cơn mưa chẳng thể níu em quay lại
+Dialogue: 0,0:02:50.72,0:02:57.64,Default,,0,0,0,,Gần bên em rồi sẽ vỡ tan trong ánh nắng mai rạng ngời
+Dialogue: 0,0:02:57.64,0:03:00.40,Default,,0,0,0,,Hóa thân thành cơn mưa
+Dialogue: 0,0:03:04.88,0:03:09.20,Default,,0,0,0,,Hóa thân thành cơn mưa để lau nước mắt rơi 
+Dialogue: 0,0:03:12.28,0:03:15.76,Default,,0,0,0,,Hóa thân thành cơn mưa
+Dialogue: 0,0:03:20.44,0:03:23.08,Default,,0,0,0,,Hóa thân thành cơn mưa
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

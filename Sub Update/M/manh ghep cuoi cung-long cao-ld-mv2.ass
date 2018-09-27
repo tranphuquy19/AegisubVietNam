@@ -1,0 +1,85 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\manh ghep cuoi cung-long cao.avi
+Video Zoom Percent: 0.25
+Scroll Position: 51
+Active Line: 64
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.56,0:00:19.81,Default,,0,0,0,,Em là ai, em là ai và đây là đâu?
+Dialogue: 0,0:00:19.81,0:00:23.11,Default,,0,0,0,,Bỗng một hôm, thấy xung quanh vực sâu
+Dialogue: 0,0:00:23.11,0:00:27.85,Default,,0,0,0,,Không một ai ở ngoài kia nghe thấu
+Dialogue: 0,0:00:28.40,0:00:33.17,Default,,0,0,0,,Anh là ai, anh là ai và đến từ đâu?
+Dialogue: 0,0:00:33.37,0:00:36.88,Default,,0,0,0,,Sao gặp nhau thấy như quen từ lâu
+Dialogue: 0,0:00:36.88,0:00:41.54,Default,,0,0,0,,Khi nhìn anh trong lòng em đau thế?
+Dialogue: 0,0:00:42.00,0:00:45.82,Default,,0,0,0,,Em thấy anh đang cười, như vẫn đang gọi mời
+Dialogue: 0,0:00:45.82,0:00:49.00,Default,,0,0,0,,Em đến bên cuộc đời, như cánh chim giữa trời
+Dialogue: 0,0:00:49.00,0:00:55.28,Default,,0,0,0,,Bay cùng anh, bay cùng anh
+Dialogue: 0,0:00:55.28,0:00:59.62,Default,,0,0,0,,Anh đưa em về đâu, anh đưa em về đâu vậy
+Dialogue: 0,0:00:59.62,0:01:02.11,Default,,0,0,0,,Lạ lùng thay nơi thế gian này
+Dialogue: 0,0:01:02.11,0:01:05.80,Default,,0,0,0,,Em nghe bao niềm vui, nhưng trong tim bùi ngùi
+Dialogue: 0,0:01:06.22,0:01:09.05,Default,,0,0,0,,Là vì sao thế anh?
+Dialogue: 0,0:01:09.05,0:01:13.42,Default,,0,0,0,,Anh đưa em về đâu, anh đưa em về đâu vậy?
+Dialogue: 0,0:01:13.42,0:01:15.77,Default,,0,0,0,,Mà nhịp tim nghe lớn thế này
+Dialogue: 0,0:01:15.77,0:01:19.85,Default,,0,0,0,,Nếu đó chính là yêu, xin cho em một điều
+Dialogue: 0,0:01:19.85,0:01:22.82,Default,,0,0,0,,Cạnh bên em đến khi...
+Dialogue: 0,0:01:22.82,0:01:27.51,Default,,0,0,0,,Mảnh ghép cuối cùng em còn thiếu
+Dialogue: 0,0:01:27.51,0:01:30.02,Default,,0,0,0,,Cuộc đời em còn thiếu
+Dialogue: 0,0:01:30.02,0:01:35.40,Default,,0,0,0,,Tìm cùng em...
+Dialogue: 0,0:01:36.37,0:01:40.91,Default,,0,0,0,,Mảnh ghép cuối cùng em còn thiếu
+Dialogue: 0,0:01:41.14,0:01:44.02,Default,,0,0,0,,Cuộc đời em còn thiếu
+Dialogue: 0,0:01:44.02,0:01:48.88,Default,,0,0,0,,Tìm cùng em...
+Dialogue: 0,0:02:04.34,0:02:09.45,Default,,0,0,0,,Em là em, tim bình yên từ khi gặp anh
+Dialogue: 0,0:02:09.45,0:02:13.20,Default,,0,0,0,,Không còn ai thấy em lúc buồn tênh
+Dialogue: 0,0:02:13.20,0:02:18.05,Default,,0,0,0,,Không còn ai hay gặp em trốn tránh
+Dialogue: 0,0:02:18.05,0:02:22.88,Default,,0,0,0,,Anh là anh, mang tình yêu đẹp như trời xanh
+Dialogue: 0,0:02:22.88,0:02:26.42,Default,,0,0,0,,Đem niềm tin đến nơi đây thật nhanh
+Dialogue: 0,0:02:26.42,0:02:31.68,Default,,0,0,0,,Khi mà em đang cần thêm đôi cánh
+Dialogue: 0,0:02:31.68,0:02:35.25,Default,,0,0,0,,Em thấy anh đang cười, như vẫn đang gọi mời
+Dialogue: 0,0:02:35.25,0:02:38.85,Default,,0,0,0,,Em đến bên cuộc đời, như cánh chim giữa trời
+Dialogue: 0,0:02:38.85,0:02:44.97,Default,,0,0,0,,Bay cùng anh, bay cùng anh
+Dialogue: 0,0:02:44.97,0:02:49.60,Default,,0,0,0,,Anh đưa em về đâu, anh đưa em về đâu vậy
+Dialogue: 0,0:02:49.74,0:02:52.02,Default,,0,0,0,,Lạ lùng thay nơi thế gian này
+Dialogue: 0,0:02:52.02,0:02:55.62,Default,,0,0,0,,Em nghe bao niềm vui, nhưng trong tim bùi ngùi
+Dialogue: 0,0:02:55.62,0:02:58.57,Default,,0,0,0,,Là vì sao thế anh?
+Dialogue: 0,0:02:58.57,0:03:03.00,Default,,0,0,0,,Anh đưa em về đâu, anh đưa em về đâu vậy?
+Dialogue: 0,0:03:03.00,0:03:05.85,Default,,0,0,0,,Mà nhịp tim nghe lớn thế này
+Dialogue: 0,0:03:05.85,0:03:09.48,Default,,0,0,0,,Nếu đó chính là yêu, xin cho em một điều
+Dialogue: 0,0:03:09.48,0:03:12.37,Default,,0,0,0,,Cạnh bên em đến khi...
+Dialogue: 0,0:03:12.37,0:03:17.05,Default,,0,0,0,,Mảnh ghép cuối cùng em còn thiếu
+Dialogue: 0,0:03:17.05,0:03:19.74,Default,,0,0,0,,Cuộc đời em còn thiếu
+Dialogue: 0,0:03:19.74,0:03:25.51,Default,,0,0,0,,Tìm cùng em...
+Dialogue: 0,0:03:25.51,0:03:30.68,Default,,0,0,0,,Mảnh ghép cuối cùng em còn thiếu
+Dialogue: 0,0:03:30.68,0:03:33.48,Default,,0,0,0,,Cuộc đời em còn thiếu
+Dialogue: 0,0:03:33.48,0:03:38.80,Default,,0,0,0,,Tìm cùng em
+Dialogue: 0,0:03:39.02,0:03:44.05,Default,,0,0,0,,Anh đưa em về đâu, anh đưa em về đâu vậy
+Dialogue: 0,0:03:44.05,0:03:46.77,Default,,0,0,0,,Lạ lùng thay nơi thế gian này
+Dialogue: 0,0:03:46.77,0:03:50.45,Default,,0,0,0,,Em nghe bao niềm vui, nhưng trong tim bùi ngùi
+Dialogue: 0,0:03:50.45,0:03:53.57,Default,,0,0,0,,Là vì sao thế anh?
+Dialogue: 0,0:03:53.57,0:03:57.82,Default,,0,0,0,,Anh đưa em về đâu, anh đưa em về đâu vậy?
+Dialogue: 0,0:03:57.82,0:04:00.37,Default,,0,0,0,,Mà nhịp tim nghe lớn thế này
+Dialogue: 0,0:04:00.37,0:04:04.40,Default,,0,0,0,,Nếu đó chính là yêu, xin cho em một điều
+Dialogue: 0,0:04:04.54,0:04:07.42,Default,,0,0,0,,Cạnh bên em đến khi...
+Dialogue: 0,0:04:07.42,0:04:12.00,Default,,0,0,0,,Mảnh ghép cuối cùng em còn thiếu
+Dialogue: 0,0:04:12.17,0:04:15.31,Default,,0,0,0,,Cuộc đời em còn thiếu
+Dialogue: 0,0:04:15.31,0:04:20.05,Default,,0,0,0,,Tìm cùng em...
+Dialogue: 0,0:04:20.37,0:04:25.62,Default,,0,0,0,,Mảnh ghép cuối cùng em còn thiếu
+Dialogue: 0,0:04:25.62,0:04:28.40,Default,,0,0,0,,Cuộc đời em còn thiếu
+Dialogue: 0,0:04:28.40,0:04:34.11,Default,,0,0,0,,Tìm cùng em...
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
