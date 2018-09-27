@@ -1,0 +1,88 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\em muon gi day dinh dai vu.avi
+Scroll Position: 54
+Active Line: 66
+Video Zoom Percent: 0.25
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.44,0:00:20.28,Default,,0,0,0,,Ừ vậy đi
+Dialogue: 0,0:00:20.28,0:00:23.68,Default,,0,0,0,,Yêu làm chi buông rồi đi đi người ơi
+Dialogue: 0,0:00:23.68,0:00:27.52,Default,,0,0,0,,Đừng bận tâm thêm làm chi, thôi hoài nghi nhau nữa đi
+Dialogue: 0,0:00:27.52,0:00:30.06,Default,,0,0,0,,Chẳng cần nói nữa làm gì
+Dialogue: 0,0:00:30.06,0:00:32.06,Default,,0,0,0,,Ai không tin ai nói dối
+Dialogue: 0,0:00:32.06,0:00:34.06,Default,,0,0,0,,Chẳng lẽ cứ phải giận hờn
+Dialogue: 0,0:00:34.06,0:00:37.10,Default,,0,0,0,,Khi chúng ta biết rằng yêu
+Dialogue: 0,0:00:37.12,0:00:40.70,Default,,0,0,0,,Yêu đương thì ghen ai chẳng ghen đâu người ơi
+Dialogue: 0,0:00:40.94,0:00:45.22,Default,,0,0,0,,Ừ thì ghen nhưng dù sao cũng phải cho nhau lí do
+Dialogue: 0,0:00:45.22,0:00:47.44,Default,,0,0,0,,Đừng để đến lúc nhạt nhòa
+Dialogue: 0,0:00:47.44,0:00:49.44,Default,,0,0,0,,Yêu thương cho nhau cũng hết
+Dialogue: 0,0:00:49.44,0:00:51.44,Default,,0,0,0,,Ừ thì cứ nói một lời
+Dialogue: 0,0:00:51.44,0:00:55.24,Default,,0,0,0,,Em muốn anh phải làm sao
+Dialogue: 0,0:00:55.50,0:00:57.70,Default,,0,0,0,,Thật lòng em muốn cái gì đây
+Dialogue: 0,0:00:57.70,0:00:59.92,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:00:59.92,0:01:04.46,Default,,0,0,0,,Em muốn cái gì đây sao lại nhây nói thật nhiều như thế
+Dialogue: 0,0:01:04.46,0:01:06.46,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:01:06.46,0:01:08.78,Default,,0,0,0,,Thật lòng em muốn cái gì đây
+Dialogue: 0,0:01:08.78,0:01:10.48,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:01:10.48,0:01:13.78,Default,,0,0,0,,Sao phải khiến anh luôn đau đầu như vậy
+Dialogue: 0,0:01:13.78,0:01:15.78,Default,,0,0,0,,Just tell me what do you want
+Dialogue: 0,0:01:16.04,0:01:20.38,Default,,0,0,0,,Vì yêu em mà anh đây đã bỏ qua đi hết
+Dialogue: 0,0:01:20.38,0:01:24.46,Default,,0,0,0,,Chẳng bận tâm về điều chi, về điều em đã nói
+Dialogue: 0,0:01:24.46,0:01:26.46,Default,,0,0,0,,Vậy mà người cũng chẳng có biết đâu
+Dialogue: 0,0:01:26.46,0:01:28.46,Default,,0,0,0,,Vội vàng hờn trách khiến anh nhức đầu
+Dialogue: 0,0:01:28.46,0:01:32.48,Default,,0,0,0,,Xem đi em mấy ai trên đời được như anh đây
+Dialogue: 0,0:01:32.94,0:01:35.18,Default,,0,0,0,,Dù rằng mọi thứ tất cả sẽ qua
+Dialogue: 0,0:01:35.18,0:01:37.42,Default,,0,0,0,,Và rồi tình cảm ấy cũng sẽ nhòa
+Dialogue: 0,0:01:37.42,0:01:39.42,Default,,0,0,0,,Em hãy nói đi một lời
+Dialogue: 0,0:01:39.42,0:01:42.24,Default,,0,0,0,,Em muốn anh phải làm sao
+Dialogue: 0,0:02:00.72,0:02:04.16,Default,,0,0,0,,Yêu đương thì ghen ai chẳng ghen đâu người ơi
+Dialogue: 0,0:02:04.16,0:02:08.16,Default,,0,0,0,,Ừ thì ghen nhưng dù sao cũng phải cho nhau lí do
+Dialogue: 0,0:02:08.16,0:02:10.16,Default,,0,0,0,,Đừng để đến lúc nhạt nhòa
+Dialogue: 0,0:02:10.16,0:02:12.16,Default,,0,0,0,,Yêu thương cho nhau cũng hết
+Dialogue: 0,0:02:12.16,0:02:14.16,Default,,0,0,0,,Ừ thì cứ nói một lời
+Dialogue: 0,0:02:14.16,0:02:17.52,Default,,0,0,0,,Em muốn anh phải làm sao
+Dialogue: 0,0:02:18.30,0:02:20.58,Default,,0,0,0,,Thật lòng em muốn cái gì đây
+Dialogue: 0,0:02:20.58,0:02:22.64,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:02:22.64,0:02:27.24,Default,,0,0,0,,Em muốn cái gì đây sao lại nhây nói thật nhiều như thế
+Dialogue: 0,0:02:27.24,0:02:29.36,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:02:29.36,0:02:31.60,Default,,0,0,0,,Thật lòng em muốn cái gì đây
+Dialogue: 0,0:02:31.60,0:02:33.26,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:02:33.26,0:02:36.30,Default,,0,0,0,,Sao phải khiến anh luôn đau đầu như vậy
+Dialogue: 0,0:02:36.30,0:02:38.58,Default,,0,0,0,,Just tell me what do you want
+Dialogue: 0,0:02:38.58,0:02:42.92,Default,,0,0,0,,Vì yêu em mà anh đây đã bỏ qua đi hết
+Dialogue: 0,0:02:42.92,0:02:47.24,Default,,0,0,0,,Chẳng bận tâm về điều chi, về điều em đã nói
+Dialogue: 0,0:02:47.24,0:02:49.24,Default,,0,0,0,,Vậy mà người cũng chẳng có biết đâu
+Dialogue: 0,0:02:49.24,0:02:51.24,Default,,0,0,0,,Vội vàng hờn trách khiến anh nhức đầu
+Dialogue: 0,0:02:51.52,0:02:55.60,Default,,0,0,0,,Xem đi em mấy ai trên đời được như anh đây
+Dialogue: 0,0:02:55.96,0:02:58.04,Default,,0,0,0,,Dù rằng mọi thứ tất cả sẽ qua
+Dialogue: 0,0:02:58.04,0:03:00.12,Default,,0,0,0,,Và rồi tình cảm ấy cũng sẽ nhòa
+Dialogue: 0,0:03:00.12,0:03:02.40,Default,,0,0,0,,Em hãy nói đi một lời
+Dialogue: 0,0:03:02.40,0:03:04.70,Default,,0,0,0,,Em muốn anh phải làm sao
+Dialogue: 0,0:03:04.70,0:03:08.64,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:03:08.64,0:03:13.08,Default,,0,0,0,,Em muốn cái gì đây sao lại nhây nói thật nhiều như thế
+Dialogue: 0,0:03:13.08,0:03:15.14,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:03:15.14,0:03:17.36,Default,,0,0,0,,Thật lòng em muốn cái gì đây
+Dialogue: 0,0:03:17.36,0:03:19.20,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:03:19.20,0:03:22.34,Default,,0,0,0,,Sao phải khiến anh luôn đau đầu như vậy
+Dialogue: 0,0:03:26.32,0:03:28.58,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:03:30.58,0:03:32.92,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:03:34.34,0:03:37.30,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:03:39.86,0:03:43.74,Default,,0,0,0,,Em muốn cái gì đây
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

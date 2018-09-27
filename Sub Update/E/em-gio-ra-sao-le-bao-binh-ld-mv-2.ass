@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 16
+Active Line: 23
+Video Zoom Percent: 0.25
+Audio URI: New folder\em-gio-ra-sao-le-bao-binh.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.02,0:01:05.11,Default,,0,0,0,,Anh bây giờ khác xưa rồi
+Dialogue: 0,0:01:05.37,0:01:08.71,Default,,0,0,0,,Anh bây giờ đã có một người
+Dialogue: 0,0:01:08.77,0:01:12.08,Default,,0,0,0,,Luôn bên anh yêu thương anh
+Dialogue: 0,0:01:12.08,0:01:16.02,Default,,0,0,0,,Không như em ngày xưa
+Dialogue: 0,0:01:16.02,0:01:19.15,Default,,0,0,0,,Chẳng bao giờ em nghĩ cho anh
+Dialogue: 0,0:01:19.15,0:01:22.40,Default,,0,0,0,,Chẳng bao giờ em biết mong biết chờ
+Dialogue: 0,0:01:22.40,0:01:26.08,Default,,0,0,0,,Em sống ơ thờ em quá hững hờ
+Dialogue: 0,0:01:26.08,0:01:30.86,Default,,0,0,0,,Em coi anh như người trong mơ
+Dialogue: 0,0:01:59.08,0:02:03.15,Default,,0,0,0,,Giờ thì em ơi anh đã có người
+Dialogue: 0,0:02:03.15,0:02:06.55,Default,,0,0,0,,Một người cho anh hạnh phúc rất tuyệt vời
+Dialogue: 0,0:02:06.55,0:02:09.97,Default,,0,0,0,,Không còn chơi vơi lẻ loi giữa dòng đời
+Dialogue: 0,0:02:09.97,0:02:13.04,Default,,0,0,0,,Không phải đơn côi
+Dialogue: 0,0:02:13.04,0:02:16.86,Default,,0,0,0,,Em giờ ra sao có vui hơn không nào
+Dialogue: 0,0:02:16.86,0:02:20.31,Default,,0,0,0,,Nghe người ta nói với anh em khổ đau
+Dialogue: 0,0:02:20.31,0:02:23.84,Default,,0,0,0,,Cuộc tình về sau không tốt như anh đâu
+Dialogue: 0,0:02:23.84,0:02:27.46,Default,,0,0,0,,Phải không em?
+Dialogue: 0,0:03:38.68,0:03:42.57,Default,,0,0,0,,Giờ thì em ơi anh đã có người
+Dialogue: 0,0:03:42.64,0:03:45.97,Default,,0,0,0,,Một người cho anh hạnh phúc rất tuyệt vời
+Dialogue: 0,0:03:45.97,0:03:49.33,Default,,0,0,0,,Không còn chơi vơi lẻ loi giữa dòng đời
+Dialogue: 0,0:03:49.33,0:03:52.68,Default,,0,0,0,,Không phải đơn côi
+Dialogue: 0,0:03:52.68,0:03:56.33,Default,,0,0,0,,Em giờ ra sao có vui hơn không nào
+Dialogue: 0,0:03:56.33,0:03:59.24,Default,,0,0,0,,Nghe người ta nói với anh em khổ đau
+Dialogue: 0,0:03:59.64,0:04:03.24,Default,,0,0,0,,Cuộc tình về sau không tốt như anh đâu
+Dialogue: 0,0:04:03.24,0:04:07.22,Default,,0,0,0,,Phải không em?
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,

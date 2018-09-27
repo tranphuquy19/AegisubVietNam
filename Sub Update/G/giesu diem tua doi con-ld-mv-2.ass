@@ -1,0 +1,127 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\gie su diem tua doi con.avi
+Video Zoom Percent: 0.25
+Scroll Position: 93
+Active Line: 105
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.02,0:00:20.96,Default,,0,0,0,,A ì a ì a í à ì a í à
+Dialogue: 0,0:00:20.96,0:00:25.20,Default,,0,0,0,,A ì a ì a í à ì a ì a
+Dialogue: 0,0:00:25.96,0:00:29.88,Default,,0,0,0,,1.Mỗi ngày dần trôi lắm khi ta buồn không thôi (í a)
+Dialogue: 0,0:00:29.88,0:00:34.04,Default,,0,0,0,,Vì sao bóng tối cứ bủa vây giăng mòn lối đi (í a ì a)
+Dialogue: 0,0:00:34.04,0:00:36.04,Default,,0,0,0,,Trong con tim dường như có điều gì?
+Dialogue: 0,0:00:36.04,0:00:38.46,Default,,0,0,0,,Trong con tim một Thiên Chúa dịu hiền,
+Dialogue: 0,0:00:38.46,0:00:41.52,Default,,0,0,0,,Dang rộng vòng tay đang chờ đợi ta.
+Dialogue: 0,0:00:41.68,0:00:44.22,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:00:44.22,0:00:45.66,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:00:45.66,0:00:47.66,Default,,0,0,0,,Cho dẫu thăng trầm cuộc đời,
+Dialogue: 0,0:00:47.66,0:00:49.58,Default,,0,0,0,,con vẫn vững bước thảnh thơi.
+Dialogue: 0,0:00:49.58,0:00:51.58,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:00:51.58,0:00:53.22,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:00:53.22,0:00:54.90,Default,,0,0,0,,Xin ở cùng con luôn mãi
+Dialogue: 0,0:00:54.90,0:00:58.50,Default,,0,0,0,,Bên con (ối à) suốt đời.
+Dialogue: 0,0:01:00.20,0:01:03.30,Default,,0,0,0,,Từ biển lên núi hay là đông tây nam bắc,
+Dialogue: 0,0:01:03.30,0:01:05.30,Default,,0,0,0,,Tim đập nhanh chậm vẫn luôn tự do,
+Dialogue: 0,0:01:05.30,0:01:07.06,Default,,0,0,0,,dẫu phong sương không cần cân nhắc
+Dialogue: 0,0:01:07.06,0:01:08.24,Default,,0,0,0,,Ta vẫn biết,
+Dialogue: 0,0:01:08.24,0:01:10.70,Default,,0,0,0,,chân đi đâu thì chẳng có gì là dám chắc
+Dialogue: 0,0:01:10.70,0:01:12.36,Default,,0,0,0,,Nhưng được bình an nơi Chúa
+Dialogue: 0,0:01:12.36,0:01:14.70,Default,,0,0,0,,là siêu tuyệt vời cần gì thắc mắc.
+Dialogue: 0,0:01:14.70,0:01:16.52,Default,,0,0,0,,Cuộc sống này có bao đổi thay,
+Dialogue: 0,0:01:16.52,0:01:18.32,Default,,0,0,0,,đừng trách tại sao đời may rủi
+Dialogue: 0,0:01:18.32,0:01:20.16,Default,,0,0,0,,Vững tin nơi chính Đức Giê -su
+Dialogue: 0,0:01:20.16,0:01:22.02,Default,,0,0,0,,thì luôn ngập tràn niềm an ủi
+Dialogue: 0,0:01:22.02,0:01:24.10,Default,,0,0,0,,Bạn có dám mạnh bước theo Ngài
+Dialogue: 0,0:01:24.10,0:01:25.88,Default,,0,0,0,,hay chỉ nhìn đời mà lúi cúi
+Dialogue: 0,0:01:25.88,0:01:27.00,Default,,0,0,0,,dám lội ngược dòng
+Dialogue: 0,0:01:27.00,0:01:30.82,Default,,0,0,0,,hay chỉ nghe theo miệng đời nó bảo và nó xúi.
+Dialogue: 0,0:01:31.40,0:01:34.94,Default,,0,0,0,,A ì a ì a í à ì a í à
+Dialogue: 0,0:01:34.94,0:01:39.28,Default,,0,0,0,,A ì a ì a í à ì a ì a
+Dialogue: 0,0:01:39.28,0:01:43.10,Default,,0,0,0,,Sóng vượt trùng dương, khó khăn giăng đầy muôn phương (í a)
+Dialogue: 0,0:01:43.10,0:01:47.40,Default,,0,0,0,,Đời ta có Chúa những sầu thương chẳng còn vấn vương (í a ì a)
+Dialogue: 0,0:01:47.40,0:01:49.28,Default,,0,0,0,,Bên Giê -su tình yêu vẫy gọi mời
+Dialogue: 0,0:01:49.28,0:01:51.60,Default,,0,0,0,,Bên Giê -su là nơi suối ngọt lành,
+Dialogue: 0,0:01:51.60,0:01:55.12,Default,,0,0,0,,Chan hòa tình thương bến bờ bình an.
+Dialogue: 0,0:01:55.12,0:01:57.48,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:01:57.48,0:01:59.04,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:01:59.04,0:02:00.56,Default,,0,0,0,,Cho dẫu thăng trầm cuộc đời,
+Dialogue: 0,0:02:00.56,0:02:02.82,Default,,0,0,0,,con vẫn vững bước thảnh thơi.
+Dialogue: 0,0:02:02.82,0:02:04.68,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:02:04.68,0:02:06.06,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:02:06.16,0:02:08.28,Default,,0,0,0,,Xin ở cùng con luôn mãi
+Dialogue: 0,0:02:08.28,0:02:11.54,Default,,0,0,0,,Bên con (ối à) suốt đời.
+Dialogue: 0,0:02:13.62,0:02:15.68,Default,,0,0,0,,Này bạn ơi chớ đừng từ khước
+Dialogue: 0,0:02:15.68,0:02:17.52,Default,,0,0,0,,những chông gai đang chờ đợi phía trước
+Dialogue: 0,0:02:17.52,0:02:19.22,Default,,0,0,0,,Vì nó giúp cuộc đời ta
+Dialogue: 0,0:02:19.22,0:02:21.30,Default,,0,0,0,,thêm can trường và vững bước
+Dialogue: 0,0:02:21.30,0:02:23.02,Default,,0,0,0,,Và Dù có lên miền sơn cước
+Dialogue: 0,0:02:23.02,0:02:25.02,Default,,0,0,0,,hay là vùng trũng của sông nước
+Dialogue: 0,0:02:25.02,0:02:27.12,Default,,0,0,0,,ơn phước là tước dành cho những ai
+Dialogue: 0,0:02:27.12,0:02:28.92,Default,,0,0,0,,gặp khó khăn không lùi bước.
+Dialogue: 0,0:02:28.92,0:02:30.28,Default,,0,0,0,,Lời gọi tình yêu ngân vang
+Dialogue: 0,0:02:30.28,0:02:32.18,Default,,0,0,0,,trong trái tim này rồi bạn nhé
+Dialogue: 0,0:02:32.18,0:02:34.06,Default,,0,0,0,,Đừng để ồn ào náo nhiệt xóa tan
+Dialogue: 0,0:02:34.06,0:02:36.06,Default,,0,0,0,,và dập đi tiếng khe khẽ
+Dialogue: 0,0:02:36.06,0:02:38.10,Default,,0,0,0,,Hay chỉ ngồi đó gật đầu mà chẳng nghe
+Dialogue: 0,0:02:38.10,0:02:39.42,Default,,0,0,0,,Sợ gì xiêu té,
+Dialogue: 0,0:02:39.42,0:02:43.02,Default,,0,0,0,,Chúa luôn yêu thương nâng cao những ai là nhỏ bé.
+Dialogue: 0,0:03:01.82,0:03:05.36,Default,,0,0,0,,A ì a ì a í à ì a í à
+Dialogue: 0,0:03:05.36,0:03:09.66,Default,,0,0,0,,A ì a ì a í à ì a ì a
+Dialogue: 0,0:03:09.66,0:03:13.52,Default,,0,0,0,,Yêu Ngài từ khi bé thơ con còn trong nôi (í a)
+Dialogue: 0,0:03:13.52,0:03:17.82,Default,,0,0,0,,Buồn vui tiếp nối, biết là bao ân huệ Chúa ban (í a ì a)
+Dialogue: 0,0:03:17.82,0:03:19.82,Default,,0,0,0,,Nay con xin được theo Chúa trọn đời
+Dialogue: 0,0:03:19.82,0:03:22.18,Default,,0,0,0,,Loan tin vui tình thương đến mọi miền
+Dialogue: 0,0:03:22.18,0:03:25.66,Default,,0,0,0,,Đem niềm ủi an cho người sầu đau
+Dialogue: 0,0:03:25.66,0:03:27.90,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:03:27.90,0:03:29.12,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:03:29.12,0:03:30.90,Default,,0,0,0,,Cho dẫu thăng trầm cuộc đời,
+Dialogue: 0,0:03:30.90,0:03:33.34,Default,,0,0,0,,con vẫn vững bước thảnh thơi.
+Dialogue: 0,0:03:33.34,0:03:35.50,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:03:35.50,0:03:36.86,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:03:36.86,0:03:38.82,Default,,0,0,0,,Xin ở cùng con luôn mãi
+Dialogue: 0,0:03:38.82,0:03:42.56,Default,,0,0,0,,Bên con (ối à) suốt đời.
+Dialogue: 0,0:03:44.28,0:03:46.12,Default,,0,0,0,,Này bạn ơi chớ đừng từ khước
+Dialogue: 0,0:03:46.12,0:03:48.12,Default,,0,0,0,,những chông gai đang chờ đợi phía trước
+Dialogue: 0,0:03:48.12,0:03:49.52,Default,,0,0,0,,Vì nó giúp cuộc đời ta
+Dialogue: 0,0:03:49.52,0:03:51.90,Default,,0,0,0,,thêm can trường và vững bước
+Dialogue: 0,0:03:51.90,0:03:53.50,Default,,0,0,0,,Và Dù có lên miền sơn cước
+Dialogue: 0,0:03:53.50,0:03:55.50,Default,,0,0,0,,hay là vùng trũng của sông nước
+Dialogue: 0,0:03:55.50,0:03:57.52,Default,,0,0,0,,ơn phước là tước dành cho những ai
+Dialogue: 0,0:03:57.52,0:03:59.38,Default,,0,0,0,,gặp khó khăn không lùi bước.
+Dialogue: 0,0:03:59.38,0:04:01.38,Default,,0,0,0,,Lời gọi tình yêu ngân vang
+Dialogue: 0,0:04:01.38,0:04:02.84,Default,,0,0,0,,trong trái tim này rồi bạn nhé
+Dialogue: 0,0:04:02.84,0:04:04.64,Default,,0,0,0,,Đừng để ồn ào náo nhiệt xóa tan
+Dialogue: 0,0:04:04.64,0:04:06.28,Default,,0,0,0,,và dập đi tiếng khe khẽ
+Dialogue: 0,0:04:06.28,0:04:08.84,Default,,0,0,0,,Hay chỉ ngồi đó gật đầu mà chẳng nghe
+Dialogue: 0,0:04:08.84,0:04:09.96,Default,,0,0,0,,Sợ gì xiêu té,
+Dialogue: 0,0:04:09.96,0:04:13.30,Default,,0,0,0,,Chúa luôn yêu thương nâng cao những ai là nhỏ bé.
+Dialogue: 0,0:04:15.18,0:04:17.36,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:04:17.36,0:04:18.84,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:04:18.84,0:04:20.32,Default,,0,0,0,,Cho dẫu thăng trầm cuộc đời,
+Dialogue: 0,0:04:20.32,0:04:22.94,Default,,0,0,0,,con vẫn vững bước thảnh thơi.
+Dialogue: 0,0:04:22.94,0:04:24.94,Default,,0,0,0,,Chúa Giê -su là điểm tựa đời con,
+Dialogue: 0,0:04:24.94,0:04:26.24,Default,,0,0,0,,điểm tựa đời con
+Dialogue: 0,0:04:26.24,0:04:28.34,Default,,0,0,0,,Xin ở cùng con luôn mãi
+Dialogue: 0,0:04:28.34,0:04:30.34,Default,,0,0,0,,Bên con suốt đời.
+Dialogue: 0,0:04:30.34,0:04:32.32,Default,,0,0,0,,Xin ở cùng con luôn mãi
+Dialogue: 0,0:04:32.32,0:04:35.48,Default,,0,0,0,,Bên con suốt đời.
+Dialogue: 0,0:04:36.26,0:04:39.04,Default,,0,0,0,,A ì a ì a í à ì a í à
+Dialogue: 0,0:04:39.04,0:04:43.90,Default,,0,0,0,,A ì a ì a í à ì a ì a
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

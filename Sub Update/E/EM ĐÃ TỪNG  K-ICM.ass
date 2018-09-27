@@ -1,0 +1,91 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 58
+Active Line: 69
+Video Zoom Percent: 0.5
+Audio URI: New folder\K-ICM, T-ICM – Em-da-tung.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:18.95,0:00:27.67,Default,,0,0,0,,Một mình em lang thang trong đêm tìm lại hồi ức của ngày xưa ấy
+Dialogue: 0,0:00:27.67,0:00:35.72,Default,,0,0,0,,Mà dường như cô đơn vây quanh nỗi buồn xé nát tim em mà thôi
+Dialogue: 0,0:00:35.90,0:00:45.07,Default,,0,0,0,,Đành vụt tắt những hi vọng thu mình ngồi trong căn phòng tăm tối
+Dialogue: 0,0:00:45.07,0:00:52.85,Default,,0,0,0,,Chờ đau thương chạy đến vây quanh tâm hồn băng giá
+Dialogue: 0,0:00:53.02,0:01:01.15,Default,,0,0,0,,Tìm về đâu khi bao cô đơn đọng lại giọt nước mắt đầy cay đắng
+Dialogue: 0,0:01:01.15,0:01:09.86,Default,,0,0,0,,Đành về đâu khi bao yêu thương chỉ còn là những tiếng khóc trong đêm
+Dialogue: 0,0:01:09.86,0:01:18.62,Default,,0,0,0,,Giờ người xa mãi bao mong chờ cũng đành hoà tan theo sương khói bay
+Dialogue: 0,0:01:18.62,0:01:27.24,Default,,0,0,0,,Gạt nước mắt mà tiếc thương cho cuộc tình hoang phí
+Dialogue: 0,0:01:27.24,0:01:35.95,Default,,0,0,0,,Dành tất cả thanh xuân chỉ để yêu một người vô tâm
+Dialogue: 0,0:01:35.95,0:01:44.66,Default,,0,0,0,,Dành hết cả yêu thương để nhận lấy những điều đau thương
+Dialogue: 0,0:01:44.66,0:01:49.06,Default,,0,0,0,,Dành bao nhiêu ấm áp ngọt ngào ngày nào
+Dialogue: 0,0:01:49.06,0:01:53.28,Default,,0,0,0,,Dành bao nhiêu nỗi nhớ dạt dào tình trao
+Dialogue: 0,0:01:53.28,0:02:01.77,Default,,0,0,0,,Dành bao nhiêu để khi em chết không đau
+Dialogue: 0,0:02:02.00,0:02:10.13,Default,,0,0,0,,Ngày tháng đã trôi qua nhưng quên anh vẫn chỉ là hư vô
+Dialogue: 0,0:02:10.13,0:02:18.66,Default,,0,0,0,,Tìm kiếm những yêu thương nhưng trong em vẫn chỉ là cô đơn
+Dialogue: 0,0:02:18.66,0:02:23.20,Default,,0,0,0,,Nhìn thu sang kí ức tràn về thật nhiều
+Dialogue: 0,0:02:23.20,0:02:27.77,Default,,0,0,0,,Nhìn đông sang tiếc nuối cuộc tình khờ dại
+Dialogue: 0,0:02:27.77,0:02:34.84,Default,,0,0,0,,Tiếc thương cho tình ta như đoá hoa tàn
+Dialogue: 0,0:03:31.46,0:03:40.35,Default,,0,0,0,,Tìm về đâu khi bao cô đơn đọng lại giọt nước mắt đầy cay đắng
+Dialogue: 0,0:03:40.35,0:03:48.53,Default,,0,0,0,,Đành về đâu khi bao yêu thương chỉ còn là những tiếng khóc trong đêm
+Dialogue: 0,0:03:48.53,0:03:57.95,Default,,0,0,0,,Giờ người xa mãi bao mong chờ cũng đành hoà tan theo sương khói bay
+Dialogue: 0,0:03:57.95,0:04:06.31,Default,,0,0,0,,Gạt nước mắt mà tiếc thương cho cuộc tình hoang phí
+Dialogue: 0,0:04:06.31,0:04:14.66,Default,,0,0,0,,Dành tất cả thanh xuân chỉ để yêu một người vô tâm
+Dialogue: 0,0:04:14.66,0:04:23.46,Default,,0,0,0,,Dành hết cả yêu thương để nhận lấy những điều đau thương
+Dialogue: 0,0:04:23.46,0:04:27.64,Default,,0,0,0,,Dành bao nhiêu ấm áp ngọt ngào ngày nào
+Dialogue: 0,0:04:27.64,0:04:32.04,Default,,0,0,0,,Dành bao nhiêu nỗi nhớ dạt dào tình trao
+Dialogue: 0,0:04:32.04,0:04:40.31,Default,,0,0,0,,Dành bao nhiêu để khi em chết không đau
+Dialogue: 0,0:04:40.31,0:04:48.80,Default,,0,0,0,,Ngày tháng đã trôi qua nhưng quên anh vẫn chỉ là hư vô
+Dialogue: 0,0:04:49.06,0:04:57.46,Default,,0,0,0,,Tìm kiếm những yêu thương nhưng trong em vẫn chỉ là cô đơn
+Dialogue: 0,0:04:57.46,0:05:02.08,Default,,0,0,0,,Nhìn thu sang kí ức tràn về thật nhiều
+Dialogue: 0,0:05:02.08,0:05:06.44,Default,,0,0,0,,Nhìn đông sang tiếc nuối cuộc tình khờ dại
+Dialogue: 0,0:05:06.44,0:05:13.20,Default,,0,0,0,,Tiếc thương cho tình ta như đoá hoa tàn
+Dialogue: 0,0:05:13.91,0:05:27.91,Default,,0,0,0,,Tiếc thương cho tình ta như đoá hoa tàn
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
+Dialogue: 0,0:00:18.95,0:00:27.67,Default,,0,0,0,,{\k55}Một {\k69}mình {\k42}em {\k69}lang {\k83}thang {\k83}trong {\k55}đêm {\k55}tìm {\k55}lại {\k55}hồi {\k42}ức {\k55}của {\k69}ngày {\k55}xưa {\k28}ấy
+Dialogue: 0,0:00:27.67,0:00:35.72,Default,,0,0,0,,{\k40}Mà {\k81}dường {\k54}như {\k40}cô {\k54}đơn {\k54}vây {\k81}quanh {\k54}nỗi {\k67}buồn {\k40}xé {\k54}nát {\k54}tim {\k40}em {\k40}mà {\k54}thôi
+Dialogue: 0,0:00:35.90,0:00:45.07,Default,,0,0,0,,{\k72}Đành {\k57}vụt {\k57}tắt {\k86}những {\k43}hi {\k72}vọng {\k57}thu {\k72}mình {\k72}ngồi {\k86}trong {\k57}căn {\k86}phòng {\k57}tăm {\k43}tối
+Dialogue: 0,0:00:45.07,0:00:52.85,Default,,0,0,0,,{\k62}Chờ {\k62}đau {\k109}thương {\k78}chạy {\k62}đến {\k62}vây {\k93}quanh {\k62}tâm {\k62}hồn {\k78}băng {\k47}giá
+Dialogue: 0,0:00:53.02,0:01:01.15,Default,,0,0,0,,{\k53}Tìm {\k40}về {\k53}đâu {\k53}khi {\k53}bao {\k40}cô {\k53}đơn {\k67}đọng {\k53}lại {\k67}giọt {\k67}nước {\k53}mắt {\k53}đầy {\k53}cay {\k53}đắng
+Dialogue: 0,0:01:01.15,0:01:09.86,Default,,0,0,0,,{\k64}Đành {\k39}về {\k51}đâu {\k51}khi {\k51}bao {\k51}yêu {\k90}thương {\k51}chỉ {\k51}còn {\k38}là {\k77}những {\k77}tiếng {\k64}khóc {\k77}trong {\k38}đêm
+Dialogue: 0,0:01:09.86,0:01:18.62,Default,,0,0,0,,{\k52}Giờ {\k79}người {\k39}xa {\k52}mãi {\k52}bao {\k65}mong {\k52}chờ {\k65}cũng {\k65}đành {\k52}hoà {\k52}tan {\k65}theo {\k78}sương {\k65}khói {\k39}bay
+Dialogue: 0,0:01:18.62,0:01:27.24,Default,,0,0,0,,{\k68}Gạt {\k85}nước {\k68}mắt {\k51}mà {\k85}tiếc {\k118}thương {\k68}cho {\k85}cuộc {\k85}tình {\k101}hoang {\k51}phí
+Dialogue: 0,0:01:27.24,0:01:35.95,Default,,0,0,0,,{\k87}Dành {\k70}tất {\k52}cả {\k105}thanh {\k87}xuân {\k70}chỉ {\k52}để {\k70}yêu {\k70}một {\k104}người {\k52}vô {\k52}tâm
+Dialogue: 0,0:01:35.95,0:01:44.66,Default,,0,0,0,,{\k78}Dành {\k62}hết {\k47}cả {\k62}yêu {\k109}thương {\k47}để {\k78}nhận {\k62}lấy {\k93}những {\k78}điều {\k62}đau {\k93}thương
+Dialogue: 0,0:01:44.66,0:01:49.06,Default,,0,0,0,,{\k57}Dành {\k45}bao {\k68}nhiêu {\k34}ấm {\k34}áp {\k56}ngọt {\k56}ngào {\k56}ngày {\k34}nào
+Dialogue: 0,0:01:49.06,0:01:53.28,Default,,0,0,0,,{\k53}Dành {\k42}bao {\k63}nhiêu {\k42}nỗi {\k42}nhớ {\k42}dạt {\k42}dào {\k53}tình {\k42}trao
+Dialogue: 0,0:01:53.28,0:02:01.77,Default,,0,0,0,,{\k109}Dành {\k87}bao {\k131}nhiêu {\k65}để {\k87}khi {\k65}em {\k109}chết {\k131}không {\k65}đau
+Dialogue: 0,0:02:02.00,0:02:10.13,Default,,0,0,0,,{\k75}Ngày {\k90}tháng {\k45}đã {\k75}trôi {\k60}qua {\k90}nhưng {\k75}quên {\k60}anh {\k60}vẫn {\k60}chỉ {\k45}là {\k45}hư {\k30}vô
+Dialogue: 0,0:02:10.13,0:02:18.66,Default,,0,0,0,,{\k59}Tìm {\k74}kiếm {\k88}những {\k59}yêu {\k103}thương {\k88}nhưng {\k88}trong {\k44}em {\k59}vẫn {\k59}chỉ {\k44}là {\k44}cô {\k44}đơn
+Dialogue: 0,0:02:18.66,0:02:23.20,Default,,0,0,0,,{\k60}Nhìn {\k48}thu {\k60}sang {\k36}kí {\k36}ức {\k60}tràn {\k36}về {\k60}thật {\k60}nhiều
+Dialogue: 0,0:02:23.20,0:02:27.77,Default,,0,0,0,,{\k55}Nhìn {\k54}đông {\k54}sang {\k54}tiếc {\k54}nuối {\k54}cuộc {\k54}tình {\k44}khờ {\k33}dại
+Dialogue: 0,0:02:27.77,0:02:34.84,Default,,0,0,0,,{\k91}Tiếc {\k127}thương {\k73}cho {\k91}tình {\k54}ta {\k73}như {\k73}đoá {\k72}hoa {\k54}tàn
+Dialogue: 0,0:03:31.46,0:03:40.35,Default,,0,0,0,,{\k58}Tìm {\k44}về {\k58}đâu {\k58}khi {\k58}bao {\k44}cô {\k58}đơn {\k73}đọng {\k58}lại {\k73}giọt {\k73}nước {\k58}mắt {\k58}đầy {\k58}cay {\k58}đắng
+Dialogue: 0,0:03:40.35,0:03:48.53,Default,,0,0,0,,{\k60}Đành {\k36}về {\k48}đâu {\k48}khi {\k48}bao {\k48}yêu {\k84}thương {\k48}chỉ {\k48}còn {\k36}là {\k72}những {\k72}tiếng {\k60}khóc {\k72}trong {\k36}đêm
+Dialogue: 0,0:03:48.53,0:03:57.95,Default,,0,0,0,,{\k56}Giờ {\k84}người {\k42}xa {\k56}mãi {\k56}bao {\k70}mong {\k56}chờ {\k70}cũng {\k70}đành {\k56}hoà {\k56}tan {\k70}theo {\k84}sương {\k70}khói {\k42}bay
+Dialogue: 0,0:03:57.95,0:04:06.31,Default,,0,0,0,,{\k66}Gạt {\k82}nước {\k66}mắt {\k49}mà {\k82}tiếc {\k115}thương {\k66}cho {\k82}cuộc {\k82}tình {\k98}hoang {\k49}phí
+Dialogue: 0,0:04:06.31,0:04:14.66,Default,,0,0,0,,{\k84}Dành {\k67}tất {\k50}cả {\k100}thanh {\k84}xuân {\k67}chỉ {\k50}để {\k67}yêu {\k67}một {\k100}người {\k50}vô {\k50}tâm
+Dialogue: 0,0:04:14.66,0:04:23.46,Default,,0,0,0,,{\k79}Dành {\k63}hết {\k47}cả {\k63}yêu {\k110}thương {\k47}để {\k79}nhận {\k63}lấy {\k94}những {\k79}điều {\k63}đau {\k94}thương
+Dialogue: 0,0:04:23.46,0:04:27.64,Default,,0,0,0,,{\k54}Dành {\k43}bao {\k64}nhiêu {\k32}ấm {\k32}áp {\k54}ngọt {\k54}ngào {\k54}ngày {\k32}nào
+Dialogue: 0,0:04:27.64,0:04:32.04,Default,,0,0,0,,{\k55}Dành {\k44}bao {\k66}nhiêu {\k44}nỗi {\k44}nhớ {\k44}dạt {\k44}dào {\k55}tình {\k44}trao
+Dialogue: 0,0:04:32.04,0:04:40.31,Default,,0,0,0,,{\k106}Dành {\k85}bao {\k127}nhiêu {\k64}để {\k85}khi {\k64}em {\k106}chết {\k127}không {\k64}đau
+Dialogue: 0,0:04:40.31,0:04:48.80,Default,,0,0,0,,{\k79}Ngày {\k94}tháng {\k47}đã {\k79}trôi {\k63}qua {\k94}nhưng {\k79}quên {\k63}anh {\k63}vẫn {\k63}chỉ {\k47}là {\k47}hư {\k31}vô
+Dialogue: 0,0:04:49.06,0:04:57.46,Default,,0,0,0,,{\k58}Tìm {\k73}kiếm {\k87}những {\k58}yêu {\k101}thương {\k87}nhưng {\k87}trong {\k44}em {\k58}vẫn {\k58}chỉ {\k43}là {\k43}cô {\k43}đơn
+Dialogue: 0,0:04:57.46,0:05:02.08,Default,,0,0,0,,{\k61}Nhìn {\k49}thu {\k61}sang {\k37}kí {\k37}ức {\k61}tràn {\k37}về {\k61}thật {\k61}nhiều
+Dialogue: 0,0:05:02.08,0:05:06.44,Default,,0,0,0,,{\k52}Nhìn {\k52}đông {\k52}sang {\k52}tiếc {\k52}nuối {\k52}cuộc {\k52}tình {\k42}khờ {\k31}dại
+Dialogue: 0,0:05:06.44,0:05:13.20,Default,,0,0,0,,{\k87}Tiếc {\k121}thương {\k69}cho {\k87}tình {\k52}ta {\k69}như {\k69}đoá {\k69}hoa {\k52}tàn
+Dialogue: 0,0:05:13.91,0:05:27.91,Default,,0,0,0,,{\k180}Tiếc {\k251}thương {\k144}cho {\k180}tình {\k108}ta {\k144}như {\k144}đoá {\k144}hoa {\k108}tàn
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,

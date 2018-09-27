@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 11
+Active Line: 23
+Video Zoom Percent: 0.25
+Audio URI: New folder\dung la ca the gioi cua nhau.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:34.28,0:00:38.68,Default,,0,0,0,,Tối nay đông sang thật rồi
+Dialogue: 0,0:00:40.62,0:00:45.54,Default,,0,0,0,,Anh lại nhớ đến em thật nhiều
+Dialogue: 0,0:00:47.65,0:00:50.82,Default,,0,0,0,,Em giờ đang sống sao
+Dialogue: 0,0:00:51.00,0:00:58.57,Default,,0,0,0,,Có hạnh phúc hay nghĩ đến anh nhiều không?
+Dialogue: 0,0:01:00.91,0:01:04.91,Default,,0,0,0,,Nhớ xưa đôi ta có nhau
+Dialogue: 0,0:01:06.88,0:01:12.00,Default,,0,0,0,,Mùa đông chẳng thêm áo ấm khăn len
+Dialogue: 0,0:01:12.08,0:01:14.68,Default,,0,0,0,,Rồi anh chở em đi
+Dialogue: 0,0:01:14.68,0:01:19.20,Default,,0,0,0,,dạo quanh trên chiếc xe máy màu xanh
+Dialogue: 0,0:01:19.20,0:01:23.60,Default,,0,0,0,,Em ngồi sau ôm lấy lưng anh
+Dialogue: 0,0:01:25.11,0:01:33.31,Default,,0,0,0,,Việt Nam, xứ sở nhiệt đới, làm gì có tuyết rơi
+Dialogue: 0,0:01:33.42,0:01:38.11,Default,,0,0,0,,Vậy mà thành phố như mơ,
+Dialogue: 0,0:01:38.11,0:01:42.91,Default,,0,0,0,,Em chỉ cần yêu anh thôi
+Dialogue: 0,0:01:43.05,0:01:46.28,Default,,0,0,0,,Cả thế giới để anh lo
+Dialogue: 0,0:01:46.28,0:01:49.68,Default,,0,0,0,,Lạnh đường phố co ro
+Dialogue: 0,0:01:49.68,0:01:56.60,Default,,0,0,0,,Ngày xưa ta từng nói về một mai sau
+Dialogue: 0,0:01:56.60,0:02:02.48,Default,,0,0,0,,Vậy mà giờ đây mình đã chia tay rồi
+Dialogue: 0,0:02:04.22,0:02:09.68,Default,,0,0,0,,Để Giáng Sinh biết bao dòng người trên phố đông,
+Dialogue: 0,0:02:09.68,0:02:15.40,Default,,0,0,0,,Những đoạn đường dài lung linh nhiều màu sắc
+Dialogue: 0,0:02:16.48,0:02:24.54,Default,,0,0,0,,Cuộc đời dài rộng lắm, mình đâu thể chỉ có mỗi nhau
+Dialogue: 0,0:02:24.54,0:02:29.02,Default,,0,0,0,,Chúng ta hãy đừng bao giờ,
+Dialogue: 0,0:02:29.02,0:02:40.60,Default,,0,0,0,,Đừng bao giờ là cả thế giới của nhau
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\k500}
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,

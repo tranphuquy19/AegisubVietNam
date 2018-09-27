@@ -1,0 +1,94 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: New folder\don phuong nguoi tung thuong.avi
+Scroll Position: 60
+Active Line: 72
+Video Zoom Percent: 0.25
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:28.92,0:00:32.38,Default,,0,0,0,,Anh lang thang giữa phố đông người nụ cười rạng rỡ nở trên môi
+Dialogue: 0,0:00:32.38,0:00:35.84,Default,,0,0,0,,Anh cố tìm em lục từng kí ức lỡ có ai hỏi “Anh quên rồi! “
+Dialogue: 0,0:00:35.84,0:00:39.15,Default,,0,0,0,,Và đó là em... người từng thương từng vui từng buồn từng có nhau
+Dialogue: 0,0:00:39.15,0:00:42.94,Default,,0,0,0,,À vẫn mình anh viết lên nỗi lòng tự cười tự khóc “Không có đâu ! “
+Dialogue: 0,0:00:42.94,0:00:46.27,Default,,0,0,0,,Nếu như tình yêu làm ta mù quáng, nếu như đợi chờ được đánh đổi
+Dialogue: 0,0:00:46.27,0:00:49.68,Default,,0,0,0,,Nếu như niềm tin... em sẽ về tất cả niềm đau anh gánh nổi
+Dialogue: 0,0:00:49.68,0:00:52.92,Default,,0,0,0,,Nếu sau cơn mưa xuất hiện cầu vồng bảy màu vẹn nguyên hay biết mấy
+Dialogue: 0,0:00:52.92,0:00:56.35,Default,,0,0,0,,Nếu bàn tay em không nắm lấy họ chắc chắn anh không cần thiết thấy
+Dialogue: 0,0:00:56.35,0:00:59.52,Default,,0,0,0,,Anh có thể nghe em nói... em có thể tìm về anh
+Dialogue: 0,0:00:59.52,0:01:03.44,Default,,0,0,0,,Khi em cô đơn cảm thấy lạc lõng... đừng quên nhìn về anh
+Dialogue: 0,0:01:03.44,0:01:06.67,Default,,0,0,0,,Người âm thầm luôn dõi theo sau trên mọi nẻo đường em bước tới
+Dialogue: 0,0:01:06.67,0:01:10.24,Default,,0,0,0,,Nên hãy yên tâm đừng sợ vấp ngã dù anh vị khách chẳng được mời
+Dialogue: 0,0:01:10.24,0:01:13.42,Default,,0,0,0,,Anh đơn phương... người từng thương không lụy không vương anh dối đấy
+Dialogue: 0,0:01:13.42,0:01:16.91,Default,,0,0,0,,Nên khi em hỏi “Anh còn yêu không? “ bối rối ngập ngừng anh chối ngay
+Dialogue: 0,0:01:16.91,0:01:20.27,Default,,0,0,0,,Bảo bình là vậy đó em à.... che giấu cảm xúc tự ôm thôi
+Dialogue: 0,0:01:20.27,0:01:23.82,Default,,0,0,0,,Cũng giống thiên bình luôn vẽ nụ cười... còn nỗi lòng cứ gom vội
+Dialogue: 0,0:01:23.82,0:01:26.99,Default,,0,0,0,,Nếu như cảm xúc điều khiển lí trí anh tin một ngày sẽ quên em
+Dialogue: 0,0:01:26.99,0:01:30.65,Default,,0,0,0,,Và nếu niềm đau không được trọn vẹn thì “Đợi yêu thương” không nên xem
+Dialogue: 0,0:01:30.65,0:01:33.92,Default,,0,0,0,,Em có biết đâu sau những khoảnh khắc trò chuyện cùng nhau mỗi ngày
+Dialogue: 0,0:01:33.92,0:01:37.69,Default,,0,0,0,,Trái tim rộn ràng thổn thức... khi em dỗi anh nhận lỗi ngay
+Dialogue: 0,0:01:37.69,0:01:40.86,Default,,0,0,0,,Bồ công anh còn bay trong gió tỏa mùi hương nhẹ chiều hoàng hôn
+Dialogue: 0,0:01:40.86,0:01:44.32,Default,,0,0,0,,Anh ước được về lại khoảnh khắc ấy...cùng dạo phố em choàng ôm
+Dialogue: 0,0:01:44.32,0:01:47.77,Default,,0,0,0,,Lời thì thầm vang vọng bên tai “Ta hãy giữ mãi giây phút này “
+Dialogue: 0,0:01:47.77,0:01:51.34,Default,,0,0,0,,Đừng để vụt mất... lạc yêu thương kết quả thì sao ngay lúc này
+Dialogue: 0,0:01:51.34,0:01:54.59,Default,,0,0,0,,Hình bóng người từng trao say đắm anh ngắm nụ cười nắng ban mai
+Dialogue: 0,0:01:54.59,0:01:58.30,Default,,0,0,0,,Tận trong tiềm thức... cõi mơ hồ mà vì điều gì còn nán lại
+Dialogue: 0,0:01:58.30,0:02:01.68,Default,,0,0,0,,Anh từng nói anh sẽ quên em quên cả kí ức ta đã có
+Dialogue: 0,0:02:01.68,0:02:05.10,Default,,0,0,0,,Như định luật lạ thương yêu xa những thứ ta có giờ đã nhòa
+Dialogue: 0,0:02:05.10,0:02:08.28,Default,,0,0,0,,Họ đến cướp mất em khỏi vòng tay yêu thương ngày nào từng say đắm
+Dialogue: 0,0:02:08.28,0:02:11.60,Default,,0,0,0,,Em hết tất cả tháng ngày ấm êm anh tiếc tình hồng không ngay tầm
+Dialogue: 0,0:02:11.60,0:02:13.79,Default,,0,0,0,,Anh chợt tỉnh giấc sau cơn mộng mị...
+Dialogue: 0,0:02:13.79,0:02:15.00,Default,,0,0,0,,Để nỗi đau cứ thêm nặng
+Dialogue: 0,0:02:15.00,0:02:18.64,Default,,0,0,0,,Thôi đành chấp nhận lận đận tình duyên anh bước một mình cùng đêm lạnh
+Dialogue: 0,0:02:21.55,0:02:25.24,Default,,0,0,0,,“Đã có bao giờ...em nhớ về anh hay không ?”
+Dialogue: 0,0:02:25.34,0:02:28.99,Default,,0,0,0,,Em có điều gì thắc mắc, có cần chính anh trả lời ?
+Dialogue: 0,0:02:28.99,0:02:32.32,Default,,0,0,0,,Anh kém may mắn trong chuyện tình cảm vướng bận một người đến cả đời
+Dialogue: 0,0:02:32.32,0:02:35.85,Default,,0,0,0,,Là vì tình cảm anh dành cho em không thể đo đạc theo cách thường
+Dialogue: 0,0:02:35.85,0:02:39.23,Default,,0,0,0,,Có khi bên anh mà em mệt mỏi nếu anh biết được tự khắc nhường
+Dialogue: 0,0:02:39.23,0:02:42.65,Default,,0,0,0,,Vì em tựa thứ gì đó quý giá anh quá may mắn được cùng em
+Dialogue: 0,0:02:42.65,0:02:46.14,Default,,0,0,0,,Thân phận bé nhỏ nên đành cam chịu nỗi nhớ về em đêm từng đêm
+Dialogue: 0,0:02:46.14,0:02:48.04,Default,,0,0,0,,Em à anh không dám nói...
+Dialogue: 0,0:02:48.04,0:02:49.63,Default,,0,0,0,,Nắm chặt tay anh cùng vượt giông
+Dialogue: 0,0:02:49.63,0:02:52.92,Default,,0,0,0,,Nơi em ấp ủ quá nhiều hoài bão để anh thực hiện giúp được không ?
+Dialogue: 0,0:02:52.92,0:02:56.49,Default,,0,0,0,,Anh chỉ đơn phương chẳng dám thổ lộ vì ta đã từng rẽ khác lối
+Dialogue: 0,0:02:56.49,0:02:59.96,Default,,0,0,0,,Tầm thường như anh thì sao sánh nổi yêu em đành để người khác nối
+Dialogue: 0,0:02:59.96,0:03:01.64,Default,,0,0,0,,Lí do anh luôn ấp ủ...
+Dialogue: 0,0:03:01.64,0:03:03.26,Default,,0,0,0,,Bức tranh cũ rồi vẫn lười bôi
+Dialogue: 0,0:03:03.26,0:03:06.59,Default,,0,0,0,,Định lí về em như cả con đường nhìn em đối diện chỉ cười thôi
+Dialogue: 0,0:03:06.59,0:03:10.12,Default,,0,0,0,,Thử hỏi đã từng mất nhau trước đây bắt đầu thêm nữa sai lầm chắc
+Dialogue: 0,0:03:10.12,0:03:13.56,Default,,0,0,0,,Định luật đơn phương vẫn là ẩn số gạt bỏ nỗi buồn khỏi tầm mắt
+Dialogue: 0,0:03:13.56,0:03:16.99,Default,,0,0,0,,Nhiều khi anh sợ đơn phương lâu quá tương lai có được nến thắp đủ
+Dialogue: 0,0:03:16.99,0:03:20.36,Default,,0,0,0,,Chỉ mong thứ này sẽ đến tai em tất cả là điều anh ấp ủ
+Dialogue: 0,0:03:20.36,0:03:23.84,Default,,0,0,0,,Để có được em... anh đánh đổi bao nhiều buồn phiền gắn trên mi
+Dialogue: 0,0:03:23.84,0:03:27.18,Default,,0,0,0,,Hạnh phúc sau này hai ta xây đắp mọi người luôn miệng bảo quên đi
+Dialogue: 0,0:03:27.18,0:03:30.80,Default,,0,0,0,,Thừa biết khó khăn nhưng được mấy ai trọn vẹn tình đầu không trắc trở
+Dialogue: 0,0:03:30.80,0:03:34.12,Default,,0,0,0,,Chứng minh tình cảm để được em thấu là lúc tim em tự khắc mở
+Dialogue: 0,0:03:34.12,0:03:37.52,Default,,0,0,0,,Ao ước về em... người từng thương vương chút tình nồng còn sót lại
+Dialogue: 0,0:03:37.52,0:03:40.92,Default,,0,0,0,,Tương lai mai sau chắc sẽ lầm đường đời ai chẳng một lần trót dại
+Dialogue: 0,0:03:40.92,0:03:44.46,Default,,0,0,0,,Chỉ cần trên môi em là nụ cười anh cũng ráng chịu thứ đang có
+Dialogue: 0,0:03:44.46,0:03:47.84,Default,,0,0,0,,Ngần ngại anh sẽ bỏ qua một bên để tiếp tục nhận những gian khó
+Dialogue: 0,0:03:47.84,0:03:51.13,Default,,0,0,0,,Thương thầm chắc em chẳng biết... anh luôn theo từng lối em qua
+Dialogue: 0,0:03:51.13,0:03:54.60,Default,,0,0,0,,Những thứ anh viết đều là sự thật vẫn còn một người chẳng đem ra
+Dialogue: 0,0:03:54.60,0:03:58.04,Default,,0,0,0,,Gợi lại cho anh vòng tay hôm ấy tấm hình hai đứa phía khung tranh
+Dialogue: 0,0:03:58.04,0:04:01.40,Default,,0,0,0,,Thừa biết anh chỉ là một số lẻ bên em rất nhiều người xung quanh
+Dialogue: 0,0:04:01.40,0:04:05.02,Default,,0,0,0,,Phận anh cam chịu... gồng gánh thêm miễn trên môi em luôn mỉm cười
+Dialogue: 0,0:04:05.02,0:04:08.32,Default,,0,0,0,,Đúng là quá khứ không ai hoàn hảo đời đâu ai trọn con điểm mười
+Dialogue: 0,0:04:08.32,0:04:11.88,Default,,0,0,0,,Anh chọn tư tưởng sẽ dõi theo em dù anh biết thừa mình lầm đường
+Dialogue: 0,0:04:11.88,0:04:16.16,Default,,0,0,0,,Em à có phải như anh đã nghĩ Hoàng Tuân ngày xưa quá tầm thường
+Dialogue: 0,0:04:16.16,0:04:19.85,Default,,0,0,0,,Chuyện hai đứa mình dù là tia hi vọng nhỏ nhoi ...
+Dialogue: 0,0:04:19.85,0:04:23.26,Default,,0,0,0,,Anh vẫn sẽ ráng tiếp tục﻿
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,
