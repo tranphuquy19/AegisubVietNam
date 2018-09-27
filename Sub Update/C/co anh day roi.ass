@@ -1,0 +1,94 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Last Style Storage: Default
+Audio URI: Co Anh O Day Roi - R i c k ft Spy.mp3
+Video Zoom Percent: 0.5
+Scroll Position: 22
+Active Line: 33
+Video File: ?dummy:23.976000:40000:640:480:47:163:254:
+Video Aspect Ratio: 0
+Video Position: 3752
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.76,0:00:06.32,Default,,0,0,0,karaoke,{\k30}Người {\k19}thứ {\k43}hai {\k30}mang {\k24}hạnh {\k24}phúc {\k24}thay {\k20}người {\k21}thứ {\k37}nhất {\k33}mang {\k17}niềm {\k28}đau
+Dialogue: 0,0:00:06.32,0:00:09.88,Default,,0,0,0,karaoke,{\k16}Đừng {\k27}để {\k27}cuộc {\k12}tình {\k29}này {\k21}phải {\k23}kết {\k20}thúc {\k23}vì {\k28}ta {\k11}đã {\k21}rất {\k29}cố {\k21}gắng {\k20}tìm {\k22}nhau
+Dialogue: 0,0:00:09.88,0:00:13.60,Default,,0,0,0,karaoke,{\k22}Đôi {\k22}lúc {\k26}em {\k28}buồn {\k17}thì {\k28}người {\k13}cứ {\k29}nói {\k18}chứng {\k25}đừng {\k24}vun {\k18}đấp {\k28}bằng {\k17}sự {\k22}vô {\k28}tình
+Dialogue: 0,0:00:13.60,0:00:17.37,Default,,0,0,0,karaoke,{\k16}Vì {\k16}em {\k16}là {\k38}người {\k26}anh {\k21}yêu {\k20}duy {\k15}nhất {\k26}ngôi {\k21}nhà {\k26}hạnh {\k20}phúc {\k13}dành {\k24}riêng {\k29}cho {\k43}mình
+Dialogue: 0,0:00:17.37,0:00:20.82,Default,,0,0,0,karaoke,{\k24}Anh {\k27}xin {\k21}hứa {\k15}nếu {\k26}còn {\k18}bên {\k27}nhau {\k22}thì {\k22}anh {\k22}sẽ {\k25}yêu {\k12}đến {\k33}khi {\k22}ngừng {\k22}thở
+Dialogue: 0,0:00:20.82,0:00:24.45,Default,,0,0,0,karaoke,{\k22}Dắt {\k16}em {\k26}đi {\k19}hết {\k22}đoạn {\k30}đường {\k22}phía {\k20}trước {\k25}dẫu {\k23}có {\k20}chong {\k25}gai {\k20}hay {\k22}chắc {\k45}trở
+Dialogue: 0,0:00:24.45,0:00:28.02,Default,,0,0,0,karaoke,{\k22}Thì {\k21}mãnh {\k24}tim {\k14}này {\k29}sưởi  {\k22}ấm {\k22}cho {\k22}em {\k17}dù {\k22}mùa {\k28}đông {\k22}tới {\k19}không {\k21}thấy {\k43}lạnh
+Dialogue: 0,0:00:28.02,0:00:31.61,Default,,0,0,0,karaoke,{\k17}Anh {\k24}khẽ {\k13}ôm {\k34}chặt {\k24}lấy {\k25}em {\k17}vào {\k28}lòng {\k18}vì {\k26}người {\k25}yêu {\k20}em {\k16}chính {\k28}là {\k38}anh
+Dialogue: 0,0:00:31.61,0:00:35.14,Default,,0,0,0,karaoke,{\k26}Có {\k24}anh {\k23}ở {\k21}đây {\k18}em {\k22}đừng {\k22}lo {\k21}lắng {\k25}là {\k25}người {\k25}yêu {\k21}em {\k20}suốt {\k29}cuộc {\k23}đời
+Dialogue: 0,0:00:35.14,0:00:38.93,Default,,0,0,0,karaoke,{\k44}Có {\k26}anh {\k18}ở {\k19}đây {\k21}lời {\k21}nói {\k25}chắc {\k22}chắn {\k21}sẽ {\k25}không {\k21}để {\k20}mình {\k22}em {\k26}lại {\k21}chơi {\k18}vơi
+Dialogue: 0,0:00:38.93,0:00:42.67,Default,,0,0,0,karaoke,{\k26}Có {\k26}anh {\k19}ở {\k26}đây {\k15}người {\k22}mang {\k20}hạnh {\k27}phúc {\k16}tràn {\k29}ngập {\k24}nơi {\k22}em {\k27}những {\k21}tiếng {\k47}cười
+Dialogue: 0,0:00:42.67,0:00:46.22,Default,,0,0,0,karaoke,{\k22}Có {\k17}anh {\k25}ở {\k18}đây {\k23}lấp {\k23}đầy {\k27}khoảng {\k17}trống {\k25}sẽ {\k24}không {\k19}để {\k21}người {\k23}rời {\k25}xa {\k41}tui
+Dialogue: 0,0:00:46.22,0:00:49.87,Default,,0,0,0,karaoke,{\k24}Dù {\k21}cho {\k22}ngày {\k28}mai {\k17}có {\k28}nhiều {\k23}chướng {\k26}ngại {\k18}cứ {\k26}nắm {\k18}tay {\k20}anh {\k21}mà {\k28}vượt {\k38}qua
+Dialogue: 0,0:00:49.87,0:00:53.55,Default,,0,0,0,karaoke,{\k24}Dù {\k21}cho {\k21}ngày {\k26}mai {\k22}em {\k18}có {\k24}vấp {\k24}ngã {\k18}ta {\k27}cũng {\k22}chẳng {\k25}bao {\k21}giờ {\k21}rời {\k47}xa
+Dialogue: 0,0:00:53.55,0:00:56.98,Default,,0,0,0,karaoke,{\k21}Là {\k24}lời {\k20}thật {\k46}lòng {\k62}đó {\k17}em {\k22}đừng {\k27}suy {\k28}nghĩ {\k23}hãy {\k24}tin {\k25}anh
+Dialogue: 0,0:00:56.98,0:01:00.83,Default,,0,0,0,karaoke,{\k42}Cùng {\k22}nắm {\k20}tay {\k23}nhau {\k20}đi {\k22}hết {\k24}con {\k23}đường {\k25}sưởi {\k24}ấm {\k23}con {\k24}tim {\k16}này {\k21}giá {\k50}lạnh
+Dialogue: 0,0:01:00.83,0:01:04.40,Default,,0,0,0,karaoke,{\k25}Tuy {\k20}anh {\k22}không {\k24}biết {\k13}anh {\k8}là {\k21}người {\k19}thứ {\k29}mấy {\k18}nhưng {\k22}sẽ {\k20}là {\k34}người {\k19}thứ {\k24}nhất {\k19}yêu {\k14}em
+Dialogue: 0,0:01:04.40,0:01:08.14,Default,,0,0,0,karaoke,{\k28}Luôn {\k27}mang {\k21}cho {\k28}em {\k35}nhiều {\k25}hạnh {\k23}phúc {\k17}và {\k27}những {\k24}tháng {\k19}ngày {\k23}đầy {\k28}ấm {\k43}êm
+Dialogue: 0,0:01:08.14,0:01:11.71,Default,,0,0,0,karaoke,{\k23}Có {\k14}anh {\k27}ở {\k35}đây {\k69}rồi {\k18}đừng {\k25}dừng {\k26}khi {\k23}em {\k23}thấy {\k21}mệt {\k48}mỏi
+Dialogue: 0,0:01:11.71,0:01:15.40,Default,,0,0,0,karaoke,{\k20}Tựa {\k24}vào {\k22}vai {\k22}anh {\k22}em {\k19}đừng {\k21}lo {\k31}lắng {\k22}rồi {\k22}mọi {\k18}chuyện {\k28}sẽ {\k26}qua {\k23}nhanh {\k43}thôi
+Dialogue: 0,0:01:15.40,0:01:18.96,Default,,0,0,0,karaoke,{\k22}Quá {\k22}khứ {\k21}không {\k28}đẹp {\k10}dẹp {\k29}sang {\k21}một {\k24}bên {\k14}đừng {\k29}để {\k24}nó {\k22}làm {\k20}ta {\k24}vướng {\k39}bận
+Dialogue: 0,0:01:18.96,0:01:22.44,Default,,0,0,0,karaoke,{\k25}Đôi {\k21}lúc {\k24}cãi {\k22}nhau {\k16}anh {\k21}đã {\k27}vô {\k16}tình {\k22}nhiều {\k22}lần {\k30}làm {\k18}em {\k27}phải {\k22}tức {\k27}giận
+Dialogue: 0,0:01:22.44,0:01:26.04,Default,,0,0,0,karaoke,{\k38}Nếu {\k24}lỡ {\k16}một {\k27}mai {\k21}cảm {\k28}thấy {\k22}chán {\k22}nãn {\k18}vì {\k24}lỗi {\k24}nơi {\k24}anh {\k24}làm {\k18}em {\k24}buồn
+Dialogue: 0,0:01:26.04,0:01:29.95,Default,,0,0,0,karaoke,{\k36}Thì {\k26}người {\k29}cứ {\k26}nhắm {\k32}đôi {\k25}mắt {\k25}lại {\k21}bỏ {\k22}qua {\k25}mọi {\k23}chuyện {\k29}xin {\k21}đừng {\k46}buông
+Dialogue: 0,0:01:29.95,0:01:33.56,Default,,0,0,0,karaoke,{\k34}Người {\k23}thứ {\k32}hai {\k29}mang {\k27}hạnh {\k27}phúc {\k28}thay {\k22}người {\k21}thứ {\k28}nhất {\k31}mang {\k19}niềm {\k34}đau
+Dialogue: 0,0:01:33.56,0:01:37.32,Default,,0,0,0,karaoke,{\k22}Đừng {\k23}đễ {\k24}cuộc {\k16}tình {\k28}này {\k21}phải {\k18}kết {\k23}thúc {\k19}vì {\k29}ta {\k16}đã {\k28}rất {\k21}cố {\k27}rắng {\k13}tìm {\k41}nhau
+Dialogue: 0,0:01:37.13,0:01:40.77,Default,,0,0,0,karaoke,{\k22}Đôi {\k22}lúc {\k26}em {\k28}buồn {\k17}thì {\k28}người {\k13}cứ {\k29}nói {\k18}chứ {\k25}đừng {\k24}vun {\k18}đấp {\k28}bằng {\k17}sự {\k22}vô {\k28}tình......
+Dialogue: 0,0:01:40.77,0:01:44.65,Default,,0,0,0,karaoke,{\k16}Vì {\k30}em {\k19}là {\k29}người {\k16}anh {\k21}yêu {\k20}duy {\k15}nhất {\k26}ngôi {\k21}nhà {\k26}hạnh {\k20}phúc {\k13}dành {\k24}riêng {\k29}cho {\k61}mình
+Dialogue: 0,0:01:44.65,0:01:48.10,Default,,0,0,0,karaoke,{\k24}Anh {\k27}xin {\k21}hứa {\k15}nếu {\k26}còn {\k18}bên {\k27}nhau {\k22}thì {\k22}anh {\k22}sẽ {\k25}yêu {\k12}đến {\k33}khi {\k22}ngừng {\k22}thở
+Dialogue: 0,0:01:48.10,0:01:51.77,Default,,0,0,0,karaoke,{\k22}Dắt {\k16}em {\k26}đi {\k19}hết {\k22}đoạn {\k30}đường {\k22}phía {\k20}trước {\k25}dẫu {\k23}có {\k20}chong {\k25}gai {\k20}hay {\k22}chắc {\k45}trở
+Dialogue: 0,0:01:51.77,0:01:55.17,Default,,0,0,0,karaoke,{\k22}Thì {\k21}mảnh {\k24}tim {\k14}này {\k29}sưỡi {\k22}ấm {\k22}cho {\k22}em {\k17}dù {\k22}mùa {\k28}đông {\k22}tới {\k19}không {\k21}thấy {\k43}lạnh
+Dialogue: 0,0:01:55.17,0:01:58.94,Default,,0,0,0,karaoke,{\k17}Anh {\k24}khẽ {\k13}ôm {\k34}chặt{\k24} lấy {\k25}em {\k17}vào {\k28}lòng {\k18}vì {\k26}người {\k25}yêu {\k20}em {\k16}chính {\k28}là {\k38}anh
+Dialogue: 0,0:01:58.94,0:02:00.94,Default,,0,0,0,,{\k26}Có {\k24}anh {\k23}ở {\k45}đây {\k82}rồi
+Dialogue: 0,0:02:06.39,0:02:07.92,Default,,0,0,0,,{\k26}Có {\k24}anh {\k23}ở {\k45}đây {\k82}rồi
+Dialogue: 0,0:02:07.94,0:02:09.92,Default,,0,0,0,,{\k29}Hãy {\k36}quên {\k29}quá {\k29}khứ {\k22}em {\k36}từng {\k14}có
+Dialogue: 0,0:02:28.12,0:02:31.73,Default,,0,0,0,karaoke,{\k19}Tình {\k20}cờ {\k25}quen {\k24}biết {\k22}tình {\k20}cờ {\k22}yêu {\k24}em {\k22}tình {\k21}cờ {\k18}biết {\k25}mong {\k21}và {\k25}biết {\k47}nhớ
+Dialogue: 0,0:02:31.73,0:02:35.37,Default,,0,0,0,karaoke,{\k24}Tình {\k23}cờ {\k23}anh {\k23}biết {\k18}quan {\k18}tâm {\k21}ai {\k24}đó {\k28}tình {\k20}cờ {\k25}biết {\k22}ghen {\k21}và {\k22}biết {\k45}chờ
+Dialogue: 0,0:02:35.37,0:02:39.01,Default,,0,0,0,karaoke,{\k17}Chỉ {\k26}là {\k26}tình {\k23}cờ {\k19}nhưng {\k16}anh {\k24}không {\k25}thể {\k18}từ {\k26}bỏ {\k25}một {\k20}phút {\k26}nào {\k21}yêu {\k44}em
+Dialogue: 0,0:02:39.01,0:02:42.66,Default,,0,0,0,karaoke,{\k20}Nắm {\k23}chặt {\k24}đôi {\k19}tay {\k22}ngay {\k24}khi {\k22}có {\k21}thể {\k12}dù {\k36}sự {\k20}quan {\k22}tâm {\k19}còn {\k26}yếu {\k47}kém
+Dialogue: 0,0:02:42.66,0:02:46.30,Default,,0,0,0,karaoke,{\k15}Thật {\k31}sự {\k21}anh {\k25}khờ {\k16}lắm {\k23}phải {\k22}không {\k18}em {\k22}đâu {\k26}như {\k20}những {\k26}gì {\k23}em {\k19}từng {\k50}nghĩ
+Dialogue: 0,0:02:46.30,0:02:49.91,Default,,0,0,0,karaoke,{\k17}Bề {\k28}ngoài {\k23}cứng {\k19}cáp {\k26}nhưng {\k18}vẫn {\k23}biết {\k20}đau {\k19}khi {\k22}nghe {\k21}em {\k27}nói {\k21}anh {\k27}đừng {\k43}đi
+Dialogue: 0,0:02:49.91,0:02:53.56,Default,,0,0,0,karaoke,{\k23}Những {\k19}lần {\k19}hờn {\k23}ghen {\k23}ừ {\k20}anh {\k24}yếu {\k16}đúi {\k25}anh {\k21}biết {\k13}em {\k38}đau {\k21}nhìu {\k29}hơn {\k44}thế
+Dialogue: 0,0:02:53.56,0:02:57.18,Default,,0,0,0,karaoke,{\k25}Rồi {\k18}câu {\k27}chia {\k22}tay {\k22}vội {\k19}buông {\k24}em {\k17}khóc {\k17}trách {\k25}móc {\k30}bản {\k21}thân {\k23}quên {\k21}câu {\k47}thề
+Dialogue: 0,0:02:57.18,0:03:00.86,Default,,0,0,0,karaoke,{\k23}Nhiều {\k22}lần {\k23}anh {\k24}giả {\k25}vờ {\k21}quên {\k18}lời {\k25}hứa {\k16}rồi {\k28}người {\k22}cũng {\k22}thế {\k23}mà {\k19}cho {\k50}qua
+Dialogue: 0,0:03:00.86,0:03:04.44,Default,,0,0,0,karaoke,{\k16}Lần {\k21}một {\k19}lần {\k28}hai {\k16}lần {\k26}ba {\k22}cũng {\k22}vậy {\k25}nên {\k19}chuyện {\k26}xa {\k24}nhau {\k24}là {\k21}quá {\k44}khó
+Dialogue: 0,0:03:04.44,0:03:07.89,Default,,0,0,0,karaoke,{\k20}Anh {\k25}biết {\k25}nhoe62u {\k20}lúc {\k21}em {\k20}rơi {\k25}nước {\k21}mắt {\k25}là {\k21}do {\k26}bản {\k21}thân {\k19}anh {\k25}vô {\k25}tình
+Dialogue: 0,0:03:07.89,0:03:11.69,Default,,0,0,0,karaoke,{\k35}Chẳng {\k28}hiểu {\k24}được {\k18}em {\k22}nên {\k14}anh {\k35}sẻ {\k17}cố {\k23}giữ {\k24}chặt {\k22}là {\k22}cách {\k20}anh {\k27}chứng {\k41}minh
+Dialogue: 0,0:03:11.69,0:03:15.36,Default,,0,0,0,karaoke,{\k31}Người {\k20}đời {\k21}bảo {\k17}anh {\k26}là {\k29}thằng {\k40}đểu {\k22}em {\k16}thật {\k32}ngu {\k16}ngóc {\k23}khi {\k25}đả {\k45}yêu
+Dialogue: 0,0:03:15.36,0:03:18.81,Default,,0,0,0,karaoke,{\k24}Nay {\k21}quen {\k23}người {\k24}này {\k19}rồi {\k19}bên {\k27}người {\k20}kia {\k25}sự {\k25}thật {\k20}chỉ {\k21}riêng {\k22}mình {\k25}em {\k22}hiểu
+Dialogue: 0,0:03:18.81,0:03:22.45,Default,,0,0,0,karaoke,{\k43}Ừ {\k20}thì {\k24}bản {\k19}thân {\k25}anh {\k14}chưa {\k28}hề {\k22}tốt {\k21}với {\k24}bất {\k28}cứ {\k19}ai {\k23}ngoài {\k17}em {\k30}đó
+Dialogue: 0,0:03:22.45,0:03:26.31,Default,,0,0,0,karaoke,{\k40}Chỉ {\k25}mong {\k13}em {\k24}sẻ {\k22}biết {\k24}trân {\k28}trọng {\k25}nó {\k21}đừng {\k19}để {\k19}thằng {\k21}ngóc {\k22}này {\k22}thêm {\k52}lo
+Dialogue: 0,0:03:26.31,0:03:29.92,Default,,0,0,0,karaoke,{\k34}Người {\k23}thứ {\k32}hai {\k29}mang {\k27}hạnh {\k27}phúc {\k28}thay {\k22}người {\k21}thứ {\k28}nhất {\k31}mang {\k19}niềm {\k34}đau
+Dialogue: 0,0:03:29.92,0:03:33.71,Default,,0,0,0,karaoke,{\k22}Đừng {\k23}đễ {\k24}cuộc {\k16}tình {\k28}này {\k21}phải {\k18}kết {\k23}thúc {\k19}vì {\k29}ta {\k16}đã {\k28}rất {\k21}cố {\k27}rắng {\k13}tìm {\k41}nhau
+Dialogue: 0,0:03:33.53,0:03:37.21,Default,,0,0,0,karaoke,{\k22}Đôi {\k22}lúc {\k26}em {\k28}buồn {\k17}thì {\k28}người {\k13}cứ {\k29}nói {\k18}chứng {\k25}đừng {\k24}vun {\k18}đấp {\k28}bằng {\k17}sự {\k22}vô {\k28}tình..............
+Dialogue: 0,0:03:37.22,0:03:41.06,Default,,0,0,0,karaoke,{\k16}Vì {\k30}em {\k19}là {\k29}người {\k16}anh {\k21}yêu {\k20}duy {\k15}nhất {\k26}ngôi {\k21}nhà {\k26}hạnh {\k20}phúc {\k13}dành {\k24}riêng {\k29}cho {\k61}mình
+Dialogue: 0,0:03:41.07,0:03:44.45,Default,,0,0,0,karaoke,{\k24}Anh {\k27}xin {\k21}hứa {\k15}nếu {\k26}còn {\k18}bên {\k27}nhau {\k22}thì {\k22}anh {\k22}sẽ {\k25}yêu {\k12}đến {\k33}khi {\k22}ngừng {\k22}thở
+Dialogue: 0,0:03:44.46,0:03:48.17,Default,,0,0,0,karaoke,{\k22}Dắt {\k16}em {\k26}đi {\k19}hết {\k22}đoạn {\k30}đường {\k22}phía {\k20}trước {\k25}dẫu {\k23}có {\k20}chong {\k25}gai {\k20}hay {\k22}chắc {\k45}trở
+Dialogue: 0,0:03:48.17,0:03:51.71,Default,,0,0,0,karaoke,{\k22}Thì {\k21}mãnh {\k24}tim {\k14}này {\k29}sưỡi {\k22}ấm {\k22}cho {\k22}em {\k17}dù {\k22}mùa {\k28}đông {\k22}tới {\k19}không {\k21}thấy {\k43}lạnh
+Dialogue: 0,0:03:51.72,0:03:55.34,Default,,0,0,0,karaoke,{\k17}Anh {\k24}khẽ {\k13}ôm {\k34}chặc {\k24}lấy {\k25}em {\k17}vào {\k28}lòng {\k18}vì {\k26}người {\k25}yêu {\k20}em {\k16}chính {\k28}là {\k38}anh
+Dialogue: 0,0:03:55.39,0:03:56.99,Default,,0,0,0,,{\k20}Có {\k19}anh {\k18}ở {\k45}đây {\k58}rồi
+Dialogue: 0,0:03:56.99,0:03:58.99,Default,,0,0,0,,{\k42}Em {\k26}sẽ {\k22}chẳng {\k20}phải {\k26}khóc {\k24}nữa {\k40}đâu
+Dialogue: 0,0:03:58.99,0:04:00.99,Default,,0,0,0,,{\k20}Có {\k27}anh {\k13}ở {\k27}đây {\k20}sẽ {\k20}là {\k37}hạnh {\k31}phúc {\k0}
+Dialogue: 0,0:04:06.51,0:04:08.67,Default,,0,0,0,,Anh sẽ giử mãi em nơi đó trong lòng
+Dialogue: 0,0:04:08.68,0:04:09.91,Default,,0,0,0,,Trái em đừng lo 
+Dialogue: 0,0:04:09.91,0:04:11.01,Default,,0,0,0,,Em cứ yên tâm
+Dialogue: 0,0:04:11.01,0:04:13.51,Default,,0,0,0,,Vì nơi đầy là đồng cổ mang nhiều hạt giấy
+Dialogue: 0,0:04:13.51,0:04:14.34,Default,,0,0,0,,Là nơi vun đắp
+Dialogue: 0,0:04:14.34,0:04:15.31,Default,,0,0,0,,Cả một tình yêu
+Dialogue: 0,0:04:15.31,0:04:16.90,Default,,0,0,0,,Giữ chặt em khoảng trống
+Dialogue: 0,0:04:16.90,0:04:18.90,Default,,0,0,0,,
